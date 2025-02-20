@@ -1,0 +1,13 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore .env file containing sensitive data (API keys, etc.)
+.env
+
+# Ignore any other unwanted files
+*.log
+*.db
