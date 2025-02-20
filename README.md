@@ -1,2 +1,5 @@
 # PHASES NLP
 Natural language processing methods used for the PHASES project.
+
+## Motivation
+PHASES project aims at bridging the gap between Solitude and Gerotranscendence literatures to promote novel research into healthy aging. The aim is to develop Solitude Ontology and Gerotranscendence Ontology each extending from the upper-level Behavior Change Intervention Ontology. Ontologies provide explicit representation of any domain transforming information to knowledge and the Ontology development process requires a great deal of time and resources. Modeling Solitude and Gerotranscendence Ontologies require information to be acquired from available scientific resources and it necessitates domain experts to devote substantial time and effort to find the information. The aim of PHASES-NLP is to apply natural language analysis and machine learning techniques is to reduce the effort in the information acquisition process. Subsequently we aim at streamlining the process of knowledge acquisition.
