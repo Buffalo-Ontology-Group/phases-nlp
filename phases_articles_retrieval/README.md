@@ -64,10 +64,10 @@ Once the installation is complete, you can use the project by following the inst
 To track changes made to this project, it is best maintained by following these steps:
 
 1. Submit an issue detailing the problem.
-2. Create a branch to address this issue that uses the same number as the issue tracker. For example, if the issue is #50 in the issue tracker, name the branch issue-50. This allows other developers to easily know which branch needs to be checked out to contribute.
+2. Create a branch to address this issue that uses the same number as the issue tracker. For example, if the issue is `#50` in the issue tracker, name the branch `issue-50`. This allows other developers to easily know which branch needs to be checked out to contribute.
 3. Create a pull request that fixes the issue. If possible, create a draft (or WIP) branch early in the process.
 4. Merge pull request once all the necessary changes have been made. If needed, tag other developers to review the pull request.
-5. Delete the issue branch (e.g., branch issue-50).
+5. Delete the issue branch (e.g., branch `issue-50`).
 
 
 
