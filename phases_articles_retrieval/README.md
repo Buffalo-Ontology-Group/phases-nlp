@@ -1,11 +1,11 @@
 # Phases Articles Retrieval
 
-This project is a Python application that retrieves articles related to specific topics, downloads their PDFs, and saves them to a local directory. The topics are "gerotranscendence" and "solitude".
+This project is a Python application that retrieves articles related to specific topics,"gerotranscendence" and "solitude", downloads their PDFs, and saves them to a local directory. 
 
 ## Features
 
 - Retrieves articles from PubMed.
-    - The number of articles retrieved for each topic can be customized by adjusting the 'max_results' parameter. It can be modified to retrieve a higher or lower number of articles based on the need.
+    - The number of articles retrieved for each topic can be customized by adjusting the 'max_results' parameter. It can be modified to retrieve a higher or lower number of articles.
 - Searches for available PDF links (via PubMed Central, Google, and Google Scholar).
 - Downloads and saves PDFs to a user-defined directory.
 
@@ -44,9 +44,13 @@ Before running the application, ensure that the following dependencies are insta
 
 ## Usage
 
-Once the installation is complete, you can use the project by following the instructions in this README file. Below are the steps you can follow to run the application:
+Once the installation is complete, the project can be used by following the instructions. Below are the steps to run the application:
 
-1. **Run the application**:
+1. Set up your `.env` file:
+
+    Create a `.env` file in the root of the project directory and add the environment variables for the directory path for saving abstracts.
+
+2. **Run the application**:
 
     After installing the dependencies, you can run the script by executing the following command:
 
@@ -54,11 +58,10 @@ Once the installation is complete, you can use the project by following the inst
     python main.py
     ```
 
-2. **Configuration**:
+3. **Configuration**:
 
-    Make sure to adjust any configuration settings such as the `max_results` parameter and the directory where PDFs will be saved.
-
-
+    Adjust the `max_results` parameter to customize the number rof articles retrieved.
+   
 ## Contributing
 
 To track changes made to this project, it is best maintained by following these steps:
