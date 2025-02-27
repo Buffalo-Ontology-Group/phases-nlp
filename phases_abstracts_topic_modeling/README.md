@@ -13,7 +13,7 @@ This project is a Python application that performs topic modeling on abstracts o
     
 ## Installation
 
-To get started with the **Topic Modeling on abstracts of research related to PHASES project** project, follow these steps:
+To get started with the **Topic Modeling on abstracts of research articles related to PHASES project**, follow these steps:
 
 1. Clone the repository:
 
