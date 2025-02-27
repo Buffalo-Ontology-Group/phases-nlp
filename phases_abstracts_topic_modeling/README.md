@@ -1,6 +1,6 @@
 # Topic Modeling on abstracts of research related to the PHASES project
 
-This project is a Python application that performs topic modeling on abstracts of research articles related to specific topics, "gerotranscendence", "solitude" and "healthy aging" retrieves their abstracts and titles from PubMed, and saves them to a local directory. 
+This project is a Python application that performs topic modeling on abstracts of research articles related to specific topics, "gerotranscendence", "solitude" and "healthy aging". 
 
 ## Features
 
