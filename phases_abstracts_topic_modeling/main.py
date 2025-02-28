@@ -32,7 +32,7 @@ def fetch_pubmed_abstracts(keywords, folder):
         if pmids:
             print(f"Found {len(pmids)} articles for keyword '{keyword.strip()}'. Retrieving abstracts and titles...")
             for pubmed_id in pmids:
-                title, abstract = retrieve_abstract_and_title(pubmed_id, folder_path)
+                title, abstract, authors, source = retrieve_abstract_and_title(pubmed_id, folder_path)
                 if title and abstract:
                     topic_texts.append(abstract)  # Collect abstracts for topic modeling
                     titles.append(title)
