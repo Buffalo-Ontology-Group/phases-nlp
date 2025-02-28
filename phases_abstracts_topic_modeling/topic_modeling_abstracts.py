@@ -25,7 +25,7 @@ def search_pubmed(keyword):
     params = {
         'db': 'pubmed',
         'term': keyword,  # The search term 
-        'retmax': 20,  # number of results 
+        'retmax': 10,  # number of results 
         'retmode': 'xml',
         'api_key': API_KEY  # Use the API key for requests
     }
@@ -69,6 +69,8 @@ def retrieve_abstract_and_title(pubmed_id, folder_path, retries=5, backoff=60):
                 # Find the abstract and title in the XML response
                 abstract = root.find(".//AbstractText")
                 title = root.find(".//ArticleTitle")
+                authors = root.findall(".//Author")
+                source = root.find(".//Source")
 
                 # Safe check for None before using `strip()` on title and abstract
                 if abstract is not None:
@@ -81,18 +83,47 @@ def retrieve_abstract_and_title(pubmed_id, folder_path, retries=5, backoff=60):
                     clean_title = clean_title.replace('/', '_').replace('\\', '_').replace(':', '_')
                 else:
                     clean_title = "No title available"
+                
+                # Extract authors
+                author_list = []
+                for author in authors:
+                    last_name = author.find("LastName")
+                    fore_name = author.find("ForeName")
+                    if last_name is not None and fore_name is not None:
+                        author_name = f"{fore_name.text} {last_name.text}"
+                    elif last_name is not None:
+                        author_name = last_name.text
+                    elif fore_name is not None:
+                        author_name = fore_name.text
+                    else:
+                        author_name = "Unknown Author"
+                    author_list.append(author_name)
+
+                # Join authors with commas
+                authors_text = ', '.join(author_list) if author_list else "No authors available"
+
+                # Extract the source (journal name)
+                if source is not None:
+                    source_text = source.text.strip() if source.text else "No source available"
+                else:
+                    source_text = "No source available"
 
                 # Combine PubMed ID and title to create the file name
                 file_name = f"{pubmed_id}_{clean_title[:50]}.txt"  # Truncate title to avoid overly long names
                 file_path = os.path.join(folder_path, file_name)
                 
-                # Save the abstract in the file
+                # Save the title and abstract in the file
                 with open(file_path, 'w') as file:
-                    file.write(abstract_text)  # Save abstract text in the file
-                print(f"Saved abstract and title for PMID {pubmed_id}")
+                    file.write(f"Title: {clean_title}\n\n")  # Add the title at the top
+                    file.write(f"Authors: {authors_text}\n\n")  # Add authors below the title
+                    file.write(f"Source: {source_text}\n\n")  # Add source (journal) below authors
+                    file.write(abstract_text)  # Save abstract text below the title
+                
+                print(f"Saved abstract, title, authors, and source for PMID {pubmed_id}")
 
-                return clean_title, abstract_text  # Return title and abstract for topic modeling
+                return clean_title, abstract_text, authors_text, source_text  # Return title, abstract, authors, and source for further processing
             except Exception as e:
+                
                 print(f"Error parsing response for PMID {pubmed_id}: {e}")
                 return None, None
         elif response.status_code == 429:
