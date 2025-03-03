@@ -24,7 +24,7 @@ To get started with the **phases-nlp**, follow these steps:
 
 1. Clone the repository:
 
-    `git clone https://github.com/YOUR_USERNAME/phases-nlp.git` ~/myfolder/phases-nlp
+    `git clone https://github.com/YOUR_USERNAME/phases-nlp.git ~/myfolder/phases-nlp`
 
 2. Navigate into the repository folders:
 
