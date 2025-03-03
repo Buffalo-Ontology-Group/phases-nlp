@@ -24,11 +24,11 @@ To get started with the **phases-nlp**, follow these steps:
 
 1. Clone the repository:
 
-    `git clone https://github.com/YOUR_USERNAME/phases-nlp.git`
+    `git clone https://github.com/YOUR_USERNAME/phases-nlp.git` ~/myfolder/phases-nlp
 
 2. Navigate into the repository folders:
 
-    `cd phases-nlp`
+    `cd ~/myfolder/phases-nlp`
 
 3. Install the required dependencies:
 
