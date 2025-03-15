@@ -2,7 +2,9 @@ import click
 from articles_retrieval import retrieve_and_download_articles, process_articles, keywords_gerotranscendence, keywords_solitude, gerotranscendence_dir, solitude_dir
 
 @click.command()
-@click.option('--max-results', default=10, help='Maximum number of results to retrieve')
+@click.option('--max_results', prompt='Number of articles to be retrieved', type=int,
+              help='Number of articles to be retrieved')
+
 def retrieve_articles(max_results):
     """Retrieve and download articles based on keywords."""
     click.echo("Retrieving articles...")
