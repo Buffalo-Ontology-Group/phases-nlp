@@ -86,7 +86,7 @@ def download_pdf(pdf_url, article_id, title, topic_dir, failed_downloads):
         return None
 
 # Function to fetch article IDs from PubMed
-def retrieve_and_download_articles(query, max_results=10):
+def retrieve_and_download_articles(query, max_results):
     """Fetch articles from PubMed based on the query."""
     try:
         print(f"Retrieving articles for query: {query}...")

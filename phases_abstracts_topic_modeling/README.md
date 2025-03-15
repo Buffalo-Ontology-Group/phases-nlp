@@ -1,6 +1,6 @@
 # Topic Modeling on abstracts of research related to the PHASES project
 
-This project is a Python application that searches for scientific articles related to specific topics such as gerotranscendence and solitude, retrieve their abstracts and titles, and performs topic modeling using Latent Dirichlet Allocation (LDA). 
+This project is a Python application that searches for scientific articles related to specific topics such as gerotranscendence, solitude and healthy aging, retrieve their abstracts and titles, and performs topic modeling using Latent Dirichlet Allocation (LDA). 
 
 ## Features
 
