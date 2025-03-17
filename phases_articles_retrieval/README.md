@@ -11,10 +11,7 @@ This project is a Python application that retrieves articles related to specific
 
 ## Configuration
 
-The number of articles retrieved for each keyword can be adjusted by modifying the script. Currently, it retrieves a fixed number of articles, but this can be customized by adjusting the `max_results` parameter to customize the number of articles retrieved.
-   
-
-
+The number of articles to be downloaded for each keyword is prompted at the command line. When running the script, the user will be asked to enter the desired number of articles which can be customized interactively.
 
 
 
