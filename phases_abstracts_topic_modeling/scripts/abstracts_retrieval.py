@@ -20,8 +20,7 @@ API_KEY = os.getenv("PUBMED_API_KEY")  # API key is to be stored in the .env fil
 def search_pubmed(keyword):
     params = {
         'db': 'pubmed',
-        'term': keyword,  # The search term 
-        'retmax': 5,  # number of results 
+        'term': keyword,  # The search term  
         'retmode': 'xml',
         'api_key': API_KEY  # Use the API key for requests
     }
