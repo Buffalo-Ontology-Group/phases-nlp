@@ -1,54 +1,32 @@
 Topic 1:
-0.019*"experiences" + 0.013*"life" + 0.013*"research" + 0.013*"theory" + 0.013*"features"
+0.001*"abstract" + 0.001*"gerotranscendence" + 0.001*"life" + 0.001*"aging" + 0.001*"older"
 ==================================================
 Topic 2:
-0.020*"health" + 0.020*"loneliness" + 0.011*"associated" + 0.011*"multiple" + 0.011*"physical"
+0.015*"study" + 0.014*"abstract" + 0.014*"life" + 0.014*"gerotranscendence" + 0.012*"aging"
 ==================================================
 Topic 3:
-0.026*"gerotranscendence" + 0.018*"studies" + 0.014*"group" + 0.014*"health" + 0.014*"therapy"
+0.001*"gerotranscendence" + 0.001*"study" + 0.001*"life" + 0.001*"aging" + 0.001*"abstract"
 ==================================================
 Topic 4:
-0.020*"priests" + 0.017*"gerotranscendence" + 0.017*"satisfaction" + 0.017*"study" + 0.017*"pupils"
+0.001*"gerotranscendence" + 0.001*"life" + 0.001*"abstract" + 0.001*"aging" + 0.001*"older"
 ==================================================
 Topic 5:
-0.040*"gerotranscendence" + 0.018*"theory" + 0.018*"older" + 0.012*"adults" + 0.012*"explore"
+0.001*"abstract" + 0.001*"life" + 0.001*"gerotranscendence" + 0.001*"study" + 0.001*"health"
+==================================================
+Topic 6:
+0.001*"life" + 0.001*"abstract" + 0.001*"study" + 0.001*"aging" + 0.001*"gerotranscendence"
+==================================================
+Topic 7:
+0.001*"life" + 0.001*"study" + 0.001*"aging" + 0.001*"gerotranscendence" + 0.001*"abstract"
+==================================================
+Topic 8:
+0.001*"abstract" + 0.001*"life" + 0.001*"gerotranscendence" + 0.001*"aging" + 0.001*"study"
+==================================================
+Topic 9:
+0.001*"life" + 0.001*"abstract" + 0.001*"study" + 0.001*"gerotranscendence" + 0.001*"aging"
+==================================================
+Topic 10:
+0.001*"study" + 0.001*"abstract" + 0.001*"life" + 0.001*"aging" + 0.001*"older"
 ==================================================
 
-
-Topic Assignments for Each Abstract:
-Text: 39992087_Navigating School Meal Environments_ Perspectives .txt
-Assigned Topic: 4
-==================================================
-Text: 39969194_"What does gerotranscendence mean to you?" Older a.txt
-Assigned Topic: 4
-==================================================
-Text: 40001739_The Risks of Being a Wallflower_ Exploring Links B.txt
-Assigned Topic: 4
-==================================================
-Text: 40085832_Understanding Loneliness Through Analysis of Twitt.txt
-Assigned Topic: 4
-==================================================
-Text: 39993880_Priests aging well_ The role of gerotranscendence .txt
-Assigned Topic: 4
-==================================================
-Text: 40056392_The Gerotranscendence Leading to Optimal Well-Bein.txt
-Assigned Topic: 4
-==================================================
-Text: 39340757_Gerotranscendence as a Life Perspective Among Nurs.txt
-Assigned Topic: 4
-==================================================
-Text: 37051690_How to Promote Gerotranscendence in Older Adults? .txt
-Assigned Topic: 4
-==================================================
-Text: 40025649_Beyond Solitude_ The Role of Group Therapy in Empo.txt
-Assigned Topic: 4
-==================================================
-Text: 35654552_Embodied experiences and existential reflections o.txt
-Assigned Topic: 4
-==================================================
-Text: 39384424_A Case of Gerotranscendence_ Lived Experience of a.txt
-Assigned Topic: 4
-==================================================
-Text: 35472229_Polish Version of Lars Tornstam's Gerotranscendenc.txt
-Assigned Topic: 4
-==================================================
+Coherence Score: 0.2950785224415729
