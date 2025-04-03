@@ -2,6 +2,8 @@ import os
 import requests
 import time
 import random
+import nltk
+from nltk.tokenize import sent_tokenize
 from dotenv import load_dotenv
 
 # Download NLTK resources (if required for other processes)
@@ -95,20 +97,18 @@ def retrieve_abstract_and_title(pubmed_id, folder_path, retries=5, backoff=60):
 
                 # Join authors with commas
                 authors_text = ', '.join(author_list) if author_list else "No authors available"
-
-                # Combine PubMed ID and title to create the file name
-                file_name = f"{pubmed_id}_{clean_title[:50]}.txt"  # Truncate title to avoid overly long names
-                file_path = os.path.join(folder_path, file_name)
+                # Categorize the abstract based on sentence count
+                sentence_count = len(sent_tokenize(abstract_text))
                 
-                # Save the title and abstract in the file
-                with open(file_path, 'w') as file:
-                    file.write(f"Title: {clean_title}\n\n")  # Add the title at the top
-                    file.write(f"Authors: {authors_text}\n\n")  # Add authors below the title
-                    file.write(f"Abstract: {abstract_text}\n")  # Save abstract text below the title
-                
-                print(f"Saved abstract, title, authors, and source for PMID {pubmed_id}")
+                if sentence_count > 5:
+                    category = "more_than_5_sentences"
+                elif 2 <= sentence_count <= 5:
+                    category = "between_2_and_5_sentences"
+                else:
+                    category = "less_than_2_sentences"
 
-                return clean_title, abstract_text, authors_text # Return title, abstract, authors, and source for further processing
+                return clean_title, abstract_text, authors_text, category  # Return title, abstract, authors, and category
+
             except Exception as e:
                 print(f"Error parsing response for PMID {pubmed_id}: {e}")
                 return None, None, None
