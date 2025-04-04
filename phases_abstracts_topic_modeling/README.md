@@ -5,7 +5,7 @@ This project is a Python application that searches for scientific abstracts rela
 ## Features
 
 - Retrieves abstracts from PubMed.
-- Searches PubMed for abstracts related to the specified keywords - gerotranscendence, solitude, healthy aging.
+- Searches PubMed for abstracts related to the specified keywords - gerotranscendence, solitude.
 - The number of abstracts retrieved per keyword is adjustable.
 - Performs Latent Dirichlet Allocation (LDA) topic modeling on the retrieved abstracts.
 - Identifies the main topics across the abstracts and sorts them by relevance.
