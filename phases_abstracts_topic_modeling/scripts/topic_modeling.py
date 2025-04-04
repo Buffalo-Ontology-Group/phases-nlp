@@ -1,4 +1,5 @@
 import os
+import re
 import gensim
 from gensim import corpora
 import nltk
@@ -76,13 +77,16 @@ def perform_topic_modeling_on_downloaded_texts(folder_path, num_topics):
                 # print(f"Reading file: {file_name}")
                 print(content[:300])  # Print the first 300 characters to check file structure
 
+                # Remove everything before and including 'Abstract X:', where X is any number
+                content = re.sub(r'Abstract \d+:', '', content)
+
                 # Add entire content of the file to topic texts (no need for abstract extraction)
                 if content.strip():  # Only add non-empty text
                     topic_texts.append(content.strip())
                 else:
                     print(f"No content found in file {file_name}")
 
-           # Perform topic modeling if texts are available
+    # Perform topic modeling if texts are available
     if topic_texts:
         print(f"Performing topic modeling on the texts with {num_topics} topics...")
         lda, dictionary, corpus, processed_texts = perform_lda(topic_texts, num_topics)

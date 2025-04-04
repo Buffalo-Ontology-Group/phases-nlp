@@ -12,7 +12,7 @@ load_dotenv()
 
 # Click command to get PubMed abstracts for given keywords
 @click.command()
-@click.option('--keywords', default='gerotranscendence,solitude',
+@click.option('--keywords', default='gerotranscendence,solitude,gerotranscendence AND solitude',
               help='Comma-separated list of keywords for PubMed search')
 @click.option('--folder', default=None, help='Directory to save abstracts (default is from .env or current directory)')
 @click.option('--num_abstracts', prompt='Number of abstracts to be downloaded', type=int,
@@ -94,7 +94,7 @@ def get_pubmed_abstracts(keywords, folder, num_abstracts, num_topics):
         if more_than_5_sentences:
             for title, abstract, authors in more_than_5_sentences:
                 if abstract != "No abstract available":  # Skip saving if abstract is unavailable
-                    abstracts_file.write(f"Abstract: {abstract_counter}:\n")
+                    abstracts_file.write(f"Abstract {abstract_counter}:\n")
                     abstracts_file.write(f"{abstract}\n")
                     abstracts_file.write("\n" + "="*80 + "\n")
                     abstract_counter += 1
@@ -106,7 +106,7 @@ def get_pubmed_abstracts(keywords, folder, num_abstracts, num_topics):
         if between_2_and_5_sentences:
             for title, abstract, authors in between_2_and_5_sentences:
                 if abstract != "No abstract available":  # Skip saving if abstract is unavailable
-                    abstracts_file.write(f"Abstract: {abstract_counter}:\n")
+                    abstracts_file.write(f"Abstract {abstract_counter}:\n")
                     abstracts_file.write(f"{abstract}\n")
                     abstracts_file.write("\n" + "="*80 + "\n")
                     abstract_counter += 1
@@ -118,7 +118,7 @@ def get_pubmed_abstracts(keywords, folder, num_abstracts, num_topics):
         if less_than_2_sentences:
             for title, abstract, authors in less_than_2_sentences:
                 if abstract != "No abstract available":  # Skip saving if abstract is unavailable
-                    abstracts_file.write(f"Abstract: {abstract_counter}:\n")
+                    abstracts_file.write(f"Abstract {abstract_counter}:\n")
                     abstracts_file.write(f"{abstract}\n")
                     abstracts_file.write("\n" + "="*80 + "\n")
                     abstract_counter += 1
