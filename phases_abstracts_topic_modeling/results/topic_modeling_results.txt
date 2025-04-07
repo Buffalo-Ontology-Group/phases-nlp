@@ -1,32 +1,32 @@
 Topic 1:
-0.002*"aging" + 0.002*"life" + 0.002*"gerotranscendence" + 0.002*"older" + 0.002*"satisfaction"
-==================================================
-Topic 2:
-0.002*"gerotranscendence" + 0.002*"life" + 0.002*"aging" + 0.002*"older" + 0.002*"satisfaction"
-==================================================
-Topic 3:
-0.002*"gerotranscendence" + 0.002*"life" + 0.002*"older" + 0.002*"aging" + 0.002*"satisfaction"
-==================================================
-Topic 4:
-0.002*"gerotranscendence" + 0.002*"older" + 0.002*"aging" + 0.002*"life" + 0.002*"satisfaction"
-==================================================
-Topic 5:
-0.002*"gerotranscendence" + 0.002*"aging" + 0.002*"older" + 0.002*"life" + 0.002*"satisfaction"
-==================================================
-Topic 6:
-0.002*"gerotranscendence" + 0.002*"life" + 0.002*"older" + 0.002*"satisfaction" + 0.002*"health"
-==================================================
-Topic 7:
-0.002*"gerotranscendence" + 0.002*"aging" + 0.002*"older" + 0.002*"satisfaction" + 0.002*"life"
-==================================================
-Topic 8:
-0.002*"gerotranscendence" + 0.002*"aging" + 0.002*"older" + 0.002*"life" + 0.002*"satisfaction"
-==================================================
-Topic 9:
-0.025*"gerotranscendence" + 0.020*"life" + 0.020*"aging" + 0.019*"older" + 0.015*"satisfaction"
-==================================================
-Topic 10:
 0.002*"gerotranscendence" + 0.002*"aging" + 0.002*"life" + 0.002*"older" + 0.002*"satisfaction"
 ==================================================
+Topic 2:
+0.002*"life" + 0.002*"aging" + 0.002*"older" + 0.002*"gerotranscendence" + 0.002*"satisfaction"
+==================================================
+Topic 3:
+0.002*"gerotranscendence" + 0.002*"life" + 0.002*"satisfaction" + 0.002*"older" + 0.002*"aging"
+==================================================
+Topic 4:
+0.002*"life" + 0.002*"aging" + 0.002*"gerotranscendence" + 0.002*"satisfaction" + 0.002*"older"
+==================================================
+Topic 5:
+0.002*"gerotranscendence" + 0.002*"aging" + 0.002*"life" + 0.002*"satisfaction" + 0.002*"older"
+==================================================
+Topic 6:
+0.002*"gerotranscendence" + 0.002*"life" + 0.002*"satisfaction" + 0.002*"aging" + 0.002*"older"
+==================================================
+Topic 7:
+0.002*"gerotranscendence" + 0.002*"older" + 0.002*"satisfaction" + 0.002*"aging" + 0.002*"life"
+==================================================
+Topic 8:
+0.002*"gerotranscendence" + 0.002*"aging" + 0.002*"life" + 0.002*"older" + 0.002*"satisfaction"
+==================================================
+Topic 9:
+0.002*"gerotranscendence" + 0.002*"life" + 0.002*"satisfaction" + 0.002*"older" + 0.002*"aging"
+==================================================
+Topic 10:
+0.028*"gerotranscendence" + 0.023*"life" + 0.022*"aging" + 0.020*"older" + 0.017*"satisfaction"
+==================================================
 
-Coherence Score: 0.2797429662480631
+Coherence Score: 0.2718622707974083
