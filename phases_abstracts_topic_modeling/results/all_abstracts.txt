@@ -1,68 +1,75 @@
-Abstract 1:
+Title 1: Priests aging well_ The role of gerotranscendence and its relationships with perceived health status, and life satisfaction among Catholic priests.
+Abstract:
 Aging in the priesthood presents unique challenges in America. Due to the declining number of priests serving the growing U.S. Catholic population, many older priests delay retirement and continue to work while dealing with various physical, mental, and emotional challenges associated with aging. The present study examined predictors of life satisfaction in aging priests, using a combination of established predictors (age, spiritual transcendence, overall health) and three novel predictors corresponding to the three domains of gerotranscendence (cosmic, coherence, solitude) set out by Tornstam (1989, 2005). Survey data collected from 201 ordained Roman Catholic senior priests (between ages 50-93) revealed high levels of life satisfaction and satisfaction that was positively correlated with age, spiritual transcendence, and self-rated health. In addition, the combination of gerotranscendence predictors explained a statistically significant amount of the variance in life satisfaction, even when controlling for age, spiritual transcendence, and overall health. The coherence domain of gerotranscendence outperformed all other predictors in our model, suggesting that this may be an especially salient predictor of life satisfaction in aging priests. The present study lends support to the application of gerotranscendence when examining the wellbeing of older priests. Interventions aimed at fostering gerotranscendence appear crucial for enhancing priests' life satisfaction throughout their lives.
 
 ================================================================================
-Abstract 2:
+Title 2: Older Adults' Advance Aging and Life Satisfaction Levels_ Effects of Lifestyles and Health Capabilities.
+Abstract:
 Many studies in the literature have examined older adults' past and current lifestyles in either positive or negative association with their life satisfaction levels. Health capabilities naturally decline with aging and can consequently be related to older adults' life satisfaction levels. Thus, the present study sought to examine the effects of age difference, lifestyles, and health capabilities on older adults' life satisfaction levels. A total of 290 older adults from three clinical research centers in the United States completed a self-administered questionnaire on their lifestyles and life satisfaction levels, and their health capability assessments were evaluated. There was a significant effect of advancing age on life satisfaction levels among older adults. Additionally, engagement in exercise or physical activity significantly influenced life satisfaction levels. However, there were no statistical effects of vital signs and functional assessments of health capabilities on life satisfaction among older adults. The findings suggest that advancing age itself is the strongest factor in older adults' life satisfaction. Additionally, engagement in exercise and physical activity can enhance life satisfaction levels as a supplemental factor among older adults. These findings can be beneficial to optimize life satisfaction levels through appropriate programs to encourage positive lifestyles among older adults.
 
 ================================================================================
-Abstract 3:
+Title 3: How to Promote Gerotranscendence in Older Adults? A Scoping Review of Interventions.
+Abstract:
 Gerotranscendence is a psychosocial theory that proposes older adults experience a mindset shift in multiple dimensions (cosmic, coherence, solitude), associated with different constructs, such as life satisfaction and well-being. Increasing studies are employing gerotranscendence, but the practical aspects of how gerotranscendence can be developed are still underexplored. This review involved an assessment of the size and scope of the existing literature on interventions related to gerotranscendence and their effect on participants' well-being. Six databases were searched, and eight studies were selected: five were observational, while three were randomized control trials. Findings showed that gerotranscendence can be developed through weekly thematic encounters. Moreover, the interventions examined in the selected studies were described as having positively impacted participants' mental health and life satisfaction. Future studies should explore gerotranscendence interventions using a rigorous methodology and long-term follow-up data to add consistency to these findings.
 
 ================================================================================
-Abstract 4:
+Title 4: Effects of Health Status, Depression, Gerotranscendence, Self-Efficacy, and Social Support on Healthy Aging in the Older Adults with Chronic Diseases.
+Abstract:
 Purpose of this study is to analyze factors affecting the healthy aging of the elderly with chronic diseases living in the community according to the worldwide aging phenomenon in line with the WHO’s healthy aging strategy. The subjects were 116 elderly aged 65 years or up with one or more chronic diseases and residing in four cities. The collected data were analyzed by using the descriptive statistics, t-test, ANOVA, Pearson’s correlational coefficients, and stepwise multiple regression. The healthy aging of subjects showed positive correlations with the health status (r = 0.68, p < 0.001), gerotranscendence (r = 0.64, p < 0.001), self-efficacy (r = 0.65, p < 0.001), and social support (r = 0.47, p < 0.001), while the healthy aging and depression (r = −0.58, p < 0.001) showed a negative correlation. The factors affecting the healthy aging were health status (β = 0.24, p = 0.004), self-efficacy (β = 0.28, p < 0.001), education (β = −0.11, p = 0.057), exercise (β = 0.17, p = 0.003), gerotranscendence (β = 0.22, p = 0.004), and depression (β = −0.19, p = 0.009), and the explanatory power of those variables was 68.2%. Thus, it would be necessary to provide an intervention for the elderly that could habituate health-related education and exercise, maintain good health status, lower depression, aid control of themselves through the gerotranscendence, and increase self-efficacy.
 
 ================================================================================
-Abstract 5:
+Title 5: Embodied experiences and existential reflections of the oldest old.
+Abstract:
 The aim of this study was to learn more about the embodied experiences of people over 85 years and to gain a better understanding of how they make sense of the existential issues faced at this unique stage of life. This research is philosophically and methodologically underpinned by existential phenomenology, in particular embodiment theory, which allows exploration of everyday experiences and the personal meanings attributed to them. In-depth interviews with twenty purposively selected individuals were analysed using Interpretive Phenomenological Analysis. Findings indicated that ways of being, relationships with others and one's place in the world continue to evolve into late life. Gerotranscendence theory best encapsulates lived experiences, with salient features including an increased need for deep reflection, positive solitude and meaningful relationships, among other features. This research provides new insights into how identity, meaning and the experience of the broader lifeworld are influenced by corporeal ageing.
 
 ================================================================================
-Abstract 6:
+Title 6: Experiences and motives of retirement-aged workers during the first wave of COVID-19 in Slovenia_ "This was the first time in 40 years that I really saw spring".
+Abstract:
 Choosing to continue working after retirement eligibility can attract both negative and positive sentiments from the general public. Studies examining the motivations of older workers have so far been conducted in times of relative social and economic stability. However, little is known about what it means for older workers to work during a lockdown or pandemic situation. The present longitudinal study aimed to explore experiences of retirement-aged workers in Slovenia in relation to their motives for prolonged work activity amid the COVID-19 pandemic, using the theory of gerotranscendence as a theoretical framework. Nine workers were interviewed before and after the start of the pandemic. The qualitative analysis was based on 18 interviews and observations, juxtaposing two analytical methods in order to illustrate common themes across the data as well as tensions in specific situations within a narrative context. Four main themes are presented: Unchanged plans, Motive developments, Psychological preparation for retirement and Views of society. In addition, a narrative analysis is presented with a focus on self-transcending elements in some of the participants' narratives. The findings suggest that during a pandemic, older workers' individual experiences might be constructed more positively compared to other groups, especially if they develop agentic identity and pursue meaningful activities. We discuss an innovative approach to gerotranscendence, complementing this theory with concepts from occupational science to develop a clearer distinction from the now dated disengagement theory and examine the life trajectories of older workers in novel situations such as a pandemic.
 
 ================================================================================
-Abstract 7:
+Title 7: Gerotranscendence and Alaska Native Successful Aging in the Aleutian Pribilof Islands, Alaska.
+Abstract:
 The population of the United States is aging and by 2045 it is projected that approximately 1 in every 6 Alaskans will be 65+. Delivering healthcare and meeting the needs of older Alaskans in their community is critical to supporting healthy aging and community sustainability. Alaska Native (AN) Elders are underserved with very few studies providing an emic perspective on their experience aging. This research opens the door and allows us a glimpse of the AN Elder experience of aging: the values, beliefs, and behaviors that allow them to age well. This study highlights the characteristics and activities of AN Elders in the Aleutian and Pribilof Islands to further develop the model of AN successful aging. There are many theories of aging and this study explores a cross-cultural understanding of gerotranscendence - the personal and interpersonal changes that result from successful aging or achieving Eldership. This study interviewed Elders in two communities of the Aleutian and Pribilof Islands region. Using 22 standardized questions based on the explanatory model, researchers facilitated discussion of what it means to be an Elder and age successfully. Employing thematic analysis, interview transcripts were analyzed for themes to organize the data. Themes were organized into 5 core elements of successful aging with specific emphasis on values, beliefs, and behaviors that were protective and helped them adapt to aging-related changes. Interview content, meaning, and themes support the four elements of the AN model of successful aging developed by Lewis (The Gerontologist, 51(4), 540-549, 2011): Mental and Emotional Wellbeing, Spirituality, Purposefulness and Engagement, and Physical Health. Elders' stories highlight the importance of reflection, personal growth, and psychosocial development. Elders who more strongly identified with their role in the community described how their perspective had changed and they shared stories that emphasized culture, connection to the land, and enjoyment of daily activities that resulted in increased life satisfaction. Elders provided clear evidence that they experienced aspects of gerotranscendence, which Tornstam (Journal of Aging Studies, 11(2), 143-154, 1997) categorized as the cosmic dimension, the self, and social and personal relationships. Elders adapting to aging-related changes and embracing their role as an Elder provided the greatest evidence of gerotranscendence - they developed new perspectives on life, took on new roles within the community, and experienced a shift in mindset that reinforced the importance of culture, tradition, and the Native Way of Life. This research allowed AN Elders to share their experiences, define successful aging, and expand the concept of Eldership to include changes in mindset, values, and relationships with themselves and others. The study is a framework to help us better understand the experiences of AN Elders aging successfully and the wisdom they wish to impart to others to help them learn to live healthy and meaningful lives.
 
 ================================================================================
-Abstract 8:
-This study developed the Japanese version of the gerotranscendence scale type 2 (the GST2) and examined reliability and validity of the scale. In Japan, 525 community-dwelling older adults (male = 260, female = 265) answered a questionnaire. An exploratory factor analysis of the Japanese version of the GST2 revealed the same three-factor structure including the Dimensions of the Cosmic, the Coherence, and the Solitude, which had been reported by Tornstam with the omission of item 1. Reliability and construct validity of the Japanese version of the GST2 were confirmed. These findings provide support for use of the Japanese version of the GST2 as a measure of lifespan development among the oldest old in Japan. The GST2 can be applicable not only for older adults in Sweden but also for older adults in Japan.
-
-================================================================================
-Abstract 9:
+Title 8: The Gerotranscendence Leading to Optimal Well-Being [GLOW] Program_ A Feasibility Study in a Long-Term Care Facility.
+Abstract:
 Gerotranscendence has gained recognition as an important psychosocial theory, with leading studies promoting it through intervention programs. However, to date, few interventions have involved older adults living in Long-Term Care (LTC) facilities. This study aimed to explore the viability of implementing six-week program on gerotranscendence [GLOW] in an LTC facility.
 
 ================================================================================
-Abstract 10:
+Title 9: "What does gerotranscendence mean to you?" Older adults' lay perspectives on the theory.
+Abstract:
 Gerotranscendence, a recent adaptive aging theory developed by Tornstam, postulates a mindset shift in old age from a materialistic viewpoint to a more transcendent one. Gerotranscendence is considered a promising aging model, as it approaches specific developmental challenges in late life. However, knowledge of this theory is still maturing and lacks laypersons' perspectives to further validate its components. This study aimed to explore how older adults perceive gerotranscendence and gain insights of their understanding.
 
 ================================================================================
-Abstract 11:
+Title 10: Polish Version of Lars Tornstam's Gerotranscendence Scale Type 2 (GST2-PL).
+Abstract:
 This study presents the Polish version of the Gerotranscendence Scale Type 2 GST2PL) and describes the scale's psychometric properties (reliability and validity). The scale is mainly intended for research of older people.
 
 ================================================================================
-Abstract 12:
-Lars Tornstam's attractive theory that there is an ultimate developmental stage that is the perquisite of the very old has caused controversy and generated a large volume of literature. In this article, Tornstam's threefold categorisation of gerotranscendence (cosmic, coherence and solitude) and the relationship of his model with that of disengagement and with Erikson's developmental theory are examined. Consideration is given to the following questions: Is gerotranscendence really age-related, and is it really universal rather than culturally or personality dependent? The overlap of the theory with a multiplicity of other constructs is reviewed. In conclusion, criteria are identified for the creation of a revised and potentially more effective instrument to measure gerotranscendence.
-
-================================================================================
-Abstract 13:
+Title 11: Gerotranscendence as a Life Perspective Among Nursing Home Residents_ A Qualitative Study Into Positive Ageing While Dependent on 24_7 Care.
+Abstract:
 To examine whether and how older nursing home residents recognise characteristics of gerotranscendence, and to contribute to a critical and comprehensive view of gerotranscendence in this particular group.
 
 ================================================================================
-Abstract 14:
+Title 12: Relationship Between Life Satisfaction and Psychological Characteristics Among Community-Dwelling Oldest-old_ Focusing on Erikson's Developmental Stages and the Big Five Personality Traits.
+Abstract:
 To clarify the relationship between life satisfaction and the psychological characteristics of the oldest-old, and explore the factors for achieving mental health and longevity.
 
 ================================================================================
-Abstract 15:
+Title 13: Correlation between gerotranscendence and oral health-related quality of life among elderly population in Davanagere city_ A cross-sectional survey.
+Abstract:
 To assess the relationship between oral health related quality of life (OHRQoL) and gerotranscendence among elderly subjects in Davangere city.
 
 ================================================================================
-Abstract 16:
+Title 14: Existential ageing and dying_ A scoping review.
+Abstract:
 After significant early interest in aging and dying, recent empirical studies have been few and theoretically fragmented.
 
 ================================================================================
-Abstract 17:
+Title 15: Exploring the demographic and situational characteristics of older British people experiencing loneliness as positive within the BBC loneliness experiment.
+Abstract:
 The aim of this study is to increase the understanding of loneliness experienced as positive, by exploring the demographic and situational characteristics of older people who experience loneliness as positive.
 
 ================================================================================

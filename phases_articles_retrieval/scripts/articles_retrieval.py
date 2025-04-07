@@ -19,17 +19,6 @@ download_directory = os.getenv("DOWNLOAD_DIRECTORY")
 if not os.path.exists(download_directory):
     os.makedirs(download_directory)
 
-# Create subdirectories for each topic
-gerotranscendence_dir = os.path.join(download_directory, "gerotranscendence")
-solitude_dir = os.path.join(download_directory, "solitude")
-
-# Create directories if they do not exist
-if not os.path.exists(gerotranscendence_dir):
-    os.makedirs(gerotranscendence_dir)
-
-if not os.path.exists(solitude_dir):
-    os.makedirs(solitude_dir)
-
 # Keywords for searching articles
 keywords_gerotranscendence = "gerotranscendence"
 keywords_solitude = "solitude"
@@ -41,7 +30,7 @@ def sanitize_filename(title):
     return title
 
 # Function to download PDFs
-def download_pdf(pdf_url, article_id, title, topic_dir, failed_downloads):
+def download_pdf(pdf_url, article_id, title, failed_downloads):
     """Download the PDF file for the article, if available."""
     try:
         if not pdf_url:
@@ -52,7 +41,7 @@ def download_pdf(pdf_url, article_id, title, topic_dir, failed_downloads):
         # Sanitize the title to be a valid filename
         sanitized_title = sanitize_filename(title)
         pdf_filename = f"{sanitized_title}.pdf"
-        pdf_filepath = os.path.join(topic_dir, pdf_filename)
+        pdf_filepath = os.path.join(download_directory, pdf_filename)
         
         # Check if the file already exists
         if os.path.exists(pdf_filepath):
@@ -153,7 +142,7 @@ def search_scholar_for_pdf(title):
     return None
 
 # Function to process articles and attempt PDF downloads
-def process_articles(id_list, topic_dir):
+def process_articles(id_list, download_directory):
     """Process articles by fetching summaries and downloading PDFs."""
     articles = []
     failed_downloads = []
@@ -173,8 +162,11 @@ def process_articles(id_list, topic_dir):
             # First, try to get PDF URL from PubMed Central (PMC)
             pdf_url = get_pmc_pdf_url(article_id)
 
+
             # If no PDF found in PubMed Central, try Google Search and Google Scholar
             if not pdf_url:
+                # Only search Google and Google Scholar if no PDF found on PubMed Central
+                print(f"No PDF found in PMC, searching Google and Google Scholar for article {article_id}.")
                 pdf_url = search_google_for_pdf(article_title)
             
             if not pdf_url:
@@ -185,7 +177,7 @@ def process_articles(id_list, topic_dir):
                 pdf_url = article_url
 
             if pdf_url:
-                pdf_filepath = download_pdf(pdf_url, article_id, article_title, topic_dir, failed_downloads)
+                pdf_filepath = download_pdf(pdf_url, article_id, article_title, failed_downloads)
                 if pdf_filepath:
                     articles.append((article_id, article_title, article_url, pdf_filepath))
             else:

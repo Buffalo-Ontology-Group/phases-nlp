@@ -1,5 +1,5 @@
 import click
-from articles_retrieval import retrieve_and_download_articles, process_articles, keywords_gerotranscendence, keywords_solitude, gerotranscendence_dir, solitude_dir
+from articles_retrieval import retrieve_and_download_articles, process_articles, keywords_gerotranscendence, keywords_solitude, download_directory
 
 @click.command()
 @click.option('--max_results', prompt='Number of articles to be retrieved', type=int,
@@ -14,8 +14,8 @@ def retrieve_articles(max_results):
     id_list_solitude = retrieve_and_download_articles(keywords_solitude, max_results=max_results)
 
     # Process articles for both topics
-    articles_gerotranscendence, failed_articles_gerotranscendence = process_articles(id_list_gerotranscendence, gerotranscendence_dir)
-    articles_solitude, failed_articles_solitude = process_articles(id_list_solitude, solitude_dir)
+    articles_gerotranscendence, failed_articles_gerotranscendence = process_articles(id_list_gerotranscendence, download_directory)
+    articles_solitude, failed_articles_solitude = process_articles(id_list_solitude, download_directory)
 
     # Display results for Gerotranscendence articles (successful first, then unsuccessful)
     click.echo("Gerotranscendence Articles:\n")
