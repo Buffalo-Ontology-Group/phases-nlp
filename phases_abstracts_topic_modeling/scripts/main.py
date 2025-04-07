@@ -29,14 +29,11 @@ def get_pubmed_abstracts(keywords, folder, num_abstracts, num_topics):
 
     # Create/overwrite the single file to store all abstracts
     abstracts_file_path = os.path.join(folder_path, 'all_abstracts.txt')
-    list_file_path = os.path.join(folder_path, 'list.txt')
     
     # Clear the contents of both files before starting
     with open(abstracts_file_path, 'w') as abstracts_file:
         pass
-    with open(list_file_path, 'w') as list_file:
-        pass
-
+ 
     # Split the keywords into a list and fetch abstracts
     keyword_list = keywords.split(',')
     processed_pmids = set()
@@ -73,10 +70,6 @@ def get_pubmed_abstracts(keywords, folder, num_abstracts, num_topics):
                         between_2_and_5_sentences.append((title, abstract, authors))
                     else:
                         less_than_2_sentences.append((title, abstract, authors))
-
-                    # Save the title and authors to list.txt with space between them
-                    with open(list_file_path, 'a') as list_file:
-                        list_file.write(f"{title}\n\n{authors}\n\n........................\n\n")  # Add space between title and authors
                     
                     # Add the PubMed ID to the set to track processed articles
                     processed_pmids.add(pubmed_id)
@@ -94,38 +87,31 @@ def get_pubmed_abstracts(keywords, folder, num_abstracts, num_topics):
         if more_than_5_sentences:
             for title, abstract, authors in more_than_5_sentences:
                 if abstract != "No abstract available":  # Skip saving if abstract is unavailable
-                    abstracts_file.write(f"Abstract {abstract_counter}:\n")
+                    abstracts_file.write(f"Title {abstract_counter}: {title}\n")
+                    abstracts_file.write(f"Abstract:\n")
                     abstracts_file.write(f"{abstract}\n")
                     abstracts_file.write("\n" + "="*80 + "\n")
                     abstract_counter += 1
-                    # Save the title and authors to list.txt with space between them
-                    with open(list_file_path, 'a') as list_file:
-                        list_file.write(f"{title}\n\n{authors}\n\n........................\n\n")  # Add space between title and authors
         
         # Then write between 2 and 5 sentences abstracts
         if between_2_and_5_sentences:
             for title, abstract, authors in between_2_and_5_sentences:
                 if abstract != "No abstract available":  # Skip saving if abstract is unavailable
-                    abstracts_file.write(f"Abstract {abstract_counter}:\n")
+                    abstracts_file.write(f"Title {abstract_counter}: {title}\n")
+                    abstracts_file.write(f"Abstract:\n")
                     abstracts_file.write(f"{abstract}\n")
                     abstracts_file.write("\n" + "="*80 + "\n")
                     abstract_counter += 1
-                    # Save the title and authors to list.txt with space between them
-                    with open(list_file_path, 'a') as list_file:
-                        list_file.write(f"{title}\n\n{authors}\n\n........................\n\n")  # Add space between title and authors
         
         # Finally, write less than 2 sentences abstracts
         if less_than_2_sentences:
             for title, abstract, authors in less_than_2_sentences:
                 if abstract != "No abstract available":  # Skip saving if abstract is unavailable
-                    abstracts_file.write(f"Abstract {abstract_counter}:\n")
+                    abstracts_file.write(f"Title {abstract_counter}: {title}\n")
+                    abstracts_file.write(f"Abstract:\n")
                     abstracts_file.write(f"{abstract}\n")
                     abstracts_file.write("\n" + "="*80 + "\n")
                     abstract_counter += 1
-                    # Save the title and authors to list.txt with space between them
-                    with open(list_file_path, 'a') as list_file:
-                        list_file.write(f"{title}\n\n{authors}\n\n........................\n\n")  # Add space between title and authors
-
 
     # After downloading abstracts, perform topic modeling and save results
     perform_topic_modeling_on_downloaded_texts(folder_path, num_topics) # Pass num_topics to topic modeling function
