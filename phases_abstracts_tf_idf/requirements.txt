@@ -1,0 +1,8 @@
+
+
+pandas
+gensim
+nltk
+python-dotenv
+click
+openpyxl
