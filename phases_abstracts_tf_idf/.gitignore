@@ -1,0 +1,25 @@
+# Ignore the .env file to keep sensitive data secure
+.env
+
+# Ignore path-specific files and directories
+path_to_local_files/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and other IDE files
+.vscode/
+
+# macOS-specific
+.DS_Store
+
+# Ignore log files
+*.log
+
+
