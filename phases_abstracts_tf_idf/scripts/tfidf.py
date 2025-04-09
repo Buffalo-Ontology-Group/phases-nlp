@@ -5,6 +5,8 @@ from gensim.models import TfidfModel
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
 
 # Download NLTK resources if not already present
 nltk.download('punkt')
@@ -81,3 +83,32 @@ def compute_tfidf_from_excel(folder_path, num_terms):
         compute_tfidf_and_save(abstracts, folder_path, num_terms)
     else:
         print("No abstracts found to process for TF-IDF.")
+
+# Function to generate and save a word cloud from the top TF-IDF terms
+def generate_wordcloud(folder_path, num_terms):
+    # Load the TF-IDF results
+    term_file_path = os.path.join(folder_path, "tfidf_results.txt")
+    
+    with open(term_file_path, 'r') as file:
+        lines = file.readlines()
+    
+    # Parse the terms and their scores
+    terms = {}
+    for line in lines:
+        term, score = line.strip().split(": ")
+        terms[term] = float(score)
+    
+    # Generate the word cloud
+    wordcloud = WordCloud(width=800, height=400, background_color="white").generate_from_frequencies(terms)
+
+    # Save the word cloud as an image
+    wordcloud_image_path = os.path.join(folder_path, "wordcloud.png")
+    wordcloud.to_file(wordcloud_image_path)
+
+    # Display the word cloud (optional)
+    plt.figure(figsize=(10, 5))
+    plt.imshow(wordcloud, interpolation="bilinear")
+    plt.axis("off")
+    plt.show()
+
+    print(f"Word cloud saved to: {wordcloud_image_path}")
