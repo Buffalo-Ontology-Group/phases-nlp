@@ -1,7 +1,7 @@
 import os
 import click
 from dotenv import load_dotenv
-from tfidf import compute_tfidf_from_excel  # Import the modified TF-IDF function
+from tfidf import compute_tfidf_from_excel, generate_wordcloud  # Import the modified TF-IDF function
 
 # Load environment variables from .env file
 load_dotenv()
@@ -23,6 +23,10 @@ def process_abstracts(folder, num_terms):
     # Call the TF-IDF function with the specified number of terms
     compute_tfidf_from_excel(folder_path, num_terms)  # Now passing num_terms to the function
 
+      # Generate and save word cloud
+    print("Generating word cloud...")
+    generate_wordcloud(folder_path, num_terms)  # Generate word cloud for the top terms
+    
 # Run the Click command
 if __name__ == '__main__':
     process_abstracts()  # Run the command to process the abstracts and compute TF-IDF
