@@ -112,3 +112,35 @@ def generate_wordcloud(folder_path, num_terms):
     plt.show()
 
     print(f"Word cloud saved to: {wordcloud_image_path}")
+
+# Function to plot top N TF-IDF terms
+def plot_top_tfidf_terms(folder_path, num_terms):
+    import matplotlib.pyplot as plt
+
+    term_file_path = os.path.join(folder_path, "tfidf_results.txt")
+
+    with open(term_file_path, 'r') as file:
+        lines = file.readlines()
+
+    terms = []
+    scores = []
+
+    for line in lines[:num_terms]:
+        term, score = line.strip().split(": ")
+        terms.append(term)
+        scores.append(float(score))
+
+    # Plotting
+    plt.figure(figsize=(12, 6))
+    plt.barh(terms[::-1], scores[::-1], color='skyblue')  # Reverse for descending
+    plt.xlabel('Average TF-IDF Score')
+    plt.title(f'Top {num_terms} TF-IDF Terms')
+    plt.tight_layout()
+    plt.grid(axis='x', linestyle='--', alpha=0.7)
+
+    plot_path = os.path.join(folder_path, "top_tfidf_terms.png")
+    plt.savefig(plot_path)
+    plt.show()
+
+    print(f"TF-IDF bar plot saved to: {plot_path}")
+
