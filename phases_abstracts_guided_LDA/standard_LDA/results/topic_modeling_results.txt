@@ -1,0 +1,34 @@
+Topic 1:
+0.023*"solitude" + 0.012*"human" + 0.012*"alone" + 0.012*"god" + 0.012*"isolation"
+==================================================
+Topic 2:
+0.035*"gerotranscendence" + 0.026*"satisfaction" + 0.022*"priests" + 0.022*"life" + 0.016*"predictors"
+==================================================
+Topic 3:
+0.030*"solitude" + 0.019*"spiritual" + 0.015*"focus" + 0.015*"spirituality" + 0.012*"care"
+==================================================
+Topic 4:
+0.030*"loneliness" + 0.018*"solitude" + 0.018*"attitude" + 0.018*"toward" + 0.012*"adolescents"
+==================================================
+Topic 5:
+0.027*"solitude" + 0.020*"gerotranscendence" + 0.015*"theory" + 0.012*"impacts" + 0.012*"n"
+==================================================
+Topic 6:
+0.001*"aging" + 0.001*"solitude" + 0.001*"study" + 0.001*"spiritual" + 0.001*"elders"
+==================================================
+Topic 7:
+0.016*"positively" + 0.015*"gerotranscendence" + 0.014*"mindset" + 0.014*"living" + 0.013*"behaviors"
+==================================================
+Topic 8:
+0.032*"wisdom" + 0.028*"gerotranscendence" + 0.023*"forgiveness" + 0.016*"solitude" + 0.014*"study"
+==================================================
+Topic 9:
+0.056*"solitude" + 0.012*"adults" + 0.012*"studies" + 0.012*"functions" + 0.012*"value"
+==================================================
+Topic 10:
+0.030*"theory" + 0.029*"aging" + 0.019*"elders" + 0.016*"gerotranscendence" + 0.013*"age"
+==================================================
+
+Coherence Score: 0.372940640060712
+Perplexity Score: 860.4465935703307
+Topic Variance Score: 0.00795202236622572

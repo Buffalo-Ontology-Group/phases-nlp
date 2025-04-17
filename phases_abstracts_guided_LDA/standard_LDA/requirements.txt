@@ -1,0 +1,10 @@
+
+click
+python-dotenv
+pandas
+gensim
+nltk
+seaborn
+matplotlib
+openpyxl
+pyLDAvis
