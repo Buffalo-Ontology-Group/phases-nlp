@@ -1,0 +1,37 @@
+SME Guided LDA Topic Modeling Results
+==================================================
+Topic 1:
+0.051*"gerotranscendence" + 0.039*"theory" + 0.019*"understanding" + 0.013*"aging" + 0.013*"older"
+==================================================
+Topic 2:
+0.053*"gerotranscendence" + 0.034*"wisdom" + 0.024*"forgiveness" + 0.020*"aging" + 0.020*"study"
+==================================================
+Topic 3:
+0.031*"aging" + 0.023*"gerotranscendence" + 0.023*"theory" + 0.018*"age" + 0.018*"elders"
+==================================================
+Topic 4:
+0.074*"solitude" + 0.031*"studies" + 0.025*"n" + 0.019*"focus" + 0.019*"defined"
+==================================================
+Topic 5:
+0.040*"solitude" + 0.016*"positively" + 0.016*"positive" + 0.013*"mindset" + 0.013*"alone"
+==================================================
+Topic 6:
+0.071*"solitude" + 0.019*"people" + 0.016*"functions" + 0.016*"impacts" + 0.016*"value"
+==================================================
+Topic 7:
+0.041*"youth" + 0.031*"shyness" + 0.031*"known" + 0.021*"withdrawal" + 0.021*"across"
+==================================================
+Topic 8:
+0.048*"gerotranscendence" + 0.024*"behaviors" + 0.024*"older" + 0.019*"studies" + 0.015*"within"
+==================================================
+Topic 9:
+0.065*"aloneliness" + 0.052*"solitude" + 0.052*"n" + 0.039*"alone" + 0.039*"time"
+==================================================
+Topic 10:
+0.029*"loneliness" + 0.029*"spiritual" + 0.023*"spirituality" + 0.018*"attitude" + 0.018*"solitude"
+==================================================
+
+Coherence Score: 0.46652640478173735
+Perplexity Score: 376.1459337187989
+Topic Variance Score: 8.55112466524588e-06
+==================================================

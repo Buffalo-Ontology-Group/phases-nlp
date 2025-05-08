@@ -15,7 +15,15 @@ load_dotenv()
 @click.option('--num_topics', prompt='Number of topics', type=int, help='Number of topics to generate in topic modeling')
 @click.option('--num_words', prompt='Number of words per topic', type=int, help='Number of top words to display for each topic in the heatmap')
 
-def perform_topic_modeling_from_excel(num_topics, num_words):
+def perform_topic_modeling_from_excel(num_topics: int, num_words: int) -> None:
+    """
+    CLI tool that performs guided topic modeling using LDA from an Excel file of abstracts,
+    using seed words extracted from highlighted terms in two Word documents.
+
+    Args:
+        num_topics (int): Number of topics to generate.
+        num_words (int): Number of top words to display per topic.
+    """
     # Step 1: Extract highlighted text and common terms
     print("\nStep 1: Extracting highlighted seed words from Word documents...")
     seed_words()
@@ -95,7 +103,15 @@ def perform_topic_modeling_from_excel(num_topics, num_words):
 
     generate_heatmap(lda_results['lda'], num_words, results_folder_path)
 
-def generate_heatmap(lda_model, num_words, results_folder_path):
+def generate_heatmap(lda_model, num_words: int, results_folder_path: str) -> None:
+    """
+    Generates a heatmap of the top words across topics and saves it as a PNG.
+
+    Args:
+        lda_model: Trained Gensim LDA model.
+        num_words (int): Number of top words per topic to include.
+        results_folder_path (str): Directory to save the heatmap image.
+    """
     print("\nGenerating topic-word heatmap...")
 
     topic_word_data = {}
@@ -126,6 +142,5 @@ def generate_heatmap(lda_model, num_words, results_folder_path):
     plt.close()
     print(f"Heatmap saved to: {heatmap_path}")
 
-# Entry point
 if __name__ == '__main__':
     perform_topic_modeling_from_excel()

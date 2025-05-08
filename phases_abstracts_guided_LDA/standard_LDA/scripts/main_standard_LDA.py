@@ -7,6 +7,7 @@ import pyLDAvis.gensim_models as gensimvis
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
+from typing import Optional
 
 # Load environment variables from the .env file
 load_dotenv()
@@ -14,7 +15,23 @@ load_dotenv()
 @click.command()
 @click.option('--num_topics', prompt='Number of topics', type=int, help='Number of topics to generate in topic modeling')
 @click.option('--num_words', prompt='Number of words per topic', type=int, help='Number of top words to display for each topic in the heatmap')
-def perform_topic_modeling_from_excel(num_topics, num_words):
+
+def perform_topic_modeling_from_excel(num_topics: int, num_words: int) -> None:
+    """
+    Perform topic modeling on text data from an Excel file using LDA.
+
+    This function:
+    - Loads the Excel file path from environment variables.
+    - Applies topic modeling using LDA with user-specified number of topics.
+    - Outputs coherence, perplexity, and topic variance scores.
+    - Saves textual results and a pyLDAvis HTML visualization.
+    - Generates and saves a heatmap of top words per topic.
+
+    Parameters:
+    - num_topics (int): Number of topics to generate.
+    - num_words (int): Number of top words to display.
+
+    """
     # Get the path to the Excel file from the environment variable
     excel_file = os.getenv('EXCEL_FILE_PATH')
 
@@ -59,8 +76,18 @@ def perform_topic_modeling_from_excel(num_topics, num_words):
     # Generate and save heatmap
     generate_heatmap(lda_results['lda'], num_words=num_words, results_folder_path=results_folder_path)
 
-def generate_heatmap(lda_model, num_words, results_folder_path):
-    """Generate and save a heatmap of the top words per topic"""
+def generate_heatmap(lda_model, num_words: int, results_folder_path:str) -> None:
+    """
+    Generate and save a heatmap showing the top words for each topic.
+
+    The heatmap displays topics as columns and words as rows, with intensity representing the word's weight in that topic.
+
+    Parameters:
+    -lda_model (LdaModel): Trained LDA model object from Gensim.
+    - num_words (int): Number of top words to include per topic.
+    - results_folder_path (str): Directory path to save the heatmap image.
+    
+    """
     print("\nGenerating topic-word heatmap...")
 
     # Get top words for each topic
