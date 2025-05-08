@@ -8,6 +8,7 @@ import pyLDAvis.gensim_models as gensimvis
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
+from typing import Optional
 
 load_dotenv()
 
@@ -15,20 +16,28 @@ load_dotenv()
 @click.option('--num_topics', prompt='Number of topics', type=int, help='Number of topics to generate in topic modeling')
 @click.option('--num_words', prompt='Number of words per topic', type=int, help='Number of top words to display for each topic in the heatmap')
 
-def perform_topic_modeling_from_excel(num_topics, num_words):
+def perform_topic_modeling_from_excel(num_topics: int, num_words: int) -> None:
+    """
+    Perform topic modeling on Excel data by first computing TF-IDF seed words, performing guided LDA, and visualizing the results with pyLDAvis and a heatmap.
+
+    Args:
+        num_topics (int): The number of topics to generate in the topic modeling.
+        num_words (int): The number of top words to display for each topic in the heatmap.
+    """
+
     # Step 0: Compute TF-IDF seed words
     print("\nStep 0: Computing TF-IDF seed words from Excel...")
     tfidf_folder = os.getenv('TF_IDF_RESULTS')
-    compute_tfidf_from_excel(tfidf_folder, num_terms=num_topics * 10)  # Adjust multiplier as needed
+    compute_tfidf_from_excel(tfidf_folder, num_terms=num_topics * 3)  # Adjust multiplier as needed
 
     # Step 1: Load Excel data path
     excel_file = os.getenv('EXCEL_FILE_PATH')
     if not excel_file or not os.path.exists(excel_file):
-        print(f"Error: The file {excel_file} does not exist or EXCEL_FILE_PATH is not set.")
+        print(f"Error: The file {excel_file} does not exist or EXCEL_FILE_PATH is not set.") 
         return
 
     # Step 2: Load TF-IDF seed words
-    tfidf_seed_file = os.path.join(tfidf_folder, "tf_idf_results.txt")
+    tfidf_seed_file = os.path.join(tfidf_folder, "tf_idf_terms.txt")
     try:
         with open(tfidf_seed_file, 'r') as f:
             seed_words_list = [line.strip() for line in f.readlines() if line.strip()]
@@ -94,7 +103,15 @@ def perform_topic_modeling_from_excel(num_topics, num_words):
 
     generate_heatmap(lda_results['lda'], num_words, results_folder_path)
 
-def generate_heatmap(lda_model, num_words, results_folder_path):
+def generate_heatmap(lda_model, num_words: int, results_folder_path: str) -> None:
+    """
+    Generates a heatmap representing the relationship between topics and words.
+
+    Args: 
+        lda_model: The trained LDA model.
+        num_words (int): The number of words to display for each topic.
+        results_folder_path (str): Path to save the generated heatmap.
+    """
     print("\nGenerating topic-word heatmap...")
 
     topic_word_data = {}
