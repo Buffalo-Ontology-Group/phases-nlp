@@ -26,3 +26,8 @@ build/
 dist/
 *.egg-info/
 *.egg
+*.py[cod]
+*$py.class
+
+# Logs
+*.log

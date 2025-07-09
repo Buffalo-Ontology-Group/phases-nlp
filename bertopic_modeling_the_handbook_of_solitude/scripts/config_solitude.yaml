@@ -1,0 +1,29 @@
+# spaCy model to use for POS tagging
+spacy_model: en_core_web_sm
+
+# Vectorizer configuration for BERTopic
+vectorizer_params:
+  scheme: tfidf          
+  stop_words: english    # use built-in English stopwords
+  ngram_range: [1, 3]    # unigrams to trigrams
+
+# SentenceTransformer model for embeddings
+sentence_transformer_model: all-MiniLM-L6-v2
+
+# KeyBERT model (usually same as sentence transformer)
+keybert_model: all-MiniLM-L6-v2
+
+# UMAP dimensionality reduction settings
+umap_params:
+  n_neighbors: 5
+  n_components: 5
+  min_dist: 0.1
+  metric: cosine
+  random_state: 42
+
+# HDBSCAN clustering settings
+hdbscan_params:
+  min_cluster_size: 2
+  metric: euclidean
+  cluster_selection_method: eom
+  prediction_data: true

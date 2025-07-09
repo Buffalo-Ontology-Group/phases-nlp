@@ -44,10 +44,24 @@ Before running the application, ensure that the following dependencies are insta
     - `python-dotenv`
     - `gensim`
     - `biopython`
-    - `googlesearch-python'
+    - `googlesearch-python`
     - `scholarly`
     - `click`
     - `nltk`
+    - `pandas`
+    - `openpyxl`
+    - `spaCy`
+    - `python-docx`
+    - `sentence-transformers`
+    - `BERTopic`
+    - `scikit-learn`
+    - `hdbscan`
+    - `umap-learn`
+    - `keybert`
+    - `transformers`
+    - `plotly`
+    - `pyyaml`
+    - `torch`
 
 ### Usage
 
@@ -61,7 +75,7 @@ Once the installation is complete, the project can be used by following the inst
 
     After installing the dependencies, you can run the script by executing the following command:
 
-    `python main.py`
+    `python script_name.py` (Replace `script_name.py` with the actual main script filename of the relevant project)
 
 ### Contributing
 

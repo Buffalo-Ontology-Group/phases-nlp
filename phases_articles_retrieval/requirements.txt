@@ -1,8 +1,0 @@
-
-
-python-dotenv
-requests
-biopython
-click
-googlesearch-python
-scholarly

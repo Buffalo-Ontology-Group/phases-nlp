@@ -1,7 +1,0 @@
-
-
-requests
-gensim
-nltk
-python-dotenv
-click
