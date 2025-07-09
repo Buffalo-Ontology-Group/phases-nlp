@@ -8,7 +8,7 @@ SME guided LDA: A variant of LDA that incorporates subject matter expert guidanc
 
 TF-IDF guided LDA: Another variant of LDA, enhanced with TF-IDF weighting to improve topic quality.
 
-Each of these subprojects applies LDA (Latent Dirichlet Allocation) for unsupervised topic modeling on scientific abstracts related to topics such as gerotranscendence and solitude.
+Each of these subprojects applies LDA (Latent Dirichlet Allocation) for topic modeling on scientific abstracts related to topics such as gerotranscendence and solitude.
 
 ## Features
 

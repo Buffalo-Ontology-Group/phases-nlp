@@ -18,6 +18,14 @@ Retrieves articles related to specific topics,"gerotranscendence" and "solitude"
 
 Searches for scientific articles related to specific topics such as gerotranscendence, solitude and healthy aging, retrieve their abstracts and titles, and performs topic modeling using Latent Dirichlet Allocation (LDA).
 
+### Term Frequency-Inverse Document Frequency (TF_IDF) computation on research abstracts of related to the PHASES project
+
+Computes TF-IDF (Term Frequency-Inverse Document Frequency) scores for a collection of research abstracts, related to specific topics such as gerotranscendence and solitude.
+
+### PHASES Abstracts Guided LDA (Latent Dirichlet Allocation)
+
+Features three subprojects, Standard LDA, SME (Subject Matter Experts) guided LDA and TF-IDF (Term Frequency-Inverse Document Frequency) guided LDA. Each of these subprojects applies LDA (Latent Dirichlet Allocation) for topic modeling on scientific abstracts related to topics such as gerotranscendence and solitude.
+
 ### Installation
 
 To get started with the **phases-nlp**, follow these steps:
