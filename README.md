@@ -44,10 +44,17 @@ Before running the application, ensure that the following dependencies are insta
     - `python-dotenv`
     - `gensim`
     - `biopython`
-    - `googlesearch-python'
+    - `googlesearch-python`
     - `scholarly`
     - `click`
     - `nltk`
+    - `pandas`
+    - `openpyxl`
+    - `matplotlib`
+    - `seaborn`
+    - `python-docx`
+    - `pyLDAvis`
+      
 
 ### Usage
 
