@@ -1,0 +1,29 @@
+# spaCy model to use for POS tagging
+spacy_model: en_core_web_sm # Lightweight English model for tekenization and part-of-speech tagging
+
+# Vectorizer configuration for BERTopic
+vectorizer_params:
+  scheme: tfidf          # Term Frequency-Inverse Document Frequency for weighting words    
+  stop_words: english    # Remove common English stopwords
+  ngram_range: [1, 3]    # Include unigrams, bigrams, and trigrams
+
+# SentenceTransformer model for embeddings
+sentence_transformer_model: all-MiniLM-L6-v2 # Lightweight transformer model for generating sentence embeddings
+
+# KeyBERT model (usually same as sentence transformer)
+keybert_model: all-MiniLM-L6-v2 # Used by KeyBERT to extract keywords via embedding similarity
+
+# UMAP dimensionality reduction settings
+umap_params:
+  n_neighbors: 5        # Local neighbourhood size for manifold approximation
+  n_components: 5       # Number of dimensions to reduce to
+  min_dist: 0.1         # Controls how tightly UMAP packs points (lower = tight clusters)
+  metric: cosine        # Distance metric for computing similarity
+  random_state: 42      # Reproducibility seed
+
+# HDBSCAN clustering settings
+hdbscan_params:
+  min_cluster_size: 2               # Minimum number of samples in a cluster
+  metric: euclidean                 # Distance metric used for clustering
+  cluster_selection_method: eom     # Excess of mass method for better-defined clusters
+  prediction_data: true             # Enables soft clustering and outlier detection

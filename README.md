@@ -28,7 +28,7 @@ Performs guided topic modeling using LDA on research abstracts related to gerotr
 
 ### BERTopic Modeling on Solitude and Gerotranscendence books
 
-Identifies and analyzes latent themes related to solitude and gerotranscendence from two key books, The Handbook of Solitude: Psychological Perspectives on Social Isolation, Social Withdrawal, and Being Alone and Gerotranscendence: A Developmental Theory of Positive Aging. Topics are extracted using BERTopic (both default and custom preprocessing pipelines), and after validation by subject matter experts (SMEs), the refined topics are to be incorporated as concepts within the PHASES ontology.
+Identifies and analyzes latent themes related to solitude and gerotranscendence from two key books, The Handbook of Solitude: Psychological Perspectives on Social Isolation, Social Withdrawal, and Being Alone and Gerotranscendence: A Developmental Theory of Positive Aging. Topics are extracted using BERTopic (both default and custom preprocessing pipelines), and after validation by subject matter experts (SMEs), the refined topics are to be incorporated as concepts within the PHASES ontology. Also, the bertopic modelig output text files from solitude and gerotranscendence are processed to compute cross domain similairity.
 
 ### Installation
 
@@ -45,6 +45,7 @@ To get started with the **phases-nlp**, follow these steps:
 3. Install the required dependencies:
 
     `pip install -r requirements.txt`
+    `python -m spacy download en_core_web_sm`
 
 ### Requirements
 
@@ -76,8 +77,17 @@ Before running the application, ensure that the following dependencies are insta
     - `transformers`
     - `plotly`
     - `pyyaml`
-      
+    - `Local Stanford CoreNLP server running with the OpenIE annotator`. The server is accessible at `http://localhost:9000`.
+ 
+### Stanford CoreNLP Setup
 
+- Download Stanford CoreNLP from `http://stanfordnlp.github.io/CoreNLP/`
+- Unzip and navigate to the CoreNLP directory.
+- Start the server with OpenIE annotator enabled:
+  ```bash
+   java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer \
+        -port 9000 -timeout 15000 -annotators tokenize,ssplit,pos,lemma,depparse,natlog,openie
+      
 ### Usage
 
 Once the installation is complete, the project can be used by following the instructions. Below are the steps to run the application:
@@ -88,11 +98,7 @@ Once the installation is complete, the project can be used by following the inst
 
 2. **Run the application**:
 
-   After installing the dependencies,
-   `pip install -r requirements.txt'
-   `python -m spacy download en_core_web_sm`
-
-   Run the script by executing the following command:
+   After installing the dependencies, run the script by executing the following command:
 
     `python main.py`
    
@@ -105,6 +111,8 @@ Once the installation is complete, the project can be used by following the inst
    `python bertopic_default_gerotranscendence.py`
    
    `python bertopic_custom_preprocessing_gerotranscendence.py`
+
+   `python overlap_topic_sol_gero.py`
    
 
 ### Contributing
