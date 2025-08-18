@@ -26,6 +26,10 @@ Computes TF-IDF scores for a collection of research abstracts, related to specif
 
 Performs guided topic modeling using LDA on research abstracts related to gerotranscendence and solitude. This project explores topic modeling across different phases of research using three distinct approaches to Latent Dirichlet Allocation (LDA). The first approach applies standard LDA without any seed words. The second approach uses SME-guided LDA, where domain-specific seed words are provided by SMEs to guide topic generation toward thematically relevant concepts. The third approach implements TF-IDF-guided LDA, using automatically extracted keywords based on TF-IDF scores from the corpus to serve as seed words. By applying and comparing these methods across research phases, the project aims to understand how guidance affects topic quality, coherence, and interpretability in a domain-specific context.
 
+### BERTopic Modeling on Solitude and Gerotranscendence books
+
+Identifies and analyzes latent themes related to solitude and gerotranscendence from two key books, The Handbook of Solitude: Psychological Perspectives on Social Isolation, Social Withdrawal, and Being Alone and Gerotranscendence: A Developmental Theory of Positive Aging. Topics are extracted using BERTopic (both default and custom preprocessing pipelines), and after validation by subject matter experts (SMEs), the refined topics are to be incorporated as concepts within the PHASES ontology.
+
 ### Installation
 
 To get started with the **phases-nlp**, follow these steps:
@@ -62,6 +66,16 @@ Before running the application, ensure that the following dependencies are insta
     - `seaborn`
     - `python-docx`
     - `pyLDAvis`
+    - `bertopic`
+    - `sentence-transformers`
+    - `spacy`
+    - `scikit-learn`
+    - `hdbscan`
+    - `umap-learn`
+    - `keybert`
+    - `transformers`
+    - `plotly`
+    - `pyyaml`
       
 
 ### Usage
@@ -74,9 +88,24 @@ Once the installation is complete, the project can be used by following the inst
 
 2. **Run the application**:
 
-    After installing the dependencies, you can run the script by executing the following command:
+   After installing the dependencies,
+   `pip install -r requirements.txt'
+   `python -m spacy download en_core_web_sm`
+
+   Run the script by executing the following command:
 
     `python main.py`
+   
+   **For BERTopic modeling:**
+   
+   `python bertopic_default_solitude.py'
+   
+   'python bertopic_custom_preprocessing_solitude.py`
+   
+   `python bertopic_default_gerotranscendence.py`
+   
+   `python bertopic_custom_preprocessing_gerotranscendence.py`
+   
 
 ### Contributing
 
