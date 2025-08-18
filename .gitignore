@@ -1,28 +1,45 @@
-# standard directories for virtual environments
-.env
-.venv
-env
-venv
-.jupyter
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
 
-# OSX Desktop Services Store file
-.DS_Store
-
-# ignore tmp/ directory
-tmp/
-
-# PyCharm project config
-.idea/
-
-# jupyter backups
+# Jupyter Notebook
 .ipynb_checkpoints/
+.jupyter/
 
-# emacs backup files
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs and editors
+.vscode/
+.idea/
 *~
 
-# ignore files needed for pypi distribution
-__pycache__/
+# Mac/Linux/Windows system files
+.DS_Store
+Thumbs.db
+
+# Output files and generated artifacts
+*.png
+*.html
+*.xlsx
+*.csv
+*.txt
+
+# Build and packaging
 build/
 dist/
 *.egg-info/
 *.egg
+
+# Cache
+.cache/
+
+# Temporary directories
+tmp/
