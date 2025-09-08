@@ -1,0 +1,524 @@
+BERTopic results plotkins vaccines
+
+Topic 0
+  Auto Label:        Antibodies
+  Descriptive Label: Antibodies
+  Keywords:          pertussis, bordetella, bordetella pertussis, pertussis vaccine, acellular, pertussis vaccines, toxin, pertussis toxin, warfel jm, warfel
+  Summary:           Pertussis vaccines, whether whole cell or acellular, contain multiple components of the bacteria. Toxins and adherence factors are important in pathogenesis, and studies show that whereas antibodies against any of these reduces risk, antibod- ies against multiple virulence factors reduce risk even more.
+
+Topic 1
+  Auto Label:        Malaria
+  Descriptive Label: Malaria
+  Keywords:          rts, malaria, plasmodium, circumsporozoite, cell immunity, circumsporozoite protein, malaria vaccine, appear, t, protein
+  Summary:           It has usually been assumed that T-cell responses are the important protective correlate for bacille Calmette-Guérin (BCG) vaccine and tuberculosis in general. It has been difficult to prove that assumption.
+
+Topic 2
+  Auto Label:        Metrics
+  Descriptive Label: Metrics
+  Keywords:          surrogate, surrogate endpoints, endpoints, treatment, clinical trials, validation, meta, endpoints clinical, fleming tr, fleming
+  Summary:           Surrogate endpoints in clinical trials: definition and operational criteria. Estimating the proportion of treatment effect explained by a surrogate marker.
+
+Topic 3
+  Auto Label:        Hiv
+  Descriptive Label: Hiv
+  Keywords:          hiv-1, v2, vaccine efficacy, haynes, efficacy trial, trial, bf, haynes bf, envelope, edlefsen
+  Summary:           A striking example of the importance of antibody function has been reported after an HIV vaccine trial in Thailand. IgG3 antibodies directed against the V1-V2 loops of virus were shown to cor- relate with protection.
+
+Topic 4
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines
+  Keywords:          systems, yellow fever, yellow, fever, fever vaccine, systems vaccinology, vaccinology, immunology, biology, systems biology
+  Summary:           This book describes the immunology sur- Principle 2: The Mechanism of Protection by Vaccination Is Not Necessarily the Same Mechanism as Recovery From Infection. Principle 3: A Large Challenge Dose Can Overcome Immunity Principle 4: Most Current Vaccines Protect Through Antibodies Principle 6: Antibody Must Be Functional
+
+Topic 5
+  Auto Label:        Immune
+  Descriptive Label: Immune
+  Keywords:          induced vaccination, protection vaccination, correlates protection, vaccination, protection induced, induced, correlates, major infectious, 2010;17(7):1055, infectious diseases
+  Summary:           Plotkin SA. Correlates of protection induced by vaccination.
+
+Topic 6
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Varicella
+  Keywords:          zoster, herpes zoster, herpes, zoster vaccine, zoster virus, dorsal, specific immune, varicella, varicella virus, virus specific
+  Summary:           The current vaccine consists of live varicella virus in large quantity or the gE protein of the virus. In both cases the vaccines elicit both antibodies and cellular responses.
+
+Topic 7
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Immune
+  Keywords:          baseline, individual, placebo, immune response, endpoint, surrogate endpoint, technique, baseline variables, application vaccine, receive
+  Summary:           VE curve statistical methods incorporate techniques for ‘filling in’ the counterfactual immune responses of placebo recipients. The “baseline immune response predic- tor’ technique develops a model from vaccine recipients predicting individual immune response biomarkers.
+
+Topic 8
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Vaccines
+  Keywords:          influenza vaccines, influenza, attenuated inactivated, induced live, inactivated influenza, attenuated, vaccines, immune correlates, live attenuated, systems
+  Summary:           Live attenuated and inactivated influenza vaccines in children. J Infect Dis.
+
+Topic 9
+  Auto Label:        Preimmunization
+  Descriptive Label: Preimmunization
+  Keywords:          cop, developing cops, simple, cops, determination, issues, statistical issues, possible, developing, efficacy trials
+  Summary:           A CoP is an immune efficacy trial participants, to make possible measurement of preimmunization predictors of the candidate CoP in most disease cases. Unavailability of baseline samples has been one of the greatest limiting factors for CoP assessment in efficacy trials.
+
+Topic 10
+  Auto Label:        Rotavirus
+  Descriptive Label: Rotavirus
+  Keywords:          rotavirus, human rotavirus, monovalent inactivated, inactivated human, animal studies, protection rota-, immunity evidence, studies hum, a61 correlates, evidence animal
+  Summary:           Do a monovalent inactivated human rotavirus vaccine induce heterotypic immunity? Evidence from animal studies.
+
+Topic 11
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Antibody
+  Keywords:          levels, rate, high levels, influenza, high, block virus, influenza vaccine, cytotoxic t, occurred, households
+  Summary:           Fig. 3.1 shows a retrospective analysis of the relationship between antibody responses to influenza hemagglutinin and protec- tion against disease.
+
+Topic 12
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Immunodeficiency
+  Keywords:          siv, effector, rhesus, vector, early, pathogenic, effector memory, line, proteins, highly pathogenic
+  Summary:           An interesting discovery was made recently in simian immunodeficiency virus (SIV)–infected rhesus monkeys. The vector induced effector CD8+ T cells directed against the SIV proteins and was able to abort early SIV infections.
+
+Topic 13
+  Auto Label:        Pneumococcal
+  Descriptive Label: Pneumococcal
+  Keywords:          conjugate vaccine, conjugate, pneumococcal, pneumococcal conjugate, meningococcal, infants, valent, old, elisa, produced
+  Summary:           A study of meningococcal Group C polysaccharide vaccine conducted in Quebec showed the difference in function between antibodies measured by ELISA or by bacterial killing. Adults produced both types of antibodies and were highly protected.
+
+Topic 14
+  Auto Label:        Cohort
+  Descriptive Label: Cohort
+  Keywords:          cohort, case cohort, case, epidemiology, lifetime, samuelsen stratified, identifiability exchangeability, variance estimation, stratified case, results case
+  Summary:           Breslow NE, Lumley T, Ballantyne CM, et al. Using the whole cohort in the analysis of case-cohort data.
+
+Topic 15
+  Auto Label:        Statistical
+  Descriptive Label: Statistical
+  Keywords:          article25, statistics biological, biological, 4th, library, laboratory, tection 1997;89:283, hubbard, correlates pro-, 1997;89:283
+  Summary:           Sokal RR, Rohlf FJ. Biometry: The Principles and Practice of Statistics In Biological Research.
+
+Topic 16
+  Auto Label:        Biometrics
+  Descriptive Label: Biometrics – Stratification
+  Keywords:          causal, principal stratification, stratification, principal, stratification causal, surrogate, biometrics, approach, approach improved, improved estima-
+  Summary:           Principal stratification in causal infer- ence. Biometrics.
+
+Topic 17
+  Auto Label:        Ebola
+  Descriptive Label: Ebola
+  Keywords:          promises, results year, obstacles clemens, vaccine promises, clemens trial, vaccines implications, toxic, race, particularly antibody, protection particularly
+  Summary:           Recent illustration of probable cocorrelates is the chim- panzee adenovirus vectored vaccine against Ebola virus. Whereas monkeys that generate ELISA titers of 2000 or more almost always survive an Ebola challenge, passive antibody did not protect.
+
+Topic 18
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Vaccinees
+  Keywords:          anamnestic, anti-, response, vaccinees, approaches assessing, s19 per-, later life, usually protected, exposed virus.59–62, life vaccinees
+  Summary:           Hepatitis B vaccine is highly immunogenic at birth, but anti- bodies are frequently lost later in life. Nevertheless, vaccinees are usually protected because they have an anamnestic anti- body response when exposed to the virus.
+
+Topic 19
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Immune – T19
+  Keywords:          ve, cop, pathogen, immune response, biomarker, subgroups, useful cop, % vaccinees, end, cops
+  Summary:           The determination of a correlate of protection (CoP) by a vaccine is often critical to its development. A CoP permits measurement of consistent lot potency of a vaccine and differentiation of susceptible from immune individuals.
+
+Topic 20
+  Auto Label:        Cytomegalovirus
+  Descriptive Label: Cytomegalovirus
+  Keywords:          pfu, cytomegalovirus, naturally seropositive, seronegative, naturally, low passage, seropositive, subjects, passage, infected
+  Summary:           Seronegative, naturally seropositive, and previously vaccinated subjects were challenged parenterally with 10, 100, or 1000 PFU of a low-passage natural strain of cytomegalovirus. The vaccine prevented infection by 100PFU of the challenge virus, but not by 1000PFU.
+
+Topic 21
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Antibody – T21
+  Keywords:          nasal, live attenuated, hae- mophilus, virus infections, thoughts vaccine, infections thoughts, ainai, dren vaccinated, attenuated ainai, vaccinated live
+  Summary:           A good example of cocorrelates may be derived from studies of influenza. The live, attenuated intranasal vaccine generates both serum antibody and nasal IgA mucosal antibody.
+
+Topic 22
+  Auto Label:        Cd4
+  Descriptive Label: Cd4
+  Keywords:          subsets, clearly, t cell, cell subsets, responses correlates, functions, t, cell, clearly learned, protective functions
+  Summary:           There is clearly much still to be learned about T-cell responses as correlates. CD4+ T cells exist in many varieties with different helper functions for B and T cells that influence protection directly or indirectly.
+
+Topic 23
+  Auto Label:        Rubella
+  Descriptive Label: Rubella
+  Keywords:          neutralization, strains, rubella vaccines, glutination, hemag-, rubella, hemag- glutination, inhibition, neut neutralization, realized important
+  Summary:           neutralization of viruses and killing of bacteria are often mCoP. It has been increasingly realized that there are other important antibody functions.
+
+Topic 24
+  Auto Label:        Estimation
+  Descriptive Label: Estimation
+  Keywords:          likelihood, weighted, sampling, stage, estimation, estimation semipara-, reilly m., m. optimal, transformation models, sampling strategies
+  Summary:           Breslow NE, Lumley T, Ballantyne CM, et al. Improved Horvitz- Thompson estimation of model parameters from two-phase stratified samples.
+
+Topic 25
+  Auto Label:        Biometrics
+  Descriptive Label: Biometrics – Gate
+  Keywords:          endpoints, principal, principal biometrics, endpoints springer, comparing, comparing biomarkers, tsiatis, evaluation endpoints, biometrics comparing, springer evaluating
+  Summary:           The Evaluation of Surro- gate Endpoints. In: Gail MH, Kricke- berg K, Samet J, Tsiatis
+
+Topic 26
+  Auto Label:        Expertconsult
+  Descriptive Label: Expertconsult
+  Keywords:          statistical learning, learning, introduction statistical, references, learning applications, introduction, applications, r, springer, eds introduction
+  Summary:           An Introduction to Statistical Learning: with Applications, in R, is published by Springer. References for this chapter are available at ExpertConsult.
+
+Topic 27
+  Auto Label:        Immunity
+  Descriptive Label: Immunity
+  Keywords:          poxvirus, poxvirus infection, secondary, reader, t, cells, t cells, cd8, +, reader mind
+  Summary:           This chapter seeks to simplify immunology in order to identify principles of protection. Serum and mucosal antibodies come in different isotypes and functionality.
+
+Topic 28
+  Auto Label:        Memory
+  Descriptive Label: Memory
+  Keywords:          principle, relation, principle memory, protect cocorrelates, factor protect, principle factor, phenomena principle, specific phenomena, relation specific, defined relation
+  Summary:           Protection Must Be Defined in Relation to Specific Phenomena Principle 8:
+
+Topic 29
+  Auto Label:        Chlamydia
+  Descriptive Label: Chlamydia
+  Keywords:          chlamydia, trachomatis, chlamydia trachomatis, protective immunity, tularemia, macaques foster, sufficient ifn, trachomatis cell, immunity chlamydia, produce sufficient
+  Summary:           CD8+ T cells define an unexpected role in live-attenuated vaccine protective immunity against Chlamydia trachomatis infection in macaques.
+
+Topic 30
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Pulmonary
+  Keywords:          doherty, absence cells, cells, influenza, absence, cells correlate, type virus, disease protection, correlate disease, clearing
+  Summary:           CD4+ T cells are ineffective in clearing a pulmonary infection with influenza type A virus in the absence of B cells. Preexisting influenza- specific CD4+.
+
+Topic 31
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Granzyme
+  Keywords:          older adults, older, adults, response vacci-, adults vaccine, nation older, vacci- nation, vaccine thijs, trial jama, thijs efficacy
+  Summary:           Granzyme B: Correlates with protection and enhanced CTL response to influenza in older adults.
+
+Topic 32
+  Auto Label:        Bioanalytical
+  Descriptive Label: Bioanalytical
+  Keywords:          center, evaluation research, guidance, center drug, industry, services, cder center, drug, cder, guidance industry
+  Summary:           European Medicines Agency Committee for Medicinal Products for Human Use (CHMP) Guideline on Bioanalytical Method Vali- dation. FDA Guidance for Industry: Clinical Trial Endpoints for the Approval of Cancer Drugs and Biologics.
+
+Topic 33
+  Auto Label:        Alphavirus
+  Descriptive Label: Alphavirus
+  Keywords:          measles, level, cell deficient, deficient humans, deficient, monkeys, b, humans, level antibody, protection measles
+  Summary:           The level of antibodies that protect against measles has been defined. A level of 120 mIU of antibody measured by ELISA indicates protection against clinical measles and infection.
+
+Topic 34
+  Auto Label:        Tuberculosis
+  Descriptive Label: Tuberculosis
+  Keywords:          tuberculosis, mcaleer, lishment, il-17, estab-, defense immunol, immune defense, directing, traffic, il-17 estab-
+  Summary:           IL-23 and IL-17 in the estab- lishment of protective pulmonary CD4+ T cell responses after vaccination and during Mycobacterium
+
+Topic 35
+  Auto Label:        35
+  Descriptive Label: 35
+  Keywords:          res 1996;91(433):14, ageing res, 1996;91(433):14, res, ageing, , , , , 
+  Summary:           35 Ageing
+
+Topic 36
+  Auto Label:        Protec
+  Descriptive Label: Protec
+  Keywords:          protec- tion, protec-, correlates protec-, tion, dunning, model immunological, acute, ellner, jj, tion med
+  Summary:           Jokinen JT, Ahman H, Kilpi TM, et al. Concentration of anti- pneumococcal antibodies as a serological correlate of protec-
+
+Topic 37
+  Auto Label:        Clin
+  Descriptive Label: Clin
+  Keywords:          med, , , , , , , , , 
+  Summary:           Clin Infect Dis
+
+Topic 38
+  Auto Label:        Correlates
+  Descriptive Label: Correlates
+  Keywords:          correlates complexity, nonmechanistic correlates, convenient nonmechanistic, principle convenient, relative principle, correlates relative, principle correlates, complexity, convenient, complexity correlates
+  Summary:           Principle 5: Correlates
+
+Topic 39
+  Auto Label:        Osdesign
+  Descriptive Label: Osdesign
+  Keywords:          control studies, optimal, error, studies, control, design, designing optimal, evaluation design, stage epidemiologi-, epidemiologi- cal
+  Summary:           R is an R package for the analysis, evaluation, and design of two-phase and case-control studies.
+
+Topic 40
+  Auto Label:        Antibody
+  Descriptive Label: Antibody
+  Keywords:          antibodies, bacteremia, rabies, attachment, administration, levels times, pre-, times, agents, fact
+  Summary:           Protection against infection may relate to different immune markers than protection against disease. Polio is an example in which paralysis can be prevented by serum antibodies.
+
+Topic 41
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Immunological
+  Keywords:          varicella med, evaluating antibody, models evaluating, statistical models, use statistical, trials use, protection vaccine, protection varicella, assessing immunological, framework assessing
+  Summary:           A framework for assessing immunological correlates of protection in vaccine trials. Qin L, Gilbert PB, Corey L, et al.
+
+Topic 42
+  Auto Label:        Estimates
+  Descriptive Label: Estimates
+  Keywords:          area, efficacy trials, assays, area statistical, cops, dimensional, biomarkers, trials, b, low
+  Summary:           Statistical power for detecting a CoP is eroded for biomarkers with low signal-to-noise ratios. Table 3.4 gives our best estimates of CoPs for currently licensed vaccines.
+
+Topic 43
+  Auto Label:        Serum
+  Descriptive Label: Serum
+  Keywords:          plexed, mcop provides, brown, dugast, multi-, ncop.70–72, agreed, throughput, samples immunol, cal samples
+  Summary:           High-throughput, multi- plexed IgG subclassing of antigen-specific
+
+
+Document-Level Assignments:
+Doc 1: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 2: Topic 5 (Auto: Immune; Descriptive: Immune), Prob: 0.70687913
+Doc 3: Topic 19 (Auto: Vaccine; Descriptive: Vaccine – Immune – T19), Prob: 0.62571929
+Doc 4: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 5: Topic 9 (Auto: Preimmunization; Descriptive: Preimmunization), Prob: 1.00000000
+Doc 6: Topic 19 (Auto: Vaccine; Descriptive: Vaccine – Immune – T19), Prob: 1.00000000
+Doc 7: Topic 4 (Auto: Vaccines; Descriptive: Vaccines), Prob: 0.67746204
+Doc 8: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 9: Topic 27 (Auto: Immunity; Descriptive: Immunity), Prob: 0.60295896
+Doc 10: Topic 28 (Auto: Memory; Descriptive: Memory), Prob: 0.69828721
+Doc 11: Topic 28 (Auto: Memory; Descriptive: Memory), Prob: 1.00000000
+Doc 12: Topic 40 (Auto: Antibody; Descriptive: Antibody), Prob: 1.00000000
+Doc 13: Topic 4 (Auto: Vaccines; Descriptive: Vaccines), Prob: 1.00000000
+Doc 14: Topic 33 (Auto: Alphavirus; Descriptive: Alphavirus), Prob: 1.00000000
+Doc 15: Topic 27 (Auto: Immunity; Descriptive: Immunity), Prob: 1.00000000
+Doc 16: Topic 35 (Auto: 35; Descriptive: 35), Prob: 1.00000000
+Doc 17: Topic 4 (Auto: Vaccines; Descriptive: Vaccines), Prob: 1.00000000
+Doc 18: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 19: Topic 20 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 0.55659249
+Doc 20: Topic 4 (Auto: Vaccines; Descriptive: Vaccines), Prob: 1.00000000
+Doc 21: Topic 40 (Auto: Antibody; Descriptive: Antibody), Prob: 1.00000000
+Doc 22: Topic 38 (Auto: Correlates; Descriptive: Correlates), Prob: 1.00000000
+Doc 23: Topic 11 (Auto: Influenza; Descriptive: Influenza – Antibody), Prob: 0.91310467
+Doc 24: Topic 11 (Auto: Influenza; Descriptive: Influenza – Antibody), Prob: 1.00000000
+Doc 25: Topic 23 (Auto: Rubella; Descriptive: Rubella), Prob: 1.00000000
+Doc 26: Topic 11 (Auto: Influenza; Descriptive: Influenza – Antibody), Prob: 0.91051821
+Doc 27: Topic 4 (Auto: Vaccines; Descriptive: Vaccines), Prob: 1.00000000
+Doc 28: Topic 23 (Auto: Rubella; Descriptive: Rubella), Prob: 1.00000000
+Doc 29: Topic 13 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 1.00000000
+Doc 30: Topic 3 (Auto: Hiv; Descriptive: Hiv), Prob: 0.24700809
+Doc 31: Topic 22 (Auto: Cd4; Descriptive: Cd4), Prob: 0.49125663
+Doc 32: Topic 1 (Auto: Malaria; Descriptive: Malaria), Prob: 0.40490204
+Doc 33: Topic 29 (Auto: Chlamydia; Descriptive: Chlamydia), Prob: 0.83276206
+Doc 34: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 35: Topic 22 (Auto: Cd4; Descriptive: Cd4), Prob: 1.00000000
+Doc 36: Topic 28 (Auto: Memory; Descriptive: Memory), Prob: 0.84476482
+Doc 37: Topic 21 (Auto: Influenza; Descriptive: Influenza – Antibody – T21), Prob: 1.00000000
+Doc 38: Topic 11 (Auto: Influenza; Descriptive: Influenza – Antibody), Prob: 0.33519182
+Doc 39: Topic 0 (Auto: Antibodies; Descriptive: Antibodies), Prob: 1.00000000
+Doc 40: Topic 17 (Auto: Ebola; Descriptive: Ebola), Prob: 1.00000000
+Doc 41: Topic 28 (Auto: Memory; Descriptive: Memory), Prob: 1.00000000
+Doc 42: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Vaccinees), Prob: 1.00000000
+Doc 43: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Immunodeficiency), Prob: 0.79065023
+Doc 44: Topic 38 (Auto: Correlates; Descriptive: Correlates), Prob: 1.00000000
+Doc 45: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Varicella), Prob: 0.74067536
+Doc 46: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 47: Topic 43 (Auto: Serum; Descriptive: Serum), Prob: 1.00000000
+Doc 48: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 49: Topic 9 (Auto: Preimmunization; Descriptive: Preimmunization), Prob: 1.00000000
+Doc 50: Topic 42 (Auto: Estimates; Descriptive: Estimates), Prob: 1.00000000
+Doc 51: Topic 9 (Auto: Preimmunization; Descriptive: Preimmunization), Prob: 1.00000000
+Doc 52: Topic 19 (Auto: Vaccine; Descriptive: Vaccine – Immune – T19), Prob: 1.00000000
+Doc 53: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 54: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 0.46436603
+Doc 55: Topic 9 (Auto: Preimmunization; Descriptive: Preimmunization), Prob: 1.00000000
+Doc 56: Topic 9 (Auto: Preimmunization; Descriptive: Preimmunization), Prob: 1.00000000
+Doc 57: Topic 19 (Auto: Vaccine; Descriptive: Vaccine – Immune – T19), Prob: 1.00000000
+Doc 58: Topic 19 (Auto: Vaccine; Descriptive: Vaccine – Immune – T19), Prob: 0.94985029
+Doc 59: Topic 38 (Auto: Correlates; Descriptive: Correlates), Prob: 1.00000000
+Doc 60: Topic 9 (Auto: Preimmunization; Descriptive: Preimmunization), Prob: 1.00000000
+Doc 61: Topic 11 (Auto: Influenza; Descriptive: Influenza – Antibody), Prob: 0.82242242
+Doc 62: Topic 0 (Auto: Antibodies; Descriptive: Antibodies), Prob: 1.00000000
+Doc 63: Topic 0 (Auto: Antibodies; Descriptive: Antibodies), Prob: 0.62250760
+Doc 64: Topic 1 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 65: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Immunodeficiency), Prob: 0.45726229
+Doc 66: Topic 9 (Auto: Preimmunization; Descriptive: Preimmunization), Prob: 0.96685832
+Doc 67: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 68: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 69: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 70: Topic 42 (Auto: Estimates; Descriptive: Estimates), Prob: 1.00000000
+Doc 71: Topic 26 (Auto: Expertconsult; Descriptive: Expertconsult), Prob: 1.00000000
+Doc 72: Topic 26 (Auto: Expertconsult; Descriptive: Expertconsult), Prob: 0.56633169
+Doc 73: Topic 5 (Auto: Immune; Descriptive: Immune), Prob: 0.56376195
+Doc 74: Topic 5 (Auto: Immune; Descriptive: Immune), Prob: 0.80918259
+Doc 75: Topic 5 (Auto: Immune; Descriptive: Immune), Prob: 1.00000000
+Doc 76: Topic 37 (Auto: Clin; Descriptive: Clin), Prob: 1.00000000
+Doc 77: Topic 41 (Auto: Vaccine; Descriptive: Vaccine – Immunological), Prob: 1.00000000
+Doc 78: Topic 5 (Auto: Immune; Descriptive: Immune), Prob: 1.00000000
+Doc 79: Topic 37 (Auto: Clin; Descriptive: Clin), Prob: 1.00000000
+Doc 80: Topic 5 (Auto: Immune; Descriptive: Immune), Prob: 0.71917438
+Doc 81: Topic 13 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 0.59405157
+Doc 82: Topic 36 (Auto: Protec; Descriptive: Protec), Prob: 1.00000000
+Doc 83: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 84: Topic 33 (Auto: Alphavirus; Descriptive: Alphavirus), Prob: 1.00000000
+Doc 85: Topic 27 (Auto: Immunity; Descriptive: Immunity), Prob: 1.00000000
+Doc 86: Topic 4 (Auto: Vaccines; Descriptive: Vaccines), Prob: 1.00000000
+Doc 87: Topic 27 (Auto: Immunity; Descriptive: Immunity), Prob: 1.00000000
+Doc 88: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 89: Topic 20 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 1.00000000
+Doc 90: Topic 5 (Auto: Immune; Descriptive: Immune), Prob: 1.00000000
+Doc 91: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Vaccinees), Prob: 1.00000000
+Doc 92: Topic 21 (Auto: Influenza; Descriptive: Influenza – Antibody – T21), Prob: 0.87969856
+Doc 93: Topic 11 (Auto: Influenza; Descriptive: Influenza – Antibody), Prob: 1.00000000
+Doc 94: Topic 0 (Auto: Antibodies; Descriptive: Antibodies), Prob: 1.00000000
+Doc 95: Topic 23 (Auto: Rubella; Descriptive: Rubella), Prob: 0.93583829
+Doc 96: Topic 13 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 0.92428814
+Doc 97: Topic 3 (Auto: Hiv; Descriptive: Hiv), Prob: 0.36598061
+Doc 98: Topic 3 (Auto: Hiv; Descriptive: Hiv), Prob: 1.00000000
+Doc 99: Topic 3 (Auto: Hiv; Descriptive: Hiv), Prob: 0.50863885
+Doc 100: Topic 3 (Auto: Hiv; Descriptive: Hiv), Prob: 0.34854740
+Doc 101: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 102: Topic 36 (Auto: Protec; Descriptive: Protec), Prob: 1.00000000
+Doc 103: Topic 34 (Auto: Tuberculosis; Descriptive: Tuberculosis), Prob: 1.00000000
+Doc 104: Topic 34 (Auto: Tuberculosis; Descriptive: Tuberculosis), Prob: 1.00000000
+Doc 105: Topic 37 (Auto: Clin; Descriptive: Clin), Prob: 1.00000000
+Doc 106: Topic 1 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 107: Topic 1 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 108: Topic 1 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 109: Topic 1 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 110: Topic 29 (Auto: Chlamydia; Descriptive: Chlamydia), Prob: 0.79308084
+Doc 111: Topic 23 (Auto: Rubella; Descriptive: Rubella), Prob: 0.71935486
+Doc 112: Topic 29 (Auto: Chlamydia; Descriptive: Chlamydia), Prob: 1.00000000
+Doc 113: Topic 29 (Auto: Chlamydia; Descriptive: Chlamydia), Prob: 1.00000000
+Doc 114: Topic 8 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 1.00000000
+Doc 115: Topic 21 (Auto: Influenza; Descriptive: Influenza – Antibody – T21), Prob: 1.00000000
+Doc 116: Topic 8 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 0.93124842
+Doc 117: Topic 8 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 0.78242132
+Doc 118: Topic 30 (Auto: Influenza; Descriptive: Influenza – Pulmonary), Prob: 1.00000000
+Doc 119: Topic 30 (Auto: Influenza; Descriptive: Influenza – Pulmonary), Prob: 1.00000000
+Doc 120: Topic 30 (Auto: Influenza; Descriptive: Influenza – Pulmonary), Prob: 0.90024586
+Doc 121: Topic 31 (Auto: Influenza; Descriptive: Influenza – Granzyme), Prob: 1.00000000
+Doc 122: Topic 35 (Auto: 35; Descriptive: 35), Prob: 1.00000000
+Doc 123: Topic 31 (Auto: Influenza; Descriptive: Influenza – Granzyme), Prob: 1.00000000
+Doc 124: Topic 30 (Auto: Influenza; Descriptive: Influenza – Pulmonary), Prob: 0.84704514
+Doc 125: Topic 0 (Auto: Antibodies; Descriptive: Antibodies), Prob: 1.00000000
+Doc 126: Topic 0 (Auto: Antibodies; Descriptive: Antibodies), Prob: 1.00000000
+Doc 127: Topic 0 (Auto: Antibodies; Descriptive: Antibodies), Prob: 1.00000000
+Doc 128: Topic 0 (Auto: Antibodies; Descriptive: Antibodies), Prob: 1.00000000
+Doc 129: Topic 0 (Auto: Antibodies; Descriptive: Antibodies), Prob: 1.00000000
+Doc 130: Topic 0 (Auto: Antibodies; Descriptive: Antibodies), Prob: 1.00000000
+Doc 131: Topic 17 (Auto: Ebola; Descriptive: Ebola), Prob: 1.00000000
+Doc 132: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Immunodeficiency), Prob: 0.68475051
+Doc 133: Topic 17 (Auto: Ebola; Descriptive: Ebola), Prob: 0.65287239
+Doc 134: Topic 17 (Auto: Ebola; Descriptive: Ebola), Prob: 0.70960166
+Doc 135: Topic 33 (Auto: Alphavirus; Descriptive: Alphavirus), Prob: 1.00000000
+Doc 136: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 137: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Vaccinees), Prob: 1.00000000
+Doc 138: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Vaccinees), Prob: 0.96026090
+Doc 139: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Vaccinees), Prob: 0.89479127
+Doc 140: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Varicella), Prob: 1.00000000
+Doc 141: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Immunodeficiency), Prob: 1.00000000
+Doc 142: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Immunodeficiency), Prob: 1.00000000
+Doc 143: Topic 20 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 0.28449927
+Doc 144: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Varicella), Prob: 1.00000000
+Doc 145: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Varicella), Prob: 1.00000000
+Doc 146: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Immunodeficiency), Prob: 0.61928806
+Doc 147: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Varicella), Prob: 1.00000000
+Doc 148: Topic 10 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 149: Topic 10 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 0.15051036
+Doc 150: Topic 10 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 151: Topic 10 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 0.28750673
+Doc 152: Topic 3 (Auto: Hiv; Descriptive: Hiv), Prob: 0.50863885
+Doc 153: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 154: Topic 15 (Auto: Statistical; Descriptive: Statistical), Prob: 1.00000000
+Doc 155: Topic 32 (Auto: Bioanalytical; Descriptive: Bioanalytical), Prob: 1.00000000
+Doc 156: Topic 32 (Auto: Bioanalytical; Descriptive: Bioanalytical), Prob: 1.00000000
+Doc 157: Topic 15 (Auto: Statistical; Descriptive: Statistical), Prob: 0.92176890
+Doc 158: Topic 15 (Auto: Statistical; Descriptive: Statistical), Prob: 1.00000000
+Doc 159: Topic 4 (Auto: Vaccines; Descriptive: Vaccines), Prob: 1.00000000
+Doc 160: Topic 8 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 1.00000000
+Doc 161: Topic 4 (Auto: Vaccines; Descriptive: Vaccines), Prob: 1.00000000
+Doc 162: Topic 4 (Auto: Vaccines; Descriptive: Vaccines), Prob: 1.00000000
+Doc 163: Topic 43 (Auto: Serum; Descriptive: Serum), Prob: 1.00000000
+Doc 164: Topic 1 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 165: Topic 8 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 0.99881608
+Doc 166: Topic 4 (Auto: Vaccines; Descriptive: Vaccines), Prob: 1.00000000
+Doc 167: Topic 8 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 1.00000000
+Doc 168: Topic 15 (Auto: Statistical; Descriptive: Statistical), Prob: 0.91858154
+Doc 169: Topic 26 (Auto: Expertconsult; Descriptive: Expertconsult), Prob: 1.00000000
+Doc 170: Topic 22 (Auto: Cd4; Descriptive: Cd4), Prob: 1.00000000
+Doc 171: Topic 2 (Auto: Metrics; Descriptive: Metrics), Prob: 1.00000000
+Doc 172: Topic 2 (Auto: Metrics; Descriptive: Metrics), Prob: 1.00000000
+Doc 173: Topic 14 (Auto: Cohort; Descriptive: Cohort), Prob: 0.93814580
+Doc 174: Topic 2 (Auto: Metrics; Descriptive: Metrics), Prob: 0.49553070
+Doc 175: Topic 2 (Auto: Metrics; Descriptive: Metrics), Prob: 0.49553070
+Doc 176: Topic 2 (Auto: Metrics; Descriptive: Metrics), Prob: 0.37984546
+Doc 177: Topic 2 (Auto: Metrics; Descriptive: Metrics), Prob: 0.48546055
+Doc 178: Topic 16 (Auto: Biometrics; Descriptive: Biometrics – Stratification), Prob: 1.00000000
+Doc 179: Topic 2 (Auto: Metrics; Descriptive: Metrics), Prob: 0.48546055
+Doc 180: Topic 2 (Auto: Metrics; Descriptive: Metrics), Prob: 0.64851413
+Doc 181: Topic 16 (Auto: Biometrics; Descriptive: Biometrics – Stratification), Prob: 0.75258965
+Doc 182: Topic 2 (Auto: Metrics; Descriptive: Metrics), Prob: 0.43694826
+Doc 183: Topic 25 (Auto: Biometrics; Descriptive: Biometrics – Gate), Prob: 0.82178219
+Doc 184: Topic 25 (Auto: Biometrics; Descriptive: Biometrics – Gate), Prob: 1.00000000
+Doc 185: Topic 13 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 1.00000000
+Doc 186: Topic 15 (Auto: Statistical; Descriptive: Statistical), Prob: 1.00000000
+Doc 187: Topic 13 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 0.74132884
+Doc 188: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 0.77805120
+Doc 189: Topic 24 (Auto: Estimation; Descriptive: Estimation), Prob: 0.82078850
+Doc 190: Topic 41 (Auto: Vaccine; Descriptive: Vaccine – Immunological), Prob: 1.00000000
+Doc 191: Topic 36 (Auto: Protec; Descriptive: Protec), Prob: 1.00000000
+Doc 192: Topic 0 (Auto: Antibodies; Descriptive: Antibodies), Prob: 1.00000000
+Doc 193: Topic 3 (Auto: Hiv; Descriptive: Hiv), Prob: 1.00000000
+Doc 194: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 195: Topic 25 (Auto: Biometrics; Descriptive: Biometrics – Gate), Prob: 1.00000000
+Doc 196: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 1.00000000
+Doc 197: Topic 16 (Auto: Biometrics; Descriptive: Biometrics – Stratification), Prob: 0.52392556
+Doc 198: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 0.83566485
+Doc 199: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Varicella), Prob: 1.00000000
+Doc 200: Topic 16 (Auto: Biometrics; Descriptive: Biometrics – Stratification), Prob: 1.00000000
+Doc 201: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Varicella), Prob: 1.00000000
+Doc 202: Topic 2 (Auto: Metrics; Descriptive: Metrics), Prob: 0.43743931
+Doc 203: Topic 16 (Auto: Biometrics; Descriptive: Biometrics – Stratification), Prob: 1.00000000
+Doc 204: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 0.57754403
+Doc 205: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 1.00000000
+Doc 206: Topic 2 (Auto: Metrics; Descriptive: Metrics), Prob: 0.55601792
+Doc 207: Topic 25 (Auto: Biometrics; Descriptive: Biometrics – Gate), Prob: 1.00000000
+Doc 208: Topic 2 (Auto: Metrics; Descriptive: Metrics), Prob: 0.38069831
+Doc 209: Topic 14 (Auto: Cohort; Descriptive: Cohort), Prob: 1.00000000
+Doc 210: Topic 35 (Auto: 35; Descriptive: 35), Prob: 1.00000000
+Doc 211: Topic 24 (Auto: Estimation; Descriptive: Estimation), Prob: 1.00000000
+Doc 212: Topic 14 (Auto: Cohort; Descriptive: Cohort), Prob: 1.00000000
+Doc 213: Topic 14 (Auto: Cohort; Descriptive: Cohort), Prob: 0.38647267
+Doc 214: Topic 14 (Auto: Cohort; Descriptive: Cohort), Prob: 0.65101524
+Doc 215: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 216: Topic 14 (Auto: Cohort; Descriptive: Cohort), Prob: 0.75735709
+Doc 217: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 218: Topic 39 (Auto: Osdesign; Descriptive: Osdesign), Prob: 1.00000000
+Doc 219: Topic 24 (Auto: Estimation; Descriptive: Estimation), Prob: 0.95861453
+Doc 220: Topic 39 (Auto: Osdesign; Descriptive: Osdesign), Prob: 0.87483567
+Doc 221: Topic 39 (Auto: Osdesign; Descriptive: Osdesign), Prob: 1.00000000
+Doc 222: Topic 24 (Auto: Estimation; Descriptive: Estimation), Prob: 1.00000000
+Doc 223: Topic 26 (Auto: Expertconsult; Descriptive: Expertconsult), Prob: 1.00000000
+Doc 224: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 225: Topic 2 (Auto: Metrics; Descriptive: Metrics), Prob: 1.00000000
+Doc 226: Topic 8 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 1.00000000
+Doc 227: Topic 32 (Auto: Bioanalytical; Descriptive: Bioanalytical), Prob: 1.00000000
+Doc 228: Topic 10 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 0.25481529
+Doc 229: Topic 17 (Auto: Ebola; Descriptive: Ebola), Prob: 0.32993503
+Doc 230: Topic 13 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 0.58323970
+Doc 231: Topic 3 (Auto: Hiv; Descriptive: Hiv), Prob: 0.36598061
+Doc 232: Topic 1 (Auto: Malaria; Descriptive: Malaria), Prob: 0.39385152
+Doc 233: Topic 31 (Auto: Influenza; Descriptive: Influenza – Granzyme), Prob: 1.00000000
+Doc 234: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 0.48108905
+Doc 235: Topic 3 (Auto: Hiv; Descriptive: Hiv), Prob: 0.49641176
+Doc 236: Topic 3 (Auto: Hiv; Descriptive: Hiv), Prob: 1.00000000
+Doc 237: Topic 3 (Auto: Hiv; Descriptive: Hiv), Prob: 0.59574948
+Doc 238: Topic 3 (Auto: Hiv; Descriptive: Hiv), Prob: 0.39445143
+Doc 239: Topic 34 (Auto: Tuberculosis; Descriptive: Tuberculosis), Prob: 1.00000000
+Doc 240: Topic 22 (Auto: Cd4; Descriptive: Cd4), Prob: 1.00000000
+Doc 241: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 242: Topic 0 (Auto: Antibodies; Descriptive: Antibodies), Prob: 1.00000000
+Doc 243: Topic 0 (Auto: Antibodies; Descriptive: Antibodies), Prob: 1.00000000
+Doc 244: Topic 0 (Auto: Antibodies; Descriptive: Antibodies), Prob: 1.00000000
+Doc 245: Topic 1 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 246: Topic 1 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 247: Topic 1 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 248: Topic 4 (Auto: Vaccines; Descriptive: Vaccines), Prob: 1.00000000
+Doc 249: Topic 1 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 250: Topic 1 (Auto: Malaria; Descriptive: Malaria), Prob: 0.88905738
+Doc 251: Topic 20 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 1.00000000
+Doc 252: Topic 20 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 0.69956945
+Doc 253: Topic 21 (Auto: Influenza; Descriptive: Influenza – Antibody – T21), Prob: 1.00000000
+Doc 254: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 255: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 256: Topic 10 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000

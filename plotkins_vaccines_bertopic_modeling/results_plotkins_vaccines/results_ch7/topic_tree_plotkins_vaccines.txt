@@ -1,0 +1,53 @@
+.
+├─aluminum_antibiotics_cfr_residuals_vaccine
+│    ├─aluminum_antibiotics_residuals_cfr_vaccine
+│    │    ├─aluminum_antibiotics_vaccine_additives_added
+│    │    │    ├─antibiotics_freeze_manufacture_added_excep- tion
+│    │    │    │    ├─■──antibiotics_manufacture_penicillin_manufacture cfr_excep- tion ── Topic: 23
+│    │    │    │    └─■──freeze_freeze dried_dried_stabilizers_drying ── Topic: 14
+│    │    │    └─aluminum_additives_residuals_adjuvants_quantity
+│    │    │         ├─additives_residuals_quantity_specifications_process
+│    │    │         │    ├─■──additives_residuals_process_vaccines licensed_manufacturing ── Topic: 3
+│    │    │         │    └─■──quantity_specifications_regulation_antibiotics_quantity additives ── Topic: 12
+│    │    │         └─■──aluminum_aluminum salts_salts_adjuvant_adjuvants ── Topic: 0
+│    │    └─factor_inactive_safety factor_culture_inactive ingredients
+│    │         ├─■──residuals_bacterial cellular_cfr §_culture components_categories ── Topic: 11
+│    │         └─■──factor_safety factor_inactive_information_containing appropriate ── Topic: 10
+│    └─preservative_preservatives_agents_director_adventitious agents
+│         ├─agents_adventitious agents_adventitious_bovine_derived
+│         │    ├─■──bovine_derived_bse_spongiform_rule ── Topic: 1
+│         │    └─■──adventitious agents_described_adventitious_director_agents ── Topic: 24
+│         └─preservative_preservatives_toxic_recommended_potency
+│              ├─■──preservative_preservatives_definition_exceptions_vials ── Topic: 19
+│              └─■──toxic_recommended_able potency_present recommended_recommended dose ── Topic: 22
+└─vaccines_formaldehyde_requirements_vaccine_cell
+     ├─cell_cells_expert_biological_expert committee
+     │    ├─■──biological_standardization_biological standardization_committee biological_expert committee ── Topic: 7
+     │    └─■──cells_cell_cell line_line_diploid ── Topic: 15
+     └─vaccines_formaldehyde_immunization_thimerosal_days
+          ├─formaldehyde_days_references_count days_count
+          │    ├─formaldehyde_residual formaldehyde_humans_carcinogenicity_international
+          │    │    ├─■──carcinogenicity studies_international agency_international_agency research_carcinogenicity ── Topic: 8
+          │    │    └─■──formaldehyde_residual formaldehyde_residual_daily_mg ── Topic: 9
+          │    └─days_references_count days_count_initial
+          │         ├─references_chapter_www.fda.gov/downloads/biologicsbloodvaccines/guidance complianceregulatoryinforma
+          │         │    ├─■──complianceregulatoryinformation_chapter wkly_availability_http://www.fda.gov/downloads/biologicsbloo ── Topic: 17
+          │         │    └─■──references_according minimum_references wc500003902.pdf_chapter available_references chapter ── Topic: 2
+          │         └─■──days_count days_count_initial_initial count ── Topic: 18
+          └─vaccines_immunization_thimerosal_pertussis_gelatin
+               ├─pertussis_vaccines_gelatin_milk_tetanus
+               │    ├─gelatin_milk_pertussis_test_tetanus
+               │    │    ├─test_lysate_pertussis_endotoxin_lysate test
+               │    │    │    ├─■──lysate_test_endotoxin_lps_lysate test ── Topic: 21
+               │    │    │    └─■──pertussis_pertussis vaccine_purity_fifth_fifth dose ── Topic: 25
+               │    │    └─gelatin_milk_tetanus_reactions_milk allergy
+               │    │         ├─milk_tetanus_milk allergy_allergy_anaphylactic
+               │    │         │    ├─■──toxoid use_toxoids vaccine_4th health_4th_toxoid ── Topic: 6
+               │    │         │    └─■──milk_milk allergy_allergy_anaphylactic_cow ── Topic: 16
+               │    │         └─■──gelatin_allergic_measles_mumps_measles mumps ── Topic: 13
+               │    └─phenol_sanofi_manufactured_polysaccharide_vaccines novartis
+               │         ├─■──phenol_polysaccharide vaccine_vaccine manufactured_manufactured_polysaccharide ── Topic: 20
+               │         └─■──vaccines novartis_sanofi_novartis vaccines_novartis_biologicals ── Topic: 26
+               └─immunization_autism_thimerosal_review_immunization safety
+                    ├─■──thimerosal_statement_thimerosal containing_use thimerosal_disorders ── Topic: 5
+                    └─■──immunization_immunization safety_safety review_review_autism ── Topic: 4

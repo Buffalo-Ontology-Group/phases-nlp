@@ -1,0 +1,1176 @@
+BERTopic results plotkins vaccines
+
+Topic 0
+  Auto Label:        Smallpox
+  Descriptive Label: Smallpox – Variolation
+  Keywords:          variolation, smallpox, living, small pox, son, small, royal society, royal, pox, lady
+  Summary:           Variolation was introduced into England by Lady Mary Wortley Montagu in 1721, after her return from Constanti- nople, where she lived for 2 years with her husband, the British Ambassador to the Ottoman Empire. In the 16th century, Brahmin Hindus in India practiced a form of variola- tion by introducing dried pus from smallpox pustules into the skin of a patient.
+
+Topic 1
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Encephalitis
+  Keywords:          japanese, japanese encephalitis, encephalitis, encephalitis vaccine, mouse, mouse brain, brain, inactivated japanese, vaccine inacti-, allergic
+  Summary:           The development of a Japanese encephalitis (JE) vaccine was attempted during the Second World War. A formalin-inactivated whole-virus vaccine, harvested from mouse brain, was developed in Japan in 1965.
+
+Topic 2
+  Auto Label:        Rotavirus
+  Descriptive Label: Rotavirus – Vaccines
+  Keywords:          rotavirus, rotavirus vaccine, human rotavirus, bovine, gastroenteritis, rotavirus gastroenteritis, rotavirus vaccines, pediatr, pediatr infect, pentavalent
+  Summary:           Other rotavirus vaccines were developed by H. Fred Clark, Paul Offit, and Stanley Plotkin at the Wistar Institute and the Children’s Hospital of Philadelphia.
+
+Topic 3
+  Auto Label:        Fever
+  Descriptive Label: Fever
+  Keywords:          yellow, yellow fever, fever, fever virus, theiler, sawyer, virus cultivation, cultivation, mice, researchers
+  Summary:           Yellow fever virus was isolated in 1927 by two independent groups. Researchers at the Rockefeller Foundation working in Nigeria, isolated the Asibi strain,103–105 and researchers at the Pasteur Institute in Senegal, who isolated the French strain.
+
+Topic 4
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Pertussis
+  Keywords:          pertussis, pertussis vaccine, acellular, acellular pertussis, cell tussis, decker pertussis, tussis, filamentous, decker, cases whooping
+  Summary:           Jules Bordet and Octave Gengou first observed the causal agent of pertussis in 1900 and cultivated it by 1906. Thorvald Madsen later carried out the first controlled clinical trials of apertussis Health.
+
+Topic 5
+  Auto Label:        Antigénique
+  Descriptive Label: Antigénique
+  Keywords:          tétanique, acad zoeller, zoeller, -, acad, r acad, immunisierung infection, behring 1890;16:1113, à -, antigen containing
+  Summary:           The immunogenicity of a diphtherie-Immunität. After it had been shown that the immunogenity of a.
+
+Topic 6
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Influenzae
+  Keywords:          influenzae, type b, b, influenzae type, capsular, schneerson, capsular polysaccharide, type, polysaccharide, phosphate
+  Summary:           The first-generation H. influenzae type b vaccine was devel- oped by Porter Anderson, David Smith, Rachel Schneer- son,353 and their associates.
+
+Topic 7
+  Auto Label:        Diphtheria
+  Descriptive Label: Diphtheria
+  Keywords:          tetanus, toxin, antitoxin, guinea pigs, toxoid, diphtheria, guinea, pigs, toxoids, diph-
+  Summary:           In 1888, Roux and Yersin showed that the diphtheria bacil- lus produced a powerful toxin. Emil von Behring and Kitasato, working in Koch’s laboratory in Berlin, followed up on early work by Karl Fraenkel.
+
+Topic 8
+  Auto Label:        Flaviviruses
+  Descriptive Label: Flaviviruses
+  Keywords:          tick, tick borne, borne encephalitis, borne, encephalitis, encephalitis virus, encephalitis complex, complex, tbe, isolates
+  Summary:           The first killed tickborne encephalitis (TBE) vaccine, pro- duced in mouse brain, was developed in the Soviet Union in 1937. A whole virus inactivated vaccine was developed by Heinz, Kunz, and Fauma in 1980,297 and is effective against isolates of the TBE virus that share a homologous envelope glycoprotein.
+
+Topic 9
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Anthrax
+  Keywords:          anthrax vaccine, anthrax, anthrax vaccines, protective antigen, human anthrax, advances development, little, generation anthrax, protective, advances
+  Summary:           Modern work on a human anthrax vaccine began in the second half of the 20th century. The vaccine contains the secreted protein called “protective antigen” that forms part of the toxin.
+
+Topic 10
+  Auto Label:        Papillomavirus
+  Descriptive Label: Papillomavirus
+  Keywords:          self, hpv, like particles, vlps, cancer, assembly, particles, self assembly, capsid, capsid protein
+  Summary:           Research to develop the HPV vaccine spanned at least 15 years, two continents, several laboratories, and competing claims of priority. The subunit vaccine is based on the capability of self-assembly of virus-like particles in the L1 (major) capsid protein.
+
+Topic 11
+  Auto Label:        Hepatitis
+  Descriptive Label: Hepatitis – Vaccine
+  Keywords:          derived vaccine, particles, vaccine recombinant, recombinant yeast, antigen particles, yeast nature, yeast, derived, synthesis, nature
+  Summary:           The discovery that the particles of hepatitis B surface antigen (HBsAg) found in infected people are immunogenic and pro- tective but noninfectious362–365 provided the basis for efforts to purify these particles from the blood of chronic carriers. Hilleman and colleagues succeeded in licensing a plasma-derived vaccine in the United States in 1981.
+
+Topic 12
+  Auto Label:        Paris
+  Descriptive Label: Paris
+  Keywords:          bubonique, révaccination ouvriers, bull pasteur, prendre, la, ouvriers, prévenir, 1906;20:731, 1906;20:731 affenruckenmarken, pasteur 1906;20:731
+  Summary:           Pasteur L. Méthode pour prévenir la rage après morsure.
+
+Topic 13
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Vaccine
+  Keywords:          influenza, laidlaw, embryonated eggs, embryonated, chenoweth, investigation, human influenza, virus, eggs, influenza virus
+  Summary:           Wilson Smith, Christopher Andrewes, and Patrick Laidlaw isolated human influenza A virus in ferrets in 1933. Frank Horsfall, Alice Chenoweth, and colleagues developed a live influenza virus vaccine in mouse lung tissue in 1936.
+
+Topic 14
+  Auto Label:        Zoster
+  Descriptive Label: Zoster
+  Keywords:          zoster, herpes, shingles, herpes zoster, zoster vaccine, zoster virus, postherpetic, older, older adults, zoster postherpetic
+  Summary:           In May 2006, the FDA granted a license for Zostavax, a higher-potency, live attenuated Oka virus vaccine against zoster. Originally recommended for those age 60 years and older, it is now recommended for anyone older than age 50 years.
+
+Topic 15
+  Auto Label:        Anthrax
+  Descriptive Label: Anthrax – Vaccine
+  Keywords:          sheep, toussaint, anthrax, goat, nonvaccinated, filter, goat cows, phenol, cows, blood
+  Summary:           Henry Toussaint published two articles in July 1880 in the Comptes Rendus de l’Académie des Sciences on a live anthrax vaccine. He had started his anthrax experi- ments in May 1880, stating that he was inspired to do so after hearing Pasteur in February 1880 describe his chicken cholera vaccine experiment.
+
+Topic 16
+  Auto Label:        Pdf
+  Descriptive Label: Pdf
+  Keywords:          references, chapter available, references chapter, available references, chapter, available, , , , 
+  Summary:           References for this chapter are available
+
+Topic 17
+  Auto Label:        Poliomyelitis
+  Descriptive Label: Poliomyelitis – Virus
+  Keywords:          tissues, cultures human, fc, robbins fc, cultures, human testicular, virus cultures, testicular, viruses, propagation
+  Summary:           Cultivation of poliomyelitis virus in cultures of human foreskin and embryonic tissues. Growth of neurotropic viruses in extraneural tissues in vitro.
+
+Topic 18
+  Auto Label:        Pneumococcal
+  Descriptive Label: Pneumococcal
+  Keywords:          pneumococcal, m., substance, pneumonia, pneumococcus, transformation, m. studies, acid fraction, macleod cm, wright observations
+  Summary:           Pneumococcal vaccine. In: Plotkin SA, Orenstein WA, eds.
+
+Topic 19
+  Auto Label:        Vaccination
+  Descriptive Label: Vaccination – Immunité
+  Keywords:          d’inoculations, neuse r, neuse, r, roux, août d’inoculations, sellards contre, contre r, quelques points, points neuse
+  Summary:           Toussaint H. Mémoire sur l’immunité pour le charbon à la suite d’inoculations préventives.
+
+Topic 20
+  Auto Label:        Poliomyelitis
+  Descriptive Label: Poliomyelitis – Vaccines
+  Keywords:          report, service technical, technical, report vaccine, technical report, public health, health, service, public, a68/21
+  Summary:           Salk JE, Krech U, Youngner JS, et al. Formaldehyde treatment and safety testing of experimental poliomyelitis vaccines.
+
+Topic 21
+  Auto Label:        Typhoid
+  Descriptive Label: Typhoid – Vaccines
+  Keywords:          ty21a, salmonella, oral typhoid, ty21a salmonella, vaccine coated, salmonella typhi, typhi, coated, oral, typhoid vaccine
+  Summary:           After the early work on killed typhoid vaccine, a variety of heat-phenol–killed, parenteral, whole-cell typhoid vaccines became available. All had high rates of adverse reactions and were never considered quite satisfactory.
+
+Topic 22
+  Auto Label:        Cholera
+  Descriptive Label: Cholera – Vaccine
+  Keywords:          live oral, tacket, oral cholera, oral, cholera vaccine, company, cholera, live, safety efficacy, vaccine strain
+  Summary:           An attenuated live oral cholera vaccine, derived from Inada strain 569B has been developed by Myron Levine and colleagues at the University of Maryland. This vaccine requires a cold chain and a buffer.
+
+Topic 23
+  Auto Label:        Cholera
+  Descriptive Label: Cholera – Vaccines
+  Keywords:          cholera, vaccines cholera, oral vaccines, killed, cholera vaccine, clemens, killed oral, cholera vaccines, trach, vaccine valent
+  Summary:           Since 2000, 13 important vaccines have been licensed in the U.S. and Europe.
+
+Topic 24
+  Auto Label:        Rotavirus
+  Descriptive Label: Rotavirus – Vaccine
+  Keywords:          intussusception, monovalent, vaccine adverse, reporting, vaccine intussusception, adverse event, event reporting, rotavirus, event, recipients
+  Summary:           An orally administered, quadrivalent, live rotavirus reas- sortant vaccine developed by Albert Kapikian and associates was licensed for use in the United States in September 1998. Within 10 months of licensure, cases of intussusception among vaccine recipients were reported to the Vaccine Adverse Event Reporting System.
+
+Topic 25
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Influenza
+  Keywords:          strains, wild, master strains, internal, reassortment, laiv, adapted, master, vaccine strains, cold
+  Summary:           Newer vaccine design technologies in the 1990s made it possible to develop live attenuated influenza vaccines that confer long-term immunity. Three attenuated master strains were developed for live influenza vaccines: host-range, temperature-sensitive, and cold-adapted mutants.
+
+Topic 26
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Pneumococcal
+  Keywords:          pneumococcal, pneumococcal conjugate, prevention pneumococcal, conjugate vaccine, valent, conjugate, valent pneumococcal, prophylaxis pediatrics, pneumococcal infections, infections including
+  Summary:           In February 2010, a 13-valent pneumococcal conjugate vaccine was licensed. PCV13 is recommended for prevention of pneumococ CAL disease in infants, elderly adults, and immunocompromised individuals.
+
+Topic 27
+  Auto Label:        Lyme
+  Descriptive Label: Lyme – Vaccine
+  Keywords:          disease vaccine, lyme disease, lyme, disease, lipo- protein, issues controversies, new disease, need new, controversies, sikand
+  Summary:           Vaccine. 2001;19:2303-2308.
+
+Topic 28
+  Auto Label:        Meningococcal
+  Descriptive Label: Meningococcal – Meningitis
+  Keywords:          meningococcal, blind controlled, jm, blind, group, controlled trial, immunogenicity, conjugate, infants, reac- togenicity
+  Summary:           A new conjugate meningococcal C vaccine in infants. Safety and immunogenicity of three lots of meningitis C vaccine administered at 2, 3 and 4 months.
+
+Topic 29
+  Auto Label:        Vaccination
+  Descriptive Label: Vaccination – Benjamin
+  Keywords:          dawn, new light, light dawn, light, books, letter bmj, healthy letter, a. magic, sory vaccination, pioneer books
+  Summary:           Pead PJ. Benjamin Jesty: new light in the dawn of vaccination.
+
+Topic 30
+  Auto Label:        Anthrax
+  Descriptive Label: Anthrax – Bacillus
+  Keywords:          anthrax, anthrax bacillus, bacillus, survive indefinitely, cultures anthrax, cholera casimir, bacillus capability, lapped work, over- lapped, began over-
+  Summary:           Koch was the first to obtain pure cultures of anthrax bacillus. Human anthrax had not been viewed as a serious problem in the late 20th century.
+
+Topic 31
+  Auto Label:        24
+  Descriptive Label: 24
+  Keywords:          responses.325,326 proc, proc, responses.325,326, , , , , , , 
+  Summary:           325,326 Proc Am Assoc Adv Sci
+
+Topic 32
+  Auto Label:        Cholera
+  Descriptive Label: Cholera – Vaccination
+  Keywords:          chicken, chickens, chicken cholera, acidic, bouillon, cholera, cultures, bread, soaked, microbe
+  Summary:           Louis Pasteur's work on the attenuation of the chicken cholera bacterium in the late 1870s was the first major advance after Jenner’s Variolae Vaccinae. Pasteur drew on con- cepts that had been developing for at least 40 years: attenua- tion; modification through passage; renewed virulence; and the need to replace person-to-person vaccination with something safer.
+
+Topic 33
+  Auto Label:        Immunity
+  Descriptive Label: Immunity – Vaccines
+  Keywords:          contagious, immunity contagious, contagious diseases, killed vaccines, diseases, terial, term virus, heated suspen-, formed, multiplication
+  Summary:           In 1886, Daniel Elmer Salmon and Theobald Smith published their work on a killed hog cholera “virus” vaccine. Their report demonstrated that the ideas of live and killed vaccines developed almost simultaneously.
+
+Topic 34
+  Auto Label:        Biologicsbloodvaccines
+  Descriptive Label: Biologicsbloodvaccines
+  Keywords:          biologicsbloodvaccines, biologicsbloodvaccines vaccines, approval, bl, vaccines approvedproducts, approvedproducts, approval letter, letter, magazine centennial, feb approval
+  Summary:           FDA Consumer Magazine: The Centennial Edition, Jan-Feb 2006;40(1):50-57. Bren L.
+
+Topic 35
+  Auto Label:        Varicella
+  Descriptive Label: Varicella – Vaccination
+  Keywords:          varicella, impact, varicella vaccination, impact varicella, r tran, assessment decade, vaccination epidemiology, ray impact, tn ray, tran tn
+  Summary:           Varicella vaccination of children in the United States: assessment after the first decade 1995–2005. The impact of vaccination on the epidemiology of varicella: 1995-2009.
+
+Topic 36
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Vaccine – T36
+  Keywords:          attenuated cold, cold adapted, trivalent, adapted, cold, trivalent intranasal, adapted trivalent, pm, intranasal, live attenuated
+  Summary:           The efficacy of live attenuated, cold-adapted, trivalent, intranasal influenza virus vaccine in children. The safety, efficacy and effec- tiveness of a live, attenuated influenza vaccine in an indicated population aged 4-49 years.
+
+Topic 37
+  Auto Label:        Rubella
+  Descriptive Label: Rubella – Virus
+  Keywords:          rubella, rubella virus, embryo, kidney, maurice anton, diploid cells, cytopathic, blasts, sole, oped strain
+  Summary:           Rubella virus was isolated in 1962, both by Tom Weller168 and Parkman and associates. The virus was attenuated by passage in cell culture and by 1970, several strains had been developed and were in use.
+
+Topic 38
+  Auto Label:        Hepatitis
+  Descriptive Label: Hepatitis – Vaccines
+  Keywords:          provost, inactivated hepatitis, hepatitis, hepatitis vaccine, inactivated, virus cell, vaccine cell, cell culture, cell, humans formaldehyde
+  Summary:           In 1979, Maurice Hilleman and Phil Provost grew hepatitis A virus in cell culture. Formaldehyde-inactivated, whole-virion HAV vaccines were later developed and licensed in the United States in 1995– 1996.
+
+Topic 39
+  Auto Label:        Decades
+  Descriptive Label: Decades
+  Keywords:          20th, 20th century, half 20th, half, early developments, obstacles prompted, present obstacles, century present, cho- second, use cho-
+  Summary:           In 1931, E.W. Goodpasture introduced the use of the cho-
+
+Topic 40
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Innovate
+  Keywords:          vaccinology, plumb, networks, anticholera, political, knowledge, spawned, platinum, innovation, vicissitudes
+  Summary:           The next major step in vaccine development took place in cination on the health of the world’s population. In the 21st century, that impact will continue to increase, as a new generation of scientists create and innovate.
+
+Topic 41
+  Auto Label:        Cholera
+  Descriptive Label: Cholera – Transmitted
+  Keywords:          abt jena, jena, abt, 1896;19:217, récit historique, reprint, riol, jena 1896;19:217, shown cholera, cholera transmitted
+  Summary:           John Snow had shown that cholera was transmitted by Pasteur L. C R Acad Sci Paris.
+
+Topic 42
+  Auto Label:        Rabies
+  Descriptive Label: Rabies – Vaccinated
+  Keywords:          rabies, rabid, bitten, meister, dog, rabid dog, spinal, notebooks, admitted, girl
+  Summary:           Joseph Meister and Jean Baptiste Jupille were the first humans to be vaccinated against rabies. The reaction was predictable: outrage.
+
+Topic 43
+  Auto Label:        Adenovirus
+  Descriptive Label: Adenovirus – Vaccine
+  Keywords:          respiratory, respiratory disease, adenovirus, adenovirus vaccines, types adenovirus, recruits, types, military, military recruits, unexpectedly years
+  Summary:           In 2011, the U.S. Food and Drug Administration (FDA) again approved a live oral vaccine for adenovirus types 4 and 7 for military populations ages 17 to 50 years.
+
+Topic 44
+  Auto Label:        Vaccination
+  Descriptive Label: Vaccination – Tuberculose
+  Keywords:          tuberculose, et 3ème, 3ème memoires, bacillaire, antituberculose, 3ème, préventive, tuberculose et, digestive, par
+  Summary:           Calmette A, Guérin C. Origine intestinale de la tuberculose pul- monaire.
+
+Topic 45
+  Auto Label:        Lancet
+  Descriptive Label: Lancet
+  Keywords:          , , , , , , , , , 
+  Summary:           The Lancet.
+
+Topic 46
+  Auto Label:        Wright
+  Descriptive Label: Wright
+  Keywords:          medical practice, denmark, practice, medical, denmark paper, enders home, scientist reflected, concerning danes, approach medi-, medi- cine
+  Summary:           Major RH. Bartholin T.
+
+Topic 47
+  Auto Label:        Meningococcal
+  Descriptive Label: Meningococcal – Meningococcus
+  Keywords:          candidates, vaccine candidates, genome sequencing, serogroup, factor, sequencing, serogroup vaccine, meningococcal serogroup, program, reverse
+  Summary:           Meningococcus serogroup B is the first disease where genome sequencing has been successful in identifying such vaccine candidates. This was accomplished with reverse vac- cinology, a technology first pioneered by Rino Rappuoli and colleagues in Siena.
+
+Topic 48
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Genome
+  Keywords:          allows, identification, genome, proteins, vaccinology, shortening, completed hundreds, vaccine array, proteins possible, identification proteins
+  Summary:           In 1995 the first complete genome sequence was pub- lished (H. influenzae) More than 100 other pathogen sequences were completed and hundreds more undertaken.
+
+Topic 49
+  Auto Label:        Lyme
+  Descriptive Label: Lyme – Diagnosis
+  Keywords:          lyme disease, treatment, lyme, inter- national, successful treatment, yearbook, yearbook medicine, national symposium, symposium 1984;57:445, 1984;57:445 recommendations
+  Summary:           Lyme disease: recommendations for diagnosis and treatment. In: Rogers DE, Bone RC, Cline MJ, eds.
+
+Topic 50
+  Auto Label:        Typhoid
+  Descriptive Label: Typhoid – Vaccines – T50
+  Keywords:          wright, typhoid, beginning, vaccination typhoid, killed typhoid, vaccine wright, war, opposition, typhoid fever, british
+  Summary:           Richard Pfeiffer and Wilhelm Kolle in Germany and Almroth Wright in England worked independently on killed typhoid vaccines. Wright proposed mass immunization of British troops with typhoid vaccine during the Boer War (1899), but there was opposition because of adverse reactions.
+
+Topic 51
+  Auto Label:        Varicella
+  Descriptive Label: Varicella – Vaccine
+  Keywords:          varicella, varicella vaccine, attenuated varicella, live attenuated, long convoluted, prevent spread, convoluted development, varicella children, children hospitals, hospitals live
+  Summary:           The live attenuated Oka strain of varicella vaccine was developed in the 1970s by Michiaki Takahashi. It underwent extensive clinical trials before being licensed in Japan and several European countries.
+
+Topic 52
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Tuberculosis
+  Keywords:          vaccine s49, therapy vaccine, s49, tuberculosis fleming, fleming recent, advances vaccine, cines vaccine, vaccine serum, saunders rev, vaccines ehrlich
+  Summary:           The vaccine against tuberculosis, bacille Calmette-Guérin Fleming A, Petrie GF. Recent Advances in Vaccine and Serum Therapy
+
+Topic 53
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Influenza
+  Keywords:          influenza vaccine, safe, influenza, influenza disease, inclusion, prevention influenza, consistently, schedule occur, adults achieved, febrile.205
+  Summary:           Influenza vaccines were first licensed in the United States in 1945202. The first recommendation for their inclusion in the pediatric schedule did not occur until 2004.
+
+Topic 54
+  Auto Label:        Bacteriologists
+  Descriptive Label: Bacteriologists
+  Keywords:          bacterins, phagocytosis, opsonins, catalog, sold, prepared, society, american, bacteria, provide
+  Summary:           Bacterins for humans fell into disuse by the late 1930s as more stringent licensing requirements were imposed by the federal government. Most bac- terins were prepared and sold without clinical trials.
+
+Topic 55
+  Auto Label:        Typhoid
+  Descriptive Label: Typhoid – Vaccines – T55
+  Keywords:          typhoid vaccines, controlled field, vaccines organ, field trial, field, typhoid, organ, effectiveness, controlled, inactivated typhoid
+  Summary:           A controlled field trial of the effectiveness of acetone-dried and inactivated and heat-phenol- inactivated typhoid vaccines in Yugoslavia. The Lancet.
+
+Topic 56
+  Auto Label:        Adenovirus
+  Descriptive Label: Adenovirus – Adenoviruses
+  Keywords:          adenovirus, selective infection, selective, types adenovirus, potency, types, contaminated attempts, couch, rb, cate
+  Summary:           In the 1950s, the adenoviruses were first recovered from adenoids that had been surgically removed. Formalin-inactivated, whole-virus vaccines were made by Hilleman against types 4 and 7.
+
+Topic 57
+  Auto Label:        Vaccinia
+  Descriptive Label: Vaccinia – Vaccination
+  Keywords:          natural history, history lecture, lecture, natural, lecture natural, history, vaccination natural, lecture vaccination, sm natural, pathology
+  Summary:           Vaccination, Its Natural History and Pathology. London, England: Macmillan; 1899.
+
+Topic 58
+  Auto Label:        Rabies
+  Descriptive Label: Rabies – Vaccines
+  Keywords:          rabies, wiktor, diploid cell, rabies virus, rabies vaccine, virus human, human diploid, diploid, rabies vac-, cines developed
+  Summary:           The adaptation of rabies virus to human diploid cell culture permitted the development of a potent, whole-virus inacti- vated rabies vaccine. This vaccine is much more immunogenic than prior rabies vaccines.
+
+Topic 59
+  Auto Label:        Sherman
+  Descriptive Label: Sherman
+  Keywords:          whooping cough, cough, whooping, power plagues, bacteriology, power, sherman, plagues press, sherman power, cough whooping
+  Summary:           The Power of Plagues. Washington, DC: ASM Press; 2006.
+
+Topic 60
+  Auto Label:        Medicine
+  Descriptive Label: Medicine
+  Keywords:          chinese, medicine, vintage, buddhist, books hume, vintage books, tradition vintage, buddhist tradition, debary buddhist, hume
+  Summary:           Hume EH. The Chinese Way in Medicine.
+
+Topic 61
+  Auto Label:        Oxford
+  Descriptive Label: Oxford
+  Keywords:          hunters, oldstone, oldstone hunters, virology oldstone, hunters history, history hunters, plagues history, viruses plagues, oldstone viruses, ed
+  Summary:           Koprowski H, Oldstone MBA, eds. Viruses, Plagues, and History.
+
+Topic 62
+  Auto Label:        Jenner
+  Descriptive Label: Jenner
+  Keywords:          grand rapids, rapids, grand, rapids public, rapids history, history special, special collections, library, archives, collections archives
+  Summary:           Figure 1.1. Edward Jenner’s Inquiry after 200 years.
+
+Topic 63
+  Auto Label:        Burgdorferi
+  Descriptive Label: Burgdorferi
+  Keywords:          ospa, surface protein, outer surface, outer, protein ospa, surface, recombinant outer, recombinant, lyme, protein
+  Summary:           Two vaccine candidates were put into extensive clinical trials. Each was based on a recombinant Escherichia coli strain containing the gene for outer surface protein A (OspA) of the American Lyme strain.
+
+Topic 64
+  Auto Label:        Vaccinology
+  Descriptive Label: Vaccinology
+  Keywords:          mountain spotted, mountain, rocky, rocky mountain, sac, spotted, spotted fever, chick embryo, embryo, fever
+  Summary:           Many attempts were made to develop vaccines against rick- ettsiae once Charles Nicolle had discovered in 1909 that they were the cause of typhus. The first truly successful typhus vaccine was developed in 1938 by Herald Cox,131 who used the yolk sac of the chick embryo to grow Rickettsia rickettsii.
+
+Topic 65
+  Auto Label:        Meningococcus
+  Descriptive Label: Meningococcus
+  Keywords:          meningococcus, nity meningococcus, immu- nity, immunity immu-, immu-, nity, group, polysaccharide carrier, carrier state, iii preparation
+  Summary:           Human immu- nity to the meningococcus, I: the role of humoral immunity. Goldschneider I, Gotschlich ED, Artenstein MS.
+
+Topic 66
+  Auto Label:        Immunity
+  Descriptive Label: Immunity – Vaccines – T66
+  Keywords:          theory, immunity, ehrlich, microorganisms foreign, century pasteur, invading microorganisms, immunity pursued, work immunity, important work, research vaccines
+  Summary:           In parallel with the focused research on vaccines, important work on immunity was being pursued at the end of the 19th century. Elie Metchnikoff, another Pasteur protégé, reported his theory of cellular immunity in 1884.
+
+Topic 67
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Laigret
+  Keywords:          french strain, theiler, french, 17d, sellards, strain, strain theiler, laigret, human trials, sellards laigret
+  Summary:           A.W. Sellards at the Harvard Medical School began collaborative research on the French strain with Jean Laigret at the Pasteur Institute in Senegal.
+
+Topic 68
+  Auto Label:        Hepatitis
+  Descriptive Label: Hepatitis – Krugman
+  Keywords:          giles, jama, tics, jama giles, giles type, studies active, type ms-2, jama newly, strain studies, infection jama
+  Summary:           Krugman S, Giles JP, Hammond J. Infectious hepatitis: evidence for two distinctive clinical, epidemiological, and immunological types of infection.
+
+Topic 69
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Polio
+  Keywords:          placebo, salk, trial, polio vaccine, mentor, states children, children grades, insisted, vaccine placebo, grades
+  Summary:           The first licensed product developed using the cell culture technique was the trivalent, formalin-inactivated polio vaccine (IPV) of Jonas Salk, licensed in 1955. The majority of Salk’s research on killed polio vaccine and the large clinical trial in 1954 (more than 1.8 million children) were funded by the National Foundation for Infantile Paralysis (March of Dimes)
+
+Topic 70
+  Auto Label:        Meningococcal
+  Descriptive Label: Meningococcal – Vac
+  Keywords:          meningococcal conjugate, opin ther, expert opin, vaccines expert, drugs meningococcal, vaccine drugs, saunders meningococcal, . saunders, 3rd ., perkins vac-
+  Summary:           Meningococcal vac- cines. In: Plotkin SA, Orenstein WA, eds.
+
+Topic 71
+  Auto Label:        Scabs
+  Descriptive Label: Scabs
+  Keywords:          powdered scabs, nose, powdered, scabs, cotton, nose piece, cotton wool, wool powdered, scabs blown, blown nose
+  Summary:           The nose plugged with powdered scabs laid on cotton wool. Powdered sc
+
+Topic 72
+  Auto Label:        Kolmer
+  Descriptive Label: Kolmer
+  Keywords:          polio, kolmer, cases paralytic, vaccination program, implicated, cutter, paralytic, paralytic polio, recipients, program
+  Summary:           U.S. Public Health Service, directly accused Kolmer of murder!
+
+Topic 73
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Polio
+  Keywords:          sabin, attenuated polio, sabin live, russian, polio, polio vaccine, cell culture, live, resistance disease.143, variant virus
+  Summary:           Hilary Koprowski developed the first live oral polio vaccine (OPV) with an attenuated polio variant virus strain grown in mice, not cell culture. Because Salk’s vaccine was already in use, Sabin was unable to get funding in the United States for the required clinical trial to prove the efficacy of a live polio virus vaccine.
+
+Topic 74
+  Auto Label:        Rubella
+  Descriptive Label: Rubella – Vaccination
+  Keywords:          rubella, eradication, declared, smallpox, controlled major, major dis-, eases parts, world smallpox, pre-, mumps rubella
+  Summary:           Since 1798, vaccination has controlled 14 major dis- eases, at least in parts of the world. Rubella and congenital rubella syndrome have been officially declared eliminated from the Americas.
+
+Topic 75
+  Auto Label:        Measles
+  Descriptive Label: Measles
+  Keywords:          attenuated measles, measles, fl, measles general, vaccine child, tests highly, moraten, preliminary tests, black fl, fl studies
+  Summary:           Studies on an attenuated measles virus vaccine, VIII: general summary and evaluation of results of vaccine. N Engl J Med.
+
+Topic 76
+  Auto Label:        Polio
+  Descriptive Label: Polio
+  Keywords:          polio, weller, enders weller, research polio, weller robbins, maitland, grow, lansing, robbins, paralytic polio
+  Summary:           After the Second World War, John Enders, Thomas Weller, and Fred Robbins took up research on cell culture at Boston Children’s Hospital. Their first success was to grow Lansing type II poliovirus in human cell culture.
+
+Topic 77
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Poxvirus
+  Keywords:          netic, analysis afonso, phyloge- netic, genomes phyloge-, horsepox, cl, afonso, afonso cl, phyloge-, netic analysis
+  Summary:           Poxvirus genomes: a phyloge- netic analysis. J Gen Virol 2004;85
+
+Topic 78
+  Auto Label:        Smallpox
+  Descriptive Label: Smallpox – Cowpox
+  Keywords:          cowpox, smallpox, cowpox smallpox, inoculation, wife, knew, disease cowpox, cattle, immunity smallpox, dairymaids
+  Summary:           In 1774 in Yetminster, England, a cattle breeder deliberately inoculated his wife and two children with cowpox to avoid a small- pox epidemic. His experiment succeeded; they were unaffected by the outbreak, and his two sons were still immune 15 years later.
+
+Topic 79
+  Auto Label:        Jesty
+  Descriptive Label: Jesty
+  Keywords:          story, vaccina-, jenner, vaccina- tion, story interesting, portrait hung, invited original, itself.29, holds, story experiment
+  Summary:           Jesty was invited to London in 1805 by the Original Vaccine Pock Institute to tell the story of his 1774 “experiment” before the Institute’s examiners. When Jesty died in 1816, his wife made certain that his tombstone recorded for all posterity his central role in the great endeavor.
+
+Topic 80
+  Auto Label:        Immunity
+  Descriptive Label: Immunity – Nobel
+  Keywords:          remarkable, behring, infective, remarkable men, men, disease immunology, advancements, shared, immunology serum, trans
+  Summary:           Emil von Behring was awarded the first Nobel Prize in Medicine (1901) Koch received it in 1905, and Ehrlich and Metchnikoff shared the Nobel in 1908.
+
+Topic 81
+  Auto Label:        Vaccinia
+  Descriptive Label: Vaccinia – Horsepox
+  Keywords:          negri, lymph, cowpox, animal vaccination, arm, origin, cow, calf, animal, cows
+  Summary:           Vaccinia, cowpox, and variola are all related orthopox viruses, suspected to have been derived from a common ancestor. It has been suggested that vaccinia may have originated in a now extinct horsepox.
+
+Topic 82
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Recombinant
+  Keywords:          plasma derived, derived, plasma, yeast, gene, surface, recombinant protein, cloning gene, region antigen, accomplished rutter
+  Summary:           HBsAg recombinant was licensed in 1986. It was created by cloning the gene for HBsAg in yeast (Saccharomyces cerevisiae) and in mammalian cells.
+
+Topic 83
+  Auto Label:        Pasteur
+  Descriptive Label: Pasteur
+  Keywords:          vacation end, returned reemphasized, deliberately introduced, pasteur deliberately, reveal pasteur, pasteur reveal, reemphasized pasteur, left vacation, deadly agent, pasteur left
+  Summary:           Pasteur left on vacation at the end of July 1879; he
+
+Topic 84
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Polysaccharides
+  Keywords:          immunological, bacterial, protein antigens, developed bacterial, sisting, sugar protein, carbohydrate, synthetic, 1970s 1980s, 1980s bacterial
+  Summary:           During the 1970s and 1980s, several bacterial vaccines con- sisting of purified capsular polysaccharides were developed.
+
+Topic 85
+  Auto Label:        Cholera
+  Descriptive Label: Cholera – Plague
+  Keywords:          plague, haffkine, plague vaccine, killed plague, vaccine haffkine, indian government, indian, government, incident, people
+  Summary:           Waldemar Haffkine was in India working on cholera vaccine when bubonic plague broke out in Bombay. He switched to studies of plague immunization and was himself the first to be injected with his new killed plague vaccine.
+
+Topic 86
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Embryo
+  Keywords:          burnet, magill, influenza, mutated, produced, killed vaccine, live vaccine, season, influenza vaccine, killed
+  Summary:           Frank Burnet and D.R. Bull showed in the early 1940s that live attenuated influenza virus could be produced in embryo- nated eggs.
+
+Topic 87
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Fowl
+  Keywords:          embryos, chick embryos, chick, adaptation passage, virus associated, changes influenza, virus changes, pox virus, infection pox, embryos infection
+  Summary:           The susceptibility of the chorio- allantoic membrane of chick embryos to infection with the fowl- pox virus.
+
+Topic 88
+  Auto Label:        Biologicals
+  Descriptive Label: Biologicals
+  Keywords:          celebration avery, sary celebration, anniver- sary, genetics anniver-, transformation genetics, biologicals transformation, celebration, sary, anniver-, biologicals
+  Summary:           Lederberg J. The transformation of genetics by
+
+Topic 89
+  Auto Label:        Vaccination
+  Descriptive Label: Vaccination – Louis
+  Keywords:          age vaccination, vaccination figure, figure courtesy, courtesy, figure, age, vaccination, , , 
+  Summary:           2. Louis Pasteur and
+
+Topic 90
+  Auto Label:        Gococcal
+  Descriptive Label: Gococcal
+  Keywords:          meningococcal, got, got underway, serogroup charide, gococcal disease, resulting, associates.320–324 early, c associates.320–324, serogroups c, meningococcal serogroups
+  Summary:           Meningococcal vaccines had been made in the 1940s but failed to protect. By the early 1970s, serogroup C meningococcal polysac- charide vaccine was routinely administered to U.S.
+
+
+Document-Level Assignments:
+Doc 1: Topic 29 (Auto: Vaccination; Descriptive: Vaccination – Benjamin), Prob: 0.71148256
+Doc 2: Topic 40 (Auto: Vaccine; Descriptive: Vaccine – Innovate), Prob: 0.59128884
+Doc 3: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 4: Topic 74 (Auto: Rubella; Descriptive: Rubella – Vaccination), Prob: 1.00000000
+Doc 5: Topic 39 (Auto: Decades; Descriptive: Decades), Prob: 1.00000000
+Doc 6: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 0.82864638
+Doc 7: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 0.59118183
+Doc 8: Topic 71 (Auto: Scabs; Descriptive: Scabs), Prob: 1.00000000
+Doc 9: Topic 71 (Auto: Scabs; Descriptive: Scabs), Prob: 1.00000000
+Doc 10: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 11: Topic 71 (Auto: Scabs; Descriptive: Scabs), Prob: 1.00000000
+Doc 12: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 0.91440776
+Doc 13: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 0.81703435
+Doc 14: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 15: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 1.00000000
+Doc 16: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 1.00000000
+Doc 17: Topic 31 (Auto: 24; Descriptive: 24), Prob: 1.00000000
+Doc 18: Topic 62 (Auto: Jenner; Descriptive: Jenner), Prob: 1.00000000
+Doc 19: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 1.00000000
+Doc 20: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 0.82537366
+Doc 21: Topic 78 (Auto: Smallpox; Descriptive: Smallpox – Cowpox), Prob: 1.00000000
+Doc 22: Topic 79 (Auto: Jesty; Descriptive: Jesty), Prob: 1.00000000
+Doc 23: Topic 46 (Auto: Wright; Descriptive: Wright), Prob: 0.80249567
+Doc 24: Topic 78 (Auto: Smallpox; Descriptive: Smallpox – Cowpox), Prob: 1.00000000
+Doc 25: Topic 79 (Auto: Jesty; Descriptive: Jesty), Prob: 1.00000000
+Doc 26: Topic 79 (Auto: Jesty; Descriptive: Jesty), Prob: 1.00000000
+Doc 27: Topic 78 (Auto: Smallpox; Descriptive: Smallpox – Cowpox), Prob: 1.00000000
+Doc 28: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 0.88645325
+Doc 29: Topic 81 (Auto: Vaccinia; Descriptive: Vaccinia – Horsepox), Prob: 1.00000000
+Doc 30: Topic 81 (Auto: Vaccinia; Descriptive: Vaccinia – Horsepox), Prob: 1.00000000
+Doc 31: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 32: Topic 81 (Auto: Vaccinia; Descriptive: Vaccinia – Horsepox), Prob: 1.00000000
+Doc 33: Topic 30 (Auto: Anthrax; Descriptive: Anthrax – Bacillus), Prob: 0.73372251
+Doc 34: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 35: Topic 89 (Auto: Vaccination; Descriptive: Vaccination – Louis), Prob: 1.00000000
+Doc 36: Topic 32 (Auto: Cholera; Descriptive: Cholera – Vaccination), Prob: 1.00000000
+Doc 37: Topic 32 (Auto: Cholera; Descriptive: Cholera – Vaccination), Prob: 0.60705016
+Doc 38: Topic 89 (Auto: Vaccination; Descriptive: Vaccination – Louis), Prob: 1.00000000
+Doc 39: Topic 32 (Auto: Cholera; Descriptive: Cholera – Vaccination), Prob: 0.96792885
+Doc 40: Topic 83 (Auto: Pasteur; Descriptive: Pasteur), Prob: 1.00000000
+Doc 41: Topic 32 (Auto: Cholera; Descriptive: Cholera – Vaccination), Prob: 1.00000000
+Doc 42: Topic 32 (Auto: Cholera; Descriptive: Cholera – Vaccination), Prob: 0.84529096
+Doc 43: Topic 30 (Auto: Anthrax; Descriptive: Anthrax – Bacillus), Prob: 1.00000000
+Doc 44: Topic 30 (Auto: Anthrax; Descriptive: Anthrax – Bacillus), Prob: 1.00000000
+Doc 45: Topic 15 (Auto: Anthrax; Descriptive: Anthrax – Vaccine), Prob: 1.00000000
+Doc 46: Topic 15 (Auto: Anthrax; Descriptive: Anthrax – Vaccine), Prob: 0.40942172
+Doc 47: Topic 15 (Auto: Anthrax; Descriptive: Anthrax – Vaccine), Prob: 0.76054693
+Doc 48: Topic 15 (Auto: Anthrax; Descriptive: Anthrax – Vaccine), Prob: 0.60797507
+Doc 49: Topic 15 (Auto: Anthrax; Descriptive: Anthrax – Vaccine), Prob: 0.71038389
+Doc 50: Topic 83 (Auto: Pasteur; Descriptive: Pasteur), Prob: 1.00000000
+Doc 51: Topic 15 (Auto: Anthrax; Descriptive: Anthrax – Vaccine), Prob: 1.00000000
+Doc 52: Topic 15 (Auto: Anthrax; Descriptive: Anthrax – Vaccine), Prob: 0.50075733
+Doc 53: Topic 15 (Auto: Anthrax; Descriptive: Anthrax – Vaccine), Prob: 0.71038389
+Doc 54: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 55: Topic 32 (Auto: Cholera; Descriptive: Cholera – Vaccination), Prob: 0.61293958
+Doc 56: Topic 42 (Auto: Rabies; Descriptive: Rabies – Vaccinated), Prob: 0.93513036
+Doc 57: Topic 83 (Auto: Pasteur; Descriptive: Pasteur), Prob: 1.00000000
+Doc 58: Topic 42 (Auto: Rabies; Descriptive: Rabies – Vaccinated), Prob: 0.88644749
+Doc 59: Topic 42 (Auto: Rabies; Descriptive: Rabies – Vaccinated), Prob: 1.00000000
+Doc 60: Topic 42 (Auto: Rabies; Descriptive: Rabies – Vaccinated), Prob: 1.00000000
+Doc 61: Topic 42 (Auto: Rabies; Descriptive: Rabies – Vaccinated), Prob: 0.60680542
+Doc 62: Topic 40 (Auto: Vaccine; Descriptive: Vaccine – Innovate), Prob: 0.85508586
+Doc 63: Topic 33 (Auto: Immunity; Descriptive: Immunity – Vaccines), Prob: 0.78563372
+Doc 64: Topic 33 (Auto: Immunity; Descriptive: Immunity – Vaccines), Prob: 0.33602737
+Doc 65: Topic 54 (Auto: Bacteriologists; Descriptive: Bacteriologists), Prob: 1.00000000
+Doc 66: Topic 33 (Auto: Immunity; Descriptive: Immunity – Vaccines), Prob: 0.86498864
+Doc 67: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 68: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 69: Topic 50 (Auto: Typhoid; Descriptive: Typhoid – Vaccines – T50), Prob: 1.00000000
+Doc 70: Topic 85 (Auto: Cholera; Descriptive: Cholera – Plague), Prob: 1.00000000
+Doc 71: Topic 41 (Auto: Cholera; Descriptive: Cholera – Transmitted), Prob: 1.00000000
+Doc 72: Topic 32 (Auto: Cholera; Descriptive: Cholera – Vaccination), Prob: 0.99380133
+Doc 73: Topic 66 (Auto: Immunity; Descriptive: Immunity – Vaccines – T66), Prob: 1.00000000
+Doc 74: Topic 7 (Auto: Diphtheria; Descriptive: Diphtheria), Prob: 0.64747116
+Doc 75: Topic 7 (Auto: Diphtheria; Descriptive: Diphtheria), Prob: 0.60956491
+Doc 76: Topic 66 (Auto: Immunity; Descriptive: Immunity – Vaccines – T66), Prob: 1.00000000
+Doc 77: Topic 66 (Auto: Immunity; Descriptive: Immunity – Vaccines – T66), Prob: 0.66407492
+Doc 78: Topic 80 (Auto: Immunity; Descriptive: Immunity – Nobel), Prob: 1.00000000
+Doc 79: Topic 39 (Auto: Decades; Descriptive: Decades), Prob: 0.95690001
+Doc 80: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 81: Topic 50 (Auto: Typhoid; Descriptive: Typhoid – Vaccines – T50), Prob: 1.00000000
+Doc 82: Topic 39 (Auto: Decades; Descriptive: Decades), Prob: 0.95690001
+Doc 83: Topic 54 (Auto: Bacteriologists; Descriptive: Bacteriologists), Prob: 0.78804895
+Doc 84: Topic 7 (Auto: Diphtheria; Descriptive: Diphtheria), Prob: 0.40265976
+Doc 85: Topic 7 (Auto: Diphtheria; Descriptive: Diphtheria), Prob: 1.00000000
+Doc 86: Topic 7 (Auto: Diphtheria; Descriptive: Diphtheria), Prob: 0.56898577
+Doc 87: Topic 7 (Auto: Diphtheria; Descriptive: Diphtheria), Prob: 0.80132728
+Doc 88: Topic 52 (Auto: Vaccines; Descriptive: Vaccines – Tuberculosis), Prob: 1.00000000
+Doc 89: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 90: Topic 39 (Auto: Decades; Descriptive: Decades), Prob: 0.57835495
+Doc 91: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 92: Topic 3 (Auto: Fever; Descriptive: Fever), Prob: 0.82047224
+Doc 93: Topic 67 (Auto: Vaccine; Descriptive: Vaccine – Laigret), Prob: 1.00000000
+Doc 94: Topic 67 (Auto: Vaccine; Descriptive: Vaccine – Laigret), Prob: 0.46526928
+Doc 95: Topic 67 (Auto: Vaccine; Descriptive: Vaccine – Laigret), Prob: 1.00000000
+Doc 96: Topic 67 (Auto: Vaccine; Descriptive: Vaccine – Laigret), Prob: 1.00000000
+Doc 97: Topic 13 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 0.62692975
+Doc 98: Topic 13 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 0.49343404
+Doc 99: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 100: Topic 13 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 0.64335409
+Doc 101: Topic 86 (Auto: Influenza; Descriptive: Influenza – Embryo), Prob: 1.00000000
+Doc 102: Topic 86 (Auto: Influenza; Descriptive: Influenza – Embryo), Prob: 1.00000000
+Doc 103: Topic 86 (Auto: Influenza; Descriptive: Influenza – Embryo), Prob: 1.00000000
+Doc 104: Topic 64 (Auto: Vaccinology; Descriptive: Vaccinology), Prob: 1.00000000
+Doc 105: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 1.00000000
+Doc 106: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 107: Topic 62 (Auto: Jenner; Descriptive: Jenner), Prob: 0.63816587
+Doc 108: Topic 62 (Auto: Jenner; Descriptive: Jenner), Prob: 1.00000000
+Doc 109: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 0.45401919
+Doc 110: Topic 39 (Auto: Decades; Descriptive: Decades), Prob: 1.00000000
+Doc 111: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 112: Topic 76 (Auto: Polio; Descriptive: Polio), Prob: 1.00000000
+Doc 113: Topic 72 (Auto: Kolmer; Descriptive: Kolmer), Prob: 0.91130008
+Doc 114: Topic 72 (Auto: Kolmer; Descriptive: Kolmer), Prob: 1.00000000
+Doc 115: Topic 73 (Auto: Vaccine; Descriptive: Vaccine – Polio), Prob: 1.00000000
+Doc 116: Topic 76 (Auto: Polio; Descriptive: Polio), Prob: 1.00000000
+Doc 117: Topic 76 (Auto: Polio; Descriptive: Polio), Prob: 1.00000000
+Doc 118: Topic 69 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 1.00000000
+Doc 119: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 120: Topic 69 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 1.00000000
+Doc 121: Topic 72 (Auto: Kolmer; Descriptive: Kolmer), Prob: 1.00000000
+Doc 122: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 123: Topic 73 (Auto: Vaccine; Descriptive: Vaccine – Polio), Prob: 1.00000000
+Doc 124: Topic 73 (Auto: Vaccine; Descriptive: Vaccine – Polio), Prob: 1.00000000
+Doc 125: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 126: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 127: Topic 37 (Auto: Rubella; Descriptive: Rubella – Virus), Prob: 0.84106057
+Doc 128: Topic 56 (Auto: Adenovirus; Descriptive: Adenovirus – Adenoviruses), Prob: 0.56194187
+Doc 129: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 130: Topic 43 (Auto: Adenovirus; Descriptive: Adenovirus – Vaccine), Prob: 1.00000000
+Doc 131: Topic 51 (Auto: Varicella; Descriptive: Varicella – Vaccine), Prob: 0.98743439
+Doc 132: Topic 14 (Auto: Zoster; Descriptive: Zoster), Prob: 0.49502786
+Doc 133: Topic 14 (Auto: Zoster; Descriptive: Zoster), Prob: 1.00000000
+Doc 134: Topic 53 (Auto: Vaccines; Descriptive: Vaccines – Influenza), Prob: 1.00000000
+Doc 135: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 136: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 137: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 138: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 139: Topic 24 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccine), Prob: 0.16199041
+Doc 140: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 141: Topic 24 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccine), Prob: 0.08100346
+Doc 142: Topic 23 (Auto: Cholera; Descriptive: Cholera – Vaccines), Prob: 1.00000000
+Doc 143: Topic 22 (Auto: Cholera; Descriptive: Cholera – Vaccine), Prob: 0.08333793
+Doc 144: Topic 21 (Auto: Typhoid; Descriptive: Typhoid – Vaccines), Prob: 0.35797135
+Doc 145: Topic 58 (Auto: Rabies; Descriptive: Rabies – Vaccines), Prob: 0.67342132
+Doc 146: Topic 58 (Auto: Rabies; Descriptive: Rabies – Vaccines), Prob: 1.00000000
+Doc 147: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 148: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 149: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 150: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 151: Topic 38 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccines), Prob: 1.00000000
+Doc 152: Topic 8 (Auto: Flaviviruses; Descriptive: Flaviviruses), Prob: 0.30195144
+Doc 153: Topic 8 (Auto: Flaviviruses; Descriptive: Flaviviruses), Prob: 0.16265494
+Doc 154: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 155: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 1.00000000
+Doc 156: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Anthrax), Prob: 0.79021233
+Doc 157: Topic 30 (Auto: Anthrax; Descriptive: Anthrax – Bacillus), Prob: 1.00000000
+Doc 158: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Anthrax), Prob: 1.00000000
+Doc 159: Topic 84 (Auto: Vaccines; Descriptive: Vaccines – Polysaccharides), Prob: 1.00000000
+Doc 160: Topic 90 (Auto: Gococcal; Descriptive: Gococcal), Prob: 1.00000000
+Doc 161: Topic 31 (Auto: 24; Descriptive: 24), Prob: 1.00000000
+Doc 162: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 163: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 164: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 165: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 166: Topic 26 (Auto: Vaccines; Descriptive: Vaccines – Pneumococcal), Prob: 0.56567959
+Doc 167: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 0.76607340
+Doc 168: Topic 5 (Auto: Antigénique; Descriptive: Antigénique), Prob: 0.90180676
+Doc 169: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 0.45057684
+Doc 170: Topic 82 (Auto: Vaccines; Descriptive: Vaccines – Recombinant), Prob: 1.00000000
+Doc 171: Topic 11 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccine), Prob: 0.19349775
+Doc 172: Topic 39 (Auto: Decades; Descriptive: Decades), Prob: 0.85572000
+Doc 173: Topic 82 (Auto: Vaccines; Descriptive: Vaccines – Recombinant), Prob: 1.00000000
+Doc 174: Topic 82 (Auto: Vaccines; Descriptive: Vaccines – Recombinant), Prob: 1.00000000
+Doc 175: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 176: Topic 63 (Auto: Burgdorferi; Descriptive: Burgdorferi), Prob: 1.00000000
+Doc 177: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 0.36241383
+Doc 178: Topic 10 (Auto: Papillomavirus; Descriptive: Papillomavirus), Prob: 0.45743640
+Doc 179: Topic 10 (Auto: Papillomavirus; Descriptive: Papillomavirus), Prob: 0.29343099
+Doc 180: Topic 10 (Auto: Papillomavirus; Descriptive: Papillomavirus), Prob: 0.14906151
+Doc 181: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 182: Topic 10 (Auto: Papillomavirus; Descriptive: Papillomavirus), Prob: 0.10183762
+Doc 183: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 184: Topic 48 (Auto: Vaccine; Descriptive: Vaccine – Genome), Prob: 0.91741560
+Doc 185: Topic 47 (Auto: Meningococcal; Descriptive: Meningococcal – Meningococcus), Prob: 0.06731292
+Doc 186: Topic 48 (Auto: Vaccine; Descriptive: Vaccine – Genome), Prob: 1.00000000
+Doc 187: Topic 47 (Auto: Meningococcal; Descriptive: Meningococcal – Meningococcus), Prob: 1.00000000
+Doc 188: Topic 47 (Auto: Meningococcal; Descriptive: Meningococcal – Meningococcus), Prob: 0.07315172
+Doc 189: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 190: Topic 23 (Auto: Cholera; Descriptive: Cholera – Vaccines), Prob: 0.15079872
+Doc 191: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 192: Topic 40 (Auto: Vaccine; Descriptive: Vaccine – Innovate), Prob: 0.54011000
+Doc 193: Topic 16 (Auto: Pdf; Descriptive: Pdf), Prob: 0.13966084
+Doc 194: Topic 16 (Auto: Pdf; Descriptive: Pdf), Prob: 0.21339448
+Doc 195: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 1.00000000
+Doc 196: Topic 74 (Auto: Rubella; Descriptive: Rubella – Vaccination), Prob: 1.00000000
+Doc 197: Topic 16 (Auto: Pdf; Descriptive: Pdf), Prob: 1.00000000
+Doc 198: Topic 40 (Auto: Vaccine; Descriptive: Vaccine – Innovate), Prob: 1.00000000
+Doc 199: Topic 61 (Auto: Oxford; Descriptive: Oxford), Prob: 0.78783618
+Doc 200: Topic 48 (Auto: Vaccine; Descriptive: Vaccine – Genome), Prob: 0.52316930
+Doc 201: Topic 60 (Auto: Medicine; Descriptive: Medicine), Prob: 1.00000000
+Doc 202: Topic 46 (Auto: Wright; Descriptive: Wright), Prob: 1.00000000
+Doc 203: Topic 60 (Auto: Medicine; Descriptive: Medicine), Prob: 0.87219822
+Doc 204: Topic 60 (Auto: Medicine; Descriptive: Medicine), Prob: 1.00000000
+Doc 205: Topic 60 (Auto: Medicine; Descriptive: Medicine), Prob: 0.79675519
+Doc 206: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 0.59118183
+Doc 207: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 0.81777750
+Doc 208: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 209: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 1.00000000
+Doc 210: Topic 59 (Auto: Sherman; Descriptive: Sherman), Prob: 0.87594147
+Doc 211: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 0.83477399
+Doc 212: Topic 46 (Auto: Wright; Descriptive: Wright), Prob: 1.00000000
+Doc 213: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 1.00000000
+Doc 214: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 215: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 216: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 1.00000000
+Doc 217: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 1.00000000
+Doc 218: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 219: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 220: Topic 46 (Auto: Wright; Descriptive: Wright), Prob: 0.71979705
+Doc 221: Topic 29 (Auto: Vaccination; Descriptive: Vaccination – Benjamin), Prob: 0.89513339
+Doc 222: Topic 45 (Auto: Lancet; Descriptive: Lancet), Prob: 0.22782059
+Doc 223: Topic 29 (Auto: Vaccination; Descriptive: Vaccination – Benjamin), Prob: 1.00000000
+Doc 224: Topic 29 (Auto: Vaccination; Descriptive: Vaccination – Benjamin), Prob: 0.50367173
+Doc 225: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 1.00000000
+Doc 226: Topic 62 (Auto: Jenner; Descriptive: Jenner), Prob: 1.00000000
+Doc 227: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 228: Topic 77 (Auto: Vaccines; Descriptive: Vaccines – Poxvirus), Prob: 1.00000000
+Doc 229: Topic 57 (Auto: Vaccinia; Descriptive: Vaccinia – Vaccination), Prob: 1.00000000
+Doc 230: Topic 45 (Auto: Lancet; Descriptive: Lancet), Prob: 1.00000000
+Doc 231: Topic 57 (Auto: Vaccinia; Descriptive: Vaccinia – Vaccination), Prob: 1.00000000
+Doc 232: Topic 45 (Auto: Lancet; Descriptive: Lancet), Prob: 0.87437398
+Doc 233: Topic 57 (Auto: Vaccinia; Descriptive: Vaccinia – Vaccination), Prob: 1.00000000
+Doc 234: Topic 45 (Auto: Lancet; Descriptive: Lancet), Prob: 1.00000000
+Doc 235: Topic 77 (Auto: Vaccines; Descriptive: Vaccines – Poxvirus), Prob: 1.00000000
+Doc 236: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 1.00000000
+Doc 237: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 238: Topic 57 (Auto: Vaccinia; Descriptive: Vaccinia – Vaccination), Prob: 0.40191443
+Doc 239: Topic 12 (Auto: Paris; Descriptive: Paris), Prob: 1.00000000
+Doc 240: Topic 41 (Auto: Cholera; Descriptive: Cholera – Transmitted), Prob: 0.66787923
+Doc 241: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 242: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 243: Topic 30 (Auto: Anthrax; Descriptive: Anthrax – Bacillus), Prob: 1.00000000
+Doc 244: Topic 19 (Auto: Vaccination; Descriptive: Vaccination – Immunité), Prob: 1.00000000
+Doc 245: Topic 15 (Auto: Anthrax; Descriptive: Anthrax – Vaccine), Prob: 0.40942172
+Doc 246: Topic 19 (Auto: Vaccination; Descriptive: Vaccination – Immunité), Prob: 1.00000000
+Doc 247: Topic 19 (Auto: Vaccination; Descriptive: Vaccination – Immunité), Prob: 1.00000000
+Doc 248: Topic 19 (Auto: Vaccination; Descriptive: Vaccination – Immunité), Prob: 1.00000000
+Doc 249: Topic 19 (Auto: Vaccination; Descriptive: Vaccination – Immunité), Prob: 1.00000000
+Doc 250: Topic 41 (Auto: Cholera; Descriptive: Cholera – Transmitted), Prob: 1.00000000
+Doc 251: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 252: Topic 19 (Auto: Vaccination; Descriptive: Vaccination – Immunité), Prob: 0.84682636
+Doc 253: Topic 12 (Auto: Paris; Descriptive: Paris), Prob: 1.00000000
+Doc 254: Topic 61 (Auto: Oxford; Descriptive: Oxford), Prob: 0.78783618
+Doc 255: Topic 42 (Auto: Rabies; Descriptive: Rabies – Vaccinated), Prob: 0.88615100
+Doc 256: Topic 33 (Auto: Immunity; Descriptive: Immunity – Vaccines), Prob: 1.00000000
+Doc 257: Topic 33 (Auto: Immunity; Descriptive: Immunity – Vaccines), Prob: 1.00000000
+Doc 258: Topic 31 (Auto: 24; Descriptive: 24), Prob: 1.00000000
+Doc 259: Topic 29 (Auto: Vaccination; Descriptive: Vaccination – Benjamin), Prob: 1.00000000
+Doc 260: Topic 19 (Auto: Vaccination; Descriptive: Vaccination – Immunité), Prob: 0.94197130
+Doc 261: Topic 33 (Auto: Immunity; Descriptive: Immunity – Vaccines), Prob: 1.00000000
+Doc 262: Topic 54 (Auto: Bacteriologists; Descriptive: Bacteriologists), Prob: 0.69776201
+Doc 263: Topic 46 (Auto: Wright; Descriptive: Wright), Prob: 1.00000000
+Doc 264: Topic 50 (Auto: Typhoid; Descriptive: Typhoid – Vaccines – T50), Prob: 0.93895442
+Doc 265: Topic 64 (Auto: Vaccinology; Descriptive: Vaccinology), Prob: 1.00000000
+Doc 266: Topic 50 (Auto: Typhoid; Descriptive: Typhoid – Vaccines – T50), Prob: 0.83120935
+Doc 267: Topic 12 (Auto: Paris; Descriptive: Paris), Prob: 0.07869003
+Doc 268: Topic 12 (Auto: Paris; Descriptive: Paris), Prob: 0.26726040
+Doc 269: Topic 12 (Auto: Paris; Descriptive: Paris), Prob: 1.00000000
+Doc 270: Topic 85 (Auto: Cholera; Descriptive: Cholera – Plague), Prob: 1.00000000
+Doc 271: Topic 45 (Auto: Lancet; Descriptive: Lancet), Prob: 0.74906790
+Doc 272: Topic 85 (Auto: Cholera; Descriptive: Cholera – Plague), Prob: 1.00000000
+Doc 273: Topic 40 (Auto: Vaccine; Descriptive: Vaccine – Innovate), Prob: 0.75042199
+Doc 274: Topic 41 (Auto: Cholera; Descriptive: Cholera – Transmitted), Prob: 0.66787923
+Doc 275: Topic 30 (Auto: Anthrax; Descriptive: Anthrax – Bacillus), Prob: 0.90207245
+Doc 276: Topic 41 (Auto: Cholera; Descriptive: Cholera – Transmitted), Prob: 1.00000000
+Doc 277: Topic 41 (Auto: Cholera; Descriptive: Cholera – Transmitted), Prob: 0.53670201
+Doc 278: Topic 80 (Auto: Immunity; Descriptive: Immunity – Nobel), Prob: 1.00000000
+Doc 279: Topic 12 (Auto: Paris; Descriptive: Paris), Prob: 0.77629202
+Doc 280: Topic 5 (Auto: Antigénique; Descriptive: Antigénique), Prob: 1.00000000
+Doc 281: Topic 5 (Auto: Antigénique; Descriptive: Antigénique), Prob: 1.00000000
+Doc 282: Topic 80 (Auto: Immunity; Descriptive: Immunity – Nobel), Prob: 1.00000000
+Doc 283: Topic 7 (Auto: Diphtheria; Descriptive: Diphtheria), Prob: 0.13777554
+Doc 284: Topic 5 (Auto: Antigénique; Descriptive: Antigénique), Prob: 0.65098468
+Doc 285: Topic 5 (Auto: Antigénique; Descriptive: Antigénique), Prob: 1.00000000
+Doc 286: Topic 66 (Auto: Immunity; Descriptive: Immunity – Vaccines – T66), Prob: 1.00000000
+Doc 287: Topic 52 (Auto: Vaccines; Descriptive: Vaccines – Tuberculosis), Prob: 0.94591962
+Doc 288: Topic 50 (Auto: Typhoid; Descriptive: Typhoid – Vaccines – T50), Prob: 0.88378872
+Doc 289: Topic 40 (Auto: Vaccine; Descriptive: Vaccine – Innovate), Prob: 1.00000000
+Doc 290: Topic 54 (Auto: Bacteriologists; Descriptive: Bacteriologists), Prob: 1.00000000
+Doc 291: Topic 7 (Auto: Diphtheria; Descriptive: Diphtheria), Prob: 1.00000000
+Doc 292: Topic 7 (Auto: Diphtheria; Descriptive: Diphtheria), Prob: 0.30512944
+Doc 293: Topic 5 (Auto: Antigénique; Descriptive: Antigénique), Prob: 1.00000000
+Doc 294: Topic 5 (Auto: Antigénique; Descriptive: Antigénique), Prob: 1.00000000
+Doc 295: Topic 5 (Auto: Antigénique; Descriptive: Antigénique), Prob: 1.00000000
+Doc 296: Topic 12 (Auto: Paris; Descriptive: Paris), Prob: 0.31564612
+Doc 297: Topic 44 (Auto: Vaccination; Descriptive: Vaccination – Tuberculose), Prob: 1.00000000
+Doc 298: Topic 44 (Auto: Vaccination; Descriptive: Vaccination – Tuberculose), Prob: 0.89448093
+Doc 299: Topic 44 (Auto: Vaccination; Descriptive: Vaccination – Tuberculose), Prob: 1.00000000
+Doc 300: Topic 44 (Auto: Vaccination; Descriptive: Vaccination – Tuberculose), Prob: 0.56441613
+Doc 301: Topic 44 (Auto: Vaccination; Descriptive: Vaccination – Tuberculose), Prob: 0.89448093
+Doc 302: Topic 52 (Auto: Vaccines; Descriptive: Vaccines – Tuberculosis), Prob: 1.00000000
+Doc 303: Topic 87 (Auto: Influenza; Descriptive: Influenza – Fowl), Prob: 1.00000000
+Doc 304: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 0.70190545
+Doc 305: Topic 3 (Auto: Fever; Descriptive: Fever), Prob: 1.00000000
+Doc 306: Topic 3 (Auto: Fever; Descriptive: Fever), Prob: 0.59296272
+Doc 307: Topic 3 (Auto: Fever; Descriptive: Fever), Prob: 1.00000000
+Doc 308: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 309: Topic 3 (Auto: Fever; Descriptive: Fever), Prob: 0.59985119
+Doc 310: Topic 3 (Auto: Fever; Descriptive: Fever), Prob: 0.53439942
+Doc 311: Topic 3 (Auto: Fever; Descriptive: Fever), Prob: 0.38725746
+Doc 312: Topic 3 (Auto: Fever; Descriptive: Fever), Prob: 0.59985119
+Doc 313: Topic 3 (Auto: Fever; Descriptive: Fever), Prob: 0.34319236
+Doc 314: Topic 19 (Auto: Vaccination; Descriptive: Vaccination – Immunité), Prob: 0.84682636
+Doc 315: Topic 3 (Auto: Fever; Descriptive: Fever), Prob: 1.00000000
+Doc 316: Topic 3 (Auto: Fever; Descriptive: Fever), Prob: 0.59296272
+Doc 317: Topic 3 (Auto: Fever; Descriptive: Fever), Prob: 0.73653782
+Doc 318: Topic 13 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 0.79874323
+Doc 319: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 320: Topic 13 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 0.83243237
+Doc 321: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 322: Topic 13 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 1.00000000
+Doc 323: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 324: Topic 13 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 1.00000000
+Doc 325: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 326: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 327: Topic 13 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 0.50453060
+Doc 328: Topic 61 (Auto: Oxford; Descriptive: Oxford), Prob: 1.00000000
+Doc 329: Topic 87 (Auto: Influenza; Descriptive: Influenza – Fowl), Prob: 1.00000000
+Doc 330: Topic 13 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 0.68774125
+Doc 331: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 332: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 333: Topic 64 (Auto: Vaccinology; Descriptive: Vaccinology), Prob: 0.76278397
+Doc 334: Topic 64 (Auto: Vaccinology; Descriptive: Vaccinology), Prob: 0.70153709
+Doc 335: Topic 3 (Auto: Fever; Descriptive: Fever), Prob: 0.36523174
+Doc 336: Topic 12 (Auto: Paris; Descriptive: Paris), Prob: 0.78939444
+Doc 337: Topic 59 (Auto: Sherman; Descriptive: Sherman), Prob: 1.00000000
+Doc 338: Topic 59 (Auto: Sherman; Descriptive: Sherman), Prob: 1.00000000
+Doc 339: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 0.77182332
+Doc 340: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 1.00000000
+Doc 341: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 1.00000000
+Doc 342: Topic 59 (Auto: Sherman; Descriptive: Sherman), Prob: 1.00000000
+Doc 343: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 1.00000000
+Doc 344: Topic 17 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Virus), Prob: 0.84178535
+Doc 345: Topic 69 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 1.00000000
+Doc 346: Topic 12 (Auto: Paris; Descriptive: Paris), Prob: 0.36790649
+Doc 347: Topic 20 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Vaccines), Prob: 0.11379915
+Doc 348: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 349: Topic 20 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Vaccines), Prob: 0.56542351
+Doc 350: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 351: Topic 20 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Vaccines), Prob: 0.24408282
+Doc 352: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 353: Topic 17 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Virus), Prob: 0.61363167
+Doc 354: Topic 17 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Virus), Prob: 1.00000000
+Doc 355: Topic 17 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Virus), Prob: 1.00000000
+Doc 356: Topic 17 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Virus), Prob: 0.94431360
+Doc 357: Topic 17 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Virus), Prob: 1.00000000
+Doc 358: Topic 17 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Virus), Prob: 1.00000000
+Doc 359: Topic 20 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Vaccines), Prob: 1.00000000
+Doc 360: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 361: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 362: Topic 20 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Vaccines), Prob: 0.27325811
+Doc 363: Topic 61 (Auto: Oxford; Descriptive: Oxford), Prob: 1.00000000
+Doc 364: Topic 20 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Vaccines), Prob: 0.13229600
+Doc 365: Topic 20 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Vaccines), Prob: 1.00000000
+Doc 366: Topic 17 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Virus), Prob: 0.14889396
+Doc 367: Topic 20 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Vaccines), Prob: 0.63272808
+Doc 368: Topic 16 (Auto: Pdf; Descriptive: Pdf), Prob: 0.60635743
+Doc 369: Topic 16 (Auto: Pdf; Descriptive: Pdf), Prob: 1.00000000
+Doc 370: Topic 75 (Auto: Measles; Descriptive: Measles), Prob: 1.00000000
+Doc 371: Topic 75 (Auto: Measles; Descriptive: Measles), Prob: 1.00000000
+Doc 372: Topic 75 (Auto: Measles; Descriptive: Measles), Prob: 1.00000000
+Doc 373: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 374: Topic 37 (Auto: Rubella; Descriptive: Rubella – Virus), Prob: 0.96736075
+Doc 375: Topic 37 (Auto: Rubella; Descriptive: Rubella – Virus), Prob: 1.00000000
+Doc 376: Topic 37 (Auto: Rubella; Descriptive: Rubella – Virus), Prob: 0.59166821
+Doc 377: Topic 37 (Auto: Rubella; Descriptive: Rubella – Virus), Prob: 1.00000000
+Doc 378: Topic 37 (Auto: Rubella; Descriptive: Rubella – Virus), Prob: 0.39120252
+Doc 379: Topic 74 (Auto: Rubella; Descriptive: Rubella – Vaccination), Prob: 1.00000000
+Doc 380: Topic 16 (Auto: Pdf; Descriptive: Pdf), Prob: 0.45175460
+Doc 381: Topic 7 (Auto: Diphtheria; Descriptive: Diphtheria), Prob: 0.18270095
+Doc 382: Topic 43 (Auto: Adenovirus; Descriptive: Adenovirus – Vaccine), Prob: 0.91731572
+Doc 383: Topic 43 (Auto: Adenovirus; Descriptive: Adenovirus – Vaccine), Prob: 1.00000000
+Doc 384: Topic 43 (Auto: Adenovirus; Descriptive: Adenovirus – Vaccine), Prob: 0.65416806
+Doc 385: Topic 43 (Auto: Adenovirus; Descriptive: Adenovirus – Vaccine), Prob: 1.00000000
+Doc 386: Topic 56 (Auto: Adenovirus; Descriptive: Adenovirus – Adenoviruses), Prob: 1.00000000
+Doc 387: Topic 56 (Auto: Adenovirus; Descriptive: Adenovirus – Adenoviruses), Prob: 1.00000000
+Doc 388: Topic 56 (Auto: Adenovirus; Descriptive: Adenovirus – Adenoviruses), Prob: 1.00000000
+Doc 389: Topic 43 (Auto: Adenovirus; Descriptive: Adenovirus – Vaccine), Prob: 0.57843017
+Doc 390: Topic 51 (Auto: Varicella; Descriptive: Varicella – Vaccine), Prob: 0.70855095
+Doc 391: Topic 51 (Auto: Varicella; Descriptive: Varicella – Vaccine), Prob: 1.00000000
+Doc 392: Topic 35 (Auto: Varicella; Descriptive: Varicella – Vaccination), Prob: 0.23188865
+Doc 393: Topic 51 (Auto: Varicella; Descriptive: Varicella – Vaccine), Prob: 1.00000000
+Doc 394: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 395: Topic 51 (Auto: Varicella; Descriptive: Varicella – Vaccine), Prob: 0.54771539
+Doc 396: Topic 35 (Auto: Varicella; Descriptive: Varicella – Vaccination), Prob: 1.00000000
+Doc 397: Topic 35 (Auto: Varicella; Descriptive: Varicella – Vaccination), Prob: 1.00000000
+Doc 398: Topic 35 (Auto: Varicella; Descriptive: Varicella – Vaccination), Prob: 0.19887050
+Doc 399: Topic 35 (Auto: Varicella; Descriptive: Varicella – Vaccination), Prob: 0.64368690
+Doc 400: Topic 35 (Auto: Varicella; Descriptive: Varicella – Vaccination), Prob: 0.58767799
+Doc 401: Topic 31 (Auto: 24; Descriptive: 24), Prob: 1.00000000
+Doc 402: Topic 14 (Auto: Zoster; Descriptive: Zoster), Prob: 1.00000000
+Doc 403: Topic 14 (Auto: Zoster; Descriptive: Zoster), Prob: 1.00000000
+Doc 404: Topic 14 (Auto: Zoster; Descriptive: Zoster), Prob: 1.00000000
+Doc 405: Topic 77 (Auto: Vaccines; Descriptive: Vaccines – Poxvirus), Prob: 1.00000000
+Doc 406: Topic 14 (Auto: Zoster; Descriptive: Zoster), Prob: 1.00000000
+Doc 407: Topic 14 (Auto: Zoster; Descriptive: Zoster), Prob: 1.00000000
+Doc 408: Topic 14 (Auto: Zoster; Descriptive: Zoster), Prob: 1.00000000
+Doc 409: Topic 14 (Auto: Zoster; Descriptive: Zoster), Prob: 1.00000000
+Doc 410: Topic 34 (Auto: Biologicsbloodvaccines; Descriptive: Biologicsbloodvaccines), Prob: 0.23440957
+Doc 411: Topic 53 (Auto: Vaccines; Descriptive: Vaccines – Influenza), Prob: 1.00000000
+Doc 412: Topic 53 (Auto: Vaccines; Descriptive: Vaccines – Influenza), Prob: 1.00000000
+Doc 413: Topic 53 (Auto: Vaccines; Descriptive: Vaccines – Influenza), Prob: 0.85518662
+Doc 414: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 415: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 416: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 0.73673756
+Doc 417: Topic 36 (Auto: Influenza; Descriptive: Influenza – Vaccine – T36), Prob: 0.66288432
+Doc 418: Topic 53 (Auto: Vaccines; Descriptive: Vaccines – Influenza), Prob: 0.90419976
+Doc 419: Topic 36 (Auto: Influenza; Descriptive: Influenza – Vaccine – T36), Prob: 1.00000000
+Doc 420: Topic 36 (Auto: Influenza; Descriptive: Influenza – Vaccine – T36), Prob: 0.34832294
+Doc 421: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 422: Topic 36 (Auto: Influenza; Descriptive: Influenza – Vaccine – T36), Prob: 1.00000000
+Doc 423: Topic 36 (Auto: Influenza; Descriptive: Influenza – Vaccine – T36), Prob: 0.63487178
+Doc 424: Topic 36 (Auto: Influenza; Descriptive: Influenza – Vaccine – T36), Prob: 1.00000000
+Doc 425: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 426: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 427: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 428: Topic 24 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccine), Prob: 1.00000000
+Doc 429: Topic 24 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccine), Prob: 0.02010813
+Doc 430: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 431: Topic 24 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccine), Prob: 0.02580631
+Doc 432: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 433: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 434: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 435: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 436: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 437: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 438: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 439: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 440: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 441: Topic 24 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccine), Prob: 1.00000000
+Doc 442: Topic 24 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccine), Prob: 1.00000000
+Doc 443: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 444: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 445: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 446: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 1.00000000
+Doc 447: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus – Vaccines), Prob: 0.65342457
+Doc 448: Topic 23 (Auto: Cholera; Descriptive: Cholera – Vaccines), Prob: 0.15339348
+Doc 449: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 450: Topic 23 (Auto: Cholera; Descriptive: Cholera – Vaccines), Prob: 0.43110777
+Doc 451: Topic 23 (Auto: Cholera; Descriptive: Cholera – Vaccines), Prob: 1.00000000
+Doc 452: Topic 22 (Auto: Cholera; Descriptive: Cholera – Vaccine), Prob: 0.32050641
+Doc 453: Topic 22 (Auto: Cholera; Descriptive: Cholera – Vaccine), Prob: 1.00000000
+Doc 454: Topic 5 (Auto: Antigénique; Descriptive: Antigénique), Prob: 1.00000000
+Doc 455: Topic 22 (Auto: Cholera; Descriptive: Cholera – Vaccine), Prob: 1.00000000
+Doc 456: Topic 23 (Auto: Cholera; Descriptive: Cholera – Vaccines), Prob: 1.00000000
+Doc 457: Topic 22 (Auto: Cholera; Descriptive: Cholera – Vaccine), Prob: 0.50562178
+Doc 458: Topic 22 (Auto: Cholera; Descriptive: Cholera – Vaccine), Prob: 1.00000000
+Doc 459: Topic 23 (Auto: Cholera; Descriptive: Cholera – Vaccines), Prob: 0.84575935
+Doc 460: Topic 22 (Auto: Cholera; Descriptive: Cholera – Vaccine), Prob: 0.43966794
+Doc 461: Topic 34 (Auto: Biologicsbloodvaccines; Descriptive: Biologicsbloodvaccines), Prob: 1.00000000
+Doc 462: Topic 34 (Auto: Biologicsbloodvaccines; Descriptive: Biologicsbloodvaccines), Prob: 0.84543099
+Doc 463: Topic 55 (Auto: Typhoid; Descriptive: Typhoid – Vaccines – T55), Prob: 1.00000000
+Doc 464: Topic 55 (Auto: Typhoid; Descriptive: Typhoid – Vaccines – T55), Prob: 0.33387047
+Doc 465: Topic 55 (Auto: Typhoid; Descriptive: Typhoid – Vaccines – T55), Prob: 1.00000000
+Doc 466: Topic 55 (Auto: Typhoid; Descriptive: Typhoid – Vaccines – T55), Prob: 1.00000000
+Doc 467: Topic 21 (Auto: Typhoid; Descriptive: Typhoid – Vaccines), Prob: 0.14465704
+Doc 468: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 469: Topic 21 (Auto: Typhoid; Descriptive: Typhoid – Vaccines), Prob: 0.32715952
+Doc 470: Topic 21 (Auto: Typhoid; Descriptive: Typhoid – Vaccines), Prob: 1.00000000
+Doc 471: Topic 21 (Auto: Typhoid; Descriptive: Typhoid – Vaccines), Prob: 1.00000000
+Doc 472: Topic 33 (Auto: Immunity; Descriptive: Immunity – Vaccines), Prob: 0.74703020
+Doc 473: Topic 21 (Auto: Typhoid; Descriptive: Typhoid – Vaccines), Prob: 0.78068820
+Doc 474: Topic 21 (Auto: Typhoid; Descriptive: Typhoid – Vaccines), Prob: 1.00000000
+Doc 475: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 476: Topic 7 (Auto: Diphtheria; Descriptive: Diphtheria), Prob: 0.18270095
+Doc 477: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 478: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 479: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 480: Topic 58 (Auto: Rabies; Descriptive: Rabies – Vaccines), Prob: 1.00000000
+Doc 481: Topic 58 (Auto: Rabies; Descriptive: Rabies – Vaccines), Prob: 1.00000000
+Doc 482: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 0.36317872
+Doc 483: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 484: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 485: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 486: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 0.73540402
+Doc 487: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 488: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 0.69366529
+Doc 489: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 490: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 491: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 492: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 493: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 494: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 495: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 496: Topic 52 (Auto: Vaccines; Descriptive: Vaccines – Tuberculosis), Prob: 0.68900425
+Doc 497: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 1.00000000
+Doc 498: Topic 34 (Auto: Biologicsbloodvaccines; Descriptive: Biologicsbloodvaccines), Prob: 1.00000000
+Doc 499: Topic 38 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccines), Prob: 0.72928382
+Doc 500: Topic 38 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccines), Prob: 1.00000000
+Doc 501: Topic 38 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccines), Prob: 1.00000000
+Doc 502: Topic 38 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccines), Prob: 0.86542269
+Doc 503: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 504: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 505: Topic 38 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccines), Prob: 0.77552041
+Doc 506: Topic 5 (Auto: Antigénique; Descriptive: Antigénique), Prob: 1.00000000
+Doc 507: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 508: Topic 8 (Auto: Flaviviruses; Descriptive: Flaviviruses), Prob: 0.28276136
+Doc 509: Topic 8 (Auto: Flaviviruses; Descriptive: Flaviviruses), Prob: 1.00000000
+Doc 510: Topic 8 (Auto: Flaviviruses; Descriptive: Flaviviruses), Prob: 1.00000000
+Doc 511: Topic 8 (Auto: Flaviviruses; Descriptive: Flaviviruses), Prob: 0.92672669
+Doc 512: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 513: Topic 8 (Auto: Flaviviruses; Descriptive: Flaviviruses), Prob: 0.89450208
+Doc 514: Topic 8 (Auto: Flaviviruses; Descriptive: Flaviviruses), Prob: 0.89450208
+Doc 515: Topic 8 (Auto: Flaviviruses; Descriptive: Flaviviruses), Prob: 0.80822507
+Doc 516: Topic 8 (Auto: Flaviviruses; Descriptive: Flaviviruses), Prob: 0.92672669
+Doc 517: Topic 52 (Auto: Vaccines; Descriptive: Vaccines – Tuberculosis), Prob: 0.69252565
+Doc 518: Topic 8 (Auto: Flaviviruses; Descriptive: Flaviviruses), Prob: 1.00000000
+Doc 519: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 1.00000000
+Doc 520: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 1.00000000
+Doc 521: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 0.64726246
+Doc 522: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 1.00000000
+Doc 523: Topic 88 (Auto: Biologicals; Descriptive: Biologicals), Prob: 1.00000000
+Doc 524: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Encephalitis), Prob: 0.33765506
+Doc 525: Topic 31 (Auto: 24; Descriptive: 24), Prob: 0.64279368
+Doc 526: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 1.00000000
+Doc 527: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Anthrax), Prob: 0.16187246
+Doc 528: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Anthrax), Prob: 0.88407574
+Doc 529: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Anthrax), Prob: 0.26276799
+Doc 530: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Anthrax), Prob: 0.19498103
+Doc 531: Topic 30 (Auto: Anthrax; Descriptive: Anthrax – Bacillus), Prob: 0.97272250
+Doc 532: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Anthrax), Prob: 0.10346787
+Doc 533: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Anthrax), Prob: 0.29501253
+Doc 534: Topic 29 (Auto: Vaccination; Descriptive: Vaccination – Benjamin), Prob: 1.00000000
+Doc 535: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Anthrax), Prob: 1.00000000
+Doc 536: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Anthrax), Prob: 0.33657241
+Doc 537: Topic 70 (Auto: Meningococcal; Descriptive: Meningococcal – Vac), Prob: 1.00000000
+Doc 538: Topic 90 (Auto: Gococcal; Descriptive: Gococcal), Prob: 1.00000000
+Doc 539: Topic 65 (Auto: Meningococcus; Descriptive: Meningococcus), Prob: 1.00000000
+Doc 540: Topic 65 (Auto: Meningococcus; Descriptive: Meningococcus), Prob: 1.00000000
+Doc 541: Topic 65 (Auto: Meningococcus; Descriptive: Meningococcus), Prob: 1.00000000
+Doc 542: Topic 65 (Auto: Meningococcus; Descriptive: Meningococcus), Prob: 0.36301397
+Doc 543: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 544: Topic 28 (Auto: Meningococcal; Descriptive: Meningococcal – Meningitis), Prob: 1.00000000
+Doc 545: Topic 28 (Auto: Meningococcal; Descriptive: Meningococcal – Meningitis), Prob: 1.00000000
+Doc 546: Topic 28 (Auto: Meningococcal; Descriptive: Meningococcal – Meningitis), Prob: 0.65405368
+Doc 547: Topic 31 (Auto: 24; Descriptive: 24), Prob: 1.00000000
+Doc 548: Topic 28 (Auto: Meningococcal; Descriptive: Meningococcal – Meningitis), Prob: 0.66596059
+Doc 549: Topic 28 (Auto: Meningococcal; Descriptive: Meningococcal – Meningitis), Prob: 1.00000000
+Doc 550: Topic 28 (Auto: Meningococcal; Descriptive: Meningococcal – Meningitis), Prob: 0.42299032
+Doc 551: Topic 70 (Auto: Meningococcal; Descriptive: Meningococcal – Vac), Prob: 1.00000000
+Doc 552: Topic 70 (Auto: Meningococcal; Descriptive: Meningococcal – Vac), Prob: 1.00000000
+Doc 553: Topic 28 (Auto: Meningococcal; Descriptive: Meningococcal – Meningitis), Prob: 0.37008307
+Doc 554: Topic 18 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 0.32123121
+Doc 555: Topic 84 (Auto: Vaccines; Descriptive: Vaccines – Polysaccharides), Prob: 1.00000000
+Doc 556: Topic 18 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 1.00000000
+Doc 557: Topic 29 (Auto: Vaccination; Descriptive: Vaccination – Benjamin), Prob: 0.71203248
+Doc 558: Topic 18 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 0.97059970
+Doc 559: Topic 88 (Auto: Biologicals; Descriptive: Biologicals), Prob: 1.00000000
+Doc 560: Topic 18 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 0.75457542
+Doc 561: Topic 18 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 1.00000000
+Doc 562: Topic 18 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 0.82465595
+Doc 563: Topic 18 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 0.24687056
+Doc 564: Topic 26 (Auto: Vaccines; Descriptive: Vaccines – Pneumococcal), Prob: 1.00000000
+Doc 565: Topic 26 (Auto: Vaccines; Descriptive: Vaccines – Pneumococcal), Prob: 0.90272169
+Doc 566: Topic 26 (Auto: Vaccines; Descriptive: Vaccines – Pneumococcal), Prob: 0.60580470
+Doc 567: Topic 26 (Auto: Vaccines; Descriptive: Vaccines – Pneumococcal), Prob: 1.00000000
+Doc 568: Topic 26 (Auto: Vaccines; Descriptive: Vaccines – Pneumococcal), Prob: 0.89205164
+Doc 569: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 570: Topic 26 (Auto: Vaccines; Descriptive: Vaccines – Pneumococcal), Prob: 1.00000000
+Doc 571: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 572: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 573: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 574: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 0.34824923
+Doc 575: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 0.81228975
+Doc 576: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 577: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 578: Topic 84 (Auto: Vaccines; Descriptive: Vaccines – Polysaccharides), Prob: 1.00000000
+Doc 579: Topic 18 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 0.81142130
+Doc 580: Topic 5 (Auto: Antigénique; Descriptive: Antigénique), Prob: 0.52288170
+Doc 581: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 582: Topic 68 (Auto: Hepatitis; Descriptive: Hepatitis – Krugman), Prob: 0.34755904
+Doc 583: Topic 68 (Auto: Hepatitis; Descriptive: Hepatitis – Krugman), Prob: 1.00000000
+Doc 584: Topic 68 (Auto: Hepatitis; Descriptive: Hepatitis – Krugman), Prob: 1.00000000
+Doc 585: Topic 11 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccine), Prob: 0.32561492
+Doc 586: Topic 68 (Auto: Hepatitis; Descriptive: Hepatitis – Krugman), Prob: 1.00000000
+Doc 587: Topic 11 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccine), Prob: 0.55122673
+Doc 588: Topic 11 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccine), Prob: 0.53372039
+Doc 589: Topic 11 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccine), Prob: 0.45700440
+Doc 590: Topic 11 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccine), Prob: 1.00000000
+Doc 591: Topic 31 (Auto: 24; Descriptive: 24), Prob: 0.69892652
+Doc 592: Topic 11 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccine), Prob: 0.76849522
+Doc 593: Topic 11 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccine), Prob: 0.66600207
+Doc 594: Topic 11 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccine), Prob: 1.00000000
+Doc 595: Topic 27 (Auto: Lyme; Descriptive: Lyme – Vaccine), Prob: 0.87847640
+Doc 596: Topic 27 (Auto: Lyme; Descriptive: Lyme – Vaccine), Prob: 1.00000000
+Doc 597: Topic 27 (Auto: Lyme; Descriptive: Lyme – Vaccine), Prob: 0.87847640
+Doc 598: Topic 27 (Auto: Lyme; Descriptive: Lyme – Vaccine), Prob: 0.34816592
+Doc 599: Topic 49 (Auto: Lyme; Descriptive: Lyme – Diagnosis), Prob: 1.00000000
+Doc 600: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 601: Topic 49 (Auto: Lyme; Descriptive: Lyme – Diagnosis), Prob: 1.00000000
+Doc 602: Topic 49 (Auto: Lyme; Descriptive: Lyme – Diagnosis), Prob: 1.00000000
+Doc 603: Topic 49 (Auto: Lyme; Descriptive: Lyme – Diagnosis), Prob: 0.23988432
+Doc 604: Topic 49 (Auto: Lyme; Descriptive: Lyme – Diagnosis), Prob: 0.55729326
+Doc 605: Topic 27 (Auto: Lyme; Descriptive: Lyme – Vaccine), Prob: 1.00000000
+Doc 606: Topic 5 (Auto: Antigénique; Descriptive: Antigénique), Prob: 0.42905279
+Doc 607: Topic 63 (Auto: Burgdorferi; Descriptive: Burgdorferi), Prob: 1.00000000
+Doc 608: Topic 63 (Auto: Burgdorferi; Descriptive: Burgdorferi), Prob: 0.68291205
+Doc 609: Topic 63 (Auto: Burgdorferi; Descriptive: Burgdorferi), Prob: 0.56002935
+Doc 610: Topic 27 (Auto: Lyme; Descriptive: Lyme – Vaccine), Prob: 0.34418959
+Doc 611: Topic 27 (Auto: Lyme; Descriptive: Lyme – Vaccine), Prob: 0.41527187
+Doc 612: Topic 10 (Auto: Papillomavirus; Descriptive: Papillomavirus), Prob: 0.97722088
+Doc 613: Topic 10 (Auto: Papillomavirus; Descriptive: Papillomavirus), Prob: 1.00000000
+Doc 614: Topic 10 (Auto: Papillomavirus; Descriptive: Papillomavirus), Prob: 1.00000000
+Doc 615: Topic 10 (Auto: Papillomavirus; Descriptive: Papillomavirus), Prob: 1.00000000
+Doc 616: Topic 10 (Auto: Papillomavirus; Descriptive: Papillomavirus), Prob: 0.65282835
+Doc 617: Topic 0 (Auto: Smallpox; Descriptive: Smallpox – Variolation), Prob: 0.88645325
+Doc 618: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 619: Topic 48 (Auto: Vaccine; Descriptive: Vaccine – Genome), Prob: 1.00000000
+Doc 620: Topic 48 (Auto: Vaccine; Descriptive: Vaccine – Genome), Prob: 1.00000000
+Doc 621: Topic 47 (Auto: Meningococcal; Descriptive: Meningococcal – Meningococcus), Prob: 1.00000000
+Doc 622: Topic 47 (Auto: Meningococcal; Descriptive: Meningococcal – Meningococcus), Prob: 1.00000000
+Doc 623: Topic 34 (Auto: Biologicsbloodvaccines; Descriptive: Biologicsbloodvaccines), Prob: 0.88725061
+Doc 624: Topic 16 (Auto: Pdf; Descriptive: Pdf), Prob: 1.00000000
+Doc 625: Topic 34 (Auto: Biologicsbloodvaccines; Descriptive: Biologicsbloodvaccines), Prob: 1.00000000
+Doc 626: Topic 16 (Auto: Pdf; Descriptive: Pdf), Prob: 0.59665287

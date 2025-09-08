@@ -1,0 +1,341 @@
+BERTopic results plotkins vaccines
+
+Topic 0
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Hepatitis
+  Keywords:          hbsag, yeast, lot, recombinant, aluminum, blood, sulfate, aluminum hydroxyphosphate, hydroxyphosphate sulfate, recombinant package
+  Summary:           In July 1986, a recombinant hepatitis B vaccine was licensed in the United States. Hepatitis B vaccines are sterile suspensions for intramuscu- lar injection.
+
+Topic 1
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Manufacture
+  Keywords:          development, manufactured, clinical studies, starting, successful, prime, boost, manufacture, early, component
+  Summary:           The vast majority of the more than 1 billion doses of vaccines manufactured worldwide each year are given to perfectly healthy people. The ability to manufacture these vaccines safely and consistently is built on four competencies.
+
+Topic 2
+  Auto Label:        Bioprocess
+  Descriptive Label: Bioprocess
+  Keywords:          standards, single use, use, single, setting, int http://www.bioprocessintl.com/, http://www.bioprocessintl.com/ manufacturing, seeking, seeking generation, references
+  Summary:           31 Standards are in development for extractables and leachables, particulate classification and management, integ- rity, supplier evaluation, and interchangeability. Governing and sponsoring agencies include Parental Drug Associate and Product Quality Research Institute.
+
+Topic 3
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Polio
+  Keywords:          polio, ipv, polio vaccine, eradication, polio vaccines, design, substantial, facility design, sabin, wild
+  Summary:           The manufacture of polio vaccines began in 1955. The risk of vaccine-associated paralytic poliomyelitis (VAPP) is estimated at 0.42 per million33 over a three-dose schedule.
+
+Topic 4
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Influenza
+  Keywords:          influenza, influenza virus, vaccine produced, neuraminidase, types, trivalent, virus vaccine, glycoproteins, neuraminidase glycoproteins, trivalent types
+  Summary:           Influenza vaccine contains two strains of influ- enza A viruses (H1N1 and H3N2) and a single influenza B virus. The two type A viruses are identified by their subtypes of hemagglutinin and neuraminidase.
+
+Topic 5
+  Auto Label:        Flexibility
+  Descriptive Label: Flexibility
+  Keywords:          single, region, plant, promise, challenges, single use, manufacturing, drift, single plant, enabled
+  Summary:           The promise of the technology is clear and has triggered a significant investment by equipment developers into the single-use space. The distributed manufacturing approach has many benefits including limiting global supply shortages from a catastrophic event at a single plant.
+
+Topic 6
+  Auto Label:        Polysaccharide
+  Descriptive Label: Polysaccharide
+  Keywords:          polysaccharide, tetanus, tetanus protein, protein, crude, influenzae type, toxin, capsular, influenzae, ultrafiltration
+  Summary:           Production of Haemophilus influenzae type b (Hib) conju- gate includes the separate production of capsular polysaccha- ride from Hib and a carrier protein such as tetanus protein from Clostridium tetani. The industrial conjugation process was initially developed using tetanus toxoid by a team at the National Institute of Allergy and Infectious Diseases.
+
+Topic 7
+  Auto Label:        Vlps
+  Descriptive Label: Vlps
+  Keywords:          vlps, proteins, expression, hpv, cells, case, assembly, production vlps, particularly, inactivation
+  Summary:           Virus-like particles (VLPs) are designed to mimic the overall structure of virus particles. VLPs have been produced for a wide range of taxonomically and structur- ally distinct viruses.
+
+Topic 8
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Shortages
+  Keywords:          immunizations, available, agreement, immunized, vaccine supply, pneumococcal, glaxosmithkline, potentially, supply, times
+  Summary:           Vaccine supply shortages are unfortunately not uncommon, and a requirement for multiple vaccines increases the possibility that one might not be continuously available. The implications of these scenarios may have to be explored during Phase II dosing studies or postmarketing surveillance.
+
+Topic 9
+  Auto Label:        Drug
+  Descriptive Label: Drug
+  Keywords:          drug, submission, clinical, overview, regulatory overview, new drug, clinical nonclinical, testing, guidance, review
+  Summary:           Preclinical materials for proof-of-concept testing in animal models. Preparation of clinical materials according to current GMP.
+
+Topic 10
+  Auto Label:        Regulations
+  Descriptive Label: Regulations
+  Keywords:          federal, regulations title, regulations, title, office, register, national, archives, archives administration, national archives
+  Summary:           Title 21, Sec. ł01.2(a).
+
+Topic 11
+  Auto Label:        Malaria
+  Descriptive Label: Malaria
+  Keywords:          prime, boost, prime boost, canarypox, positive, tuberculosis, positive result, boost approaches, trial, uses
+  Summary:           Prime-Boost Vaccines use one vaccine as a prime, followed by the use of an entirely different vaccine for the boost. Most notably, an HIV vaccine efficacy trial in Thailand had a positive result using this approach.
+
+Topic 12
+  Auto Label:        Inspection
+  Descriptive Label: Inspection
+  Keywords:          containers, operations, critical, environment, conducted, potency purity, controlled environment, testing stage, final containers, surfaces conducted
+  Summary:           During this phase, individual, scrupulously cleaned, depy- rogenated, single-dose or multidose containers are filled with vaccine and sealed with sterile stoppers or plungers. After filling, all containers are inspected using semiautomated or automated equipment designed to detect minute cosmetic and physical defects.
+
+Topic 13
+  Auto Label:        Incubated
+  Descriptive Label: Incubated
+  Keywords:          eggs, monovalent, inoculated, allantoic, virus suspension, inoculated eggs, suspension, virus, incubated, harvested
+  Summary:           The substrate most commonly used by producers of influ- enza vaccine is the 11-day-old embryonated chicken egg. A monovalent virus (suspension) is received from CBER or the CDC.
+
+Topic 14
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Licensing
+  Keywords:          harmonization, annex, approval, inspections, worldwide, regulatory, organizations, licensure, regulated, vaccines
+  Summary:           Vaccines are licensed through a centralized procedure that allows for simultaneous licensure within all countries within the European Union. Harmonization of licensing and regulating procedures for vaccines has obvious benefits in rapidly delivering safe and effective vaccines to the market.
+
+Topic 15
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Virus
+  Keywords:          like, particles vaccine, like particles, based, particles, landes springer, biotechnology landes, pharmaceutical biotechnology, landes, subunit vaccines
+  Summary:           Virus-Like Particle–Based Vaccines. Traditional viral vaccines rely on attenuated virus strains or inactivation.
+
+Topic 16
+  Auto Label:        Manufacturing
+  Descriptive Label: Manufacturing
+  Keywords:          defines, process defines, combining components, consists combining, formulation consists, basics formulation, manufacturing basics, product manufacturing, defines product, components product
+  Summary:           The manufacturing process that defines how the product is
+
+Topic 17
+  Auto Label:        Ipv
+  Descriptive Label: Ipv
+  Keywords:          dose, dose vial, vial, steps, ipv, productivity, culture purified, purified chromatography, chromatography steps, shows virus
+  Summary:           The production of IPV as described in Table 5.1 shows that the virus must be grown in cell culture, and then purified using three chromatography steps, followed by inactivation. As with any bioprocess, each steps results in loss of material that reduces the overall productivity.
+
+Topic 18
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Toxoids
+  Keywords:          life, shelf life, conditions, vaccine manufacturers, shelf, storage, temperature, tempera-, adverse, shipping
+  Summary:           Live attenu- ated vaccines tend to be more susceptible than inactivated vaccines and toxoids. The addition of stabilizers or lyophilization, when feasible, tends to improve the thermal resistance of vaccines.
+
+Topic 19
+  Auto Label:        Hiv
+  Descriptive Label: Hiv
+  Keywords:          med, 2013;369(22, malaria,44 rerks, janes, aidsvax, alvac, pitisuttithum, malaria,44, testing,42, sobieszczyk
+  Summary:           Vaccination with ALVAC and AIDSVAX to prevent HIV-1 infection in Thai- land. in additional HIV vaccine efficacy testing,42 TB vaccines
+
+Topic 20
+  Auto Label:        Virus
+  Descriptive Label: Virus
+  Keywords:          split virus, split, concentrate, virus concentrate, virus, added required, stabilizers added, adding, preservative, reduced
+  Summary:           Virus concentrated, purified, and inactivated. Whole virus reduced to subunit particles by
+
+Topic 21
+  Auto Label:        Bioreactors
+  Descriptive Label: Bioreactors
+  Keywords:          single use, single, complexity, use, volume, equipment, facility, large, cesses, advent
+  Summary:           The advent of disposable single-use equipment has eliminated the high cost of cleaning and sterilizing manufacturing equipment, reducing the complexity and cost of manufacturing facilities, and allowing economical production. Single-use promise is significant; however, there are a number of hurdles as in any new technology format.
+
+Topic 22
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Regulated
+  Keywords:          health service, section public, biological products, service, act, authority, undergo, service act, public health, section
+  Summary:           In the United States, vaccines are regulated as biological products. Vaccines undergo a rigorous review of labora- tory, nonclinical, and clinical data to ensure safety, efficacy, purity, and potency.
+
+Topic 23
+  Auto Label:        Influenza
+  Descriptive Label: Influenza
+  Keywords:          scale distribution, alternative scale, alternative, influenza vaccine, distribution, distribution -pandemic, int alternative, vaccine int, distribution pandemic, -pandemic
+  Summary:           An alternative to the scale-up and
+
+Topic 24
+  Auto Label:        Poliovirus
+  Descriptive Label: Poliovirus
+  Keywords:          vero, cell, higher, wijffels, showed vero, antigen yields, ture wijffels, improved poliovirus, wijffels improved, data per.c6
+  Summary:           Vero cell culture can be further optimized to increase the production of D-antigen threefold. Crucell has presented data that show its PER.C6 human-derived cell line has productivity 30 times higher than the Vero cells that are currently used to manufac
+
+Topic 25
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Paramyxoviridae
+  Keywords:          measles, live attenuated, attenuated, live, vaccines derived, induc- ing, vaccine induc-, attenuated viral, induc-, schwarz strains
+  Summary:           The measles virus, isolated in 1954, is part of the genus Morbil- livirus in the family Paramyxoviridae. Current vaccines are derived from Edmonston, Mor
+
+Topic 26
+  Auto Label:        Ship
+  Descriptive Label: Ship
+  Keywords:          product ship, distribute product, release distribute, authorization release, regulatory authorization, customer, ship, distribute, authorization, ship customer
+  Summary:           The regulatory authorization to
+
+
+Document-Level Assignments:
+Doc 1: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Manufacture), Prob: 1.00000000
+Doc 2: Topic 2 (Auto: Bioprocess; Descriptive: Bioprocess), Prob: 0.99331455
+Doc 3: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Manufacture), Prob: 1.00000000
+Doc 4: Topic 16 (Auto: Manufacturing; Descriptive: Manufacturing), Prob: 1.00000000
+Doc 5: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 6: Topic 5 (Auto: Flexibility; Descriptive: Flexibility), Prob: 0.51750092
+Doc 7: Topic 26 (Auto: Ship; Descriptive: Ship), Prob: 1.00000000
+Doc 8: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Manufacture), Prob: 1.00000000
+Doc 9: Topic 22 (Auto: Vaccines; Descriptive: Vaccines – Regulated), Prob: 1.00000000
+Doc 10: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 11: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Licensing), Prob: 1.00000000
+Doc 12: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Licensing), Prob: 1.00000000
+Doc 13: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 14: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Licensing), Prob: 0.97751601
+Doc 15: Topic 9 (Auto: Drug; Descriptive: Drug), Prob: 0.48980286
+Doc 16: Topic 9 (Auto: Drug; Descriptive: Drug), Prob: 1.00000000
+Doc 17: Topic 9 (Auto: Drug; Descriptive: Drug), Prob: 0.94130536
+Doc 18: Topic 9 (Auto: Drug; Descriptive: Drug), Prob: 0.58637784
+Doc 19: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 20: Topic 16 (Auto: Manufacturing; Descriptive: Manufacturing), Prob: 0.97324226
+Doc 21: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Manufacture), Prob: 1.00000000
+Doc 22: Topic 2 (Auto: Bioprocess; Descriptive: Bioprocess), Prob: 1.00000000
+Doc 23: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 24: Topic 16 (Auto: Manufacturing; Descriptive: Manufacturing), Prob: 1.00000000
+Doc 25: Topic 12 (Auto: Inspection; Descriptive: Inspection), Prob: 0.59689223
+Doc 26: Topic 12 (Auto: Inspection; Descriptive: Inspection), Prob: 1.00000000
+Doc 27: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Manufacture), Prob: 0.90834504
+Doc 28: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Toxoids), Prob: 1.00000000
+Doc 29: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Toxoids), Prob: 1.00000000
+Doc 30: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Toxoids), Prob: 0.79800214
+Doc 31: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 32: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Toxoids), Prob: 1.00000000
+Doc 33: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Manufacture), Prob: 1.00000000
+Doc 34: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 35: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 0.87218251
+Doc 36: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 37: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 38: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 39: Topic 13 (Auto: Incubated; Descriptive: Incubated), Prob: 1.00000000
+Doc 40: Topic 13 (Auto: Incubated; Descriptive: Incubated), Prob: 0.77427034
+Doc 41: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 0.98726453
+Doc 42: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Hepatitis), Prob: 1.00000000
+Doc 43: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Hepatitis), Prob: 1.00000000
+Doc 44: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Hepatitis), Prob: 1.00000000
+Doc 45: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Hepatitis), Prob: 1.00000000
+Doc 46: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Hepatitis), Prob: 1.00000000
+Doc 47: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Hepatitis), Prob: 1.00000000
+Doc 48: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Hepatitis), Prob: 1.00000000
+Doc 49: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Hepatitis), Prob: 1.00000000
+Doc 50: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Hepatitis), Prob: 1.00000000
+Doc 51: Topic 13 (Auto: Incubated; Descriptive: Incubated), Prob: 0.70224110
+Doc 52: Topic 13 (Auto: Incubated; Descriptive: Incubated), Prob: 1.00000000
+Doc 53: Topic 20 (Auto: Virus; Descriptive: Virus), Prob: 1.00000000
+Doc 54: Topic 20 (Auto: Virus; Descriptive: Virus), Prob: 1.00000000
+Doc 55: Topic 20 (Auto: Virus; Descriptive: Virus), Prob: 1.00000000
+Doc 56: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 57: Topic 12 (Auto: Inspection; Descriptive: Inspection), Prob: 1.00000000
+Doc 58: Topic 12 (Auto: Inspection; Descriptive: Inspection), Prob: 1.00000000
+Doc 59: Topic 26 (Auto: Ship; Descriptive: Ship), Prob: 1.00000000
+Doc 60: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Manufacture), Prob: 0.94240925
+Doc 61: Topic 6 (Auto: Polysaccharide; Descriptive: Polysaccharide), Prob: 0.71659808
+Doc 62: Topic 6 (Auto: Polysaccharide; Descriptive: Polysaccharide), Prob: 0.72096372
+Doc 63: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 64: Topic 6 (Auto: Polysaccharide; Descriptive: Polysaccharide), Prob: 0.73243330
+Doc 65: Topic 6 (Auto: Polysaccharide; Descriptive: Polysaccharide), Prob: 1.00000000
+Doc 66: Topic 6 (Auto: Polysaccharide; Descriptive: Polysaccharide), Prob: 1.00000000
+Doc 67: Topic 6 (Auto: Polysaccharide; Descriptive: Polysaccharide), Prob: 1.00000000
+Doc 68: Topic 6 (Auto: Polysaccharide; Descriptive: Polysaccharide), Prob: 0.85742167
+Doc 69: Topic 6 (Auto: Polysaccharide; Descriptive: Polysaccharide), Prob: 1.00000000
+Doc 70: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Paramyxoviridae), Prob: 1.00000000
+Doc 71: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Paramyxoviridae), Prob: 1.00000000
+Doc 72: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 73: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 74: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Manufacture), Prob: 1.00000000
+Doc 75: Topic 15 (Auto: Vaccines; Descriptive: Vaccines – Virus), Prob: 1.00000000
+Doc 76: Topic 15 (Auto: Vaccines; Descriptive: Vaccines – Virus), Prob: 0.89080141
+Doc 77: Topic 7 (Auto: Vlps; Descriptive: Vlps), Prob: 0.71394773
+Doc 78: Topic 7 (Auto: Vlps; Descriptive: Vlps), Prob: 0.75911672
+Doc 79: Topic 7 (Auto: Vlps; Descriptive: Vlps), Prob: 0.66183247
+Doc 80: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 81: Topic 7 (Auto: Vlps; Descriptive: Vlps), Prob: 0.71394773
+Doc 82: Topic 7 (Auto: Vlps; Descriptive: Vlps), Prob: 1.00000000
+Doc 83: Topic 7 (Auto: Vlps; Descriptive: Vlps), Prob: 1.00000000
+Doc 84: Topic 7 (Auto: Vlps; Descriptive: Vlps), Prob: 0.75445711
+Doc 85: Topic 16 (Auto: Manufacturing; Descriptive: Manufacturing), Prob: 0.66211645
+Doc 86: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Manufacture), Prob: 1.00000000
+Doc 87: Topic 5 (Auto: Flexibility; Descriptive: Flexibility), Prob: 0.63731063
+Doc 88: Topic 5 (Auto: Flexibility; Descriptive: Flexibility), Prob: 1.00000000
+Doc 89: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 90: Topic 5 (Auto: Flexibility; Descriptive: Flexibility), Prob: 0.59985245
+Doc 91: Topic 21 (Auto: Bioreactors; Descriptive: Bioreactors), Prob: 1.00000000
+Doc 92: Topic 5 (Auto: Flexibility; Descriptive: Flexibility), Prob: 1.00000000
+Doc 93: Topic 21 (Auto: Bioreactors; Descriptive: Bioreactors), Prob: 1.00000000
+Doc 94: Topic 5 (Auto: Flexibility; Descriptive: Flexibility), Prob: 0.63731063
+Doc 95: Topic 2 (Auto: Bioprocess; Descriptive: Bioprocess), Prob: 1.00000000
+Doc 96: Topic 5 (Auto: Flexibility; Descriptive: Flexibility), Prob: 0.66975660
+Doc 97: Topic 21 (Auto: Bioreactors; Descriptive: Bioreactors), Prob: 1.00000000
+Doc 98: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Shortages), Prob: 0.96007803
+Doc 99: Topic 5 (Auto: Flexibility; Descriptive: Flexibility), Prob: 1.00000000
+Doc 100: Topic 5 (Auto: Flexibility; Descriptive: Flexibility), Prob: 0.63731063
+Doc 101: Topic 2 (Auto: Bioprocess; Descriptive: Bioprocess), Prob: 1.00000000
+Doc 102: Topic 3 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 1.00000000
+Doc 103: Topic 3 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 1.00000000
+Doc 104: Topic 17 (Auto: Ipv; Descriptive: Ipv), Prob: 0.98582448
+Doc 105: Topic 17 (Auto: Ipv; Descriptive: Ipv), Prob: 1.00000000
+Doc 106: Topic 3 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 1.00000000
+Doc 107: Topic 3 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.65963717
+Doc 108: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 109: Topic 24 (Auto: Poliovirus; Descriptive: Poliovirus), Prob: 1.00000000
+Doc 110: Topic 3 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.85021317
+Doc 111: Topic 3 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 1.00000000
+Doc 112: Topic 11 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 113: Topic 11 (Auto: Malaria; Descriptive: Malaria), Prob: 0.50017020
+Doc 114: Topic 19 (Auto: Hiv; Descriptive: Hiv), Prob: 1.00000000
+Doc 115: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Manufacture), Prob: 1.00000000
+Doc 116: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Manufacture), Prob: 1.00000000
+Doc 117: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Manufacture), Prob: 0.97544008
+Doc 118: Topic 11 (Auto: Malaria; Descriptive: Malaria), Prob: 0.38748966
+Doc 119: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Licensing), Prob: 1.00000000
+Doc 120: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Manufacture), Prob: 1.00000000
+Doc 121: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Shortages), Prob: 0.96007803
+Doc 122: Topic 2 (Auto: Bioprocess; Descriptive: Bioprocess), Prob: 1.00000000
+Doc 123: Topic 2 (Auto: Bioprocess; Descriptive: Bioprocess), Prob: 1.00000000
+Doc 124: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Shortages), Prob: 1.00000000
+Doc 125: Topic 9 (Auto: Drug; Descriptive: Drug), Prob: 0.74288407
+Doc 126: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Shortages), Prob: 1.00000000
+Doc 127: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Shortages), Prob: 1.00000000
+Doc 128: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Shortages), Prob: 1.00000000
+Doc 129: Topic 10 (Auto: Regulations; Descriptive: Regulations), Prob: 0.41387725
+Doc 130: Topic 22 (Auto: Vaccines; Descriptive: Vaccines – Regulated), Prob: 0.68156728
+Doc 131: Topic 22 (Auto: Vaccines; Descriptive: Vaccines – Regulated), Prob: 1.00000000
+Doc 132: Topic 10 (Auto: Regulations; Descriptive: Regulations), Prob: 0.64792828
+Doc 133: Topic 10 (Auto: Regulations; Descriptive: Regulations), Prob: 0.97229367
+Doc 134: Topic 9 (Auto: Drug; Descriptive: Drug), Prob: 1.00000000
+Doc 135: Topic 10 (Auto: Regulations; Descriptive: Regulations), Prob: 1.00000000
+Doc 136: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 137: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 0.86621322
+Doc 138: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 139: Topic 10 (Auto: Regulations; Descriptive: Regulations), Prob: 1.00000000
+Doc 140: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Hepatitis), Prob: 1.00000000
+Doc 141: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Hepatitis), Prob: 1.00000000
+Doc 142: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Hepatitis), Prob: 1.00000000
+Doc 143: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Hepatitis), Prob: 1.00000000
+Doc 144: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Hepatitis), Prob: 1.00000000
+Doc 145: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 146: Topic 6 (Auto: Polysaccharide; Descriptive: Polysaccharide), Prob: 0.47335799
+Doc 147: Topic 15 (Auto: Vaccines; Descriptive: Vaccines – Virus), Prob: 0.71967632
+Doc 148: Topic 15 (Auto: Vaccines; Descriptive: Vaccines – Virus), Prob: 1.00000000
+Doc 149: Topic 7 (Auto: Vlps; Descriptive: Vlps), Prob: 0.60743074
+Doc 150: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 151: Topic 9 (Auto: Drug; Descriptive: Drug), Prob: 0.80019735
+Doc 152: Topic 2 (Auto: Bioprocess; Descriptive: Bioprocess), Prob: 1.00000000
+Doc 153: Topic 2 (Auto: Bioprocess; Descriptive: Bioprocess), Prob: 1.00000000
+Doc 154: Topic 23 (Auto: Influenza; Descriptive: Influenza), Prob: 1.00000000
+Doc 155: Topic 23 (Auto: Influenza; Descriptive: Influenza), Prob: 1.00000000
+Doc 156: Topic 23 (Auto: Influenza; Descriptive: Influenza), Prob: 1.00000000
+Doc 157: Topic 2 (Auto: Bioprocess; Descriptive: Bioprocess), Prob: 1.00000000
+Doc 158: Topic 2 (Auto: Bioprocess; Descriptive: Bioprocess), Prob: 1.00000000
+Doc 159: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Shortages), Prob: 1.00000000
+Doc 160: Topic 2 (Auto: Bioprocess; Descriptive: Bioprocess), Prob: 1.00000000
+Doc 161: Topic 2 (Auto: Bioprocess; Descriptive: Bioprocess), Prob: 1.00000000
+Doc 162: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 163: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Shortages), Prob: 1.00000000
+Doc 164: Topic 3 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.85523907
+Doc 165: Topic 3 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.73041807
+Doc 166: Topic 24 (Auto: Poliovirus; Descriptive: Poliovirus), Prob: 1.00000000
+Doc 167: Topic 3 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.58040042
+Doc 168: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 169: Topic 3 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 1.00000000
+Doc 170: Topic 17 (Auto: Ipv; Descriptive: Ipv), Prob: 1.00000000
+Doc 171: Topic 17 (Auto: Ipv; Descriptive: Ipv), Prob: 1.00000000
+Doc 172: Topic 19 (Auto: Hiv; Descriptive: Hiv), Prob: 1.00000000
+Doc 173: Topic 19 (Auto: Hiv; Descriptive: Hiv), Prob: 1.00000000
+Doc 174: Topic 11 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 175: Topic 11 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000

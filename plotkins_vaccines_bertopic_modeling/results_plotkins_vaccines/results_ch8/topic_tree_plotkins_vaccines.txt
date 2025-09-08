@@ -1,0 +1,179 @@
+.
+├─syncytial virus_respiratory syncytial_syncytial_respiratory_palivizumab
+│    ├─■──mg_escape mutants_mutations_escape_syncytial ── Topic: 55
+│    └─syncytial_syncytial virus_respiratory syncytial_palivizumab_respiratory
+│         ├─■──cotton_cotton rats_syncytial virus_syncytial_respiratory syncytial ── Topic: 73
+│         └─■──hospitalizations_respiratory syncytial_syncytial virus_syncytial_rsv- ── Topic: 16
+└─passive_serum_antibody_antibodies_treatment
+     ├─jama_jama jama_anthrax_child_serum treatment
+     │    ├─use convalescent_child_mumps_convalescent serum_mumps child
+     │    │    ├─■──cough_whooping_whooping cough_nielsen_blood whooping ── Topic: 26
+     │    │    └─mumps_convalescent serum_mumps child_use convalescent_child
+     │    │         ├─■──mumps_mumps child_child_treatment prophylaxis_hess protective ── Topic: 66
+     │    │         └─■──convalescent serum_convalescent_use convalescent_seventh_seventh note ── Topic: 27
+     │    └─jama_jama jama_anthrax_epidemic_rubella
+     │         ├─jama_jama jama_anthrax_parotitis_parotitis jama
+     │         │    ├─anthrax_concerning_serum treatment_general_1917;25(4
+     │         │    │    ├─■──concerning_adopted_adopted use_intravenous injection_minkenhof vink ── Topic: 42
+     │         │    │    └─anthrax_serum treatment_1917;25(4_treatment cases_amoss hl
+     │         │    │         ├─■──anthrax_antibody therapies_migone subramanian_inhalational_cutaneous ── Topic: 52
+     │         │    │         └─■──plexus_cerebro spinal_amoss_meninges_spinal ── Topic: 85
+     │         │    └─jama_jama jama_parotitis jama_parotitis_hepatitis
+     │         │         ├─jama jama_jama_parotitis jama_parotitis_guerrero lb
+     │         │         │    ├─■──parotitis jama_parotitis_reanalysis_lb_epidemic parotitis ── Topic: 62
+     │         │         │    └─■──jama jama_jama___ ── Topic: 33
+     │         │         └─hepatitis_gamma globulin_prophylactic agent_coriell_stokes
+     │         │              ├─■──hepatitis_infectious hepatitis_gamma globulin_globulin jama_hepatitis gamma ── Topic: 9
+     │         │              └─■──coriell_prophylactic agent_agent_elitis_therapeutic antiviral ── Topic: 78
+     │         └─rubella_scarlet fever_scarlet_fever jama_antitoxin
+     │              ├─■──antitoxin_1896;26:957_antitoxin scarlet_push science_drug push ── Topic: 59
+     │              └─■──rubella_scarlet_scarlet fever_fever jama_vaccination virus ── Topic: 28
+     └─passive_antibodies_antibody_monoclonal_infection
+          ├─antibody_passive_antibodies_monoclonal_infection
+          │    ├─tuberculosis_immunization_passive_passive immunization_resistant
+          │    │    ├─tuberculosis_resistant_staphylococcus_drug resistant_drug
+          │    │    │    ├─tuberculosis_drug resistant_resistant_resistant tuberculosis_drug
+          │    │    │    │    ├─■──tuberculosis_antitoxic_phthisic tuberculosis_- phthisic_bactericidal ── Topic: 82
+          │    │    │    │    └─tuberculosis_drug resistant_resistant_resistant tuberculosis_drug
+          │    │    │    │         ├─■──drug resistant_resistant_resistant tuberculosis_tuberculosis_drug ── Topic: 81
+          │    │    │    │         └─■──showed_sputum_mycobacterium tuberculosis_mycobacterium_tuberculosis ── Topic: 15
+          │    │    │    └─staphylococcus_pseudomonas_aureus_staphylococcus aureus_multicenter
+          │    │    │         ├─■──pseudomonas_- pcrv_pcrv_resistant_multidrug ── Topic: 25
+          │    │    │         └─■──staphylococcus_staphylococcus aureus_aureus_multicenter_treatment staphylococcus ── Topic: 4
+          │    │    └─immunization_passive_passive immunization_infants_maternal
+          │    │         ├─immunization_passive immunization_maternal_influenzae_disease
+          │    │         │    ├─influenzae_passive immunization_influenzae type_immunization_infectious diseases
+          │    │         │    │    ├─infectious diseases_infectious_passive immunization_immunization_feigin
+          │    │         │    │    │    ├─passive immunization_immunization_feigin_cherry_feigin cherry
+          │    │         │    │    │    │    ├─■──passive immunization_like_advanced substantially_shift_progress ── Topic: 36
+          │    │         │    │    │    │    └─■──feigin cherry_cherry_feigin_tr_disease spirochete ── Topic: 56
+          │    │         │    │    │    └─infectious diseases_infectious_development passive_revisited animal_antitiyphoid serum
+          │    │         │    │    │         ├─■──serum therapy_antibiotics_behring_immunology serum_philosophical thera- ── Topic: 41
+          │    │         │    │    │         └─■──antitiyphoid serum_return past_models infection_diseases a._antitiyphoid ── Topic: 70
+          │    │         │    │    └─influenzae_influenzae type_rabbit_sulfonamide_type
+          │    │         │    │         ├─■──rabbit_sulfonamide_rabbit serum_influenzae_immunization early ── Topic: 43
+          │    │         │    │         └─■──influenzae_influenzae type_ambrosino_haemophilus_haemophilus influenzae ── Topic: 13
+          │    │         │    └─maternal_tularemia_immunotherapy_francisella_tularensis
+          │    │         │         ├─tularemia_immunotherapy_francisella_francisella tularensis_tularensis
+          │    │         │         │    ├─tularemia_francisella_tularensis_francisella tularensis_live tularemia
+          │    │         │         │    │    ├─■──francisella tularensis_tularensis_francisella_tularemia vaccine_live tularemia ── Topic: 57
+          │    │         │         │    │    └─■──tularemia_months recovery_recovery_equine received_summary ── Topic: 45
+          │    │         │         │    └─immunotherapy_birth_disease_igg_half
+          │    │         │         │         ├─host_immunotherapy_disease_behring_symptomatic disease
+          │    │         │         │         │    ├─■──cells_t cells_toxoplasma_toxoplasmosis_t ── Topic: 50
+          │    │         │         │         │    └─disease_symptomatic disease_onset_diphtheria_improved
+          │    │         │         │         │         ├─■──diphtheria_behring_animals_successfully_tetanus ── Topic: 44
+          │    │         │         │         │         └─■──symptomatic disease_improved_highly_disease_symptomatic ── Topic: 53
+          │    │         │         │         └─birth_igg_half_mucosal_tract
+          │    │         │         │              ├─half_half life_life_day half_mucosal
+          │    │         │         │              │    ├─■──life_half life_display_half_specificity ── Topic: 1
+          │    │         │         │              │    └─■──mucosal_upper_antibody titers_igg_influenza ── Topic: 69
+          │    │         │         │              └─birth_infec-_weight infants_birth weight_low birth
+          │    │         │         │                   ├─■──trans-_utero_transport_gastrointestinal tract_mink ── Topic: 67
+          │    │         │         │                   └─■──infec-_birth weight_weight infants_low birth_weight ── Topic: 49
+          │    │         │         └─mothers_maternal_age_prevalence_infants
+          │    │         │              ├─mothers_maternal_infants_pertussis_age
+          │    │         │              │    ├─■──pertussis_mothers_newborn infants_pertussis vaccina-_maternal pertussis ── Topic: 21
+          │    │         │              │    └─■──maternal_infants_mothers_maternal antibodies_months ── Topic: 39
+          │    │         │              └─■──fixing_line_complement fixing_complement_prevalence ── Topic: 63
+          │    │         └─rotavirus_outer_subjects_cholera_diarrhea
+          │    │              ├─rotavirus_cholera_diarrhea_subjects_coli
+          │    │              │    ├─■──cholera_salmonella_yolk_cholera serum_- cholera ── Topic: 3
+          │    │              │    └─rotavirus_diarrhea_subjects_hyperimmunized_controlled clinical
+          │    │              │         ├─■──rotavirus_immunity rotavirus_diarrhea_controlled clinical_colostrum ── Topic: 0
+          │    │              │         └─■──subjects_diarrhea_coli_hyperimmunized_cows ── Topic: 46
+          │    │              └─outer_outer membrane_membrane_serotype_genital
+          │    │                   ├─serotype_outer_neonatal mice_shigellae_shigellosis
+          │    │                   │    ├─■──infant rat_meningococcal_class_rat_induced local ── Topic: 29
+          │    │                   │    └─■──shigellae_neonatal mice_shigellosis_serotype_outer ── Topic: 34
+          │    │                   └─■──genital_trachomatis_membrane protein_major outer_chlamydial genital ── Topic: 48
+          │    └─monoclonal_streptococcal_mice_antibodies_monoclonal antibodies
+          │         ├─immune globulin_rabies_monoclonal_mice_globulin
+          │         │    ├─antigens_protective antigens_antibodies targeting_active passive_targeting
+          │         │    │    ├─antigens_protective antigens_determinants protective_lence active_immunisation antigens
+          │         │    │    │    ├─■──antigens new_antigen relation_immunisation antigens_lence active_viru- lence ── Topic: 80
+          │         │    │    │    └─■──serotypes_protection multiple_reactivity_bodies protective_human anti- ── Topic: 86
+          │         │    │    └─■──peters_sters_scand blackburn_blackburn nk_infection syrian ── Topic: 68
+          │         │    └─immune globulin_rabies_mice_globulin_intravenous
+          │         │         ├─intravenous_influenza_immune globulin_sepsis_botulism
+          │         │         │    ├─influenza_global mortality_immunity influenza_global_spanish
+          │         │         │    │    ├─■──influenza_immunity influenza_intern_serum nasal_clements serum ── Topic: 23
+          │         │         │    │    └─■──global mortality_global_mortality_hist_accounts global ── Topic: 61
+          │         │         │    └─intravenous_immune globulin_sepsis_botulism_intravenous immunoglobulin
+          │         │         │         ├─immune globulin_sepsis_botulism_varicella_varicella zoster
+          │         │         │         │    ├─sepsis_meta- analysis_meta-_treatment severe_systematic
+          │         │         │         │    │    ├─■──sepsis_neonatal sepsis_kirkpatrick treatment_pollock role_shock critically ── Topic: 37
+          │         │         │         │    │    └─■──intravenous immune_globulin therapy_intravenous_infected pregnant_s56 ── Topic: 20
+          │         │         │         │    └─botulism_varicella zoster_zoster_varicella_zoster immune
+          │         │         │         │         ├─■──varicella zoster_zoster immune_varicella_zoster_evidence secondary ── Topic: 77
+          │         │         │         │         └─■──botulism_botulinum_botu-_botulism immune_protection botulinum ── Topic: 10
+          │         │         │         └─intravenous immunoglobulin_intravenous_immunoglobulin_counts intravenous_asthma
+          │         │         │              ├─■──asthma_cd4 +_counts_cd4_+ ── Topic: 88
+          │         │         │              └─■──intravenous immunoglobulin_israeli_immunodefi- cient_transplant recip-_possible benefit ── Topic: 24
+          │         │         └─rabies_pasteur_tetanus_mice_references chapter
+          │         │              ├─rabies_pasteur_chapter available_references chapter_yellow fever
+          │         │              │    ├─rabies_transplantation_transplant_hbv_- rabies
+          │         │              │    │    ├─rabies_transplantation_transplant_hbv_- rabies
+          │         │              │    │    │    ├─transplantation_transplant_hbv_cytomegalovirus_sir
+          │         │              │    │    │    │    ├─■──cytomegalovirus_transplant_sir_lymphoma_hodgkin ── Topic: 7
+          │         │              │    │    │    │    └─■──hbv_transplantation_hepatology_panzees hepatology_negative cirrhotics ── Topic: 58
+          │         │              │    │    │    └─rabies_- rabies_sars_rabies immune_rabies serum
+          │         │              │    │    │         ├─■──rabies_- rabies_rabies immune_rabies serum_wolf ── Topic: 32
+          │         │              │    │    │         └─■──sars_respiratory syndrome_coronavirus_acute respiratory_severe acute ── Topic: 19
+          │         │              │    │    └─therapy virus_neutralize_humanized antibody_levels vitro_prevention progressive
+          │         │              │    │         ├─■──mabs_fogg_a27 protein_protein protection_levels vitro ── Topic: 47
+          │         │              │    │         └─■──humanized antibody_body_anti- body_humanized_e1636 ── Topic: 18
+          │         │              │    └─pasteur_chapter available_references chapter_yellow_yellow fever
+          │         │              │         ├─pasteur_references chapter_chapter available_chapter_plague
+          │         │              │         │    ├─pasteur_references chapter_chapter available_chapter_references
+          │         │              │         │    │    ├─■──references chapter_chapter available_chapter_references_available ── Topic: 89
+          │         │              │         │    │    └─■──pasteur_inst_antirabique_babès v_pasteur babès ── Topic: 64
+          │         │              │         │    └─plague_pneumonia_vaginal_f1_enhance
+          │         │              │         │         ├─plague_pneumonia_f1_lobar_pneumococcal pneumonia
+          │         │              │         │         │    ├─■──pneumonia_treatment lobar_pneumococcal pneumonia_lobar pneumonia_lobar ── Topic: 12
+          │         │              │         │         │    └─■──plague_f1_bubonic_yersiniae_brubaker ── Topic: 14
+          │         │              │         │         └─■──vaginal_candidiasis_vaginal infection_vaccine monoclonal_enhance mouse ── Topic: 35
+          │         │              │         └─yellow fever_yellow_encephalitis_borne_japanese
+          │         │              │              ├─yellow fever_yellow_encephalitis_japanese_japanese encephalitis
+          │         │              │              │    ├─■──yellow fever_yellow_fever_infections yellow_17d ── Topic: 22
+          │         │              │              │    └─■──encephalitis_japanese encephalitis_borne_japanese_bogdahn ── Topic: 31
+          │         │              │              └─■──tion monocytes_vivo assess-_invasion_coopera-_monocytes ── Topic: 11
+          │         │              └─tetanus_difficile_antitoxins_pertussis_toxin
+          │         │                   ├─tetanus_antitoxins_pertussis_therapeutic effect_tetanus antitoxin
+          │         │                   │    ├─■──pertussis_murine pertussis_toxin infect_lab_aerosol ── Topic: 84
+          │         │                   │    └─tetanus_antitoxins_treatment tetanus_tetanus antitoxin_antitoxins experimental
+          │         │                   │         ├─■──antitoxins_identification_today ._rowley_sevigny ── Topic: 76
+          │         │                   │         └─■──tetanus_treatment tetanus_tetanus antitoxin_military_molecule reliable ── Topic: 51
+          │         │                   └─■──difficile_clostridium difficile_clostridium_toxins_induced mortality ── Topic: 87
+          │         └─streptococcal_macaques_immunodeficiency_human immunodeficiency_immu- noglobulin
+          │              ├─immunodeficiency_human immunodeficiency_immunodeficiency virus_neutralizing antibodies_neutralizing
+          │              │    ├─human immunodeficiency_immunodeficiency virus_immunodeficiency_macaques_simian
+          │              │    │    ├─■──human immunodeficiency_immunodeficiency_immunodeficiency virus_notherapy_treatment advanced ── Topic: 83
+          │              │    │    └─■──macaques_simian_immunodeficiency virus_shiv_block ── Topic: 6
+          │              │    └─severe combined_neutralizing antibodies_immunodeficiencies scid_2000;122(2):143_scid 2000;122(2):143
+          │              │         ├─neutralizing antibodies_combined immunodeficiencies_89.6pd_transfer neutralizing_89.6pd passive
+          │              │         │    ├─■──broadly_antiretroviral_single_broadly neutralizing_rebound ── Topic: 2
+          │              │         │    └─■──2000;122(2):143_transfer neutralizing_89.6pd passive_2000;122(2):143 89.6pd_scid 2000;122(2):143 ── Topic: 75
+          │              │         └─■──cryptosporidiosis_cryptosporidium_cl_sl mosier_healthy volunteers ── Topic: 38
+          │              └─streptococcal_noglobulin_immu- noglobulin_group_herpes
+          │                   ├─streptococcal_herpes_group_group streptococcal_streptococcal disease
+          │                   │    ├─herpes_macaques monoclonal_herpes infection_antibod- ies_antibod-
+          │                   │    │    ├─■──herpes_herpes infection_cytotoxic_mutants altered_simone c ── Topic: 60
+          │                   │    │    └─■──macaques monoclonal_macaques_committee s23_mupapa_infection rhesus ── Topic: 54
+          │                   │    └─streptococcal_group_group streptococcal_streptococcal disease_early onset
+          │                   │         ├─■──streptococcal disease_group streptococcal_streptococcal_disease pt_pt ── Topic: 72
+          │                   │         └─■──group_candidate_tribution t_mechanism protection_infect good ── Topic: 71
+          │                   └─noglobulin_immu- noglobulin_streptococcal toxic_toxic_toxic shock
+          │                        ├─■──toxic shock_toxic_shock syndrome_streptococcal toxic_shock ── Topic: 65
+          │                        └─■──oral challenge_immu- noglobulin_noglobulin_oral_infections emphasis ── Topic: 79
+          └─measles_smallpox_argentine_%_fever
+               ├─smallpox_argentine_fever_hemorrhagic_argentine hemorrhagic
+               │    ├─argentine_fever_argentine hemorrhagic_hemorrhagic_hemorrhagic fever
+               │    │    ├─■──argentine_argentine hemorrhagic_hemorrhagic fever_treatment argentine_hemorrhagic ── Topic: 40
+               │    │    └─■──survived_lassa_%_% patients_fever ── Topic: 5
+               │    └─■──smallpox_contacts_hemorrhagic smallpox_smallpox vaccination_administered smallpox ── Topic: 8
+               └─measles_failure_measles vaccine_vaccine failure_prophylaxis measles
+                    ├─measles_prophylaxis measles_contracted measles_contracted_exposure
+                    │    ├─■──measles_contracted_contracted measles_attenuation measles_measles virus ── Topic: 30
+                    │    └─■──measles_prophylaxis measles_serum prophylaxis_measles convalescent_exposure ── Topic: 17
+                    └─■──failure_vaccine failure_measles vaccine_measles_months mechanism ── Topic: 74

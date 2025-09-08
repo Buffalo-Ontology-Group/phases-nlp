@@ -1,0 +1,87 @@
+.
+├─principal_surrogate_endpoints_biometrics_stratification
+│    ├─■──endpoints_principal_principal biometrics_endpoints springer_comparing ── Topic: 25
+│    └─surrogate_stratification_principal stratification_causal_principal
+│         ├─■──surrogate_surrogate endpoints_endpoints_treatment_clinical trials ── Topic: 2
+│         └─■──causal_principal stratification_stratification_principal_stratification causal ── Topic: 16
+└─vaccine_t_correlates_protection_cells
+     ├─vaccine_med_correlates_immune_protection
+     │    ├─cohort_likelihood_optimal_case cohort_studies
+     │    │    ├─■──control studies_optimal_error_studies_control ── Topic: 39
+     │    │    └─cohort_likelihood_case cohort_epidemiology_estimation
+     │    │         ├─■──likelihood_weighted_sampling_stage_estimation ── Topic: 24
+     │    │         └─■──cohort_case cohort_case_epidemiology_lifetime ── Topic: 14
+     │    └─vaccine_correlates_med_immune_protection
+     │         ├─cop_cops_trials_efficacy trials_immune response
+     │         │    ├─cops_efficacy trials_area_cop_trials
+     │         │    │    ├─■──cop_developing cops_simple_cops_determination ── Topic: 9
+     │         │    │    └─■──area_efficacy trials_assays_area statistical_cops ── Topic: 42
+     │         │    └─immune response_end_ve_baseline_cop
+     │         │         ├─■──ve_cop_pathogen_immune response_biomarker ── Topic: 19
+     │         │         └─■──baseline_individual_placebo_immune response_endpoint ── Topic: 7
+     │         └─correlates_vaccine_med_principle_protection
+     │              ├─med_principle_res 1996;91(433):14_res_ageing
+     │              │    ├─principle_res 1996;91(433):14_ageing_ageing res_1996;91(433):14
+     │              │    │    ├─1996;91(433):14_ageing_ageing res_res_res 1996;91(433):14
+     │              │    │    │    ├─1996;91(433):14_ageing res_res 1996;91(433):14_res_ageing
+     │              │    │    │    │    ├─■──res 1996;91(433):14_ageing res_1996;91(433):14_res_ageing ── Topic: 35
+     │              │    │    │    │    └─■──statistical learning_learning_introduction statistical_references_learning applications ── Topic: 26
+     │              │    │    │    └─center_research_evaluation research_guidance_medicine
+     │              │    │    │         ├─■──article25_statistics biological_biological_4th_library ── Topic: 15
+     │              │    │    │         └─■──center_evaluation research_guidance_center drug_industry ── Topic: 32
+     │              │    │    └─principle_correlates relative_relative principle_complexity_complexity correlates
+     │              │    │         ├─■──principle_relation_principle memory_protect cocorrelates_factor protect ── Topic: 28
+     │              │    │         └─■──correlates complexity_nonmechanistic correlates_convenient nonmechanistic_principle convenient_relat ── Topic: 38
+     │              │    └─med_protec- tion_protec-_immunological correlates_correlates protec-
+     │              │         ├─med_varicella med_models evaluating_assessing immunological_use statistical
+     │              │         │    ├─■──med____ ── Topic: 37
+     │              │         │    └─■──varicella med_evaluating antibody_models evaluating_statistical models_use statistical ── Topic: 41
+     │              │         └─■──protec- tion_protec-_correlates protec-_tion_dunning ── Topic: 36
+     │              └─vaccine_antibodies_vaccination_antibody_immunol
+     │                   ├─pfu_older_older adults_adults_blind
+     │                   │    ├─■──pfu_cytomegalovirus_naturally seropositive_seronegative_naturally ── Topic: 20
+     │                   │    └─older adults_older_adults_conjugate vaccine_conjugate
+     │                   │         ├─■──older adults_older_adults_response vacci-_adults vaccine ── Topic: 31
+     │                   │         └─■──conjugate vaccine_conjugate_pneumococcal_pneumococcal conjugate_meningococcal ── Topic: 13
+     │                   └─vaccine_immunol_antibody_pertussis_influenza
+     │                        ├─pertussis_antibody_zoster_antibodies_neutralization
+     │                        │    ├─siv_immunol_immunol methods_tuberculosis_memory
+     │                        │    │    ├─tuberculosis_immunol_agreed_subclassing_clini-
+     │                        │    │    │    ├─■──tuberculosis_mcaleer_lishment_il-17_estab- ── Topic: 34
+     │                        │    │    │    └─■──plexed_mcop provides_brown_dugast_multi- ── Topic: 43
+     │                        │    │    └─siv_memory_effector_anamnestic_rhesus
+     │                        │    │         ├─■──anamnestic_anti-_response_vaccinees_approaches assessing ── Topic: 18
+     │                        │    │         └─■──siv_effector_rhesus_vector_early ── Topic: 12
+     │                        │    └─pertussis_zoster_neutralization_antibodies_levels
+     │                        │         ├─pertussis_levels_bordetella pertussis_bordetella_antibodies
+     │                        │         │    ├─■──pertussis_bordetella_bordetella pertussis_pertussis vaccine_acellular ── Topic: 0
+     │                        │         │    └─levels_antibody_higher_antibodies_rate
+     │                        │         │         ├─■──levels_rate_high levels_influenza_high ── Topic: 11
+     │                        │         │         └─■──antibodies_bacteremia_rabies_attachment_administration ── Topic: 40
+     │                        │         └─neutralization_zoster_strains_herpes zoster_herpes
+     │                        │              ├─■──zoster_herpes zoster_herpes_zoster vaccine_zoster virus ── Topic: 6
+     │                        │              └─■──neutralization_strains_rubella vaccines_glutination_hemag- ── Topic: 23
+     │                        └─correlates protection_systems_influenza_vaccination_rotavirus
+     │                             ├─systems_influenza_live attenuated_attenuated_influenza vaccines
+     │                             │    ├─influenza_live attenuated_attenuated_influenza vaccines_live
+     │                             │    │    ├─■──nasal_live attenuated_hae- mophilus_virus infections_thoughts vaccine ── Topic: 21
+     │                             │    │    └─■──influenza vaccines_influenza_attenuated inactivated_induced live_inactivated influenza ── Topic: 8
+     │                             │    └─■──systems_yellow fever_yellow_fever_fever vaccine ── Topic: 4
+     │                             └─rotavirus_hiv-1_correlates protection_induced vaccination_induced
+     │                                  ├─hiv-1_induced vaccination_induced_vaccination_protection vaccination
+     │                                  │    ├─■──hiv-1_v2_vaccine efficacy_haynes_efficacy trial ── Topic: 3
+     │                                  │    └─■──induced vaccination_protection vaccination_correlates protection_vaccination_protection induced ── Topic: 5
+     │                                  └─■──rotavirus_human rotavirus_monovalent inactivated_inactivated human_animal studies ── Topic: 10
+     └─t_cells_t cells_measles_t cell
+          ├─t_cells_t cells_t cell_+
+          │    ├─t cell_t_subsets_malaria_rts
+          │    │    ├─■──subsets_clearly_t cell_cell subsets_responses correlates ── Topic: 22
+          │    │    └─■──rts_malaria_plasmodium_circumsporozoite_cell immunity ── Topic: 1
+          │    └─cells_t cells_chlamydia_t_+
+          │         ├─■──chlamydia_trachomatis_chlamydia trachomatis_protective immunity_tularemia ── Topic: 29
+          │         └─cells_t_t cells_absence cells_doherty
+          │              ├─■──doherty_absence cells_cells_influenza_absence ── Topic: 30
+          │              └─■──poxvirus_poxvirus infection_secondary_reader_t ── Topic: 27
+          └─measles_level_monkeys_deficient humans_cell deficient
+               ├─■──measles_level_cell deficient_deficient humans_deficient ── Topic: 33
+               └─■──promises_results year_obstacles clemens_vaccine promises_clemens trial ── Topic: 17

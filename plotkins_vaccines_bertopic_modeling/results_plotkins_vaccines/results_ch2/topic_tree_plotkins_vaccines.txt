@@ -1,0 +1,151 @@
+.
+├─vaccine_responses_vaccines_pertussis_antibody
+│    ├─pertussis_acellular_acellular pertussis_maternal_infant
+│    │    ├─maternal_infant_neonatal_maternal antibodies_early life
+│    │    │    ├─neonatal_infant_early life_life_early
+│    │    │    │    ├─■──challenges_infection vaccines_adkins gans_gans challenges_challenges infant ── Topic: 37
+│    │    │    │    └─neonatal_life_early life_infant_early
+│    │    │    │         ├─neonatal_vaccine interference_review hypotheses_blame_interference neonatal
+│    │    │    │         │    ├─■──suboptimal responses_responses review_definition_blame_neonatal immuniza- ── Topic: 58
+│    │    │    │         │    └─■──neonatal_ifn_γ_predominance_pertussis vaccination ── Topic: 51
+│    │    │    │         └─postnatal_early life_life_early_splenic
+│    │    │    │              ├─■──infants_postnatal_antibody_early life_infant ── Topic: 10
+│    │    │    │              └─■──splenic_gens_immaturity_anti- gens_development ── Topic: 14
+│    │    │    └─maternal_toxoid_maternal antibodies_tetanus toxoid_tetanus
+│    │    │         ├─maternal_maternal antibodies_inhibitory_inhibitory influence_influence maternal
+│    │    │         │    ├─■──maternal_pertussis_acellular_inhibitory influence_pertussis vaccine ── Topic: 12
+│    │    │         │    └─■──maternal antibodies_maternal_inhibition_antibodies maternal_inhibitory ── Topic: 26
+│    │    │         └─■──toxoid_tetanus toxoid_adolescent_infancy induced_assay immunobiology ── Topic: 68
+│    │    └─pertussis_acellular_acellular pertussis_pertussis vaccine_pertussis vaccines
+│    │         ├─■──pertussis_acellular_acellular pertussis_component acellular_pertussis vaccines ── Topic: 23
+│    │         └─■──pertussis vaccine_acellular pertussis_pertussis_acellular_vaccination neonatal ── Topic: 55
+│    └─vaccine_vaccines_effects_responses_vaccination
+│         ├─measles_effects_infect_vaccine_infants
+│         │    ├─measles_effects_bcg_measles vaccine_nonspecific
+│         │    │    ├─nonspecific effects_effects vaccines_nonspecific_effectors vaccine_theory supported
+│         │    │    │    ├─■──fear_vaccines occasionally_supported evidence.208,209_theory supported_overload ── Topic: 65
+│         │    │    │    └─■──specificity vaccine_nonspecific effects_non_sufficiently_nonspecific ── Topic: 16
+│         │    │    └─measles_bcg_measles vaccine_effects_infants
+│         │    │         ├─bcg_respond_immunological effects_bcg respond_strain
+│         │    │         │    ├─■──immunological effects_bcg_sepsis_prospective cohort_hos- ── Topic: 39
+│         │    │         │    └─■──respond_bcg_bcg respond_stimulated_evolution ── Topic: 73
+│         │    │         └─measles_measles vaccine_rubella_child-_measles mumps
+│         │    │              ├─measles_measles vaccine_infants_month old_immunized
+│         │    │              │    ├─■──epidemiological studies_idea_bcg measles_epidemiological_beneficial ── Topic: 71
+│         │    │              │    └─■──measles_measles vaccine_response measles_infants_month old ── Topic: 22
+│         │    │              └─■──rubella_child-_measles mumps_mumps rubella_child- hood ── Topic: 38
+│         │    └─infect_pneumococcal_2014;28(4):615 s120_infect 2014;28(4):615_s120
+│         │         ├─pneumococcal_conjugate_polysaccharide_influenzae type_influenzae
+│         │         │    ├─■──influenzae type_influenzae_conjugate_type_carrier ── Topic: 0
+│         │         │    └─■──pneumococcal_pneumococcal polysaccharide_pneumococcal conjugate_polysaccharide vaccine_polysaccharid ── Topic: 2
+│         │         └─2014;28(4):615_s120_infect 2014;28(4):615_2014;28(4):615 s120_references
+│         │              ├─as04 adjuvanted_as04_randomized_human papillomavirus_papillomavirus
+│         │              │    ├─■──as04_as04 adjuvanted_papillomavirus_human papillomavirus_adjuvanted vaccine ── Topic: 13
+│         │              │    └─■──term efficacy_boostability_zuckerman_long term_term ── Topic: 1
+│         │              └─2014;28(4):615_2014;28(4):615 s120_infect 2014;28(4):615_s120_references
+│         │                   ├─2014;28(4):615_infect 2014;28(4):615_2014;28(4):615 s120_s120_infect
+│         │                   │    ├─■──infect 2014;28(4):615_s120_2014;28(4):615_2014;28(4):615 s120_infect ── Topic: 44
+│         │                   │    └─■──borrow_meningococcal_serogroup_meningococcal serogroup_vaccine infants ── Topic: 36
+│         │                   └─references_following page_wer8921.pdf_references carbohydr_page references
+│         │                        ├─■──immunization immunologists_immunologists begun_evidence meeting_available http://www_disease evidenc ── Topic: 7
+│         │                        └─■──references_page_page references_carbohydr_continued following ── Topic: 19
+│         └─influenza_cell_vaccines_t_med
+│              ├─influenza_elderly_med_healthy_older adults
+│              │    ├─influenza_adjuvant_pandemic_pandemic influenza_bel
+│              │    │    ├─■──pandemic influenza_pandemic_adjuvant_influenza_synthetic biological ── Topic: 62
+│              │    │    └─■──trivalent_healthy children_vant_adju- vant_intranasal ── Topic: 17
+│              │    └─elderly_older_older adults_herpes_herpes zoster
+│              │         ├─■──herpes_herpes zoster_adults med_older adults_older ── Topic: 45
+│              │         └─elderly_influenza_aging_tbe_elderly people
+│              │              ├─■──elderly_tbe_aging_affects_schwanninger ── Topic: 34
+│              │              └─■──influenza_elderly_responses influenza_response influenza_immunization healthy ── Topic: 25
+│              └─regulatory t_cell_vaccines_regulatory_t
+│                   ├─systems_dendritic_dendritic cell_cell_vaccines
+│                   │    ├─systems_vaccines_cell responses_live_responses
+│                   │    │    ├─systems_vaccinology_extremes_probing_systems vaccinology
+│                   │    │    │    ├─antibody_given antigen_extremes_changes_residual
+│                   │    │    │    │    ├─■──given antigen_residual_avidity_avidity antibody_strength interaction ── Topic: 4
+│                   │    │    │    │    └─■──extremes_changes_age_aged_changes antibody ── Topic: 30
+│                   │    │    │    └─systems_vaccinology_probing_systems vaccinology_diverse
+│                   │    │    │         ├─■──genetic_impacts_new_correlates_variety ── Topic: 28
+│                   │    │    │         └─■──systems_vaccinology_immune systems_probing humanity_systems vaccines ── Topic: 5
+│                   │    │    └─live_cell responses_current_predominant_dependent
+│                   │    │         ├─predominant_responses t_tuberculosis_cell responses_current
+│                   │    │         │    ├─■──tuberculosis_rophage_play critical_morbidity_conferred current ── Topic: 33
+│                   │    │         │    └─■──che-_cell position_protective t_balanced responsiveness_responsiveness che- ── Topic: 21
+│                   │    │         └─live_mucosal_viral_route_vaccines
+│                   │    │              ├─■──novel delivery_live_delivery systems_delivery_cytosol ── Topic: 49
+│                   │    │              └─■──mucosal_route_mucosal surfaces_surfaces_site ── Topic: 24
+│                   │    └─dendritic_dendritic cell_smallpox_cell subsets_effects vaccination
+│                   │         ├─dendritic_dendritic cell_lymphocytes old_mediated signals_limitations neonatal
+│                   │         │    ├─■──mice immunol_precursor level_old mice_unresponsiveness_precursor ── Topic: 75
+│                   │         │    └─■──dendritic_dendritic cell_dendritic cells_plasmacytoid_neonatal monocytes ── Topic: 43
+│                   │         └─smallpox_cell subsets_effects vaccination_polarization overview_subsets immunol
+│                   │              ├─smallpox_effects vaccination_smallpox humans_gershon aa_carcelain
+│                   │              │    ├─■──smallpox_varicella vaccine_ifn-_carcelain_time varicella ── Topic: 61
+│                   │              │    └─■──innate trained_stimulate_yf-17d activates_multiple dendritic_vaccine yf-17d ── Topic: 46
+│                   │              └─■──polarization overview_plasticity human_development cytokine_overview_essentially exert ── Topic: 67
+│                   └─regulatory t_regulatory_tregs_effector_functional
+│                        ├─regulatory t_regulatory_functional_2010;16:478_regulating cell
+│                        │    ├─■──ahlers_regulating_vaccines science_2010;16:478 cell_clones primed ── Topic: 60
+│                        │    └─■──regulatory t_regulatory_phenotypical_foxp3 regulatory_cells humoral ── Topic: 32
+│                        └─■──tregs_bearing dcs_ratio antigen_specific effector_immunity cancer ── Topic: 15
+└─cells_memory_b_t_b cells
+     ├─t_cells_memory t_helper_t cells
+     │    ├─helper_helper lymphocytes_t helper_lymphocytes_lymphocytes t
+     │    │    ├─■──helper lymphocytes_lymphocytes t_t helper_lymphocytes_helper ── Topic: 48
+     │    │    └─■──helper_helper cells_follicular helper_follicular_t follicular ── Topic: 8
+     │    └─memory t_cells_molecules_t cells_t
+     │         ├─memory t_memory_t cells_resident_resident memory
+     │         │    ├─■──tem_memory t_tcm_persist lifelong_cells persist ── Topic: 27
+     │         │    └─memory t_resident memory_resident_memory_central
+     │         │         ├─■──specific microbial_memory t_organs_cytotoxic_lungs ── Topic: 31
+     │         │         └─■──memory t_resident_resident memory_homeostasis_memory ── Topic: 9
+     │         └─molecules_activation_surface_cells_adjuvants
+     │              ├─molecules_mhc_cells activation_cells_activation differentiate
+     │              │    ├─■──expressed_expressed surface_requires couple_reaction requires_development gc ── Topic: 56
+     │              │    └─mhc_activation differentiate_molecules_differentiate cells_factor
+     │              │         ├─mhc_molecules_peptide_class_displayed
+     │              │         │    ├─■──mhc_molecules_peptide_surface_class ── Topic: 20
+     │              │         │    └─■──differentiation_cd8_t helper_t_support cd8 ── Topic: 50
+     │              │         └─■──activation differentiate_differentiate cells_antimicrobial functions_providing support_essentially p ── Topic: 47
+     │              └─adjuvants_danger_innate_receptors_innate immunity
+     │                   ├─receptors_danger_innate_immature_monocytes
+     │                   │    ├─immature_monocytes_dcs_danger signals_draining lymph
+     │                   │    │    ├─■──immature_monocytes_contact_dcs_migrate local ── Topic: 53
+     │                   │    │    └─■──sufficient danger_signals vaccine_patrol_patrol body_danger signals ── Topic: 54
+     │                   │    └─■──conserved_adaptive immunity_receptors_recognition_toll ── Topic: 6
+     │                   └─■──adjuvants_vaccine adjuvants_generation adjuvants_trigger_innate under- ── Topic: 18
+     └─b_plasma_b cells_memory b_plasma cells
+          ├─memory b_plasma_memory_plasma cells_b cells
+          │    ├─memory b_memory_b cells_b_plasma cells
+          │    │    ├─memory b_memory_cell depletion_maintenance_bacterial
+          │    │    │    ├─■──science_utility_memory polyclonal_persisting immunizing_persistence independent ── Topic: 35
+          │    │    │    └─memory b_cell depletion_bacterial_depletion_polysac- charides
+          │    │    │         ├─■──immunotherapy mice_charides caused_depletion immunotherapy_charides_serological ── Topic: 72
+          │    │    │         └─■──previously primed_appear_ps_previously_antibodies appear ── Topic: 64
+          │    │    └─memory_memory b_primary_plasma cells_plasma
+          │    │         ├─weeks_doses_priming_primary_booster
+          │    │         │    ├─■──weeks_survival niches_results rapid_plasma cells_antibody titers ── Topic: 29
+          │    │         │    └─■──priming_booster doses_doses_booster_memory ── Topic: 3
+          │    │         └─generated_memory b_b cells_memory_memory responses
+          │    │              ├─■──memory b_l_- hbsag_hbsag_postbooster ── Topic: 69
+          │    │              └─■──generated_memory responses_reaction parallel_cells transiently_transiently ── Topic: 57
+          │    └─nodes blood_marrow_bone_bone marrow_plasma cell
+          │         ├─plasma cell_plasma_mathematical_bone_marrow
+          │         │    ├─■──mathematical_predicting_mathematical models_models_plasma cell ── Topic: 63
+          │         │    └─■──marrow_bone_bone marrow_niche_plasma ── Topic: 11
+          │         └─■──nodes blood_spleen lymph_pulp_spleen_blood ── Topic: 52
+          └─germinal_b_center reaction_spleen nodes_b cells
+               ├─germinal_center reaction_immunosenescence germinal_reaction immunol_centers immunosenescence
+               │    ├─■──chemokines_express_nucleate germinal_activated antigen_cells nucleate ── Topic: 74
+               │    └─■──immunosenescence germinal_centers immunosenescence_immunosenescence_reaction immunol_germinal ── Topic: 70
+               └─b_b cells_recombination_switch_cells
+                    ├─b_b cells_cells_spleen nodes_zone
+                    │    ├─zone_marginal zone_low affinity_marginal_extrafollicular
+                    │    │    ├─■──inducing immune_nodes hallmarks_production antibodies_hallmarks_eliciting ── Topic: 40
+                    │    │    └─■──zone_specific surface_marginal zone_marginal_repetitive ── Topic: 41
+                    │    └─cells memory_b cells_b_originate_activated spleen
+                    │         ├─■──specific activated_attracted_b_b cells_antigen ── Topic: 59
+                    │         └─■──originate_activated spleen_cells originate_bind antigen_spleen nodes ── Topic: 66
+                    └─■──isotype switching_switching_recombination_switch_isotype ── Topic: 42
