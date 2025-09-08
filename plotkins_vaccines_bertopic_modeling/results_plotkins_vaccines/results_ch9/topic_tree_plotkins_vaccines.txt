@@ -1,0 +1,215 @@
+.
+├─prevention_control_disease control_centers disease_centers
+│    ├─■──rubella_rubella syndrome_prevention measles_syndrome_congenital rubella ── Topic: 42
+│    └─prevention_control_disease control_centers disease_centers
+│         ├─prevention_control_control prevention_centers_centers disease
+│         │    ├─■──disease recommendations_prevention_control_mortal centers_prevention control ── Topic: 68
+│         │    └─prevention_mmwr centers_control prevention_advisory committee_control
+│         │         ├─■──mmwr centers_committee immunization_vaccines recommendations_prevention_mmwr recomm ── Topic: 44
+│         │         └─■──acip mmwr_prevention_practices acip_control prevention_acip ── Topic: 65
+│         └─■──committee acip_practices advi-_pertussis recommendations_mea-_supplemental recommendations ── Topic: 86
+└─vaccine_dose_vaccines_months_vaccination
+     ├─vaccine_vaccines_vaccination_infants_measles
+     │    ├─vaccine_vaccines_infants_measles_response
+     │    │    ├─long_report committee_30th grove_long report_grove village
+     │    │    │    ├─■──varicella zoster_transmission varicella_varicella_zoster_varicella vaccine ── Topic: 30
+     │    │    │    └─■──pediatrics pediatrics_long report_report committee_diseases 30th_30th grove ── Topic: 6
+     │    │    └─vaccine_vaccines_infants_response_measles
+     │    │         ├─vaccine_vaccines_infants_measles_response
+     │    │         │    ├─measles_measles vaccine_passively acquired_acquired_passively
+     │    │         │    │    ├─measles_measles vaccine_opportunities_reimmunization_missed
+     │    │         │    │    │    ├─■──opportunities_missed_clinic pediatrics_outbreak unvaccinated_administer measles ── Topic: 85
+     │    │         │    │    │    └─measles_mumps rubella_measles mumps_rubella_mumps
+     │    │         │    │    │         ├─■──measles_clinical reactions_med_measles vaccine_egg ── Topic: 13
+     │    │         │    │    │         └─■──rubella_mumps rubella_response measles_measles mumps_mumps ── Topic: 11
+     │    │         │    │    └─maternal_passively acquired_acquired_measles_passively
+     │    │         │    │         ├─measles_response live_maternal_measles vaccine_acquired maternal
+     │    │         │    │         │    ├─■──measles_maternal_infants months_highly_measles vaccine ── Topic: 55
+     │    │         │    │         │    └─■──response live_immunoglobulin_blood_preparations_live ── Topic: 78
+     │    │         │    │         └─■──passively acquired_antibody concentrations_passively_seroconversion rates_concentrations ── Topic: 107
+     │    │         │    └─vaccine_vaccines_tetanus_infants_thimerosal
+     │    │         │         ├─vaccine_vaccines_thimerosal_infants_vaccination
+     │    │         │         │    ├─menhibrix_intervals_infants_spacing_birth
+     │    │         │         │    │    ├─menhibrix_infants_premature_menhibrix menhibrix_preterm
+     │    │         │         │    │    │    ├─inactivated poliovirus_polio_poliovirus vaccine_serologic response_polio vaccine
+     │    │         │         │    │    │    │    ├─■──serologic response_polio_health 1992;13:239_1988;128:615 yamamura_eradication western ── Topic: 83
+     │    │         │         │    │    │    │    └─■──inactivated poliovirus_vaccine premature_poliovirus vaccine_ipv_r ── Topic: 41
+     │    │         │         │    │    │    └─menhibrix_menhibrix menhibrix_preterm_infants_birth
+     │    │         │         │    │    │         ├─birth_preterm_infants_birth weight_preterm infants
+     │    │         │         │    │    │         │    ├─birth_birth dose_hours birth_hospital discharge_hospital
+     │    │         │         │    │    │         │    │    ├─■──birth dose_administered birth_receive birth_vaccine permitted_doses hepb ── Topic: 100
+     │    │         │         │    │    │         │    │    └─■──hours birth_birth_hbsag_mothers_hbig ── Topic: 26
+     │    │         │         │    │    │         │    └─preterm_newborn_term infants_premature_preterm infants
+     │    │         │         │    │    │         │         ├─preterm_preterm infants_tion preterm_birthweight_low birthweight
+     │    │         │         │    │    │         │         │    ├─■──immunization preterm_pediatrics hull_preterm low_diseases tion_pediatrics infectious ── Topic: 81
+     │    │         │         │    │    │         │         │    └─■──preterm infants_vaccination preterm_preterm_birth weight_term infants ── Topic: 46
+     │    │         │         │    │    │         │         └─■──premature_levels_age newborn_weeks life_serum levels ── Topic: 79
+     │    │         │         │    │    │         └─menhibrix_menhibrix menhibrix_meningococcal_japanese_influenzae
+     │    │         │         │    │    │              ├─japanese_influenzae_vaccines meningococcal_encephalitis_japanese encephalitis
+     │    │         │         │    │    │              │    ├─japanese_influenzae_japanese encephalitis_encephalitis_encephalitis vaccine
+     │    │         │         │    │    │              │    │    ├─influenzae_influenzae type_haemophilus influenzae_haemophilus_fiore
+     │    │         │         │    │    │              │    │    │    ├─■──influenzae_influenzae type_haemophilus influenzae_haemophilus_type ── Topic: 12
+     │    │         │         │    │    │              │    │    │    └─■──fiore_cination_hepatitis_addition_globulin fiore ── Topic: 10
+     │    │         │         │    │    │              │    │    └─japanese_japanese encephalitis_encephalitis_encephalitis vaccine_pneumococcal
+     │    │         │         │    │    │              │    │         ├─■──pneumococcal_valent_valent pneumococcal_conjugate vaccine_polysaccharide vaccine ── Topic: 50
+     │    │         │         │    │    │              │    │         └─■──japanese_encephalitis_japanese encephalitis_encephalitis vaccine_derived japanese ── Topic: 38
+     │    │         │         │    │    │              │    └─vaccines meningococcal_acwy_acwy vaccines_conjugate acwy_meningococcal
+     │    │         │         │    │    │              │         ├─■──vaccines meningococcal_conjugate acwy_acwy_acwy vaccines_meningococcal ── Topic: 49
+     │    │         │         │    │    │              │         └─■──vaccine primary_unimmunized_primary series_dose dose_administered unimmunized ── Topic: 14
+     │    │         │         │    │    │              └─menhibrix_menhibrix menhibrix_protection meningococcal_dose menhibrix_menhibrix given
+     │    │         │         │    │    │                   ├─■──ensure protection_apart ensure_given weeks_age total_given months ── Topic: 92
+     │    │         │         │    │    │                   └─■──menhibrix_menhibrix menhibrix___ ── Topic: 27
+     │    │         │         │    │    └─intervals_spacing_recommended_range recommended_recommended ages
+     │    │         │         │    │         ├─range recommended_recommended ages_range_schedule persons_certain high
+     │    │         │         │    │         │    ├─■──range recommended_recommended ages_range_risk groups_certain high ── Topic: 54
+     │    │         │         │    │         │    └─■──schedule persons_immunization schedule_catch immunization_recommended immunization_persons aged ── Topic: 19
+     │    │         │         │    │         └─intervals_spacing_interference_special_immunoglobulins
+     │    │         │         │    │              ├─intervals_read_recommendations read_read footnotes_intervals doses
+     │    │         │         │    │              │    ├─■──footnotes schedule_references_note recommendations_read_read footnotes ── Topic: 34
+     │    │         │         │    │              │    └─intervals_intervals doses_intervals months_months greater_months minimum
+     │    │         │         │    │              │         ├─■──intervals_accelerated_minimum intervals_intervals doses_minimum ── Topic: 7
+     │    │         │         │    │              │         └─■──months greater_greater determined_calendar months_intervals months_days intervals ── Topic: 106
+     │    │         │         │    │              └─spacing_interference_special_immunoglobulins_risk interference
+     │    │         │         │    │                   ├─spacing_immunoglobulins_spacing administration_administration preparations_interference immunoglobul
+     │    │         │         │    │                   │    ├─■──spacing_spacing administration_includes guidelines_table prudent.5_indicated table ── Topic: 32
+     │    │         │         │    │                   │    └─■──interference immunoglobulins_administration preparations_immunoglobulins_interference_immuno- globul ── Topic: 97
+     │    │         │         │    │                   └─■──special_recommended special_parenterally special_interference parenterally_risk interference ── Topic: 66
+     │    │         │         │    └─thimerosal_vaccine_vaccines_influenza_influenza vaccine
+     │    │         │         │         ├─vaccine_vaccines_fever_reaction_influenza
+     │    │         │         │         │    ├─anaphylaxis_reaction_reactions_anaphylactic_latex
+     │    │         │         │         │    │    ├─gelatin_yellow fever_yellow_egg_fever
+     │    │         │         │         │    │    │    ├─■──recombinant_derived vaccine_yeast_derived_english anaphylaxis ── Topic: 36
+     │    │         │         │         │    │    │    └─gelatin_yellow fever_yellow_egg_fever
+     │    │         │         │         │    │    │         ├─gelatin_egg_yellow fever_yellow_fever
+     │    │         │         │         │    │    │         │    ├─■──gelatin_history allergy_skin testing_allergy_immediate type ── Topic: 48
+     │    │         │         │         │    │    │         │    └─■──egg_yellow fever_yellow_fever vaccine_fever ── Topic: 31
+     │    │         │         │         │    │    │         └─■──immune globulin_trivalent_globulin response_schonberger_immunity 1988;44:1037 ── Topic: 82
+     │    │         │         │         │    │    └─reaction_latex_anaphylactic_rubber_reactions
+     │    │         │         │         │    │         ├─tetanus_reaction_anaphylactic_anaphylaxis_toxoid
+     │    │         │         │         │    │         │    ├─■──toxoid_reaction tetanus_tetanus_tetanus toxoid_reactions tetanus ── Topic: 15
+     │    │         │         │         │    │         │    └─anaphylactic_reaction_anaphylaxis_complexes_hypersensitivity
+     │    │         │         │         │    │         │         ├─■──anaphylaxis_hypersensitivity_onset_immediate_epinephrine ── Topic: 3
+     │    │         │         │         │    │         │         └─■──complexes_subsequent vaccination_unlikely_circulating_antigens ── Topic: 20
+     │    │         │         │         │    │         └─latex_rubber_natural_diploid_natural rubber
+     │    │         │         │         │    │              ├─latex_rubber_natural_natural rubber_penicillin
+     │    │         │         │         │    │              │    ├─■──latex_rubber_natural_natural rubber_rubber latex ── Topic: 17
+     │    │         │         │         │    │              │    └─■──penicillin_delayed type_antimicrobial_letter_delayed ── Topic: 37
+     │    │         │         │         │    │              └─■──diploid_rabies_human diploid_diploid cell_rabies vaccine ── Topic: 47
+     │    │         │         │         │    └─vaccines_seizures_vaccine_review_live
+     │    │         │         │         │         ├─live_influenza_influenza vaccine_breastfeeding_milk
+     │    │         │         │         │         │    ├─influenza_influenza vaccine_pregnancy_pregnant_intradermal influenza
+     │    │         │         │         │         │    │    ├─influenza vaccine_influenza_intradermal influenza_laiv_intradermal
+     │    │         │         │         │         │    │    │    ├─■──intradermal influenza_intradermal_influenza vaccine_injector intranasal_intradermal admin- ── Topic: 104
+     │    │         │         │         │         │    │    │    └─■──laiv_influenza_influenza vaccine_attenuated_vaccine viruses ── Topic: 64
+     │    │         │         │         │         │    │    └─pregnancy_pregnant_theoretical_corticosteroids_vaccination vaccination
+     │    │         │         │         │         │    │         ├─corticosteroids_vaccination vaccination_routine vaccination_therapy_systemic corticosteroids
+     │    │         │         │         │         │    │         │    ├─■──corticosteroids_doses systemic_systemic corticosteroids_steroid_live vaccines ── Topic: 94
+     │    │         │         │         │         │    │         │    └─■──vaccination vaccination_routine vaccination_vaccination routine_routine_persons high ── Topic: 8
+     │    │         │         │         │         │    │         └─pregnancy_pregnant_theoretical_fetus_pastuszak
+     │    │         │         │         │         │    │              ├─■──pregnant_theoretical_fetus_pregnant woman_women ── Topic: 23
+     │    │         │         │         │         │    │              └─■──pregnancy_antibodies pharm_pastuszak pregnancy_pharm_pastuszak ── Topic: 102
+     │    │         │         │         │         │    └─breastfeeding_milk_human milk_rotavirus_live
+     │    │         │         │         │         │         ├─breastfeeding_milk_human milk_lactating_breastfed
+     │    │         │         │         │         │         │    ├─■──breastfeeding_nucleotides pediatrics_multiply body_modulation immune_infants adversely ── Topic: 62
+     │    │         │         │         │         │         │    └─■──milk_breastfed_human milk_fishaut_lactating women ── Topic: 39
+     │    │         │         │         │         │         └─rotavirus_rotavirus vaccine_live_live oral_administered time
+     │    │         │         │         │         │              ├─■──rotavirus_rotavirus vaccine_live oral_rotavirus vaccines_oral rotavirus ── Topic: 9
+     │    │         │         │         │         │              └─■──live virus_live_admin- istered_istered_nasally ── Topic: 1
+     │    │         │         │         │         └─seizures_review_register standards&p_id=10051_register_standards&p_id=10051
+     │    │         │         │         │              ├─review_standards&p_id=10051_register standards&p_id=10051_register_deleted review
+     │    │         │         │         │              │    ├─register standards&p_id=10051_register_standards&p_id=10051_review_deleted
+     │    │         │         │         │              │    │    ├─register_register standards&p_id=10051_standards&p_id=10051_deleted_deleted review
+     │    │         │         │         │              │    │    │    ├─■──register standards&p_id=10051_standards&p_id=10051_register__ ── Topic: 70
+     │    │         │         │         │              │    │    │    └─deleted review_deleted_review_review deleted_method
+     │    │         │         │         │              │    │    │         ├─■──method_antitoxic_cultures_method tissue_cultures haemagglutina- ── Topic: 87
+     │    │         │         │         │              │    │    │         └─■──deleted review_deleted_review_review deleted_birth deleted ── Topic: 75
+     │    │         │         │         │              │    │    └─syringes_bloodborne_devices_needles_health
+     │    │         │         │         │              │    │         ├─health_bloodborne_occupational_safety health_organization
+     │    │         │         │         │              │    │         │    ├─■──organization_characteristics_practices based_world health_health ── Topic: 21
+     │    │         │         │         │              │    │         │    └─■──bloodborne_occupational_safety health_safety_occupational safety ── Topic: 4
+     │    │         │         │         │              │    │         └─syringes_devices_needles_needle_nozzle
+     │    │         │         │         │              │    │              ├─■──syringes_syringe_needles_needle_discarded ── Topic: 16
+     │    │         │         │         │              │    │              └─■──devices_nozzle_jis_subcutaneous intramuscular_intradermal subcutaneous ── Topic: 99
+     │    │         │         │         │              │    └─storage_manufacturer_produced_frozen_manufacturers
+     │    │         │         │         │              │         ├─storage_frozen_handling_syncope_information
+     │    │         │         │         │              │         │    ├─■──frozen_refrigerator_freezer_temperatures_temperature ── Topic: 24
+     │    │         │         │         │              │         │    └─syncope_information_handling_vaers_storage handling
+     │    │         │         │         │              │         │         ├─■──handling_storage handling_storage_manufacturer_product ── Topic: 0
+     │    │         │         │         │              │         │         └─■──syncope_information_vaers_adult_schedules ── Topic: 18
+     │    │         │         │         │              │         └─different manufacturers_manufacturers_serologic_produced_different
+     │    │         │         │         │              │              ├─■──adopted_serologic_record_serologic testing_number ── Topic: 33
+     │    │         │         │         │              │              └─■──manufacturers_different manufacturers_produced_different_produced manufacturer ── Topic: 93
+     │    │         │         │         │              └─seizures_febrile_seizure_febrile seizures_history seizures
+     │    │         │         │         │                   ├─■──seizure_neurologic_seizures_mmrv vaccine_history seizure ── Topic: 95
+     │    │         │         │         │                   └─■──seizures_febrile_febrile seizures_antipyretics_history seizures ── Topic: 73
+     │    │         │         │         └─thimerosal_sensitivity_thimerosal vaccines_preservative_contact
+     │    │         │         │              ├─thimerosal_sensitivity_thimerosal vaccines_preservative_vaccination thimerosal
+     │    │         │         │              │    ├─■──thimerosal_preservative_formulations influenza_health service_service ── Topic: 45
+     │    │         │         │              │    └─■──thimerosal_sensitivity_ocular sensitivity_thimerosal problem_problem vaccine ── Topic: 71
+     │    │         │         │              └─■──thimerosal_chloride_contact derma-_demmer_cm ── Topic: 105
+     │    │         │         └─pain_pertussis_acellular_prilocaine_acellular pertussis
+     │    │         │              ├─pertussis_acellular_acellular pertussis_pertussis vaccine_diphtheria tetanus
+     │    │         │              │    ├─pertussis_pertussis vaccine_acellular_acellular pertussis_tetanus acellular
+     │    │         │              │    │    ├─■──toxoid reduced_reduced toxoid_pertussis_toxoid_use tetanus ── Topic: 63
+     │    │         │              │    │    └─■──pertussis vaccine_tetanus acellular_pertussis_acellular pertussis_acellular ── Topic: 35
+     │    │         │              │    └─tetanus pertussis_diphtheria tetanus_toxoids acellular_diphtheria_infants diphtheria
+     │    │         │              │         ├─■──toxoids acellular_vaccine minimum_length pediatrics_boostrix gold_diph- theria ── Topic: 90
+     │    │         │              │         └─■──infants diphtheria_diphtheria tetanus_tetanus pertussis_diphtheria_response preterm ── Topic: 67
+     │    │         │              └─pain_prilocaine_associated_analgesic_lidocaine- prilocaine
+     │    │         │                   ├─pain_prilocaine_cream_pain infants_use lidocaine-
+     │    │         │                   │    ├─■──pain_associated vaccination_associated_shots_anesthesia.42–44 product ── Topic: 60
+     │    │         │                   │    └─■──prilocaine_pain_vaccination pain_prilocaine patch_pain infants ── Topic: 43
+     │    │         │                   └─■──analgesic_help_pain_decrease injection_associated injections ── Topic: 101
+     │    │         └─intramuscular_injections_subcutaneous_muscle_injections intramuscular
+     │    │              ├─muscle_thigh_needle_nerve_gluteal
+     │    │              │    ├─■──nerve_gluteal_nerve injury_iliac_sciatic nerve ── Topic: 96
+     │    │              │    └─thigh_muscle_needle_inch_deltoid
+     │    │              │         ├─■──muscle_triceps_needle_layer_subcutaneous ── Topic: 57
+     │    │              │         └─■──thigh_deltoid_inch needle_inch_anterolateral ── Topic: 61
+     │    │              └─injections intramuscular_injections_intramuscular_subcutaneous_intramuscular intravenous
+     │    │                   ├─■──injections intramuscular_injections_intramuscular intravenous_intradermal injections_injections intr ── Topic: 69
+     │    │                   └─■──routes_subcutaneous intradermal_deep_immunogenicity_route ── Topic: 88
+     │    └─ppsv23_catch_figure_vaccination catch_catch vaccination
+     │         ├─chronic_heart_heart disease_congenital_failure
+     │         │    ├─■──chronic_cerebrospinal fluid_cochlear implant_cochlear_cerebrospinal ── Topic: 80
+     │         │    └─■──heart_heart disease_chronic_years chronic_treated children ── Topic: 89
+     │         └─ppsv23_catch_figure_vaccination catch_catch vaccination
+     │              ├─ppsv23_vaccination catch_catch vaccination_pcv_received previously
+     │              │    ├─pcv_received previously_ppsv23_dose ppsv23_doses pcv
+     │              │    │    ├─■──pcv_doses pcv_received previously_incomplete_pcv received ── Topic: 51
+     │              │    │    └─■──ppsv23_dose ppsv23_recent dose_ppsv23 received_weeks recent ── Topic: 40
+     │              │    └─vaccination catch_catch vaccination_catch_ppsv23_vaccination
+     │              │         ├─■──ppsv23_vaccination possible_age vaccination_completely vaccinated_conditions ppsv23 ── Topic: 53
+     │              │         └─■──catch vaccination_vaccination catch_catch_vaccination_management vaccine ── Topic: 2
+     │              └─figure_continued_catch guidance_guidance_guidance figure
+     │                   ├─catch guidance_guidance_guidance figure_figure catch_catch
+     │                   │    ├─■──mmwr available_serogroups_available http://www.cdc.gov/mmwr/pdf/rr/rr6301.pdf_footnotes mmwr_http:// ── Topic: 56
+     │                   │    └─■──guidance figure_catch guidance_figure catch_guidance_figure ── Topic: 25
+     │                   └─continued_figure cont’d_page_following page_continued following
+     │                        ├─■──figure cont’d_cont’d_figure_cont’d continued_cont’d figure ── Topic: 91
+     │                        └─■──following page_continued following_page_continued_page continued ── Topic: 72
+     └─dose_age years_administer_second dose_years
+          ├─dose_dose administered_second dose_administered age_second
+          │    ├─initiate vaccination_children initiate_initiate_administer doses_unvaccinated children
+          │    │    ├─■──vaccination weeks_children initiate_initiate vaccination_weeks administer_initiate ── Topic: 59
+          │    │    └─■──unvaccinated children_unvaccinated_dose birthday_doses second_vaccination months ── Topic: 74
+          │    └─dose administered_dose_administered age_second dose_administered
+          │         ├─■──hepa vaccine_hepa_endemicity_arrival_doses hepa ── Topic: 22
+          │         └─dose administered_administered age_dose_second dose_administered
+          │              ├─dose administered_administered age_second dose_dose_age years
+          │              │    ├─■──testing indicates_dose accepted_accepted valid_varicella vaccine_indicates ── Topic: 84
+          │              │    └─dose administered_administered age_age years_dose_second dose
+          │              │         ├─second dose_weeks later_later_dose administered_second
+          │              │         │    ├─■──departure_departure international_international travel_weeks later_international ── Topic: 77
+          │              │         │    └─■──dose administered_months previous_second dose_dose minimum_dose ── Topic: 58
+          │              │         └─■──administered age_booster_age years_dose administered_doses persons ── Topic: 98
+          │              └─tdap_dose ipv_administered regardless_birthday_administered
+          │                   ├─■──tdap_fourth_tdap vaccine_years administered_adolescent tdap ── Topic: 5
+          │                   └─■──dose ipv_opv dose_administered series_weeks opv_older weeks ── Topic: 103
+          └─series administer_series_dose series_received complete_primary doses
+               ├─administer primary_children months_primary doses_received complete_primary
+               │    ├─■──vaccine age_age years_completion doses_administer years_child including ── Topic: 76
+               │    └─■──primary doses_children months_administer primary_apart children_weeks apart ── Topic: 29
+               └─dose series_bexsero_series_females_females males
+                    ├─■──bexsero_series bexsero_interchangeable vaccine_product doses_vaccines interchangeable ── Topic: 28
+                    └─■──females males_males_females_administer vaccine_series vaccine ── Topic: 52

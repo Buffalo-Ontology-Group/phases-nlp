@@ -1,0 +1,181 @@
+.
+├─vaccine_live_attenuated_virus_influenza
+│    ├─vaccine_live_virus_influenza_rabies
+│    │    ├─influenza_rotavirus_live_typhoid_oral
+│    │    │    ├─influenza_rotavirus_live_influenza vaccine_cold
+│    │    │    │    ├─influenza_influenza vaccine_adapted_cold adapted_cold
+│    │    │    │    │    ├─influenza_embryos_chick embryos_influenza virus_chick
+│    │    │    │    │    │    ├─■──embryos_chick embryos_chick_adaptation passage_virus associated ── Topic: 87
+│    │    │    │    │    │    └─influenza_burnet_magill_eggs_mutated
+│    │    │    │    │    │         ├─■──influenza_laidlaw_embryonated eggs_embryonated_chenoweth ── Topic: 13
+│    │    │    │    │    │         └─■──burnet_magill_influenza_mutated_produced ── Topic: 86
+│    │    │    │    │    └─adapted_cold adapted_cold_influenza vaccine_influenza
+│    │    │    │    │         ├─adapted_cold adapted_cold_attenuated cold_strains
+│    │    │    │    │         │    ├─■──strains_wild_master strains_internal_reassortment ── Topic: 25
+│    │    │    │    │         │    └─■──attenuated cold_cold adapted_trivalent_adapted_cold ── Topic: 36
+│    │    │    │    │         └─■──influenza vaccine_safe_influenza_influenza disease_inclusion ── Topic: 53
+│    │    │    │    └─rotavirus_intussusception_oral_rotavirus vaccine_cholera
+│    │    │    │         ├─oral_cholera_oral cholera_cholera vaccine_live oral
+│    │    │    │         │    ├─■──live oral_tacket_oral cholera_oral_cholera vaccine ── Topic: 22
+│    │    │    │         │    └─■──cholera_vaccines cholera_oral vaccines_killed_cholera vaccine ── Topic: 23
+│    │    │    │         └─rotavirus_intussusception_rotavirus vaccine_human rotavirus_event reporting
+│    │    │    │              ├─■──rotavirus_rotavirus vaccine_human rotavirus_bovine_gastroenteritis ── Topic: 2
+│    │    │    │              └─■──intussusception_monovalent_vaccine adverse_reporting_vaccine intussusception ── Topic: 24
+│    │    │    └─typhoid_typhoid vaccines_field trial_field_ty21a
+│    │    │         ├─typhoid vaccines_field trial_typhoid_field_ty21a
+│    │    │         │    ├─■──typhoid vaccines_controlled field_vaccines organ_field trial_field ── Topic: 55
+│    │    │         │    └─■──ty21a_salmonella_oral typhoid_ty21a salmonella_vaccine coated ── Topic: 21
+│    │    │         └─■──wright_typhoid_beginning_vaccination typhoid_killed typhoid ── Topic: 50
+│    │    └─rabies_polio_rubella_encephalitis_virus
+│    │         ├─yellow fever_yellow_theiler_fever_french strain
+│    │         │    ├─■──french strain_theiler_french_17d_sellards ── Topic: 67
+│    │         │    └─■──yellow_yellow fever_fever_fever virus_theiler ── Topic: 3
+│    │         └─rabies_polio_rubella_encephalitis_cell
+│    │              ├─polio_polio vaccine_report_tissues_sabin
+│    │              │    ├─public health_service_report_health_service technical
+│    │              │    │    ├─■──report_service technical_technical_report vaccine_technical report ── Topic: 20
+│    │              │    │    └─■──polio_kolmer_cases paralytic_vaccination program_implicated ── Topic: 72
+│    │              │    └─polio_polio vaccine_tissues_sabin_robbins
+│    │              │         ├─sabin_polio_polio vaccine_salk_placebo
+│    │              │         │    ├─■──placebo_salk_trial_polio vaccine_mentor ── Topic: 69
+│    │              │         │    └─■──sabin_attenuated polio_sabin live_russian_polio ── Topic: 73
+│    │              │         └─tissues_cultures_cultures human_robbins_lansing
+│    │              │              ├─■──polio_weller_enders weller_research polio_weller robbins ── Topic: 76
+│    │              │              └─■──tissues_cultures human_fc_robbins fc_cultures ── Topic: 17
+│    │              └─rabies_rubella_encephalitis_measles_tick
+│    │                   ├─rabies_wiktor_rabies vaccine_rabies virus_diploid cell
+│    │                   │    ├─■──rabies_rabid_bitten_meister_dog ── Topic: 42
+│    │                   │    └─■──rabies_wiktor_diploid cell_rabies virus_rabies vaccine ── Topic: 58
+│    │                   └─rubella_encephalitis_measles_tick_tick borne
+│    │                        ├─encephalitis_tick_tick borne_japanese_borne encephalitis
+│    │                        │    ├─encephalitis_tick_tick borne_japanese_borne encephalitis
+│    │                        │    │    ├─■──tick_tick borne_borne encephalitis_borne_encephalitis ── Topic: 8
+│    │                        │    │    └─■──japanese_japanese encephalitis_encephalitis_encephalitis vaccine_mouse ── Topic: 1
+│    │                        │    └─■──provost_inactivated hepatitis_hepatitis_hepatitis vaccine_inactivated ── Topic: 38
+│    │                        └─rubella_measles_attenuated measles_measles vaccine_declared
+│    │                             ├─rubella_declared_eradication_rubella virus_declared eliminated
+│    │                             │    ├─■──rubella_eradication_declared_smallpox_controlled major ── Topic: 74
+│    │                             │    └─■──rubella_rubella virus_embryo_kidney_maurice anton ── Topic: 37
+│    │                             └─■──attenuated measles_measles_fl_measles general_vaccine child ── Topic: 75
+│    └─varicella_varicella vaccine_attenuated varicella_impact_impact varicella
+│         ├─■──varicella_varicella vaccine_attenuated varicella_live attenuated_long convoluted ── Topic: 51
+│         └─■──varicella_impact_varicella vaccination_impact varicella_r tran ── Topic: 35
+└─anthrax_pasteur_vaccine_disease_meningococcal
+     ├─anthrax_pasteur_history_cowpox_vaccine
+     │    ├─anthrax_pasteur_tuberculose_plague_r
+     │    │    ├─pasteur_tuberculose_plague_r_acad
+     │    │    │    ├─r_r acad_acad_jena_abt
+     │    │    │    │    ├─■──abt jena_jena_abt_1896;19:217_récit historique ── Topic: 41
+     │    │    │    │    └─r_neuse_neuse r_d’inoculations_acad zoeller
+     │    │    │    │         ├─■──tétanique_acad zoeller_zoeller_-_acad ── Topic: 5
+     │    │    │    │         └─■──d’inoculations_neuse r_neuse_r_roux ── Topic: 19
+     │    │    │    └─pasteur_tuberculose_plague_chicken_sheep
+     │    │    │         ├─plague_bubonique_haffkine_plague vaccine_bubonic plague
+     │    │    │         │    ├─■──plague_haffkine_plague vaccine_killed plague_vaccine haffkine ── Topic: 85
+     │    │    │         │    └─■──bubonique_révaccination ouvriers_bull pasteur_prendre_la ── Topic: 12
+     │    │    │         └─tuberculose_pasteur_chicken_sheep_toussaint
+     │    │    │              ├─tuberculose_pasteur_reveal pasteur_reemphasized_reemphasized pasteur
+     │    │    │              │    ├─■──tuberculose_et 3ème_3ème memoires_bacillaire_antituberculose ── Topic: 44
+     │    │    │              │    └─■──vacation end_returned reemphasized_deliberately introduced_pasteur deliberately_reveal pasteur ── Topic: 83
+     │    │    │              └─chicken_sheep_toussaint_chicken cholera_anthrax
+     │    │    │                   ├─■──chicken_chickens_chicken cholera_acidic_bouillon ── Topic: 32
+     │    │    │                   └─■──sheep_toussaint_anthrax_goat_nonvaccinated ── Topic: 15
+     │    │    └─anthrax_20th_20th century_anthrax vaccine_half 20th
+     │    │         ├─anthrax_anthrax vaccine_bacillus_anthrax bacillus_human anthrax
+     │    │         │    ├─■──anthrax_anthrax bacillus_bacillus_survive indefinitely_cultures anthrax ── Topic: 30
+     │    │         │    └─■──anthrax vaccine_anthrax_anthrax vaccines_protective antigen_human anthrax ── Topic: 9
+     │    │         └─■──20th_20th century_half 20th_half_early developments ── Topic: 39
+     │    └─history_cowpox_press_references_figure
+     │         ├─cowpox_smallpox_variolation_jenner_negri
+     │         │    ├─■──story_vaccina-_jenner_vaccina- tion_story interesting ── Topic: 79
+     │         │    └─cowpox_smallpox_variolation_negri_lymph
+     │         │         ├─■──negri_lymph_cowpox_animal vaccination_arm ── Topic: 81
+     │         │         └─smallpox_variolation_cowpox_inoculation_cowpox smallpox
+     │         │              ├─■──cowpox_smallpox_cowpox smallpox_inoculation_wife ── Topic: 78
+     │         │              └─■──variolation_smallpox_living_small pox_son ── Topic: 0
+     │         └─history_press_references_figure_responses.325,326 proc
+     │              ├─particles_yeast_derived_plasma derived_recombinant
+     │              │    ├─derived_yeast_particles_plasma derived_plasma
+     │              │    │    ├─■──plasma derived_derived_plasma_yeast_gene ── Topic: 82
+     │              │    │    └─■──derived vaccine_particles_vaccine recombinant_recombinant yeast_antigen particles ── Topic: 11
+     │              │    └─■──self_hpv_like particles_vlps_cancer ── Topic: 10
+     │              └─history_press_references_figure_responses.325,326
+     │                   ├─adenovirus_respiratory_types adenovirus_types_respiratory disease
+     │                   │    ├─■──respiratory_respiratory disease_adenovirus_adenovirus vaccines_types adenovirus ── Topic: 43
+     │                   │    └─■──adenovirus_selective infection_selective_types adenovirus_potency ── Topic: 56
+     │                   └─history_press_references_figure_responses.325,326
+     │                        ├─history_press_references_proc_responses.325,326 proc
+     │                        │    ├─references_history_proc_responses.325,326 proc_responses.325,326
+     │                        │    │    ├─influenzae_immunological_vaccinology_proteins_genome
+     │                        │    │    │    ├─influenzae_immunological_proteins_genome_capsular
+     │                        │    │    │    │    ├─influenzae_immunological_capsular_giles_jama
+     │                        │    │    │    │    │    ├─■──giles_jama_tics_jama giles_giles type ── Topic: 68
+     │                        │    │    │    │    │    └─influenzae_capsular_bacterial_immunological_type b
+     │                        │    │    │    │    │         ├─■──immunological_bacterial_protein antigens_developed bacterial_sisting ── Topic: 84
+     │                        │    │    │    │    │         └─■──influenzae_type b_b_influenzae type_capsular ── Topic: 6
+     │                        │    │    │    │    └─genome_candidates_reverse_allows_identification
+     │                        │    │    │    │         ├─■──candidates_vaccine candidates_genome sequencing_serogroup_factor ── Topic: 47
+     │                        │    │    │    │         └─■──allows_identification_genome_proteins_vaccinology ── Topic: 48
+     │                        │    │    │    └─sac_mountain_rocky mountain_mountain spotted_rocky
+     │                        │    │    │         ├─■──vaccinology_plumb_networks_anticholera_political ── Topic: 40
+     │                        │    │    │         └─■──mountain spotted_mountain_rocky_rocky mountain_sac ── Topic: 64
+     │                        │    │    └─references_responses.325,326_responses.325,326 proc_proc_pertussis
+     │                        │    │         ├─pertussis_cough_whooping cough_whooping_pertussis vaccine
+     │                        │    │         │    ├─■──pertussis_pertussis vaccine_acellular_acellular pertussis_cell tussis ── Topic: 4
+     │                        │    │         │    └─■──whooping cough_cough_whooping_power plagues_bacteriology ── Topic: 59
+     │                        │    │         └─references_proc_responses.325,326 proc_responses.325,326_natural history
+     │                        │    │              ├─natural history_history_hunters_oldstone_history lecture
+     │                        │    │              │    ├─natural history_hunters_oldstone_history lecture_lecture
+     │                        │    │              │    │    ├─■──medical practice_denmark_practice_medical_denmark paper ── Topic: 46
+     │                        │    │              │    │    └─natural history_hunters_oldstone_history lecture_lecture
+     │                        │    │              │    │         ├─■──natural history_history lecture_lecture_natural_lecture natural ── Topic: 57
+     │                        │    │              │    │         └─■──hunters_oldstone_oldstone hunters_virology oldstone_hunters history ── Topic: 61
+     │                        │    │              │    └─books_chinese_medicine_new light_light dawn
+     │                        │    │              │         ├─■──chinese_medicine_vintage_buddhist_books hume ── Topic: 60
+     │                        │    │              │         └─■──dawn_new light_light dawn_light_books ── Topic: 29
+     │                        │    │              └─references_responses.325,326 proc_responses.325,326_proc_zoster
+     │                        │    │                   ├─references_biologicsbloodvaccines_biologicsbloodvaccines vaccines_available_available references
+     │                        │    │                   │    ├─■──references_chapter available_references chapter_available references_chapter ── Topic: 16
+     │                        │    │                   │    └─■──biologicsbloodvaccines_biologicsbloodvaccines vaccines_approval_bl_vaccines approvedproducts ── Topic: 34
+     │                        │    │                   └─responses.325,326 proc_responses.325,326_proc_zoster_powdered scabs
+     │                        │    │                        ├─zoster_herpes_virus new_cl_genomes phyloge-
+     │                        │    │                        │    ├─■──zoster_herpes_shingles_herpes zoster_zoster vaccine ── Topic: 14
+     │                        │    │                        │    └─■──netic_analysis afonso_phyloge- netic_genomes phyloge-_horsepox ── Topic: 77
+     │                        │    │                        └─proc_responses.325,326_responses.325,326 proc_powdered_scabs
+     │                        │    │                             ├─responses.325,326 proc_responses.325,326_proc__
+     │                        │    │                             │    ├─■──responses.325,326 proc_proc_responses.325,326__ ── Topic: 31
+     │                        │    │                             │    └─■──____ ── Topic: 45
+     │                        │    │                             └─■──powdered scabs_nose_powdered_scabs_cotton ── Topic: 71
+     │                        │    └─ehrlich_serum_theory_bacterins_behring
+     │                        │         ├─serum therapy_remarkable_therapy_ehrlich_behring
+     │                        │         │    ├─■──vaccine s49_therapy vaccine_s49_tuberculosis fleming_fleming recent ── Topic: 52
+     │                        │         │    └─■──remarkable_behring_infective_remarkable men_men ── Topic: 80
+     │                        │         └─theory_bacterins_immunity_toxin_antitoxin
+     │                        │              ├─theory_toxin_antitoxin_immunity contagious_contagious diseases
+     │                        │              │    ├─■──contagious_immunity contagious_contagious diseases_killed vaccines_diseases ── Topic: 33
+     │                        │              │    └─toxin_antitoxin_theory_tetanus_guinea pigs
+     │                        │              │         ├─■──theory_immunity_ehrlich_microorganisms foreign_century pasteur ── Topic: 66
+     │                        │              │         └─■──tetanus_toxin_antitoxin_guinea pigs_toxoid ── Topic: 7
+     │                        │              └─■──bacterins_phagocytosis_opsonins_catalog_sold ── Topic: 54
+     │                        └─figure_age vaccination_vaccination figure_grand rapids_grand
+     │                             ├─■──age vaccination_vaccination figure_figure courtesy_courtesy_figure ── Topic: 89
+     │                             └─■──grand rapids_rapids_grand_rapids public_rapids history ── Topic: 62
+     └─meningococcal_lyme_pneumococcal_conjugate_lyme disease
+          ├─lyme_lyme disease_disease vaccine_outer surface_ospa
+          │    ├─■──lyme disease_treatment_lyme_inter- national_successful treatment ── Topic: 49
+          │    └─lyme_disease vaccine_outer surface_ospa_outer
+          │         ├─■──disease vaccine_lyme disease_lyme_disease_lipo- protein ── Topic: 27
+          │         └─■──ospa_surface protein_outer surface_outer_protein ospa ── Topic: 63
+          └─meningococcal_pneumococcal_conjugate_group_meningococcal conjugate
+               ├─meningococcal_group_meningococcal conjugate_meningococcus_nity meningococcus
+               │    ├─meningococcus_nity meningococcus_group_immu- nity_immunity immu-
+               │    │    ├─■──meningococcus_nity meningococcus_immu- nity_immunity immu-_immu- ── Topic: 65
+               │    │    └─■──meningococcal_got_got underway_serogroup charide_gococcal disease ── Topic: 90
+               │    └─meningococcal_meningococcal conjugate_conjugate_conjugate vaccines_opin
+               │         ├─■──meningococcal_blind controlled_jm_blind_group ── Topic: 28
+               │         └─■──meningococcal conjugate_opin ther_expert opin_vaccines expert_drugs meningococcal ── Topic: 70
+               └─pneumococcal_transformation_avery macleod_macleod_mccarty
+                    ├─pneumococcal_pneumococcal conjugate_conjugate_m._prevention pneumococcal
+                    │    ├─■──pneumococcal_pneumococcal conjugate_prevention pneumococcal_conjugate vaccine_valent ── Topic: 26
+                    │    └─■──pneumococcal_m._substance_pneumonia_pneumococcus ── Topic: 18
+                    └─■──celebration avery_sary celebration_anniver- sary_genetics anniver-_transformation genetics ── Topic: 88

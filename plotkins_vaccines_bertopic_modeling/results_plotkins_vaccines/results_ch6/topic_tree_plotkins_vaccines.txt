@@ -1,0 +1,91 @@
+.
+├─vaccine_adjuvants_influenza_adjuvant_vaccines
+│    ├─influenza_influenza vaccine_adjuvanted_vaccine_mf59
+│    │    ├─■──influenza_fusion_flagellin_influenza vaccine_recombinant ── Topic: 28
+│    │    └─influenza_influenza vaccine_adjuvanted_mf59_adjuvanted influenza
+│    │         ├─■──elderly adults_elderly_influenza_influenza vaccine_adjuvanted influenza ── Topic: 17
+│    │         └─■──pandemic_influenza_antibody_diversity affinity_influenza vaccine ── Topic: 0
+│    └─vaccine_adjuvants_adjuvant_vaccines_cpg
+│         ├─adjuvants_vaccine_vaccines_cpg_adjuvant
+│         │    ├─cpg_med identifier_vaccine_identifier_safety
+│         │    │    ├─references_evolution_evolution adjuvants_adjuvants centuries_centuries
+│         │    │    │    ├─references_future_available references_chapter available_directions
+│         │    │    │    │    ├─references_future_acknowledgment_acknowledgment references_directions acknowledgment
+│         │    │    │    │    │    ├─■──references_chapter available_references chapter_acknowledgment references_directions acknowledgment ── Topic: 23
+│         │    │    │    │    │    └─■──formula-_safety human_success_studies hum_relies ── Topic: 24
+│         │    │    │    │    └─narcolepsy_risk_mmf_positive_committee
+│         │    │    │    │         ├─■──mmf_committee_lesions_containing vaccines_aluminum ── Topic: 30
+│         │    │    │    │         └─■──narcolepsy_risk_benefit risk_vaccinated_cases narcolepsy ── Topic: 19
+│         │    │    │    └─adjuvants centuries_evolution_evolution adjuvants_centuries_adjuvants
+│         │    │    │         ├─alum_value toxoid_precipitated_precipitated potassium_mechanism immunopotentiation
+│         │    │    │         │    ├─■──membrane lipids_nalp3_dendritic_inflamma-_lipids ── Topic: 25
+│         │    │    │         │    └─■──toxoid precipitated_mechanism immunopotentiation_bacteriol mechanism_alum bacteriol_immunopotentiati ── Topic: 44
+│         │    │    │         └─evolution_evolution adjuvants_centuries_adjuvants centuries_defining
+│         │    │    │              ├─defining_safe_evaluation_discovery adjuvants_adjuvants defining
+│         │    │    │              │    ├─■──safe_adjuvant evaluation_evaluation_marketing_define real ── Topic: 32
+│         │    │    │              │    └─■──adjuvants classification_evaluation categorization_action adjuvants_based mechanism_categorization a ── Topic: 27
+│         │    │    │              └─■──adjuvants centuries_evolution adjuvants_centuries_evolution_centuries evolution ── Topic: 43
+│         │    │    └─cpg_med identifier_identifier_med_rts
+│         │    │         ├─cpg_med identifier_identifier_med_extensive clinical
+│         │    │         │    ├─med identifier_identifier_med_extensive clinical_hpv
+│         │    │         │    │    ├─■──med identifier_identifier_med__ ── Topic: 45
+│         │    │         │    │    └─extensive clinical_hpv_extensive_approved use_cancer
+│         │    │         │    │         ├─■──extensive clinical_extensive_dellagostin_vaccines extensive_wide range ── Topic: 13
+│         │    │         │    │         └─■──hpv_cancer_cervi- cal_human papil-_lomavirus hpv)-16/18 ── Topic: 22
+│         │    │         │    └─cpg_seroprotection_sequence_cpg motifs_motifs
+│         │    │         │         ├─■──seroprotection_sequence_cpg_infected_cpg referred ── Topic: 20
+│         │    │         │         └─■──cpg_cpg motifs_motifs_bonds_oligonucleotides ── Topic: 7
+│         │    │         └─rts_malaria_rts s_s_alhydrogel cpg
+│         │    │              ├─■──blood stage_circumsporozoite protein_alhydrogel_blood_circumsporozoite ── Topic: 14
+│         │    │              └─■──rts_rts s_s_malaria_vaccine date ── Topic: 35
+│         │    └─mucosal_adjuvant_lipid_mucosal adjuvants_virosomes
+│         │         ├─lipid_virosomes_adjuvant_molecule_liposomes
+│         │         │    ├─lipid_molecule_toxic_agonists_mpl
+│         │         │    │    ├─saponins_molecule_cholesterol_retained_saponin
+│         │         │    │    │    ├─■──immunotherapeutics_sible produce_agonist active_vaccine human_adjuvant trif ── Topic: 41
+│         │         │    │    │    └─■──saponins_cholesterol_saponin_qs-21_mixture ── Topic: 2
+│         │         │    │    └─lipid_agonists_mpl_emulsion_toxic
+│         │         │    │         ├─lipid_emulsion_toxic_acyl chain_mpla
+│         │         │    │         │    ├─■──lipid_toxic_hydrolysis_mpla_significantly toxic ── Topic: 18
+│         │         │    │         │    └─■──emulsion_lipid adjuvant_context_stable_acyl chain ── Topic: 29
+│         │         │    │         └─■──agonists_specificity_synthetic agonist_pertussis_humans ── Topic: 5
+│         │         │    └─virosomes_tlr7_liposomes_cationic_polyelectrolytes
+│         │         │         ├─tlr7_cationic_polyelectrolytes_treatment_polymers
+│         │         │         │    ├─■──tlr7_tlr7 tlr8_nists_ago-_tlr8 ── Topic: 37
+│         │         │         │    └─cationic_polyelectrolytes_polymers_polymer_polyoxidonium
+│         │         │         │         ├─■──polymers_polymer_polyoxidonium_polyelectrolytes_ethylene ── Topic: 12
+│         │         │         │         └─■──cationic_cationic peptide_based adjuvant_peptide_cmi ── Topic: 15
+│         │         │         └─■──virosomes_liposomes_encapsulate_liposomal_liposomes virosomes ── Topic: 26
+│         │         └─mucosal_mucosal adjuvants_populations_oral_adjuvants
+│         │              ├─mucosal adjuvants_mucosal_nontoxic derivatives_vaccines nontoxic_ct mucosal
+│         │              │    ├─■──oral_coli_toxin_intranasal_mutant ── Topic: 11
+│         │              │    └─■──mucosal_mucosal adjuvants_ready clinical_ready_ct ── Topic: 42
+│         │              └─populations_immune response_response_protection_live
+│         │                   ├─■──live_relevant_disorders_adjuvants_live attenuated ── Topic: 1
+│         │                   └─■──populations_protection_response_immune response_increase ── Topic: 16
+│         └─toll_toll like_like_like receptor_receptor
+│              ├─pathogen_factor_interferon_receptors_interleukin
+│              │    ├─■──pathogen_receptors_pathogen associated_patterns_fig ── Topic: 40
+│              │    └─factor_interferon_interleukin_pathway_adaptor
+│              │         ├─■──factor_interferon_interleukin_tumor necrosis_necrosis factor ── Topic: 33
+│              │         └─■──adaptor_signaling_lps_pathway_- binding ── Topic: 34
+│              └─toll_like receptor_toll like_like_receptor
+│                   ├─■──toll_like receptor_toll like_like_receptor ── Topic: 4
+│                   └─■──dd_receptor agonist_infected_-_montanide isa ── Topic: 21
+└─aluminum_oil_emulsions_water_containing adjuvants
+     ├─oil_emulsions_water_water emulsions_oil water
+     │    ├─oil_emulsions_water_water emulsions_oil water
+     │    │    ├─■──oil_squalene_water_mineral_emulsion ── Topic: 3
+     │    │    └─■──emulsions_water emulsions_oil_water_oil water ── Topic: 9
+     │    └─■──vehicles_α tocopherol_α_apcs_tocopherol ── Topic: 31
+     └─aluminum_containing adjuvants_surface_aluminum containing_freezing
+          ├─aluminum_containing adjuvants_freezing_aluminum containing_containing
+          │    ├─■──white_techniques characterize_techniques_compounds pharm_calcium compounds ── Topic: 39
+          │    └─aluminum_freezing_aluminum containing_containing adjuvants_mechanisms
+          │         ├─containing adjuvants_aluminum_aluminum containing_mechanisms_containing
+          │         │    ├─■──mechanisms_hypothesis_depot mechanism_proposed_depot ── Topic: 36
+          │         │    └─■──dendritic_situ_precipitation_aluminum_containing adjuvants ── Topic: 6
+          │         └─■──freezing_effect freezing_temperature_salts_aluminum ── Topic: 38
+          └─surface_electrostatic_adsorption_aluminum hydroxide_hydroxide
+               ├─■──surface_surface area_oxyhydroxide_area_groups ── Topic: 10
+               └─■──electrostatic_adsorption_hydrophobic_iep_attrac- ── Topic: 8

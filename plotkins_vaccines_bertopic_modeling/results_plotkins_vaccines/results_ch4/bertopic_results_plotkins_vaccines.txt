@@ -1,0 +1,314 @@
+BERTopic results plotkins vaccines
+
+Topic 0
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Tpp
+  Keywords:          assays, efficacy, studies, lots, phase, consistency, safety, clinical, scale, process
+  Summary:           A key strategic document that guides the stake- holders in vaccine development is the “target product profile’ (TPP) The TPP summarizes the desired characteristics and features of the product under development.
+
+Topic 1
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Cdc
+  Keywords:          cber, committee, responsible, disease, children, studies, cdc, adults, committee pediatrics, purchases
+  Summary:           CDC conducts disease surveillance and epidemiological studies to ascertain the prev- alence and incidence of specific diseases. Department of Defense does targeted vaccine personnel and their families against infectious disease threats in the United States and abroad.
+
+Topic 2
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Reliability
+  Keywords:          industry, shortages, industry pharmaceutical, sourced vaccines, infrastructure, sup-, vaccine company, company vaccine, years vaccine, vaccine
+  Summary:           The vaccine industry in the U.S. and Europe has considerably improved its reliability as a sup- plier.
+
+Topic 3
+  Auto Label:        Biotech
+  Descriptive Label: Biotech
+  Keywords:          research, companies, partners, expertise, role, development, process development, influenzae, personnel expertise, engineering
+  Summary:           The vaccine business is a capital-intensive business that requires considerable ongoing investment in manufacturing assets, facilities, and people. Clinical activities are more visible than bioprocess develop- ment and clearly drive the go/no-go decisions that direct prog- ress.
+
+Topic 4
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Pricing
+  Keywords:          prices, market, vaccine market, price, private market, regulatory, global, sold, market growth, priced
+  Summary:           Pricing is a critical component of success for large companies and for venture funding of small companies. The public expectation is for low vaccine prices, although this has changed somewhat in recent years.
+
+Topic 5
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Funding
+  Keywords:          programs, funding, research, advanced, environment, medical, trials, development, vaccine research, sources vaccine
+  Summary:           NIH is the major funding source via intramural and extramural programs. The U.S.
+
+Topic 6
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Ebola
+  Keywords:          poorer, developing world, pdps, world, technical, diseases, industrial, work, incentives, brazilian
+  Summary:           Public–private partnerships, or PDPs, on emerging patho- gens such as pandemic flu, anthrax, SARS, botulism, Ebola, and others, will lead to large-scale manufacturing opportu- nities for these products. Niche vaccines for developed-world markets are much more attractive to biotech than to large.
+
+Topic 7
+  Auto Label:        Biotechnology
+  Descriptive Label: Biotechnology
+  Keywords:          depen-, contributions biotechnology, samant, referred, countries initially, rejected, manufacturers developing, dent, evidenced, samant smaller
+  Summary:           Many smaller organizations, often referred to as biotech- The greatest contributions of the biotechnology companies rejected or carried forward. These small companies are dep
+
+Topic 8
+  Auto Label:        Patent
+  Descriptive Label: Patent
+  Keywords:          patent, patent laws, property, intellectual, laws, intellectual property, strong patent, protection, strong, product society
+  Summary:           Strong patent laws providing the intellectual property pro- tection that is essential for commercial success. Access to knowhow, such as proprietary cell lines, virus strains, and internally developed processes,
+
+Topic 9
+  Auto Label:        Sales
+  Descriptive Label: Sales
+  Keywords:          returns *, % company, releases evaluate, end earnings, year end, company year, evaluate pharma, sales returns, b sales, sales b
+  Summary:           41 2013 sales: 25.6 B
+
+Topic 10
+  Auto Label:        Expenses
+  Descriptive Label: Expenses
+  Keywords:          sales, pharmaceutical, industry, expenses, %, pharmaceutical industry, companies, distribution, vaccine sales, % %
+  Summary:           The vaccine industry is relatively small, compared to the pharmaceutical industry, but growing. We estimate that total infectious disease vaccine sales in 2013 were more than $25 billion worldwide.
+
+Topic 11
+  Auto Label:        Factors
+  Descriptive Label: Factors
+  Keywords:          page factors, following page, continued following, page, factors science, continued, following, science, factors, 
+  Summary:           Science. 2002;
+
+Topic 12
+  Auto Label:        Summary
+  Descriptive Label: Summary
+  Keywords:          references deleted, acknowledgments references, summary acknowledgments, deleted, deleted review, acknowledgments, review, summary, references, 
+  Summary:           
+
+Topic 13
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Cohort
+  Keywords:          vaccine supply, supply, brantner, providing ongoing, renewable, unmet, falls, seriously, short, adams
+  Summary:           The birth cohort is renewable, providing an ongoing unmet need for vaccines.
+
+Topic 14
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Gregerson
+  Keywords:          road, generation vaccines, behavior, lack, marcel dekker, vaccines marcel, generation, marcel, dekker, development lack
+  Summary:           Lack of good animal models to predict vaccine behavior in humans has been the introduction of multiple ideas into early vaccine development. Gregerson J.
+
+Topic 15
+  Auto Label:        _Vaccine_Manufacturers2009_05
+  Descriptive Label: _Vaccine_Manufacturers2009_05
+  Keywords:          vaccines available, gsk vaccines, . gsk, manufacturers ., organization vaccine, ., health organization, vaccine manufacturers, gsk, organization
+  Summary:           World Health Organization. Influenza vaccine manufacturers,
+
+Topic 16
+  Auto Label:        China
+  Descriptive Label: China
+  Keywords:          , , , , , , , , , 
+  Summary:           Summary generation failed: Input length of decoder_input_ids is 1, but `max_length` is set to 1. This can lead to unexpected behavior. You should consider increasing `max_length` or, better yet, setting `max_new_tokens`.
+
+Topic 17
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Biotech
+  Keywords:          delhi, largest, doses, technology, r&d spending, success available, available estimates, estimates suggest, suggest r&d, import
+  Summary:           The vaccine industry has slowly mushroomed in India with several key companies emerging including Bharat Biotech, Biological E., Panacea Biotec, and others. Despite the industry’s success, the available estimates suggest that R&D spending remains rela- tively low.
+
+Topic 18
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – China
+  Keywords:          cnbg, country, group, manufacturers, biological, vaccine manufacturers, ranks, consuming, affiliated, original
+  Summary:           China ranks as the world’s largest vaccine consuming and manufacturing country, with an estimated annual output of 1 billion doses. There are 46 regis- tered vaccine manufacturers in China and 24 licensed vac- cines.
+
+Topic 19
+  Auto Label:        Expertconsult
+  Descriptive Label: Expertconsult
+  Keywords:          sp, compositional support, thanks hopkins, special thanks, presskit%202012.pdf, en_sanofi%20pasteur%20, media, support references, chapter, compositional
+  Summary:           References for this chapter are available at ExpertCons
+
+Topic 20
+  Auto Label:        Evaluatepharma
+  Descriptive Label: Evaluatepharma
+  Keywords:          pfizer products, http://www.pfizerpro.com/products, research working, available research, product available, gsk product, http://www.pfizerpro.com/products gsk, products http://www.pfizerpro.com/products, working product, evaluatepharma pfizer
+  Summary:           Pfizer Products
+
+Topic 21
+  Auto Label:        Costs
+  Descriptive Label: Costs
+  Keywords:          estimates, brought, new product, annually, cost, r&d, new, dated ways, brought licensure, vaccine risen
+  Summary:           Cost of development of a new drug or vaccine has risen from $231 million in 1991 to $1 billion in 2010. Approximately 50% of the cost is for con- struction; the remainder is the cost of capital interest.
+
+Topic 22
+  Auto Label:        Plant
+  Descriptive Label: Plant
+  Keywords:          commitment, commitment build, license, application, elapsed, plant early, planned, build plant, final stage, stage biologics
+  Summary:           The total elapsed time for development is 10 to 15 years, assuming all activities proceed as planned. The commitment to build a plant must
+
+Topic 23
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Developed
+  Keywords:          conjugate vaccine, conjugate, new vaccines, polyvalent, vaccination, acellular pertussis, introduced, acellular, vaccines approved, combination
+  Summary:           The United States has been extraordinarily successful in vaccine research and development (R&D) In the past 20 years, most new vaccines approved worldwide were developed in the United States.
+
+Topic 24
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Agreements
+  Keywords:          practical, agreements, countries practical, agreements low, purchase agreements, advance purchase, vaccine advance, market vaccine, issues, advance
+  Summary:           Vaccine advance-purchase agreements
+
+Topic 25
+  Auto Label:        Immunization
+  Descriptive Label: Immunization
+  Keywords:          candidates, vaccine candidates, high, develop- ment, develop-, ment, failure, candidates fail, result variety, rate result
+  Summary:           Vaccine development is difficult, complex, highly risky, and costly. Less than 1 in 15 vaccine candidates entering Phase II achieves licensure.
+
+
+Document-Level Assignments:
+Doc 1: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Reliability), Prob: 0.96202780
+Doc 2: Topic 7 (Auto: Biotechnology; Descriptive: Biotechnology), Prob: 1.00000000
+Doc 3: Topic 10 (Auto: Expenses; Descriptive: Expenses), Prob: 0.76883967
+Doc 4: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Reliability), Prob: 1.00000000
+Doc 5: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 6: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 7: Topic 3 (Auto: Biotech; Descriptive: Biotech), Prob: 1.00000000
+Doc 8: Topic 23 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 1.00000000
+Doc 9: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Reliability), Prob: 0.79953555
+Doc 10: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Gregerson), Prob: 1.00000000
+Doc 11: Topic 25 (Auto: Immunization; Descriptive: Immunization), Prob: 1.00000000
+Doc 12: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 13: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Gregerson), Prob: 1.00000000
+Doc 14: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 15: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 16: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Tpp), Prob: 0.95351707
+Doc 17: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Tpp), Prob: 1.00000000
+Doc 18: Topic 9 (Auto: Sales; Descriptive: Sales), Prob: 0.56753121
+Doc 19: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Tpp), Prob: 0.80537127
+Doc 20: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 21: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Tpp), Prob: 0.79096786
+Doc 22: Topic 3 (Auto: Biotech; Descriptive: Biotech), Prob: 1.00000000
+Doc 23: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Tpp), Prob: 1.00000000
+Doc 24: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Tpp), Prob: 0.72945644
+Doc 25: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Tpp), Prob: 1.00000000
+Doc 26: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 27: Topic 9 (Auto: Sales; Descriptive: Sales), Prob: 1.00000000
+Doc 28: Topic 9 (Auto: Sales; Descriptive: Sales), Prob: 1.00000000
+Doc 29: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pricing), Prob: 1.00000000
+Doc 30: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pricing), Prob: 1.00000000
+Doc 31: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Tpp), Prob: 1.00000000
+Doc 32: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Tpp), Prob: 1.00000000
+Doc 33: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Tpp), Prob: 1.00000000
+Doc 34: Topic 22 (Auto: Plant; Descriptive: Plant), Prob: 1.00000000
+Doc 35: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 36: Topic 22 (Auto: Plant; Descriptive: Plant), Prob: 1.00000000
+Doc 37: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 38: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Tpp), Prob: 1.00000000
+Doc 39: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 40: Topic 21 (Auto: Costs; Descriptive: Costs), Prob: 1.00000000
+Doc 41: Topic 21 (Auto: Costs; Descriptive: Costs), Prob: 1.00000000
+Doc 42: Topic 3 (Auto: Biotech; Descriptive: Biotech), Prob: 1.00000000
+Doc 43: Topic 3 (Auto: Biotech; Descriptive: Biotech), Prob: 1.00000000
+Doc 44: Topic 3 (Auto: Biotech; Descriptive: Biotech), Prob: 1.00000000
+Doc 45: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Funding), Prob: 0.69641512
+Doc 46: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Cdc), Prob: 1.00000000
+Doc 47: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Cdc), Prob: 1.00000000
+Doc 48: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Funding), Prob: 1.00000000
+Doc 49: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Cdc), Prob: 1.00000000
+Doc 50: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Funding), Prob: 0.73976695
+Doc 51: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Funding), Prob: 0.47842022
+Doc 52: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Cdc), Prob: 1.00000000
+Doc 53: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Cdc), Prob: 1.00000000
+Doc 54: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Cdc), Prob: 1.00000000
+Doc 55: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Funding), Prob: 0.52647694
+Doc 56: Topic 6 (Auto: Vaccines; Descriptive: Vaccines – Ebola), Prob: 1.00000000
+Doc 57: Topic 3 (Auto: Biotech; Descriptive: Biotech), Prob: 1.00000000
+Doc 58: Topic 11 (Auto: Factors; Descriptive: Factors), Prob: 1.00000000
+Doc 59: Topic 3 (Auto: Biotech; Descriptive: Biotech), Prob: 1.00000000
+Doc 60: Topic 7 (Auto: Biotechnology; Descriptive: Biotechnology), Prob: 0.97278042
+Doc 61: Topic 3 (Auto: Biotech; Descriptive: Biotech), Prob: 1.00000000
+Doc 62: Topic 3 (Auto: Biotech; Descriptive: Biotech), Prob: 1.00000000
+Doc 63: Topic 7 (Auto: Biotechnology; Descriptive: Biotechnology), Prob: 1.00000000
+Doc 64: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Gregerson), Prob: 0.88097381
+Doc 65: Topic 7 (Auto: Biotechnology; Descriptive: Biotechnology), Prob: 0.80512300
+Doc 66: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Funding), Prob: 0.57652869
+Doc 67: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 68: Topic 8 (Auto: Patent; Descriptive: Patent), Prob: 1.00000000
+Doc 69: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Funding), Prob: 0.41551893
+Doc 70: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Funding), Prob: 1.00000000
+Doc 71: Topic 10 (Auto: Expenses; Descriptive: Expenses), Prob: 0.82624514
+Doc 72: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Reliability), Prob: 1.00000000
+Doc 73: Topic 9 (Auto: Sales; Descriptive: Sales), Prob: 1.00000000
+Doc 74: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Reliability), Prob: 1.00000000
+Doc 75: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 76: Topic 6 (Auto: Vaccines; Descriptive: Vaccines – Ebola), Prob: 0.95945446
+Doc 77: Topic 10 (Auto: Expenses; Descriptive: Expenses), Prob: 1.00000000
+Doc 78: Topic 10 (Auto: Expenses; Descriptive: Expenses), Prob: 1.00000000
+Doc 79: Topic 10 (Auto: Expenses; Descriptive: Expenses), Prob: 1.00000000
+Doc 80: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pricing), Prob: 0.93337898
+Doc 81: Topic 8 (Auto: Patent; Descriptive: Patent), Prob: 0.39618637
+Doc 82: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – Cohort), Prob: 0.81731062
+Doc 83: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Reliability), Prob: 1.00000000
+Doc 84: Topic 7 (Auto: Biotechnology; Descriptive: Biotechnology), Prob: 0.97278042
+Doc 85: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Cdc), Prob: 0.58853616
+Doc 86: Topic 6 (Auto: Vaccines; Descriptive: Vaccines – Ebola), Prob: 1.00000000
+Doc 87: Topic 7 (Auto: Biotechnology; Descriptive: Biotechnology), Prob: 0.80512300
+Doc 88: Topic 6 (Auto: Vaccines; Descriptive: Vaccines – Ebola), Prob: 1.00000000
+Doc 89: Topic 16 (Auto: China; Descriptive: China), Prob: 1.00000000
+Doc 90: Topic 17 (Auto: Vaccines; Descriptive: Vaccines – Biotech), Prob: 1.00000000
+Doc 91: Topic 17 (Auto: Vaccines; Descriptive: Vaccines – Biotech), Prob: 1.00000000
+Doc 92: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 93: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Reliability), Prob: 1.00000000
+Doc 94: Topic 23 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 1.00000000
+Doc 95: Topic 16 (Auto: China; Descriptive: China), Prob: 1.00000000
+Doc 96: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – China), Prob: 1.00000000
+Doc 97: Topic 3 (Auto: Biotech; Descriptive: Biotech), Prob: 1.00000000
+Doc 98: Topic 16 (Auto: China; Descriptive: China), Prob: 1.00000000
+Doc 99: Topic 6 (Auto: Vaccines; Descriptive: Vaccines – Ebola), Prob: 1.00000000
+Doc 100: Topic 12 (Auto: Summary; Descriptive: Summary), Prob: 0.93936276
+Doc 101: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 102: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pricing), Prob: 1.00000000
+Doc 103: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pricing), Prob: 0.93337898
+Doc 104: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Reliability), Prob: 1.00000000
+Doc 105: Topic 11 (Auto: Factors; Descriptive: Factors), Prob: 1.00000000
+Doc 106: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Funding), Prob: 0.56991412
+Doc 107: Topic 8 (Auto: Patent; Descriptive: Patent), Prob: 1.00000000
+Doc 108: Topic 8 (Auto: Patent; Descriptive: Patent), Prob: 0.23104388
+Doc 109: Topic 25 (Auto: Immunization; Descriptive: Immunization), Prob: 1.00000000
+Doc 110: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pricing), Prob: 1.00000000
+Doc 111: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pricing), Prob: 0.91981433
+Doc 112: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pricing), Prob: 0.88741721
+Doc 113: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Reliability), Prob: 0.90433406
+Doc 114: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Cdc), Prob: 0.90135911
+Doc 115: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pricing), Prob: 0.75334387
+Doc 116: Topic 6 (Auto: Vaccines; Descriptive: Vaccines – Ebola), Prob: 1.00000000
+Doc 117: Topic 24 (Auto: Vaccine; Descriptive: Vaccine – Agreements), Prob: 1.00000000
+Doc 118: Topic 4 (Auto: Vaccine; Descriptive: Vaccine – Pricing), Prob: 0.79945070
+Doc 119: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 120: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 121: Topic 8 (Auto: Patent; Descriptive: Patent), Prob: 1.00000000
+Doc 122: Topic 6 (Auto: Vaccines; Descriptive: Vaccines – Ebola), Prob: 1.00000000
+Doc 123: Topic 12 (Auto: Summary; Descriptive: Summary), Prob: 1.00000000
+Doc 124: Topic 19 (Auto: Expertconsult; Descriptive: Expertconsult), Prob: 1.00000000
+Doc 125: Topic 19 (Auto: Expertconsult; Descriptive: Expertconsult), Prob: 1.00000000
+Doc 126: Topic 12 (Auto: Summary; Descriptive: Summary), Prob: 1.00000000
+Doc 127: Topic 9 (Auto: Sales; Descriptive: Sales), Prob: 0.60097106
+Doc 128: Topic 20 (Auto: Evaluatepharma; Descriptive: Evaluatepharma), Prob: 0.73583715
+Doc 129: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 130: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Cdc), Prob: 1.00000000
+Doc 131: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – Cohort), Prob: 1.00000000
+Doc 132: Topic 11 (Auto: Factors; Descriptive: Factors), Prob: 1.00000000
+Doc 133: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Cdc), Prob: 1.00000000
+Doc 134: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Gregerson), Prob: 0.90207946
+Doc 135: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 136: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – Cohort), Prob: 1.00000000
+Doc 137: Topic 11 (Auto: Factors; Descriptive: Factors), Prob: 0.84318036
+Doc 138: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Cdc), Prob: 1.00000000
+Doc 139: Topic 12 (Auto: Summary; Descriptive: Summary), Prob: 0.93936276
+Doc 140: Topic 15 (Auto: _Vaccine_Manufacturers2009_05; Descriptive: _Vaccine_Manufacturers2009_05), Prob: 1.00000000
+Doc 141: Topic 15 (Auto: _Vaccine_Manufacturers2009_05; Descriptive: _Vaccine_Manufacturers2009_05), Prob: 1.00000000
+Doc 142: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Reliability), Prob: 0.96202780
+Doc 143: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 144: Topic 19 (Auto: Expertconsult; Descriptive: Expertconsult), Prob: 1.00000000
+Doc 145: Topic 20 (Auto: Evaluatepharma; Descriptive: Evaluatepharma), Prob: 1.00000000
+Doc 146: Topic 20 (Auto: Evaluatepharma; Descriptive: Evaluatepharma), Prob: 1.00000000
+Doc 147: Topic 24 (Auto: Vaccine; Descriptive: Vaccine – Agreements), Prob: 1.00000000
+Doc 148: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – Cohort), Prob: 1.00000000
+Doc 149: Topic 17 (Auto: Vaccines; Descriptive: Vaccines – Biotech), Prob: 1.00000000
+Doc 150: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – China), Prob: 1.00000000
+Doc 151: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – China), Prob: 1.00000000
+Doc 152: Topic 15 (Auto: _Vaccine_Manufacturers2009_05; Descriptive: _Vaccine_Manufacturers2009_05), Prob: 0.97887929
+Doc 153: Topic 15 (Auto: _Vaccine_Manufacturers2009_05; Descriptive: _Vaccine_Manufacturers2009_05), Prob: 0.81122088
+Doc 154: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000

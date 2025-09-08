@@ -1,0 +1,27 @@
+Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+52,vaccine_vaccines_virus_manufacturing_use,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]",30,single use_single_use_manufacturing_standards,51,vaccine_vaccines_virus_cell_product,1.1232509123966026
+51,vaccine_vaccines_virus_cell_product,"[0, 1, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26]",50,virus_influenza_cell_vlps_vaccine,49,vaccines_vaccine_product_federal_clinical,1.0758709551192982
+50,virus_influenza_cell_vlps_vaccine,"[3, 4, 7, 13, 15, 17, 20, 23, 24]",47,virus_influenza_vlps_like_split,35,ipv_polio_cell_productivity_dose,1.063875442187364
+49,vaccines_vaccine_product_federal_clinical,"[0, 1, 6, 8, 9, 10, 11, 12, 14, 16, 18, 19, 22, 25, 26]",48,vaccine_vaccines_product_prime_boost,29,drug_clinical_submission_review_nonclinical,1.0384458575743514
+48,vaccine_vaccines_product_prime_boost,"[0, 1, 6, 8, 10, 11, 12, 14, 16, 18, 19, 25, 26]",46,product_vaccine_vaccines_federal_med,28,boost_prime_prime boost_development_vaccine,1.0260638105095945
+47,virus_influenza_vlps_like_split,"[4, 7, 13, 15, 20, 23]",44,influenza_vlps_like_alternative scale_alternative,34,split_split virus_eggs_virus_monovalent,1.0154695449982483
+46,product_vaccine_vaccines_federal_med,"[0, 6, 8, 10, 12, 14, 16, 18, 19, 25, 26]",41,polysaccharide_containers_hbsag_tetanus_yeast,45,med_federal_product_authorization release_ship,1.01461248026936
+45,med_federal_product_authorization release_ship,"[8, 10, 14, 16, 19, 25, 26]",43,med_federal_measles_vaccines_federal register,39,authorization_regulatory authorization_product ship_ship_distribute product,1.0101252524797593
+44,influenza_vlps_like_alternative scale_alternative,"[4, 7, 15, 23]",32,influenza_alternative_alternative scale_scale distribution_influenza vaccine,33,vlps_like_like particles_particles vaccine_particles,1.0093331930112264
+43,med_federal_measles_vaccines_federal register,"[8, 10, 14, 19, 25]",42,federal_med_register national_archives_federal register,40,measles_vaccines_live attenuated_market_immunizations,1.0077273885278828
+42,federal_med_register national_archives_federal register,"[10, 19]",10,federal_regulations title_regulations_title_office,19,"med_2013;369(22_malaria,44 rerks_janes_aidsvax",1.0
+41,polysaccharide_containers_hbsag_tetanus_yeast,"[0, 6, 12, 18]",37,polysaccharide_hbsag_tetanus_yeast_protein,36,containers_conditions_storage_life_shelf life,0.9980068987553967
+40,measles_vaccines_live attenuated_market_immunizations,"[8, 14, 25]",8,immunizations_available_agreement_immunized_vaccine supply,38,measles_live attenuated_attenuated_vaccines market_vaccines,0.9841119802815909
+39,authorization_regulatory authorization_product ship_ship_distribute product,"[16, 26]",26,product ship_distribute product_release distribute_authorization release_regulatory authorization,16,defines_process defines_combining components_consists combining_formulation consists,0.9813172159385554
+38,measles_live attenuated_attenuated_vaccines market_vaccines,"[14, 25]",14,harmonization_annex_approval_inspections_worldwide,25,measles_live attenuated_attenuated_live_vaccines derived,0.9798487701275842
+37,polysaccharide_hbsag_tetanus_yeast_protein,"[0, 6]",6,polysaccharide_tetanus_tetanus protein_protein_crude,0,hbsag_yeast_lot_recombinant_aluminum,0.9657260249618655
+36,containers_conditions_storage_life_shelf life,"[12, 18]",12,containers_operations_critical_environment_conducted,18,life_shelf life_conditions_vaccine manufacturers_shelf,0.963358837140136
+35,ipv_polio_cell_productivity_dose,"[3, 17, 24]",17,dose_dose vial_vial_steps_ipv,31,polio_cell_ipv_vero_wild,0.9560961508106953
+34,split_split virus_eggs_virus_monovalent,"[13, 20]",20,split virus_split_concentrate_virus concentrate_virus,13,eggs_monovalent_inoculated_allantoic_virus suspension,0.9440089283061716
+33,vlps_like_like particles_particles vaccine_particles,"[7, 15]",7,vlps_proteins_expression_hpv_cells,15,like_particles vaccine_like particles_based_particles,0.9436103318270328
+32,influenza_alternative_alternative scale_scale distribution_influenza vaccine,"[4, 23]",23,scale distribution_alternative scale_alternative_influenza vaccine_distribution,4,influenza_influenza virus_vaccine produced_neuraminidase_types,0.9418180602810583
+31,polio_cell_ipv_vero_wild,"[3, 24]",3,polio_ipv_polio vaccine_eradication_polio vaccines,24,vero_cell_higher_wijffels_showed vero,0.9290197952778494
+30,single use_single_use_manufacturing_standards,"[2, 5, 21]",2,standards_single use_use_single_setting,27,single_single use_use_manufacturing_promise,0.9178348905634506
+29,drug_clinical_submission_review_nonclinical,"[9, 22]",9,drug_submission_clinical_overview_regulatory overview,22,health service_section public_biological products_service_act,0.9142601268142634
+28,boost_prime_prime boost_development_vaccine,"[1, 11]",1,development_manufactured_clinical studies_starting_successful,11,prime_boost_prime boost_canarypox_positive,0.8952522603352947
+27,single_single use_use_manufacturing_promise,"[5, 21]",5,single_region_plant_promise_challenges,21,single use_single_complexity_use_volume,0.8837412070241137

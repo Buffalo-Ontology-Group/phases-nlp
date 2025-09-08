@@ -1,0 +1,1066 @@
+BERTopic results plotkins vaccines
+
+Topic 0
+  Auto Label:        Rotavirus
+  Descriptive Label: Rotavirus
+  Keywords:          rotavirus, immunity rotavirus, diarrhea, controlled clinical, colostrum, infants, clinical trial, rotavirus infection, rotavirus vaccine, oral rotavirus
+  Summary:           Rotavirus represents an enteric viral pathogen wherein pro- tective passive immunotherapy has been demonstrated. In one example of postexposure treatment in infants, oral administration of hyperimmune antibody was able to efficiently reduce rota- virus shedding compared to placebo controls.
+
+Topic 1
+  Auto Label:        Antibody
+  Descriptive Label: Antibody – Immunotherapy
+  Keywords:          life, half life, display, half, specificity, polyclonal antibodies, region, antibody- based, antibody-, rare
+  Summary:           Before antibiotics, antibody-based therapy was the only option available for combating many bacterial diseases. Today, most commercial forms of antibody- based immunotherapy for infectious disease still rely on poly- clonal antibodies of human or animal origin.
+
+Topic 2
+  Auto Label:        Hiv
+  Descriptive Label: Hiv
+  Keywords:          broadly, antiretroviral, single, broadly neutralizing, rebound, viremia, antiretroviral drugs, viral load, nature, load
+  Summary:           A recent Phase I clinical trial involving a single administration of a broadly neutralizing antibody, 3BNC117, has renewed interest in the study of passive immunotherapy for HIV pre- vention and therapeutic intervention. At a dose of 10 or 30 mg/kg, patient viral load was reduced by up to 2.5 log10 (average decline: 1.48 log10)
+
+Topic 3
+  Auto Label:        Pathogen
+  Descriptive Label: Pathogen
+  Keywords:          cholera, salmonella, yolk, cholera serum, - cholera, new anti, yolk antibodies, experimentally, egg, egg yolk
+  Summary:           E. coli is a significant enteric pathogen.
+
+Topic 4
+  Auto Label:        Staphylococcus
+  Descriptive Label: Staphylococcus
+  Keywords:          staphylococcus, staphylococcus aureus, aureus, multicenter, treatment staphylococcus, staphylococcus bacteremia, multicenter study, mice staphylococcus, bacteremia, targeting
+  Summary:           A human monoclonal antibody targeting the conserved staphylococcal antigen IsaA protects mice against Staphylitis aureus bacte- remia. A blinded, random- ized, multicenter study of an intravenous StAPHylococcus a Aureus immune globulin.
+
+Topic 5
+  Auto Label:        Lassa
+  Descriptive Label: Lassa
+  Keywords:          survived, lassa, %, % patients, fever, virologically, infected guinea, patients survived, days hospitalization, patients virologically
+  Summary:           Junin virus and untreated cases result in 15% to 40% mortality. Convalescent serum is protective in animal models of Junin infection.
+
+Topic 6
+  Auto Label:        Immunodeficiency
+  Descriptive Label: Immunodeficiency – Macaques
+  Keywords:          macaques, simian, immunodeficiency virus, shiv, block, pathogenic simian, potent, simian human, pathogenic, simian immunodeficiency
+  Summary:           Antibody protects macaques against vaginal challenge with a pathogenic R5 simian/human immunodeficiency virus at serum levels giving complete neutralization in vitro.
+
+Topic 7
+  Auto Label:        Cytomegalovirus
+  Descriptive Label: Cytomegalovirus
+  Keywords:          cytomegalovirus, transplant, sir, lymphoma, hodgkin, cmv, - hodgkin, recipients, sir p, cytomegalovirus infection
+  Summary:           cytomegalovirus (CMV) is a leading cause of posttransplant non- Hodgkin lymphoma resulting from the uncontrolled prolif- eration of EBV-infected B lymphocytes in patients undergoing immunosuppressive therapies. In a large retrospective study involving 44,828 kidney transplant patients, the effect of pro- phylactic treatment for CMV on posttrans- plant incidence of non-Hodgkin lymphomas was examined.
+
+Topic 8
+  Auto Label:        Smallpox
+  Descriptive Label: Smallpox
+  Keywords:          smallpox, contacts, hemorrhagic smallpox, smallpox vaccination, administered smallpox, cases %, shortly, postexposure vaccination, postexposure, hemorrhagic
+  Summary:           Vaccinia-immune gammaglobulin (VIG) was administered to smallpox contacts prior to disease onset in addition to postexposure vaccination (i.e., standard of care) The number of smallpox cases was reduced by 70% compared to contacts who received postex exposure smallpox vaccination alone.
+
+Topic 9
+  Auto Label:        Hepatitis
+  Descriptive Label: Hepatitis – Globulin
+  Keywords:          hepatitis, infectious hepatitis, gamma globulin, globulin jama, hepatitis gamma, gamma, infectious, stokes, brother use, mediterranean theater
+  Summary:           Gamma globulin was used in the Mediterranean theater of operations I. It was also used to control chicken pox in a convalescent hospital for children.
+
+Topic 10
+  Auto Label:        Botulism
+  Descriptive Label: Botulism
+  Keywords:          botulism, botulinum, botu-, botulism immune, protection botulinum, immune globulin, outcome, s38 neutralizing, botulinum toxins, inhalation model
+  Summary:           Botulinum neurotoxin neutralizing activity of immune globulin (IG) purified from clinical volunteers vaccinated with recombinant botulinum vaccine (rBV A/B)
+
+Topic 11
+  Auto Label:        Malaria
+  Descriptive Label: Malaria
+  Keywords:          tion monocytes, vivo assess-, invasion, coopera-, monocytes, plasmodium, act, sabchareon, acquired, observations antitetanus
+  Summary:           Antibodies that protect humans against Plasmodium falciparum blood stages do not on their own inhibit parasite growth and invasion in vitro. Gamma-globulin and acquired immunity to human malaria.
+
+Topic 12
+  Auto Label:        Pneumonia
+  Descriptive Label: Pneumonia
+  Keywords:          pneumonia, treatment lobar, pneumococcal pneumonia, lobar pneumonia, lobar, pneumococcus, pneumococcal, lung, epithelial cells, murine nasopharyngeal
+  Summary:           InfectImmun.2004;72:4534- 4540. Human antibod- ies to PhtD, PcpA, and Ply reduce adherence to human lung epithelial cells and murine nasopharyngeal colonization.
+
+Topic 13
+  Auto Label:        Antibody
+  Descriptive Label: Antibody – Influenzae
+  Keywords:          influenzae, influenzae type, ambrosino, haemophilus, haemophilus influenzae, type, inhibiting antibody, recurrent, poor, influenzae extracellular
+  Summary:           H. influenzae type b (Hib) is an extracellular gram-negative.
+
+Topic 14
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Antibodies
+  Keywords:          plague, f1, bubonic, yersiniae, brubaker, infect brubaker, immunity yersiniae, antigens infect, antigen, recombinant
+  Summary:           Human anti-plague mono- clonal antibodies protect mice from Yersinia pestis in a bubonic plague model. Synergistic protection of mice against plague with monoclonal antibodies specific for the F1 and V antigens.
+
+Topic 15
+  Auto Label:        Tuberculosis
+  Descriptive Label: Tuberculosis – Mycobacterium
+  Keywords:          showed, sputum, mycobacterium tuberculosis, mycobacterium, tuberculosis, antibody mediated, % animals, survival, alive, tubercu-
+  Summary:           Mycobacterium tuberculosis is another intracellular bacte- of the most common human diseases. It is estimated to infect up to one-third of the world’s population.
+
+Topic 16
+  Auto Label:        Palivizumab
+  Descriptive Label: Palivizumab – Rsvs
+  Keywords:          hospitalizations, respiratory syncytial, syncytial virus, syncytial, rsv-, premature infants, premature, palivizumab, hospitalization respiratory, congenital heart
+  Summary:           Palivizumab was shown to significantly improve clinical outcome by reducing RSV- associated hospitalizations of children with congenital heart disease by 45%. Among premature infants or those with bronchopulmonary dysplasia, RSVs-associated hospitalizations were reduced by 55%.
+
+Topic 17
+  Auto Label:        Measles
+  Descriptive Label: Measles – Immunization
+  Keywords:          measles, prophylaxis measles, serum prophylaxis, measles convalescent, exposure, preventing, bacterial anti, epidemic %, % exposed, state
+  Summary:           During a measles epidemic in 1931–1932, 72% of exposed individuals who received no passive immunization contracted measles. If convalescent serum was administered within 10 days of exposure, the attack rate was reduced to 16% (n = 219) whereas if therapy was not initi- ated until 12 to 16 days postexposure, approximately 80% of those exposed contracted the disease.
+
+Topic 18
+  Auto Label:        Hcv1
+  Descriptive Label: Hcv1
+  Keywords:          humanized antibody, body, anti- body, humanized, e1636, neutralize homologous, antibodies neutralize, therapeutic antibodies, development therapeutic, sukupolvi development
+  Summary:           Chikungunya viruses that escape monoclonal antibody therapy are clinically attenuated, stable, and not purified in mosquitoes. The development of therapeutic antibodies that neutralize homologous and heterologous genotypes of dengue virus type 1.
+
+Topic 19
+  Auto Label:        Antigenic
+  Descriptive Label: Antigenic
+  Keywords:          sars, respiratory syndrome, coronavirus, acute respiratory, severe acute, human monoclonal, roberts, model a16, infections human, golden
+  Summary:           Human monoclonal antibody directed to proteolytic cleavage site in severe acute respiratory syndrome (SARS) coronavirus S protein neutralizes the virus in rhesus macaque SARS model.
+
+Topic 20
+  Auto Label:        Hiviglob
+  Descriptive Label: Hiviglob
+  Keywords:          intravenous immune, globulin therapy, intravenous, infected pregnant, s56, human developments, child transmission, effect viral, developments, 10(9)/l effect
+  Summary:           The National Institute of Child Health and Human Development Intravenous Immunoglobulin Clinical Trial Study Group. Effect on viral, opportunistic, and bacte- rial infections.
+
+Topic 21
+  Auto Label:        Pertussis
+  Descriptive Label: Pertussis – Vaccination
+  Keywords:          pertussis, mothers, newborn infants, pertussis vaccina-, maternal pertussis, age, maternal, vaccination, newborn, e.g.
+  Summary:           Maternally derived IgG protects against respiratory infections involving viral (e.g., influenza) or bacterial pathogens. The current recommendations for the vaccination of pregnant mothers against B.
+
+Topic 22
+  Auto Label:        Fever
+  Descriptive Label: Fever – Immunity
+  Keywords:          yellow fever, yellow, fever, infections yellow, 17d, 17d yellow, laboratory, bj protection, protection monkeys, fever dengue
+  Summary:           Passive protection by mono- clonal antibodies to the envelope proteins of 17D yellow fever and dengue 2 viruses. The duration of passive immunity in Yellow Fever.
+
+Topic 23
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Tection
+  Keywords:          influenza, immunity influenza, intern, serum nasal, clements serum, vaccines laboratory, tection clements, chest, laboratory indices, nasal wash
+  Summary:           1. Laboratory indices of pro- tection.
+
+Topic 24
+  Auto Label:        Antiviral
+  Descriptive Label: Antiviral
+  Keywords:          intravenous immunoglobulin, israeli, immunodefi- cient, transplant recip-, possible benefit, therapy lung, benefit intravenous, virus vaccine, gershoni, infect niven
+  Summary:           The growth and potential of human antiviral monoclonal antibody therapeutics. Antibody prophylaxis and therapy against West Nile virus infection in wild-type and immunodefi- cient mice.
+
+Topic 25
+  Auto Label:        Pseudomonas
+  Descriptive Label: Pseudomonas
+  Keywords:          pseudomonas, - pcrv, pcrv, resistant, multidrug, multidrug resistant, antibiotic, growing coupled, fewer new, salmo- nella
+  Summary:           Antibiotic resistance among clinically relevant bacteria is a growing concern. Fewer new antibiotics are moving through the drug pipe- line,122,123.
+
+Topic 26
+  Auto Label:        Meader
+  Descriptive Label: Meader
+  Keywords:          cough, whooping, whooping cough, nielsen, blood whooping, meader, replacement immunol, history replacement, sharp, replacement
+  Summary:           Use of convalescent blood in whooping cough with a review of the literature. Am J Dis Child 1935;50(4): 918-928.
+
+Topic 27
+  Auto Label:        Poliomyelitis
+  Descriptive Label: Poliomyelitis – Polio
+  Keywords:          convalescent serum, convalescent, use convalescent, seventh, seventh note, mckenzie m., bell, resume results, note active, therapy convalescent
+  Summary:           The therapeutic use of convalescent serum in polio- myelitis. Cal West Med.
+
+Topic 28
+  Auto Label:        Rubella
+  Descriptive Label: Rubella
+  Keywords:          rubella, scarlet, scarlet fever, fever jama, vaccination virus, immunoglobulin intranasal, infection rubella, intranasal infection, epidemic barrow, immunization rubella
+  Summary:           JAMA 1930;94(9):622-625. Rubella epidemic, 1964: effect on 6,000 pregnancies.
+
+Topic 29
+  Auto Label:        Meningococcus
+  Descriptive Label: Meningococcus
+  Keywords:          infant rat, meningococcal, class, rat, induced local, years priming, der anti-, priming systemically, anticryptococcal, perfect
+  Summary:           Meningococcal sero- group C conjugate booster vaccination nine years after priming systemically induced local immunity and saliva as potential sur- veillance tool. Vaccine.
+
+Topic 30
+  Auto Label:        Measles
+  Descriptive Label: Measles – Immunoglobulin
+  Keywords:          measles, contracted, contracted measles, attenuation measles, measles virus, titer, lots, human serum, attenuation, serum globulin
+  Summary:           In a study published in 1945 involving 1024 cases of measles exposure, 36% of the individuals who received immunother- apy within 0 to 2 days of exposure contracted measles. The titer of virus-specific antibodies will often differ between lots of polyclonal immunoglobulin preparations (see Table 8.2).
+
+Topic 31
+  Auto Label:        Antibody
+  Descriptive Label: Antibody – Encephalitis
+  Keywords:          encephalitis, japanese encephalitis, borne, japanese, bogdahn, monkeys japanese, encepha-, litis, hinkel, ks
+  Summary:           Mice, goats, and monkeys can be protected against Japanese encephalitis with monoclonal antibodies. A humanized murine antibody protects mice either before or after challenge with virulent Venezuelan equine encephalomyelitis virus.
+
+Topic 32
+  Auto Label:        Rabies
+  Descriptive Label: Rabies
+  Keywords:          rabies, - rabies, rabies immune, rabies serum, wolf, organ warrell, wolf organ, combination human, supporting clinical, persons bitten
+  Summary:           Habel K. Antiserum in the prophylaxis of rabies.
+
+Topic 33
+  Auto Label:        1932
+  Descriptive Label: 1932
+  Keywords:          jama jama, jama, , , , , , , , 
+  Summary:           JAMA 1937;
+
+Topic 34
+  Auto Label:        Shigellae
+  Descriptive Label: Shigellae
+  Keywords:          shigellae, neonatal mice, shigellosis, serotype, outer, trial diatr, confer passive, shigellae confer, vesicles shigellae, children double
+  Summary:           Multi-serotype outer mem- brane vesicles of Shigellae confer passive protection to the neonatal mice against shigellosis.
+
+Topic 35
+  Auto Label:        Candidiasis
+  Descriptive Label: Candidiasis
+  Keywords:          vaginal, candidiasis, vaginal infection, vaccine monoclonal, enhance mouse, enhance, mouse resistance, resistance, chaves m., m. immunoprotection
+  Summary:           Rats clearing a vaginal infection by Candida albicans acquire specific, antibody-mediated resistance to vaginal reinfection. Vaccine and monoclonal antibody that enhance mouse resistance to candidiasis.
+
+Topic 36
+  Auto Label:        Technology
+  Descriptive Label: Technology
+  Keywords:          passive immunization, like, advanced substantially, shift, progress, prozone, paradigm, substantially, necessarily, immunization immunol
+  Summary:           Passive Immunization Technology has advanced substantially in the more than a decade.
+
+Topic 37
+  Auto Label:        Sepsis
+  Descriptive Label: Sepsis
+  Keywords:          sepsis, neonatal sepsis, kirkpatrick treatment, pollock role, shock critically, critically ill, roadmap, exacer-, bations, pulmonol
+  Summary:           Pseudomonas hyperim- mune globulin passive immunotherapy for pulmonary exacer- bations in cystic fibrosis. Sepsis: a roadmap for future research.
+
+Topic 38
+  Auto Label:        Cryptosporidiosis
+  Descriptive Label: Cryptosporidiosis
+  Keywords:          cryptosporidiosis, cryptosporidium, cl, sl mosier, healthy volunteers, mice severe, - cryptosporidium, chappell cl, effect bovine, cl prophylactic
+  Summary:           Human immunoglobulin G2 (IgG2) and IgG4, but not IgG1 or IgG3, protect mice against Cryptococcus neoformans infection.
+
+Topic 39
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Immunity
+  Keywords:          maternal, infants, mothers, maternal antibodies, months, cough infants, infants younger, immunization mothers, lack functional, immunity common
+  Summary:           In a comprehensive study involving the analysis of anti- bodies to 16 viruses using samples from 58,500 patients, the relationship between maternal immunity and infant immu- nity is clear. Immunity to less-common viral pathogens, such as influenza B, was relatively low among infants and adults in the cohorts examined in 1971–1972, but higher among those sampled in 1973–1974,1975–1976, and 1977– 1978.
+
+Topic 40
+  Auto Label:        Fever
+  Descriptive Label: Fever – Hemorrhagic
+  Keywords:          argentine, argentine hemorrhagic, hemorrhagic fever, treatment argentine, hemorrhagic, fever, damilano, protection guinea, haemorrhagic fever, ciation
+  Summary:           Argentine hemorrhagic fever is caused by infection with the Enria DA. Treatment of Argentine hem- orrhagic fever.
+
+Topic 41
+  Auto Label:        Antibiotics
+  Descriptive Label: Antibiotics
+  Keywords:          serum therapy, antibiotics, behring, immunology serum, philosophical thera-, therapy american, pie der, american philosophical, der collected, thera- pie
+  Summary:           Emil von Behring and serum therapy. Microbes Infect.
+
+Topic 42
+  Auto Label:        Diphtheria
+  Descriptive Label: Diphtheria – Diphtherie
+  Keywords:          concerning, adopted, adopted use, intravenous injection, minkenhof vink, recent epidemic, vink intravenous, medical school, injection recent, therapy organ
+  Summary:           Treatment of children suffering from diphtheria with ‘diphtherie serum’. The recent epidemic of diphTheria in the Johns Hopkins hospital and medical school.
+
+Topic 43
+  Auto Label:        Influenzal
+  Descriptive Label: Influenzal
+  Keywords:          rabbit, sulfonamide, rabbit serum, influenzae, immunization early, observation, important human, neter, edmonds, pneumococcic
+  Summary:           Early reports described the use of concentrated rabbit immune serum as a successful adjunct therapy to sulfonamide. A full course of serum therapy (in addition to antibiotics) was able to reduce mortality to 14% (3 of 19) when compared to 78% mortality rate (7 of 9) in those patients only receiving sul- fonamides.
+
+Topic 44
+  Auto Label:        Immunization
+  Descriptive Label: Immunization
+  Keywords:          diphtheria, behring, animals, successfully, tetanus, work, toxin, tetanus toxin, setting, lethal dose
+  Summary:           Passive immunization, passive immunity, and passive immu- notherapy all refer to the transfer of antibodies to an unpro- tected individual for the prevention or treatment of disease. In 1901 Emil von Behring was awarded the first Nobel Prize for Physiology or Medicine for the discovery of this important medical intervention.
+
+Topic 45
+  Auto Label:        Tularemia
+  Descriptive Label: Tularemia
+  Keywords:          tularemia, months recovery, recovery, equine received, summary, comparative study, equine, antibiotic, months, received
+  Summary:           Passive immunotherapy was the only option for clinical treat- ment of most bacterial infections including Francisella tularen- sis. The untreated tularemia cases required an average of 3.78 months to recover.
+
+Topic 46
+  Auto Label:        Antibodies
+  Descriptive Label: Antibodies – Cows
+  Keywords:          subjects, diarrhea, coli, hyperimmunized, cows, daily, treated subjects, following challenge, subjects received, placebo subjects
+  Summary:           Pregnant cows were hyperimmunized with a large number of enterotoxigenic O serogroups. Milk collected during the first 10 days of lactation was purified, concentrated, lyophilized, and formulated for oral administration.
+
+Topic 47
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Vaccinia
+  Keywords:          mabs, fogg, a27 protein, protein protection, levels vitro, antibody a27, fogg disparity, - h3, mice intranasal, intranasal challenge
+  Summary:           Vaccinia virus B5 protein neutralizes vaccinia and smallpox viruses and protect mice against vaccinia virus. Vaccinia immune globulin is used to treat SCID mice.
+
+Topic 48
+  Auto Label:        Papillomavirus
+  Descriptive Label: Papillomavirus
+  Keywords:          genital, trachomatis, membrane protein, major outer, chlamydial genital, chlamydial, chlamydia, genital challenge, chlamydia trachomatis, major
+  Summary:           Monoclonal immunoglobulin A antibody to the major outer membrane protein of the Chlamydia trachomatis mouse pneumonitis biovar protects mice against a chlamydial genital challenge.
+
+Topic 49
+  Auto Label:        Staphylococcal
+  Descriptive Label: Staphylococcal
+  Keywords:          infec-, birth weight, weight infants, low birth, weight, infec- tion, birth, immunoglobulins, low, explain considered
+  Summary:           The ability to penetrate mucosal sites and nonlymphoid tissues is likely to explain why it is often considered the best immunoglobulin isotype for routine passive immunization. It has shown clinical benefit ranging from reduced clinical symptoms to nearly complete protection from lethal infection in a number of infectious disease models.
+
+Topic 50
+  Auto Label:        Toxoplasmosis
+  Descriptive Label: Toxoplasmosis
+  Keywords:          cells, t cells, toxoplasma, toxoplasmosis, t, mediated protection, bacteria, intracellular, antibody mediated, number
+  Summary:           In 1890 Behring demonstrated that immune serum therapy could protect against diphtheria. Today a number of passive immunotherapy products are in clinical use.
+
+Topic 51
+  Auto Label:        Tetanus
+  Descriptive Label: Tetanus
+  Keywords:          tetanus, treatment tetanus, tetanus antitoxin, military, molecule reliable, equine tetanus, analysis health, tetanus meta, occurred home, outcome six-
+  Summary:           The treatment of tetanus with antitoxin has long been controversial. Tetanus is the most common cause of death from tetanus in the United States.
+
+Topic 52
+  Auto Label:        Anthrax
+  Descriptive Label: Anthrax
+  Keywords:          anthrax, antibody therapies, migone subramanian, inhalational, cutaneous, subramanian, migone, septicaemia, anthrax jama, cutaneous anthrax
+  Summary:           Raxibacumab for the treatment of inhalational anthrax. N Engl J Med.
+
+Topic 53
+  Auto Label:        Immunotherapy
+  Descriptive Label: Immunotherapy
+  Keywords:          symptomatic disease, improved, highly, disease, symptomatic, prior, antibody therapy, effective, immunotherapy figure, critical parameters
+  Summary:           Passive immunotherapy can be highly successful for sufficient for protection or therapeutic intervention of acute or remittent disease. Examples of successful passive immunization approaches may provide a useful framework for developing new and improved vaccines.
+
+Topic 54
+  Auto Label:        Ebola
+  Descriptive Label: Ebola
+  Keywords:          macaques monoclonal, macaques, committee s23, mupapa, infection rhesus, mupapa treatment, cocktail med, med therapeutic, treatment hemorrhagic, blood transfusions
+  Summary:           Ebola GP-specific monoclo- nal antibodies protect mice and guinea pigs from lethal Ebola virus infection. Qiu X, Fernando L, Melito PL, et al.
+
+Topic 55
+  Auto Label:        Antibody
+  Descriptive Label: Antibody – Antibodies
+  Keywords:          mg, escape mutants, mutations, escape, syncytial, respiratory syncytial, syncytial virus, epitope, respiratory, mutants
+  Summary:           Palivi- zumab has been shown to be effective against respiratory syncytial virus. Monoclonal antibodies can remain effective when used clinically in the long-term as long as they are specific for a stable epitope for that pathogen.
+
+Topic 56
+  Auto Label:        Lyme
+  Descriptive Label: Lyme
+  Keywords:          feigin cherry, cherry, feigin, tr, disease spirochete, disease passive, kj preventing, diseases 6th, pediatric infectious, immunization infect
+  Summary:           Passive immunization of hamsters against experimental infection with the Lyme disease spirochete. In: Feigin RD, Cherry JD, Demmler-Harrison GJ, eds.
+
+Topic 57
+  Auto Label:        Microbiol
+  Descriptive Label: Microbiol
+  Keywords:          francisella tularensis, tularensis, francisella, tularemia vaccine, live tularemia, tularemia, live, immunopathogenesis potential, infection sera, p green
+  Summary:           Francisella tularensis is a potential agent of biowarfare. It causes tularemia in humans and mice.
+
+Topic 58
+  Auto Label:        Hepatitis
+  Descriptive Label: Hepatitis – Hcv1
+  Keywords:          hbv, transplantation, hepatology, panzees hepatology, negative cirrhotics, viral rebound, antibody mbl, delays hcv, mbl delays, immunoprophy- laxis
+  Summary:           Liver transplantation in HBsAg-positive HBV-DNA—negative cirrhotics. Human monoclonal antibody MBL-HCV1 delays HCV viral rebound following liver transplant.
+
+Topic 59
+  Auto Label:        Antitoxin
+  Descriptive Label: Antitoxin
+  Keywords:          antitoxin, 1896;26:957, antitoxin scarlet, push science, drug push, 1896;26:957 drug, jama 1896;26:957, antitoxin jama, erysipelas, lewis
+  Summary:           Antitoxin versus no antitoxin in scarlet fever. JAMA 1934;103(14
+
+Topic 60
+  Auto Label:        Herpes
+  Descriptive Label: Herpes
+  Keywords:          herpes, herpes infection, cytotoxic, mutants altered, simone c, antibody activity, synthetic, d, dependent cellular, antibody dependent
+  Summary:           Antibody alone and combined with acyclovir on neonatal herpes simplex virus infection in guinea pigs. Intravenous immuno- globulins suppress the recurrences of genital herpessimplex virus: a clinical and immunological study.
+
+Topic 61
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Pandemic
+  Keywords:          global mortality, global, mortality, hist, accounts global, ratory, spanish bull, young chil-, dren systematic, review meta
+  Summary:           Global mortality estimates for the 2009 Influenza Pandemic from the GLaMOR project: a modeling study. Johnson NP, Mueller J.
+
+Topic 62
+  Auto Label:        Reanalysis
+  Descriptive Label: Reanalysis
+  Keywords:          parotitis jama, parotitis, reanalysis, lb, epidemic parotitis, prophylaxis epidemic, parodi prophylaxis, lb parodi, guerrero lb, study parotitis
+  Summary:           Regan JC. Serum Prophylaxis of epidemic parotitis.
+
+Topic 63
+  Auto Label:        Complement
+  Descriptive Label: Complement
+  Keywords:          fixing, line, complement fixing, complement, prevalence, specific prevalence, viral antigens, age specific, covering period, period
+  Summary:           Figure 8.1. Age-specific prevalence of antibodies to mumps, measles, influenza A, and influenza B viruses in patients screened with 16 viral antigens during the years 1971–1978.
+
+Topic 64
+  Auto Label:        Bubonique
+  Descriptive Label: Bubonique
+  Keywords:          pasteur, inst, antirabique, babès v, pasteur babès, bubonique pasteur, médecine bubonique, orient médecine, extrême orient, simond extrême
+  Summary:           Yersin A, Calmette A, Borrel A. La peste bubonique (duexiéme note).
+
+Topic 65
+  Auto Label:        Streptococcal
+  Descriptive Label: Streptococcal – Globulin
+  Keywords:          toxic shock, toxic, shock syndrome, streptococcal toxic, shock, streptococcal, therapy streptococcal, comparative observational, syndrome comparative, noglobulin therapy
+  Summary:           Darenberg J, Ihendyane N, Sjolin J, et al. Intravenous immuno- globulin G therapy in streptococcal toxic shock syndrome: a European randomized, double-blind, placebo-controlled trial
+
+Topic 66
+  Auto Label:        Mumps
+  Descriptive Label: Mumps
+  Keywords:          mumps, mumps child, child, treatment prophylaxis, hess protective, protective therapy, prophylaxis orchitis, therapy mumps, child mumps, orchitis
+  Summary:           Hess AF. A protective therapy for mumps.
+
+Topic 67
+  Auto Label:        Antibodies
+  Descriptive Label: Antibodies – Immunoglobulin
+  Keywords:          trans-, utero, transport, gastrointestinal tract, mink, fetus, trans- ferred, ferred, maternal igg, mother
+  Summary:           Maternal antibodies represent a natural form of passive immu- notherapy in which the immunoglobulin (Ig) G repertoire of the mother’s preexisting humoral immune response is trans- ferred to the fetus through the placenta. Acquisition of mater- nal antibodies varies widely among mammalian species.
+
+Topic 68
+  Auto Label:        Glycoproteins
+  Descriptive Label: Glycoproteins
+  Keywords:          peters, sters, scand blackburn, blackburn nk, infection syrian, immunol scand, cj active, future peters, nk topological, topological mapping
+  Summary:           Antibodies targeting conserved regions of the HCV enve- lope glycoprotein E2.
+
+Topic 69
+  Auto Label:        Igg
+  Descriptive Label: Igg
+  Keywords:          mucosal, upper, antibody titers, igg, influenza, half, titers, tract, prevented pathology, contributor
+  Summary:           Serum IgG molecules equilibrate into extravascular space whereas IgM is largely confined to intravascular space. IgM molecules also have a short half-life (5 days14) and are typi- cally of low affinity.
+
+Topic 70
+  Auto Label:        Antitiyphoid
+  Descriptive Label: Antitiyphoid
+  Keywords:          antitiyphoid serum, return past, models infection, diseases a., antitiyphoid, clinical trials, case antibody, past case, trials new, therapies infectious
+  Summary:           Casadevall A, Scharff MD. Serum therapy revisited: animal models of infection and development of passive antibody therapy.
+
+Topic 71
+  Auto Label:        Streptococcus
+  Descriptive Label: Streptococcus – Streptococci
+  Keywords:          group, candidate, tribution t, mechanism protection, infect good, induced group, mf mechanism, infection group, protection induced, neous infection
+  Summary:           Active and passive immunizations with the streptococcal esterase Sse protect mice against subcuta- neous infection with group A Streptococci.
+
+Topic 72
+  Auto Label:        Streptococcal
+  Descriptive Label: Streptococcal – Antibody
+  Keywords:          streptococcal disease, group streptococcal, streptococcal, disease pt, pt, streptococcal infection, baker, neonatal streptococcal, defi-, susceptibility
+  Summary:           Maternal antibody at deliv- ery protects neonates from early onset group B streptococcal disease.
+
+Topic 73
+  Auto Label:        Palivizumab
+  Descriptive Label: Palivizumab – Virus
+  Keywords:          cotton, cotton rats, syncytial virus, syncytial, respiratory syncytial, palivizumab, mutants, rats, virus escape, mutants respiratory
+  Summary:           Zhao X, Chen FP, Megaw AG, Sullender WM. Variable resistance to palivizumab in cotton rats by respiratory syncytial virus mutants.
+
+Topic 74
+  Auto Label:        Measles
+  Descriptive Label: Measles – Vaccine
+  Keywords:          failure, vaccine failure, measles vaccine, measles, months mechanism, survey, ennis, measles vaccination, age measles, appropriate age
+  Summary:           Measles vaccine failure. A survey of causes and means of prevention.
+
+Topic 75
+  Auto Label:        Immun
+  Descriptive Label: Immun
+  Keywords:          2000;122(2):143, transfer neutralizing, 89.6pd passive, 2000;122(2):143 89.6pd, scid 2000;122(2):143, immunodeficiencies scid, combined immunodeficiencies, 89.6pd, immunodeficiencies, antibodies infect
+  Summary:           Fischer A. Severe combined immunodef
+
+Topic 76
+  Auto Label:        Diphtheria
+  Descriptive Label: Diphtheria – Antitoxins
+  Keywords:          antitoxins, identification, today ., rowley, sevigny, experimental diphtheria, antitoxins experimental, replace, homolo-, gous
+  Summary:           Behring’s discovery of diphtheria and tetanus antitoxins. Sevigny LM, Booth BJ, Rowley KJ, et al.
+
+Topic 77
+  Auto Label:        Immunotherapie
+  Descriptive Label: Immunotherapie
+  Keywords:          varicella zoster, zoster immune, varicella, zoster, evidence secondary, syndrome evidence, med syndrome, globulin med, secondary prevention, secondary
+  Summary:           Couzi G, Kircher JP. Immunotherapie de la Variole.
+
+Topic 78
+  Auto Label:        Poliomyelitis
+  Descriptive Label: Poliomyelitis – Globulin
+  Keywords:          coriell, prophylactic agent, agent, elitis, therapeutic antiviral, jama coriell, geijer, lactic, coriell prophylactic, diagnoses
+  Summary:           Hammon WM, Coriell LL, Wehrle PF, Stokes J Jr. Evaluation of Red Cross gamma globulin as a prophylactic agent for poliomyelitis.
+
+Topic 79
+  Auto Label:        Enteroviral
+  Descriptive Label: Enteroviral
+  Keywords:          oral challenge, immu- noglobulin, noglobulin, oral, infections emphasis, protect oral, toxigenic effect, intravenous immu-, purified colonization, challenge toxigenic
+  Summary:           Milk immuno- globulin with specific activity against purified colonization factor antigens can protect against oral challenge with entero- toxigenic Escherichia coli.
+
+Topic 80
+  Auto Label:        Antigens
+  Descriptive Label: Antigens
+  Keywords:          antigens new, antigen relation, immunisation antigens, lence active, viru- lence, relation viru-, antigens gl, determinants protective, gl, lence
+  Summary:           Sjostedt A. Virulence determinants and protective antigens of Felix A.
+
+Topic 81
+  Auto Label:        Tuberculosis
+  Descriptive Label: Tuberculosis – Migliori
+  Keywords:          drug resistant, resistant, resistant tuberculosis, tuberculosis, drug, totally drug, totally, extensively drug, extensively, global control
+  Summary:           1. Migliori GB, De Iaco G, Besozzi G, Centis R, Cirillo DM.
+
+Topic 82
+  Auto Label:        Tuberculosis
+  Descriptive Label: Tuberculosis – Serum
+  Keywords:          tuberculosis, antitoxic, phthisic tuberculosis, - phthisic, bactericidal, phthisic, p. treatment, report use, tuberculosis injections, injections immu-
+  Summary:           The treatment of tuberculosis by injections of immu- nized blood serum. JAMA.
+
+Topic 83
+  Auto Label:        Immunodeficiency
+  Descriptive Label: Immunodeficiency – Aids
+  Keywords:          human immunodeficiency, immunodeficiency, immunodeficiency virus, notherapy, treatment advanced, antiviral therapy, advanced human, transfusions plasma, plasma rich, rich anti
+  Summary:           Passive immu- notherapy in AIDS: a double-blind randomized study based on transfusions of plasma rich in anti-human immunodeficiency. J Virol 2007;81(20):11016-
+
+Topic 84
+  Auto Label:        Pertussis
+  Descriptive Label: Pertussis – Sulfadiazine
+  Keywords:          pertussis, murine pertussis, toxin infect, lab, aerosol, experimental murine, katsampes, sulfadiazine, protective activities, activities mice
+  Summary:           The therapeutic effect of sulfadiazine and immune rabbit serum in experimental murine pertussis. Yale J Biol Med.
+
+Topic 85
+  Auto Label:        Meningitis
+  Descriptive Label: Meningitis
+  Keywords:          plexus, cerebro spinal, amoss, meninges, spinal, cerebro, hl, infection 1917;25(4, choroid, poliomyelitic infection
+  Summary:           Flexner S. Experimental cerebro-spinal meningitis and its serum treatment.
+
+Topic 86
+  Auto Label:        Streptococcus
+  Descriptive Label: Streptococcus – Antibodies
+  Keywords:          serotypes, protection multiple, reactivity, bodies protective, human anti-, wall, finger-, circulating human, antibodies reactivity, reactivity vivo
+  Summary:           Human monoclonal antibodies to group B streptococcus. Reactivity and in vivo protection against multiple serotypes.
+
+Topic 87
+  Auto Label:        Clostridium
+  Descriptive Label: Clostridium
+  Keywords:          difficile, clostridium difficile, clostridium, toxins, induced mortality, toxins med, difficile toxins, 2015;83:822, molrine, broering nal
+  Summary:           Monoclonal antibodies directed against toxins A and B prevent Clostrid- ium difficile-induced mortality in hamsters.
+
+Topic 88
+  Auto Label:        Immunoglobulin
+  Descriptive Label: Immunoglobulin
+  Keywords:          asthma, cd4 +, counts, cd4, +, asthma immunology, members, immunodeficiency committee, intravenous infected, infected children
+  Summary:           intravenous immunoglobulin used in HIV-infected children with CD4+ counts of Orange JS, Hossny EM, Weiler CR, et
+
+Topic 89
+  Auto Label:        Proc
+  Descriptive Label: Proc
+  Keywords:          references chapter, chapter available, chapter, references, available, , , , , 
+  Summary:           References for this chapter are available
+
+
+Document-Level Assignments:
+Doc 1: Topic 36 (Auto: Technology; Descriptive: Technology), Prob: 1.00000000
+Doc 2: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 3: Topic 44 (Auto: Immunization; Descriptive: Immunization), Prob: 1.00000000
+Doc 4: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 5: Topic 44 (Auto: Immunization; Descriptive: Immunization), Prob: 1.00000000
+Doc 6: Topic 36 (Auto: Technology; Descriptive: Technology), Prob: 0.59380992
+Doc 7: Topic 44 (Auto: Immunization; Descriptive: Immunization), Prob: 0.83938118
+Doc 8: Topic 33 (Auto: 1932; Descriptive: 1932), Prob: 0.29127831
+Doc 9: Topic 1 (Auto: Antibody; Descriptive: Antibody – Immunotherapy), Prob: 1.00000000
+Doc 10: Topic 67 (Auto: Antibodies; Descriptive: Antibodies – Immunoglobulin), Prob: 1.00000000
+Doc 11: Topic 67 (Auto: Antibodies; Descriptive: Antibodies – Immunoglobulin), Prob: 1.00000000
+Doc 12: Topic 67 (Auto: Antibodies; Descriptive: Antibodies – Immunoglobulin), Prob: 1.00000000
+Doc 13: Topic 39 (Auto: Influenza; Descriptive: Influenza – Immunity), Prob: 0.79389784
+Doc 14: Topic 21 (Auto: Pertussis; Descriptive: Pertussis – Vaccination), Prob: 0.72807930
+Doc 15: Topic 53 (Auto: Immunotherapy; Descriptive: Immunotherapy), Prob: 0.73039713
+Doc 16: Topic 1 (Auto: Antibody; Descriptive: Antibody – Immunotherapy), Prob: 0.75980880
+Doc 17: Topic 63 (Auto: Complement; Descriptive: Complement), Prob: 0.58585048
+Doc 18: Topic 63 (Auto: Complement; Descriptive: Complement), Prob: 1.00000000
+Doc 19: Topic 1 (Auto: Antibody; Descriptive: Antibody – Immunotherapy), Prob: 1.00000000
+Doc 20: Topic 55 (Auto: Antibody; Descriptive: Antibody – Antibodies), Prob: 1.00000000
+Doc 21: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 22: Topic 69 (Auto: Igg; Descriptive: Igg), Prob: 1.00000000
+Doc 23: Topic 53 (Auto: Immunotherapy; Descriptive: Immunotherapy), Prob: 1.00000000
+Doc 24: Topic 49 (Auto: Staphylococcal; Descriptive: Staphylococcal), Prob: 1.00000000
+Doc 25: Topic 44 (Auto: Immunization; Descriptive: Immunization), Prob: 0.45797172
+Doc 26: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 27: Topic 17 (Auto: Measles; Descriptive: Measles – Immunization), Prob: 0.58900720
+Doc 28: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 29: Topic 30 (Auto: Measles; Descriptive: Measles – Immunoglobulin), Prob: 0.64612511
+Doc 30: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 31: Topic 16 (Auto: Palivizumab; Descriptive: Palivizumab – Rsvs), Prob: 1.00000000
+Doc 32: Topic 53 (Auto: Immunotherapy; Descriptive: Immunotherapy), Prob: 1.00000000
+Doc 33: Topic 8 (Auto: Smallpox; Descriptive: Smallpox), Prob: 0.73408341
+Doc 34: Topic 40 (Auto: Fever; Descriptive: Fever – Hemorrhagic), Prob: 1.00000000
+Doc 35: Topic 5 (Auto: Lassa; Descriptive: Lassa), Prob: 0.46397159
+Doc 36: Topic 5 (Auto: Lassa; Descriptive: Lassa), Prob: 0.80157768
+Doc 37: Topic 56 (Auto: Lyme; Descriptive: Lyme), Prob: 1.00000000
+Doc 38: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 39: Topic 13 (Auto: Antibody; Descriptive: Antibody – Influenzae), Prob: 0.45053150
+Doc 40: Topic 43 (Auto: Influenzal; Descriptive: Influenzal), Prob: 1.00000000
+Doc 41: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 42: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 43: Topic 39 (Auto: Influenza; Descriptive: Influenza – Immunity), Prob: 0.36973565
+Doc 44: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 45: Topic 3 (Auto: Pathogen; Descriptive: Pathogen), Prob: 0.06686371
+Doc 46: Topic 46 (Auto: Antibodies; Descriptive: Antibodies – Cows), Prob: 1.00000000
+Doc 47: Topic 36 (Auto: Technology; Descriptive: Technology), Prob: 1.00000000
+Doc 48: Topic 50 (Auto: Toxoplasmosis; Descriptive: Toxoplasmosis), Prob: 0.19718756
+Doc 49: Topic 41 (Auto: Antibiotics; Descriptive: Antibiotics), Prob: 0.85349450
+Doc 50: Topic 45 (Auto: Tularemia; Descriptive: Tularemia), Prob: 1.00000000
+Doc 51: Topic 15 (Auto: Tuberculosis; Descriptive: Tuberculosis – Mycobacterium), Prob: 1.00000000
+Doc 52: Topic 41 (Auto: Antibiotics; Descriptive: Antibiotics), Prob: 0.87528927
+Doc 53: Topic 15 (Auto: Tuberculosis; Descriptive: Tuberculosis – Mycobacterium), Prob: 1.00000000
+Doc 54: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 55: Topic 7 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 1.00000000
+Doc 56: Topic 1 (Auto: Antibody; Descriptive: Antibody – Immunotherapy), Prob: 1.00000000
+Doc 57: Topic 2 (Auto: Hiv; Descriptive: Hiv), Prob: 1.00000000
+Doc 58: Topic 36 (Auto: Technology; Descriptive: Technology), Prob: 0.95775191
+Doc 59: Topic 25 (Auto: Pseudomonas; Descriptive: Pseudomonas), Prob: 0.30378475
+Doc 60: Topic 1 (Auto: Antibody; Descriptive: Antibody – Immunotherapy), Prob: 1.00000000
+Doc 61: Topic 53 (Auto: Immunotherapy; Descriptive: Immunotherapy), Prob: 1.00000000
+Doc 62: Topic 89 (Auto: Proc; Descriptive: Proc), Prob: 1.00000000
+Doc 63: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 64: Topic 44 (Auto: Immunization; Descriptive: Immunization), Prob: 1.00000000
+Doc 65: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 66: Topic 42 (Auto: Diphtheria; Descriptive: Diphtheria – Diphtherie), Prob: 1.00000000
+Doc 67: Topic 76 (Auto: Diphtheria; Descriptive: Diphtheria – Antitoxins), Prob: 1.00000000
+Doc 68: Topic 41 (Auto: Antibiotics; Descriptive: Antibiotics), Prob: 1.00000000
+Doc 69: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 70: Topic 41 (Auto: Antibiotics; Descriptive: Antibiotics), Prob: 1.00000000
+Doc 71: Topic 41 (Auto: Antibiotics; Descriptive: Antibiotics), Prob: 1.00000000
+Doc 72: Topic 56 (Auto: Lyme; Descriptive: Lyme), Prob: 1.00000000
+Doc 73: Topic 1 (Auto: Antibody; Descriptive: Antibody – Immunotherapy), Prob: 1.00000000
+Doc 74: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 75: Topic 24 (Auto: Antiviral; Descriptive: Antiviral), Prob: 0.40515041
+Doc 76: Topic 1 (Auto: Antibody; Descriptive: Antibody – Immunotherapy), Prob: 1.00000000
+Doc 77: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 78: Topic 26 (Auto: Meader; Descriptive: Meader), Prob: 0.60068207
+Doc 79: Topic 63 (Auto: Complement; Descriptive: Complement), Prob: 1.00000000
+Doc 80: Topic 75 (Auto: Immun; Descriptive: Immun), Prob: 1.00000000
+Doc 81: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 82: Topic 74 (Auto: Measles; Descriptive: Measles – Vaccine), Prob: 1.00000000
+Doc 83: Topic 74 (Auto: Measles; Descriptive: Measles – Vaccine), Prob: 1.00000000
+Doc 84: Topic 74 (Auto: Measles; Descriptive: Measles – Vaccine), Prob: 1.00000000
+Doc 85: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 86: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 87: Topic 33 (Auto: 1932; Descriptive: 1932), Prob: 0.33831077
+Doc 88: Topic 39 (Auto: Influenza; Descriptive: Influenza – Immunity), Prob: 1.00000000
+Doc 89: Topic 39 (Auto: Influenza; Descriptive: Influenza – Immunity), Prob: 0.89624624
+Doc 90: Topic 39 (Auto: Influenza; Descriptive: Influenza – Immunity), Prob: 1.00000000
+Doc 91: Topic 21 (Auto: Pertussis; Descriptive: Pertussis – Vaccination), Prob: 0.23151581
+Doc 92: Topic 21 (Auto: Pertussis; Descriptive: Pertussis – Vaccination), Prob: 0.27986793
+Doc 93: Topic 21 (Auto: Pertussis; Descriptive: Pertussis – Vaccination), Prob: 0.48076810
+Doc 94: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 95: Topic 21 (Auto: Pertussis; Descriptive: Pertussis – Vaccination), Prob: 0.71310448
+Doc 96: Topic 21 (Auto: Pertussis; Descriptive: Pertussis – Vaccination), Prob: 1.00000000
+Doc 97: Topic 21 (Auto: Pertussis; Descriptive: Pertussis – Vaccination), Prob: 1.00000000
+Doc 98: Topic 70 (Auto: Antitiyphoid; Descriptive: Antitiyphoid), Prob: 1.00000000
+Doc 99: Topic 70 (Auto: Antitiyphoid; Descriptive: Antitiyphoid), Prob: 1.00000000
+Doc 100: Topic 56 (Auto: Lyme; Descriptive: Lyme), Prob: 1.00000000
+Doc 101: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 102: Topic 47 (Auto: Vaccine; Descriptive: Vaccine – Vaccinia), Prob: 1.00000000
+Doc 103: Topic 73 (Auto: Palivizumab; Descriptive: Palivizumab – Virus), Prob: 1.00000000
+Doc 104: Topic 73 (Auto: Palivizumab; Descriptive: Palivizumab – Virus), Prob: 1.00000000
+Doc 105: Topic 73 (Auto: Palivizumab; Descriptive: Palivizumab – Virus), Prob: 0.62594725
+Doc 106: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 107: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 108: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 109: Topic 69 (Auto: Igg; Descriptive: Igg), Prob: 1.00000000
+Doc 110: Topic 29 (Auto: Meningococcus; Descriptive: Meningococcus), Prob: 0.73095345
+Doc 111: Topic 6 (Auto: Immunodeficiency; Descriptive: Immunodeficiency – Macaques), Prob: 1.00000000
+Doc 112: Topic 23 (Auto: Influenza; Descriptive: Influenza – Tection), Prob: 1.00000000
+Doc 113: Topic 23 (Auto: Influenza; Descriptive: Influenza – Tection), Prob: 0.59209758
+Doc 114: Topic 42 (Auto: Diphtheria; Descriptive: Diphtheria – Diphtherie), Prob: 1.00000000
+Doc 115: Topic 37 (Auto: Sepsis; Descriptive: Sepsis), Prob: 1.00000000
+Doc 116: Topic 17 (Auto: Measles; Descriptive: Measles – Immunization), Prob: 1.00000000
+Doc 117: Topic 30 (Auto: Measles; Descriptive: Measles – Immunoglobulin), Prob: 1.00000000
+Doc 118: Topic 17 (Auto: Measles; Descriptive: Measles – Immunization), Prob: 0.82558703
+Doc 119: Topic 27 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Polio), Prob: 0.85853063
+Doc 120: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 121: Topic 16 (Auto: Palivizumab; Descriptive: Palivizumab – Rsvs), Prob: 0.67160178
+Doc 122: Topic 16 (Auto: Palivizumab; Descriptive: Palivizumab – Rsvs), Prob: 0.26048151
+Doc 123: Topic 16 (Auto: Palivizumab; Descriptive: Palivizumab – Rsvs), Prob: 0.35121609
+Doc 124: Topic 16 (Auto: Palivizumab; Descriptive: Palivizumab – Rsvs), Prob: 0.81977112
+Doc 125: Topic 16 (Auto: Palivizumab; Descriptive: Palivizumab – Rsvs), Prob: 1.00000000
+Doc 126: Topic 16 (Auto: Palivizumab; Descriptive: Palivizumab – Rsvs), Prob: 0.28379453
+Doc 127: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 128: Topic 8 (Auto: Smallpox; Descriptive: Smallpox), Prob: 0.45689528
+Doc 129: Topic 8 (Auto: Smallpox; Descriptive: Smallpox), Prob: 1.00000000
+Doc 130: Topic 8 (Auto: Smallpox; Descriptive: Smallpox), Prob: 1.00000000
+Doc 131: Topic 77 (Auto: Immunotherapie; Descriptive: Immunotherapie), Prob: 1.00000000
+Doc 132: Topic 40 (Auto: Fever; Descriptive: Fever – Hemorrhagic), Prob: 1.00000000
+Doc 133: Topic 40 (Auto: Fever; Descriptive: Fever – Hemorrhagic), Prob: 0.96866070
+Doc 134: Topic 40 (Auto: Fever; Descriptive: Fever – Hemorrhagic), Prob: 1.00000000
+Doc 135: Topic 62 (Auto: Reanalysis; Descriptive: Reanalysis), Prob: 0.87985719
+Doc 136: Topic 5 (Auto: Lassa; Descriptive: Lassa), Prob: 0.33897755
+Doc 137: Topic 40 (Auto: Fever; Descriptive: Fever – Hemorrhagic), Prob: 0.38572616
+Doc 138: Topic 5 (Auto: Lassa; Descriptive: Lassa), Prob: 0.90670125
+Doc 139: Topic 5 (Auto: Lassa; Descriptive: Lassa), Prob: 0.44535205
+Doc 140: Topic 5 (Auto: Lassa; Descriptive: Lassa), Prob: 1.00000000
+Doc 141: Topic 5 (Auto: Lassa; Descriptive: Lassa), Prob: 0.64461823
+Doc 142: Topic 5 (Auto: Lassa; Descriptive: Lassa), Prob: 0.58607790
+Doc 143: Topic 5 (Auto: Lassa; Descriptive: Lassa), Prob: 1.00000000
+Doc 144: Topic 5 (Auto: Lassa; Descriptive: Lassa), Prob: 0.64461823
+Doc 145: Topic 17 (Auto: Measles; Descriptive: Measles – Immunization), Prob: 0.65100515
+Doc 146: Topic 17 (Auto: Measles; Descriptive: Measles – Immunization), Prob: 1.00000000
+Doc 147: Topic 17 (Auto: Measles; Descriptive: Measles – Immunization), Prob: 0.72429471
+Doc 148: Topic 30 (Auto: Measles; Descriptive: Measles – Immunoglobulin), Prob: 0.76881987
+Doc 149: Topic 17 (Auto: Measles; Descriptive: Measles – Immunization), Prob: 0.76685574
+Doc 150: Topic 33 (Auto: 1932; Descriptive: 1932), Prob: 1.00000000
+Doc 151: Topic 61 (Auto: Influenza; Descriptive: Influenza – Pandemic), Prob: 1.00000000
+Doc 152: Topic 61 (Auto: Influenza; Descriptive: Influenza – Pandemic), Prob: 1.00000000
+Doc 153: Topic 61 (Auto: Influenza; Descriptive: Influenza – Pandemic), Prob: 1.00000000
+Doc 154: Topic 61 (Auto: Influenza; Descriptive: Influenza – Pandemic), Prob: 0.49655082
+Doc 155: Topic 23 (Auto: Influenza; Descriptive: Influenza – Tection), Prob: 1.00000000
+Doc 156: Topic 13 (Auto: Antibody; Descriptive: Antibody – Influenzae), Prob: 0.37146167
+Doc 157: Topic 23 (Auto: Influenza; Descriptive: Influenza – Tection), Prob: 0.26807957
+Doc 158: Topic 78 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Globulin), Prob: 1.00000000
+Doc 159: Topic 23 (Auto: Influenza; Descriptive: Influenza – Tection), Prob: 1.00000000
+Doc 160: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 161: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 162: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 163: Topic 23 (Auto: Influenza; Descriptive: Influenza – Tection), Prob: 0.25127125
+Doc 164: Topic 23 (Auto: Influenza; Descriptive: Influenza – Tection), Prob: 0.30820751
+Doc 165: Topic 43 (Auto: Influenzal; Descriptive: Influenzal), Prob: 0.43518987
+Doc 166: Topic 43 (Auto: Influenzal; Descriptive: Influenzal), Prob: 1.00000000
+Doc 167: Topic 43 (Auto: Influenzal; Descriptive: Influenzal), Prob: 1.00000000
+Doc 168: Topic 13 (Auto: Antibody; Descriptive: Antibody – Influenzae), Prob: 1.00000000
+Doc 169: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 170: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 171: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 172: Topic 33 (Auto: 1932; Descriptive: 1932), Prob: 0.24383576
+Doc 173: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 174: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 0.81909160
+Doc 175: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 176: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 177: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 0.86583653
+Doc 178: Topic 79 (Auto: Enteroviral; Descriptive: Enteroviral), Prob: 1.00000000
+Doc 179: Topic 46 (Auto: Antibodies; Descriptive: Antibodies – Cows), Prob: 1.00000000
+Doc 180: Topic 46 (Auto: Antibodies; Descriptive: Antibodies – Cows), Prob: 0.74110755
+Doc 181: Topic 79 (Auto: Enteroviral; Descriptive: Enteroviral), Prob: 1.00000000
+Doc 182: Topic 59 (Auto: Antitoxin; Descriptive: Antitoxin), Prob: 1.00000000
+Doc 183: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 184: Topic 80 (Auto: Antigens; Descriptive: Antigens), Prob: 1.00000000
+Doc 185: Topic 57 (Auto: Microbiol; Descriptive: Microbiol), Prob: 0.94983178
+Doc 186: Topic 57 (Auto: Microbiol; Descriptive: Microbiol), Prob: 1.00000000
+Doc 187: Topic 45 (Auto: Tularemia; Descriptive: Tularemia), Prob: 1.00000000
+Doc 188: Topic 57 (Auto: Microbiol; Descriptive: Microbiol), Prob: 0.75384325
+Doc 189: Topic 57 (Auto: Microbiol; Descriptive: Microbiol), Prob: 1.00000000
+Doc 190: Topic 45 (Auto: Tularemia; Descriptive: Tularemia), Prob: 0.86545977
+Doc 191: Topic 4 (Auto: Staphylococcus; Descriptive: Staphylococcus), Prob: 0.35053882
+Doc 192: Topic 59 (Auto: Antitoxin; Descriptive: Antitoxin), Prob: 0.65764937
+Doc 193: Topic 15 (Auto: Tuberculosis; Descriptive: Tuberculosis – Mycobacterium), Prob: 1.00000000
+Doc 194: Topic 81 (Auto: Tuberculosis; Descriptive: Tuberculosis – Migliori), Prob: 1.00000000
+Doc 195: Topic 81 (Auto: Tuberculosis; Descriptive: Tuberculosis – Migliori), Prob: 1.00000000
+Doc 196: Topic 81 (Auto: Tuberculosis; Descriptive: Tuberculosis – Migliori), Prob: 1.00000000
+Doc 197: Topic 15 (Auto: Tuberculosis; Descriptive: Tuberculosis – Mycobacterium), Prob: 1.00000000
+Doc 198: Topic 82 (Auto: Tuberculosis; Descriptive: Tuberculosis – Serum), Prob: 1.00000000
+Doc 199: Topic 82 (Auto: Tuberculosis; Descriptive: Tuberculosis – Serum), Prob: 1.00000000
+Doc 200: Topic 82 (Auto: Tuberculosis; Descriptive: Tuberculosis – Serum), Prob: 1.00000000
+Doc 201: Topic 7 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 1.00000000
+Doc 202: Topic 7 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 1.00000000
+Doc 203: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 204: Topic 2 (Auto: Hiv; Descriptive: Hiv), Prob: 0.53166804
+Doc 205: Topic 2 (Auto: Hiv; Descriptive: Hiv), Prob: 1.00000000
+Doc 206: Topic 83 (Auto: Immunodeficiency; Descriptive: Immunodeficiency – Aids), Prob: 1.00000000
+Doc 207: Topic 2 (Auto: Hiv; Descriptive: Hiv), Prob: 1.00000000
+Doc 208: Topic 2 (Auto: Hiv; Descriptive: Hiv), Prob: 1.00000000
+Doc 209: Topic 2 (Auto: Hiv; Descriptive: Hiv), Prob: 1.00000000
+Doc 210: Topic 6 (Auto: Immunodeficiency; Descriptive: Immunodeficiency – Macaques), Prob: 1.00000000
+Doc 211: Topic 3 (Auto: Pathogen; Descriptive: Pathogen), Prob: 0.10114200
+Doc 212: Topic 4 (Auto: Staphylococcus; Descriptive: Staphylococcus), Prob: 0.63039815
+Doc 213: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 214: Topic 1 (Auto: Antibody; Descriptive: Antibody – Immunotherapy), Prob: 1.00000000
+Doc 215: Topic 52 (Auto: Anthrax; Descriptive: Anthrax), Prob: 0.89138303
+Doc 216: Topic 52 (Auto: Anthrax; Descriptive: Anthrax), Prob: 1.00000000
+Doc 217: Topic 52 (Auto: Anthrax; Descriptive: Anthrax), Prob: 1.00000000
+Doc 218: Topic 52 (Auto: Anthrax; Descriptive: Anthrax), Prob: 0.73567005
+Doc 219: Topic 10 (Auto: Botulism; Descriptive: Botulism), Prob: 1.00000000
+Doc 220: Topic 10 (Auto: Botulism; Descriptive: Botulism), Prob: 0.24763318
+Doc 221: Topic 10 (Auto: Botulism; Descriptive: Botulism), Prob: 0.06135021
+Doc 222: Topic 10 (Auto: Botulism; Descriptive: Botulism), Prob: 1.00000000
+Doc 223: Topic 10 (Auto: Botulism; Descriptive: Botulism), Prob: 0.84526596
+Doc 224: Topic 10 (Auto: Botulism; Descriptive: Botulism), Prob: 0.25733233
+Doc 225: Topic 10 (Auto: Botulism; Descriptive: Botulism), Prob: 0.61376002
+Doc 226: Topic 76 (Auto: Diphtheria; Descriptive: Diphtheria – Antitoxins), Prob: 1.00000000
+Doc 227: Topic 76 (Auto: Diphtheria; Descriptive: Diphtheria – Antitoxins), Prob: 1.00000000
+Doc 228: Topic 42 (Auto: Diphtheria; Descriptive: Diphtheria – Diphtherie), Prob: 0.83819371
+Doc 229: Topic 42 (Auto: Diphtheria; Descriptive: Diphtheria – Diphtherie), Prob: 1.00000000
+Doc 230: Topic 42 (Auto: Diphtheria; Descriptive: Diphtheria – Diphtherie), Prob: 0.48917566
+Doc 231: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 232: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 233: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 234: Topic 51 (Auto: Tetanus; Descriptive: Tetanus), Prob: 0.34464720
+Doc 235: Topic 11 (Auto: Malaria; Descriptive: Malaria), Prob: 0.24213817
+Doc 236: Topic 51 (Auto: Tetanus; Descriptive: Tetanus), Prob: 1.00000000
+Doc 237: Topic 51 (Auto: Tetanus; Descriptive: Tetanus), Prob: 1.00000000
+Doc 238: Topic 51 (Auto: Tetanus; Descriptive: Tetanus), Prob: 1.00000000
+Doc 239: Topic 84 (Auto: Pertussis; Descriptive: Pertussis – Sulfadiazine), Prob: 1.00000000
+Doc 240: Topic 84 (Auto: Pertussis; Descriptive: Pertussis – Sulfadiazine), Prob: 1.00000000
+Doc 241: Topic 84 (Auto: Pertussis; Descriptive: Pertussis – Sulfadiazine), Prob: 1.00000000
+Doc 242: Topic 26 (Auto: Meader; Descriptive: Meader), Prob: 1.00000000
+Doc 243: Topic 26 (Auto: Meader; Descriptive: Meader), Prob: 1.00000000
+Doc 244: Topic 26 (Auto: Meader; Descriptive: Meader), Prob: 1.00000000
+Doc 245: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 246: Topic 56 (Auto: Lyme; Descriptive: Lyme), Prob: 0.97578386
+Doc 247: Topic 48 (Auto: Papillomavirus; Descriptive: Papillomavirus), Prob: 1.00000000
+Doc 248: Topic 48 (Auto: Papillomavirus; Descriptive: Papillomavirus), Prob: 1.00000000
+Doc 249: Topic 48 (Auto: Papillomavirus; Descriptive: Papillomavirus), Prob: 0.81112804
+Doc 250: Topic 87 (Auto: Clostridium; Descriptive: Clostridium), Prob: 1.00000000
+Doc 251: Topic 87 (Auto: Clostridium; Descriptive: Clostridium), Prob: 1.00000000
+Doc 252: Topic 87 (Auto: Clostridium; Descriptive: Clostridium), Prob: 1.00000000
+Doc 253: Topic 3 (Auto: Pathogen; Descriptive: Pathogen), Prob: 0.15609698
+Doc 254: Topic 3 (Auto: Pathogen; Descriptive: Pathogen), Prob: 0.06246234
+Doc 255: Topic 4 (Auto: Staphylococcus; Descriptive: Staphylococcus), Prob: 0.96847034
+Doc 256: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 257: Topic 46 (Auto: Antibodies; Descriptive: Antibodies – Cows), Prob: 1.00000000
+Doc 258: Topic 45 (Auto: Tularemia; Descriptive: Tularemia), Prob: 1.00000000
+Doc 259: Topic 13 (Auto: Antibody; Descriptive: Antibody – Influenzae), Prob: 1.00000000
+Doc 260: Topic 13 (Auto: Antibody; Descriptive: Antibody – Influenzae), Prob: 0.60252057
+Doc 261: Topic 13 (Auto: Antibody; Descriptive: Antibody – Influenzae), Prob: 1.00000000
+Doc 262: Topic 43 (Auto: Influenzal; Descriptive: Influenzal), Prob: 0.63822676
+Doc 263: Topic 15 (Auto: Tuberculosis; Descriptive: Tuberculosis – Mycobacterium), Prob: 1.00000000
+Doc 264: Topic 15 (Auto: Tuberculosis; Descriptive: Tuberculosis – Mycobacterium), Prob: 1.00000000
+Doc 265: Topic 15 (Auto: Tuberculosis; Descriptive: Tuberculosis – Mycobacterium), Prob: 1.00000000
+Doc 266: Topic 29 (Auto: Meningococcus; Descriptive: Meningococcus), Prob: 1.00000000
+Doc 267: Topic 29 (Auto: Meningococcus; Descriptive: Meningococcus), Prob: 1.00000000
+Doc 268: Topic 29 (Auto: Meningococcus; Descriptive: Meningococcus), Prob: 0.46469871
+Doc 269: Topic 85 (Auto: Meningitis; Descriptive: Meningitis), Prob: 1.00000000
+Doc 270: Topic 29 (Auto: Meningococcus; Descriptive: Meningococcus), Prob: 1.00000000
+Doc 271: Topic 85 (Auto: Meningitis; Descriptive: Meningitis), Prob: 1.00000000
+Doc 272: Topic 25 (Auto: Pseudomonas; Descriptive: Pseudomonas), Prob: 0.59232711
+Doc 273: Topic 25 (Auto: Pseudomonas; Descriptive: Pseudomonas), Prob: 0.80440446
+Doc 274: Topic 25 (Auto: Pseudomonas; Descriptive: Pseudomonas), Prob: 1.00000000
+Doc 275: Topic 37 (Auto: Sepsis; Descriptive: Sepsis), Prob: 0.15580865
+Doc 276: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 277: Topic 25 (Auto: Pseudomonas; Descriptive: Pseudomonas), Prob: 1.00000000
+Doc 278: Topic 25 (Auto: Pseudomonas; Descriptive: Pseudomonas), Prob: 0.47812148
+Doc 279: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 280: Topic 3 (Auto: Pathogen; Descriptive: Pathogen), Prob: 0.06853284
+Doc 281: Topic 80 (Auto: Antigens; Descriptive: Antigens), Prob: 1.00000000
+Doc 282: Topic 3 (Auto: Pathogen; Descriptive: Pathogen), Prob: 0.10988857
+Doc 283: Topic 70 (Auto: Antitiyphoid; Descriptive: Antitiyphoid), Prob: 1.00000000
+Doc 284: Topic 34 (Auto: Shigellae; Descriptive: Shigellae), Prob: 1.00000000
+Doc 285: Topic 34 (Auto: Shigellae; Descriptive: Shigellae), Prob: 1.00000000
+Doc 286: Topic 34 (Auto: Shigellae; Descriptive: Shigellae), Prob: 1.00000000
+Doc 287: Topic 34 (Auto: Shigellae; Descriptive: Shigellae), Prob: 0.08411222
+Doc 288: Topic 34 (Auto: Shigellae; Descriptive: Shigellae), Prob: 0.68925515
+Doc 289: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 290: Topic 4 (Auto: Staphylococcus; Descriptive: Staphylococcus), Prob: 0.53506548
+Doc 291: Topic 4 (Auto: Staphylococcus; Descriptive: Staphylococcus), Prob: 1.00000000
+Doc 292: Topic 4 (Auto: Staphylococcus; Descriptive: Staphylococcus), Prob: 1.00000000
+Doc 293: Topic 4 (Auto: Staphylococcus; Descriptive: Staphylococcus), Prob: 0.57908375
+Doc 294: Topic 49 (Auto: Staphylococcal; Descriptive: Staphylococcal), Prob: 0.48201838
+Doc 295: Topic 49 (Auto: Staphylococcal; Descriptive: Staphylococcal), Prob: 1.00000000
+Doc 296: Topic 4 (Auto: Staphylococcus; Descriptive: Staphylococcus), Prob: 0.63039815
+Doc 297: Topic 4 (Auto: Staphylococcus; Descriptive: Staphylococcus), Prob: 0.76156717
+Doc 298: Topic 86 (Auto: Streptococcus; Descriptive: Streptococcus – Antibodies), Prob: 1.00000000
+Doc 299: Topic 72 (Auto: Streptococcal; Descriptive: Streptococcal – Antibody), Prob: 1.00000000
+Doc 300: Topic 86 (Auto: Streptococcus; Descriptive: Streptococcus – Antibodies), Prob: 1.00000000
+Doc 301: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 302: Topic 86 (Auto: Streptococcus; Descriptive: Streptococcus – Antibodies), Prob: 1.00000000
+Doc 303: Topic 72 (Auto: Streptococcal; Descriptive: Streptococcal – Antibody), Prob: 1.00000000
+Doc 304: Topic 72 (Auto: Streptococcal; Descriptive: Streptococcal – Antibody), Prob: 1.00000000
+Doc 305: Topic 12 (Auto: Pneumonia; Descriptive: Pneumonia), Prob: 0.32140974
+Doc 306: Topic 12 (Auto: Pneumonia; Descriptive: Pneumonia), Prob: 0.18127712
+Doc 307: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 308: Topic 12 (Auto: Pneumonia; Descriptive: Pneumonia), Prob: 1.00000000
+Doc 309: Topic 12 (Auto: Pneumonia; Descriptive: Pneumonia), Prob: 0.64162311
+Doc 310: Topic 12 (Auto: Pneumonia; Descriptive: Pneumonia), Prob: 1.00000000
+Doc 311: Topic 4 (Auto: Staphylococcus; Descriptive: Staphylococcus), Prob: 0.40430601
+Doc 312: Topic 12 (Auto: Pneumonia; Descriptive: Pneumonia), Prob: 0.68135696
+Doc 313: Topic 71 (Auto: Streptococcus; Descriptive: Streptococcus – Streptococci), Prob: 1.00000000
+Doc 314: Topic 71 (Auto: Streptococcus; Descriptive: Streptococcus – Streptococci), Prob: 1.00000000
+Doc 315: Topic 71 (Auto: Streptococcus; Descriptive: Streptococcus – Streptococci), Prob: 1.00000000
+Doc 316: Topic 28 (Auto: Rubella; Descriptive: Rubella), Prob: 0.10794682
+Doc 317: Topic 28 (Auto: Rubella; Descriptive: Rubella), Prob: 0.15773586
+Doc 318: Topic 65 (Auto: Streptococcal; Descriptive: Streptococcal – Globulin), Prob: 1.00000000
+Doc 319: Topic 65 (Auto: Streptococcal; Descriptive: Streptococcal – Globulin), Prob: 1.00000000
+Doc 320: Topic 65 (Auto: Streptococcal; Descriptive: Streptococcal – Globulin), Prob: 1.00000000
+Doc 321: Topic 59 (Auto: Antitoxin; Descriptive: Antitoxin), Prob: 0.90005744
+Doc 322: Topic 59 (Auto: Antitoxin; Descriptive: Antitoxin), Prob: 1.00000000
+Doc 323: Topic 33 (Auto: 1932; Descriptive: 1932), Prob: 1.00000000
+Doc 324: Topic 3 (Auto: Pathogen; Descriptive: Pathogen), Prob: 1.00000000
+Doc 325: Topic 3 (Auto: Pathogen; Descriptive: Pathogen), Prob: 0.19594775
+Doc 326: Topic 3 (Auto: Pathogen; Descriptive: Pathogen), Prob: 0.36553818
+Doc 327: Topic 3 (Auto: Pathogen; Descriptive: Pathogen), Prob: 1.00000000
+Doc 328: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 329: Topic 3 (Auto: Pathogen; Descriptive: Pathogen), Prob: 1.00000000
+Doc 330: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Antibodies), Prob: 1.00000000
+Doc 331: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Antibodies), Prob: 1.00000000
+Doc 332: Topic 64 (Auto: Bubonique; Descriptive: Bubonique), Prob: 1.00000000
+Doc 333: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 334: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Antibodies), Prob: 0.80078145
+Doc 335: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Antibodies), Prob: 1.00000000
+Doc 336: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Antibodies), Prob: 0.37556201
+Doc 337: Topic 12 (Auto: Pneumonia; Descriptive: Pneumonia), Prob: 0.13315811
+Doc 338: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Antibodies), Prob: 0.52735994
+Doc 339: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Antibodies), Prob: 0.48667947
+Doc 340: Topic 64 (Auto: Bubonique; Descriptive: Bubonique), Prob: 1.00000000
+Doc 341: Topic 64 (Auto: Bubonique; Descriptive: Bubonique), Prob: 1.00000000
+Doc 342: Topic 18 (Auto: Hcv1; Descriptive: Hcv1), Prob: 0.73428305
+Doc 343: Topic 18 (Auto: Hcv1; Descriptive: Hcv1), Prob: 0.73428305
+Doc 344: Topic 18 (Auto: Hcv1; Descriptive: Hcv1), Prob: 0.57609689
+Doc 345: Topic 19 (Auto: Antigenic; Descriptive: Antigenic), Prob: 0.55593490
+Doc 346: Topic 19 (Auto: Antigenic; Descriptive: Antigenic), Prob: 0.70342761
+Doc 347: Topic 79 (Auto: Enteroviral; Descriptive: Enteroviral), Prob: 1.00000000
+Doc 348: Topic 7 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 0.18876790
+Doc 349: Topic 7 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 0.94208103
+Doc 350: Topic 7 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 1.00000000
+Doc 351: Topic 80 (Auto: Antigens; Descriptive: Antigens), Prob: 1.00000000
+Doc 352: Topic 7 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 0.40721380
+Doc 353: Topic 7 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 0.78772399
+Doc 354: Topic 7 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 1.00000000
+Doc 355: Topic 18 (Auto: Hcv1; Descriptive: Hcv1), Prob: 1.00000000
+Doc 356: Topic 18 (Auto: Hcv1; Descriptive: Hcv1), Prob: 1.00000000
+Doc 357: Topic 18 (Auto: Hcv1; Descriptive: Hcv1), Prob: 1.00000000
+Doc 358: Topic 54 (Auto: Ebola; Descriptive: Ebola), Prob: 1.00000000
+Doc 359: Topic 54 (Auto: Ebola; Descriptive: Ebola), Prob: 1.00000000
+Doc 360: Topic 54 (Auto: Ebola; Descriptive: Ebola), Prob: 1.00000000
+Doc 361: Topic 54 (Auto: Ebola; Descriptive: Ebola), Prob: 0.31417725
+Doc 362: Topic 1 (Auto: Antibody; Descriptive: Antibody – Immunotherapy), Prob: 0.92521683
+Doc 363: Topic 1 (Auto: Antibody; Descriptive: Antibody – Immunotherapy), Prob: 0.79339417
+Doc 364: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 365: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 366: Topic 19 (Auto: Antigenic; Descriptive: Antigenic), Prob: 0.24467538
+Doc 367: Topic 9 (Auto: Hepatitis; Descriptive: Hepatitis – Globulin), Prob: 1.00000000
+Doc 368: Topic 9 (Auto: Hepatitis; Descriptive: Hepatitis – Globulin), Prob: 0.49050733
+Doc 369: Topic 9 (Auto: Hepatitis; Descriptive: Hepatitis – Globulin), Prob: 0.83145775
+Doc 370: Topic 9 (Auto: Hepatitis; Descriptive: Hepatitis – Globulin), Prob: 1.00000000
+Doc 371: Topic 58 (Auto: Hepatitis; Descriptive: Hepatitis – Hcv1), Prob: 0.20581719
+Doc 372: Topic 9 (Auto: Hepatitis; Descriptive: Hepatitis – Globulin), Prob: 0.80189747
+Doc 373: Topic 58 (Auto: Hepatitis; Descriptive: Hepatitis – Hcv1), Prob: 1.00000000
+Doc 374: Topic 58 (Auto: Hepatitis; Descriptive: Hepatitis – Hcv1), Prob: 1.00000000
+Doc 375: Topic 18 (Auto: Hcv1; Descriptive: Hcv1), Prob: 0.54513993
+Doc 376: Topic 9 (Auto: Hepatitis; Descriptive: Hepatitis – Globulin), Prob: 0.62084627
+Doc 377: Topic 58 (Auto: Hepatitis; Descriptive: Hepatitis – Hcv1), Prob: 1.00000000
+Doc 378: Topic 68 (Auto: Glycoproteins; Descriptive: Glycoproteins), Prob: 1.00000000
+Doc 379: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 380: Topic 11 (Auto: Malaria; Descriptive: Malaria), Prob: 0.20263134
+Doc 381: Topic 89 (Auto: Proc; Descriptive: Proc), Prob: 1.00000000
+Doc 382: Topic 9 (Auto: Hepatitis; Descriptive: Hepatitis – Globulin), Prob: 0.62195811
+Doc 383: Topic 60 (Auto: Herpes; Descriptive: Herpes), Prob: 0.62283699
+Doc 384: Topic 60 (Auto: Herpes; Descriptive: Herpes), Prob: 1.00000000
+Doc 385: Topic 60 (Auto: Herpes; Descriptive: Herpes), Prob: 1.00000000
+Doc 386: Topic 88 (Auto: Immunoglobulin; Descriptive: Immunoglobulin), Prob: 1.00000000
+Doc 387: Topic 20 (Auto: Hiviglob; Descriptive: Hiviglob), Prob: 0.70932517
+Doc 388: Topic 60 (Auto: Herpes; Descriptive: Herpes), Prob: 1.00000000
+Doc 389: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 390: Topic 2 (Auto: Hiv; Descriptive: Hiv), Prob: 0.37520289
+Doc 391: Topic 2 (Auto: Hiv; Descriptive: Hiv), Prob: 0.80270461
+Doc 392: Topic 2 (Auto: Hiv; Descriptive: Hiv), Prob: 1.00000000
+Doc 393: Topic 83 (Auto: Immunodeficiency; Descriptive: Immunodeficiency – Aids), Prob: 1.00000000
+Doc 394: Topic 8 (Auto: Smallpox; Descriptive: Smallpox), Prob: 0.41191190
+Doc 395: Topic 2 (Auto: Hiv; Descriptive: Hiv), Prob: 1.00000000
+Doc 396: Topic 20 (Auto: Hiviglob; Descriptive: Hiviglob), Prob: 0.56389564
+Doc 397: Topic 83 (Auto: Immunodeficiency; Descriptive: Immunodeficiency – Aids), Prob: 1.00000000
+Doc 398: Topic 48 (Auto: Papillomavirus; Descriptive: Papillomavirus), Prob: 1.00000000
+Doc 399: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 400: Topic 20 (Auto: Hiviglob; Descriptive: Hiviglob), Prob: 1.00000000
+Doc 401: Topic 31 (Auto: Antibody; Descriptive: Antibody – Encephalitis), Prob: 1.00000000
+Doc 402: Topic 31 (Auto: Antibody; Descriptive: Antibody – Encephalitis), Prob: 1.00000000
+Doc 403: Topic 22 (Auto: Fever; Descriptive: Fever – Immunity), Prob: 0.27580992
+Doc 404: Topic 30 (Auto: Measles; Descriptive: Measles – Immunoglobulin), Prob: 0.88556044
+Doc 405: Topic 30 (Auto: Measles; Descriptive: Measles – Immunoglobulin), Prob: 0.95090129
+Doc 406: Topic 8 (Auto: Smallpox; Descriptive: Smallpox), Prob: 0.37469473
+Doc 407: Topic 66 (Auto: Mumps; Descriptive: Mumps), Prob: 1.00000000
+Doc 408: Topic 66 (Auto: Mumps; Descriptive: Mumps), Prob: 1.00000000
+Doc 409: Topic 62 (Auto: Reanalysis; Descriptive: Reanalysis), Prob: 1.00000000
+Doc 410: Topic 66 (Auto: Mumps; Descriptive: Mumps), Prob: 1.00000000
+Doc 411: Topic 20 (Auto: Hiviglob; Descriptive: Hiviglob), Prob: 0.70932517
+Doc 412: Topic 20 (Auto: Hiviglob; Descriptive: Hiviglob), Prob: 1.00000000
+Doc 413: Topic 85 (Auto: Meningitis; Descriptive: Meningitis), Prob: 1.00000000
+Doc 414: Topic 27 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Polio), Prob: 0.23239553
+Doc 415: Topic 27 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Polio), Prob: 1.00000000
+Doc 416: Topic 78 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Globulin), Prob: 1.00000000
+Doc 417: Topic 78 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Globulin), Prob: 1.00000000
+Doc 418: Topic 62 (Auto: Reanalysis; Descriptive: Reanalysis), Prob: 1.00000000
+Doc 419: Topic 33 (Auto: 1932; Descriptive: 1932), Prob: 1.00000000
+Doc 420: Topic 27 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Polio), Prob: 0.62608852
+Doc 421: Topic 27 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Polio), Prob: 1.00000000
+Doc 422: Topic 27 (Auto: Poliomyelitis; Descriptive: Poliomyelitis – Polio), Prob: 0.54052372
+Doc 423: Topic 64 (Auto: Bubonique; Descriptive: Bubonique), Prob: 0.90300585
+Doc 424: Topic 32 (Auto: Rabies; Descriptive: Rabies), Prob: 0.28998686
+Doc 425: Topic 32 (Auto: Rabies; Descriptive: Rabies), Prob: 1.00000000
+Doc 426: Topic 32 (Auto: Rabies; Descriptive: Rabies), Prob: 0.50822881
+Doc 427: Topic 32 (Auto: Rabies; Descriptive: Rabies), Prob: 1.00000000
+Doc 428: Topic 32 (Auto: Rabies; Descriptive: Rabies), Prob: 1.00000000
+Doc 429: Topic 32 (Auto: Rabies; Descriptive: Rabies), Prob: 0.56946350
+Doc 430: Topic 55 (Auto: Antibody; Descriptive: Antibody – Antibodies), Prob: 1.00000000
+Doc 431: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 432: Topic 55 (Auto: Antibody; Descriptive: Antibody – Antibodies), Prob: 0.56041699
+Doc 433: Topic 55 (Auto: Antibody; Descriptive: Antibody – Antibodies), Prob: 1.00000000
+Doc 434: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 435: Topic 68 (Auto: Glycoproteins; Descriptive: Glycoproteins), Prob: 1.00000000
+Doc 436: Topic 68 (Auto: Glycoproteins; Descriptive: Glycoproteins), Prob: 1.00000000
+Doc 437: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 438: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 0.93012956
+Doc 439: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 440: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 441: Topic 30 (Auto: Measles; Descriptive: Measles – Immunoglobulin), Prob: 1.00000000
+Doc 442: Topic 28 (Auto: Rubella; Descriptive: Rubella), Prob: 1.00000000
+Doc 443: Topic 28 (Auto: Rubella; Descriptive: Rubella), Prob: 1.00000000
+Doc 444: Topic 28 (Auto: Rubella; Descriptive: Rubella), Prob: 0.52602183
+Doc 445: Topic 28 (Auto: Rubella; Descriptive: Rubella), Prob: 1.00000000
+Doc 446: Topic 19 (Auto: Antigenic; Descriptive: Antigenic), Prob: 1.00000000
+Doc 447: Topic 19 (Auto: Antigenic; Descriptive: Antigenic), Prob: 1.00000000
+Doc 448: Topic 19 (Auto: Antigenic; Descriptive: Antigenic), Prob: 0.81414638
+Doc 449: Topic 6 (Auto: Immunodeficiency; Descriptive: Immunodeficiency – Macaques), Prob: 1.00000000
+Doc 450: Topic 20 (Auto: Hiviglob; Descriptive: Hiviglob), Prob: 1.00000000
+Doc 451: Topic 6 (Auto: Immunodeficiency; Descriptive: Immunodeficiency – Macaques), Prob: 0.73913937
+Doc 452: Topic 2 (Auto: Hiv; Descriptive: Hiv), Prob: 0.95173764
+Doc 453: Topic 6 (Auto: Immunodeficiency; Descriptive: Immunodeficiency – Macaques), Prob: 1.00000000
+Doc 454: Topic 75 (Auto: Immun; Descriptive: Immun), Prob: 1.00000000
+Doc 455: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 456: Topic 6 (Auto: Immunodeficiency; Descriptive: Immunodeficiency – Macaques), Prob: 0.68619501
+Doc 457: Topic 6 (Auto: Immunodeficiency; Descriptive: Immunodeficiency – Macaques), Prob: 1.00000000
+Doc 458: Topic 6 (Auto: Immunodeficiency; Descriptive: Immunodeficiency – Macaques), Prob: 1.00000000
+Doc 459: Topic 6 (Auto: Immunodeficiency; Descriptive: Immunodeficiency – Macaques), Prob: 1.00000000
+Doc 460: Topic 0 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 461: Topic 31 (Auto: Antibody; Descriptive: Antibody – Encephalitis), Prob: 1.00000000
+Doc 462: Topic 31 (Auto: Antibody; Descriptive: Antibody – Encephalitis), Prob: 0.47973636
+Doc 463: Topic 31 (Auto: Antibody; Descriptive: Antibody – Encephalitis), Prob: 0.68812236
+Doc 464: Topic 47 (Auto: Vaccine; Descriptive: Vaccine – Vaccinia), Prob: 1.00000000
+Doc 465: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 466: Topic 47 (Auto: Vaccine; Descriptive: Vaccine – Vaccinia), Prob: 0.91274130
+Doc 467: Topic 19 (Auto: Antigenic; Descriptive: Antigenic), Prob: 0.31478074
+Doc 468: Topic 47 (Auto: Vaccine; Descriptive: Vaccine – Vaccinia), Prob: 0.89629695
+Doc 469: Topic 8 (Auto: Smallpox; Descriptive: Smallpox), Prob: 0.60108742
+Doc 470: Topic 26 (Auto: Meader; Descriptive: Meader), Prob: 0.38940407
+Doc 471: Topic 8 (Auto: Smallpox; Descriptive: Smallpox), Prob: 0.74694875
+Doc 472: Topic 77 (Auto: Immunotherapie; Descriptive: Immunotherapie), Prob: 1.00000000
+Doc 473: Topic 9 (Auto: Hepatitis; Descriptive: Hepatitis – Globulin), Prob: 0.35819845
+Doc 474: Topic 77 (Auto: Immunotherapie; Descriptive: Immunotherapie), Prob: 1.00000000
+Doc 475: Topic 31 (Auto: Antibody; Descriptive: Antibody – Encephalitis), Prob: 0.70171916
+Doc 476: Topic 24 (Auto: Antiviral; Descriptive: Antiviral), Prob: 1.00000000
+Doc 477: Topic 24 (Auto: Antiviral; Descriptive: Antiviral), Prob: 1.00000000
+Doc 478: Topic 24 (Auto: Antiviral; Descriptive: Antiviral), Prob: 1.00000000
+Doc 479: Topic 24 (Auto: Antiviral; Descriptive: Antiviral), Prob: 0.79459016
+Doc 480: Topic 24 (Auto: Antiviral; Descriptive: Antiviral), Prob: 0.97108811
+Doc 481: Topic 24 (Auto: Antiviral; Descriptive: Antiviral), Prob: 0.70986839
+Doc 482: Topic 22 (Auto: Fever; Descriptive: Fever – Immunity), Prob: 0.25335928
+Doc 483: Topic 22 (Auto: Fever; Descriptive: Fever – Immunity), Prob: 1.00000000
+Doc 484: Topic 22 (Auto: Fever; Descriptive: Fever – Immunity), Prob: 1.00000000
+Doc 485: Topic 22 (Auto: Fever; Descriptive: Fever – Immunity), Prob: 0.36984411
+Doc 486: Topic 22 (Auto: Fever; Descriptive: Fever – Immunity), Prob: 1.00000000
+Doc 487: Topic 22 (Auto: Fever; Descriptive: Fever – Immunity), Prob: 0.59582518
+Doc 488: Topic 35 (Auto: Candidiasis; Descriptive: Candidiasis), Prob: 1.00000000
+Doc 489: Topic 35 (Auto: Candidiasis; Descriptive: Candidiasis), Prob: 1.00000000
+Doc 490: Topic 35 (Auto: Candidiasis; Descriptive: Candidiasis), Prob: 0.14474805
+Doc 491: Topic 75 (Auto: Immun; Descriptive: Immun), Prob: 1.00000000
+Doc 492: Topic 35 (Auto: Candidiasis; Descriptive: Candidiasis), Prob: 0.51016091
+Doc 493: Topic 35 (Auto: Candidiasis; Descriptive: Candidiasis), Prob: 0.67526412
+Doc 494: Topic 38 (Auto: Cryptosporidiosis; Descriptive: Cryptosporidiosis), Prob: 0.19965794
+Doc 495: Topic 38 (Auto: Cryptosporidiosis; Descriptive: Cryptosporidiosis), Prob: 0.11440390
+Doc 496: Topic 36 (Auto: Technology; Descriptive: Technology), Prob: 1.00000000
+Doc 497: Topic 29 (Auto: Meningococcus; Descriptive: Meningococcus), Prob: 0.31858547
+Doc 498: Topic 38 (Auto: Cryptosporidiosis; Descriptive: Cryptosporidiosis), Prob: 1.00000000
+Doc 499: Topic 38 (Auto: Cryptosporidiosis; Descriptive: Cryptosporidiosis), Prob: 1.00000000
+Doc 500: Topic 38 (Auto: Cryptosporidiosis; Descriptive: Cryptosporidiosis), Prob: 1.00000000
+Doc 501: Topic 11 (Auto: Malaria; Descriptive: Malaria), Prob: 0.62381436
+Doc 502: Topic 11 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 503: Topic 11 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 504: Topic 11 (Auto: Malaria; Descriptive: Malaria), Prob: 0.42575354
+Doc 505: Topic 11 (Auto: Malaria; Descriptive: Malaria), Prob: 0.61382659
+Doc 506: Topic 50 (Auto: Toxoplasmosis; Descriptive: Toxoplasmosis), Prob: 1.00000000
+Doc 507: Topic 1 (Auto: Antibody; Descriptive: Antibody – Immunotherapy), Prob: 1.00000000
+Doc 508: Topic 50 (Auto: Toxoplasmosis; Descriptive: Toxoplasmosis), Prob: 1.00000000
+Doc 509: Topic 50 (Auto: Toxoplasmosis; Descriptive: Toxoplasmosis), Prob: 1.00000000
+Doc 510: Topic 69 (Auto: Igg; Descriptive: Igg), Prob: 1.00000000
+Doc 511: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 512: Topic 26 (Auto: Meader; Descriptive: Meader), Prob: 0.45801324
+Doc 513: Topic 88 (Auto: Immunoglobulin; Descriptive: Immunoglobulin), Prob: 1.00000000
+Doc 514: Topic 13 (Auto: Antibody; Descriptive: Antibody – Influenzae), Prob: 0.45053150
+Doc 515: Topic 20 (Auto: Hiviglob; Descriptive: Hiviglob), Prob: 0.90128922
+Doc 516: Topic 37 (Auto: Sepsis; Descriptive: Sepsis), Prob: 1.00000000
+Doc 517: Topic 37 (Auto: Sepsis; Descriptive: Sepsis), Prob: 1.00000000
+Doc 518: Topic 49 (Auto: Staphylococcal; Descriptive: Staphylococcal), Prob: 1.00000000
+Doc 519: Topic 37 (Auto: Sepsis; Descriptive: Sepsis), Prob: 0.42819947
+Doc 520: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 521: Topic 63 (Auto: Complement; Descriptive: Complement), Prob: 1.00000000
+Doc 522: Topic 62 (Auto: Reanalysis; Descriptive: Reanalysis), Prob: 1.00000000

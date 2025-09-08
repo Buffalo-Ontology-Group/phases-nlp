@@ -1,0 +1,51 @@
+.
+├─available_gsk_references_vaccine manufacturers_deleted
+│    ├─references_acknowledgments_summary acknowledgments_deleted_deleted review
+│    │    ├─■──references deleted_acknowledgments references_summary acknowledgments_deleted_deleted review ── Topic: 12
+│    │    └─■──sp_compositional support_thanks hopkins_special thanks_presskit%202012.pdf ── Topic: 19
+│    └─gsk_vaccine manufacturers_available_health organization_manufacturers
+│         ├─■──pfizer products_http://www.pfizerpro.com/products_research working_available research_product availa ── Topic: 20
+│         └─vaccine manufacturers_health organization_manufacturers_manufacturers ._.
+│              ├─■──vaccines available_gsk vaccines_. gsk_manufacturers ._organization vaccine ── Topic: 15
+│              └─■──cnbg_country_group_manufacturers_biological ── Topic: 18
+└─vaccine_development_vaccines_companies_new
+     ├─development_clinical_studies_research_vaccine
+     │    ├─clinical_process_development_develop- ment_develop-
+     │    │    ├─■──candidates_vaccine candidates_high_develop- ment_develop- ── Topic: 25
+     │    │    └─clinical_process_assays_efficacy_studies
+     │    │         ├─■──assays_efficacy_studies_lots_phase ── Topic: 0
+     │    │         └─■──research_companies_partners_expertise_role ── Topic: 3
+     │    └─vaccines_programs_funding_e.g._research
+     │         ├─programs_funding_e.g._vaccines_research
+     │         │    ├─■──programs_funding_research_advanced_environment ── Topic: 5
+     │         │    └─■──poorer_developing world_pdps_world_technical ── Topic: 6
+     │         └─■──cber_committee_responsible_disease_children ── Topic: 1
+     └─vaccine_industry_sales_companies_vaccines
+          ├─vaccine_factors_science_vaccines_vaccine market
+          │    ├─factors_following page_factors science_page_page factors
+          │    │    ├─■──depen-_contributions biotechnology_samant_referred_countries initially ── Topic: 7
+          │    │    └─■──page factors_following page_continued following_page_factors science ── Topic: 11
+          │    └─vaccine_vaccines_vaccine market_new_market
+          │         ├─vaccine_vaccine market_market_vaccines_new
+          │         │    ├─vaccine market_market_patent_purchase agreements_vaccine advance
+          │         │    │    ├─■──patent_patent laws_property_intellectual_laws ── Topic: 8
+          │         │    │    └─vaccine market_market_issues_advance_practical issues
+          │         │    │         ├─■──prices_market_vaccine market_price_private market ── Topic: 4
+          │         │    │         └─■──practical_agreements_countries practical_agreements low_purchase agreements ── Topic: 24
+          │         │    └─new_vaccine supply_estimates_vaccines_spending
+          │         │         ├─conjugate vaccine_new vaccines_new_estimates_new product
+          │         │         │    ├─■──conjugate vaccine_conjugate_new vaccines_polyvalent_vaccination ── Topic: 23
+          │         │         │    └─■──estimates_brought_new product_annually_cost ── Topic: 21
+          │         │         └─vaccine supply_spending_delhi_supply_adams brantner
+          │         │              ├─■──delhi_largest_doses_technology_r&d spending ── Topic: 17
+          │         │              └─■──vaccine supply_supply_brantner_providing ongoing_renewable ── Topic: 13
+          │         └─years total_plant early_vaccine launch_build plant_application bla
+          │              ├─years total_plant early_vaccine launch_build plant_application bla
+          │              │    ├─■──road_generation vaccines_behavior_lack_marcel dekker ── Topic: 14
+          │              │    └─■──commitment_commitment build_license_application_elapsed ── Topic: 22
+          │              └─■──____ ── Topic: 16
+          └─sales_industry_returns_%_company
+               ├─industry_pharmaceutical_vaccine industry_vaccine_sales
+               │    ├─■──industry_shortages_industry pharmaceutical_sourced vaccines_infrastructure ── Topic: 2
+               │    └─■──sales_pharmaceutical_industry_expenses_% ── Topic: 10
+               └─■──returns *_% company_releases evaluate_end earnings_year end ── Topic: 9

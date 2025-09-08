@@ -1,0 +1,53 @@
+.
+├─single use_single_use_manufacturing_standards
+│    ├─■──standards_single use_use_single_setting ── Topic: 2
+│    └─single_single use_use_manufacturing_promise
+│         ├─■──single_region_plant_promise_challenges ── Topic: 5
+│         └─■──single use_single_complexity_use_volume ── Topic: 21
+└─vaccine_vaccines_virus_cell_product
+     ├─virus_influenza_cell_vlps_vaccine
+     │    ├─virus_influenza_vlps_like_split
+     │    │    ├─influenza_vlps_like_alternative scale_alternative
+     │    │    │    ├─influenza_alternative_alternative scale_scale distribution_influenza vaccine
+     │    │    │    │    ├─■──scale distribution_alternative scale_alternative_influenza vaccine_distribution ── Topic: 23
+     │    │    │    │    └─■──influenza_influenza virus_vaccine produced_neuraminidase_types ── Topic: 4
+     │    │    │    └─vlps_like_like particles_particles vaccine_particles
+     │    │    │         ├─■──vlps_proteins_expression_hpv_cells ── Topic: 7
+     │    │    │         └─■──like_particles vaccine_like particles_based_particles ── Topic: 15
+     │    │    └─split_split virus_eggs_virus_monovalent
+     │    │         ├─■──split virus_split_concentrate_virus concentrate_virus ── Topic: 20
+     │    │         └─■──eggs_monovalent_inoculated_allantoic_virus suspension ── Topic: 13
+     │    └─ipv_polio_cell_productivity_dose
+     │         ├─■──dose_dose vial_vial_steps_ipv ── Topic: 17
+     │         └─polio_cell_ipv_vero_wild
+     │              ├─■──polio_ipv_polio vaccine_eradication_polio vaccines ── Topic: 3
+     │              └─■──vero_cell_higher_wijffels_showed vero ── Topic: 24
+     └─vaccines_vaccine_product_federal_clinical
+          ├─vaccine_vaccines_product_prime_boost
+          │    ├─product_vaccine_vaccines_federal_med
+          │    │    ├─polysaccharide_containers_hbsag_tetanus_yeast
+          │    │    │    ├─polysaccharide_hbsag_tetanus_yeast_protein
+          │    │    │    │    ├─■──polysaccharide_tetanus_tetanus protein_protein_crude ── Topic: 6
+          │    │    │    │    └─■──hbsag_yeast_lot_recombinant_aluminum ── Topic: 0
+          │    │    │    └─containers_conditions_storage_life_shelf life
+          │    │    │         ├─■──containers_operations_critical_environment_conducted ── Topic: 12
+          │    │    │         └─■──life_shelf life_conditions_vaccine manufacturers_shelf ── Topic: 18
+          │    │    └─med_federal_product_authorization release_ship
+          │    │         ├─med_federal_measles_vaccines_federal register
+          │    │         │    ├─federal_med_register national_archives_federal register
+          │    │         │    │    ├─■──federal_regulations title_regulations_title_office ── Topic: 10
+          │    │         │    │    └─■──med_2013;369(22_malaria,44 rerks_janes_aidsvax ── Topic: 19
+          │    │         │    └─measles_vaccines_live attenuated_market_immunizations
+          │    │         │         ├─■──immunizations_available_agreement_immunized_vaccine supply ── Topic: 8
+          │    │         │         └─measles_live attenuated_attenuated_vaccines market_vaccines
+          │    │         │              ├─■──harmonization_annex_approval_inspections_worldwide ── Topic: 14
+          │    │         │              └─■──measles_live attenuated_attenuated_live_vaccines derived ── Topic: 25
+          │    │         └─authorization_regulatory authorization_product ship_ship_distribute product
+          │    │              ├─■──product ship_distribute product_release distribute_authorization release_regulatory authorization ── Topic: 26
+          │    │              └─■──defines_process defines_combining components_consists combining_formulation consists ── Topic: 16
+          │    └─boost_prime_prime boost_development_vaccine
+          │         ├─■──development_manufactured_clinical studies_starting_successful ── Topic: 1
+          │         └─■──prime_boost_prime boost_canarypox_positive ── Topic: 11
+          └─drug_clinical_submission_review_nonclinical
+               ├─■──drug_submission_clinical_overview_regulatory overview ── Topic: 9
+               └─■──health service_section public_biological products_service_act ── Topic: 22

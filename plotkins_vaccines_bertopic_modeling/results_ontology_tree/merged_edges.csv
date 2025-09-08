@@ -1,0 +1,83 @@
+parent_id,parent_label,child_id,child_label
+1,Vaccines – Immunisation,7,Biol
+1,Vaccines – Immunisation,19,Pdf
+1,Vaccines – Immunisation,36,Meningococcal
+2,Pneumococcal,1,Vaccines – Immunisation
+2,Pneumococcal,13,Vaccine – Lancet
+3,Vaccines – Tetanus,20,Antigens – Vaccine
+3,Vaccines – Tetanus,42,Immunol – Recombination
+4,Vaccine – Antibody,16,Vaccines – Immunology
+4,Vaccine – Antibody,29,Vaccine – Antibodies
+4,Vaccine – Antibody,34,Vaccination
+8,Immunol – Immune,27,Vaccine – Immunization
+8,Immunol – Immune,42,Immunol – Recombination
+10,Vaccines – Antigens,43,Lymphatic
+11,Marrow,40,Cells – Antibodies
+11,Marrow,41,Immunization – Cells
+12,Vaccines – Antibodies,15,Ctl
+12,Vaccines – Antibodies,32,Immunol – Immunity
+14,Immunol – Immune – T14,31,Peptides
+14,Immunol – Immune – T14,45,Lancet
+16,Vaccines – Immunology,38,Rubella
+16,Vaccines – Immunology,39,Leprosy
+17,Influenza,25,Cells – Influenza
+17,Influenza,32,Immunol – Immunity
+17,Influenza,34,Vaccination
+20,Antigens – Vaccine,17,Influenza
+25,Cells – Influenza,4,Vaccine – Antibody
+25,Cells – Influenza,5,Malaria
+25,Cells – Influenza,21,Cell
+25,Cells – Influenza,24,Antibody – Antibodies
+25,Cells – Influenza,28,Vaccine – Immunosuppressed
+25,Cells – Influenza,30,Antibody – Vaccine
+25,Cells – Influenza,33,Immunisation
+25,Cells – Influenza,43,Lymphatic
+27,Vaccine – Immunization,9,Cells – Memoryt
+27,Vaccine – Immunization,11,Marrow
+27,Vaccine – Immunization,18,Adjuvants
+27,Vaccine – Immunization,26,Antibodies
+27,Vaccine – Immunization,28,Vaccine – Immunosuppressed
+27,Vaccine – Immunization,31,Peptides
+27,Vaccine – Immunization,35,Antigen
+27,Vaccine – Immunization,56,Extrafollicular
+33,Immunisation,7,Biol
+34,Vaccination,14,Immunol – Immune – T14
+35,Antigen,3,Vaccines – Tetanus
+35,Antigen,9,Cells – Memoryt
+35,Antigen,29,Vaccine – Antibodies
+35,Antigen,30,Antibody – Vaccine
+35,Antigen,39,Leprosy
+35,Antigen,41,Immunization – Cells
+35,Antigen,49,Lyme – Diagnosis
+35,Antigen,57,Antigens – Vaccines
+37,Immunization – Infections,10,Vaccines – Antigens
+37,Immunization – Infections,12,Vaccines – Antibodies
+37,Immunization – Infections,14,Immunol – Immune – T14
+37,Immunization – Infections,26,Antibodies
+37,Immunization – Infections,51,Pertussis – Neonatal
+38,Rubella,37,Immunization – Infections
+39,Leprosy,0,Vaccine – Polysaccharides
+39,Leprosy,10,Vaccines – Antigens
+39,Leprosy,11,Marrow
+39,Leprosy,22,Vaccine – Measles
+41,Immunization – Cells,5,Malaria
+41,Immunization – Cells,12,Vaccines – Antibodies
+41,Immunization – Cells,19,Pdf
+42,Immunol – Recombination,1,Vaccines – Immunisation
+42,Immunol – Recombination,8,Immunol – Immune
+42,Immunol – Recombination,38,Rubella
+43,Lymphatic,4,Vaccine – Antibody
+43,Lymphatic,6,Pathogen
+43,Lymphatic,40,Cells – Antibodies
+43,Lymphatic,52,Vaccines – Tuberculosis
+49,Lyme – Diagnosis,27,Vaccine – Immunization
+52,Vaccines – Tuberculosis,33,Immunisation
+55,Pertussis – Vaccines – T55,0,Vaccine – Polysaccharides
+55,Pertussis – Vaccines – T55,2,Pneumococcal
+55,Pertussis – Vaccines – T55,15,Ctl
+55,Pertussis – Vaccines – T55,16,Vaccines – Immunology
+55,Pertussis – Vaccines – T55,17,Influenza
+56,Extrafollicular,6,Pathogen
+56,Extrafollicular,20,Antigens – Vaccine
+56,Extrafollicular,53,Neutrophils
+56,Extrafollicular,54,Vaccines – Dendritic
