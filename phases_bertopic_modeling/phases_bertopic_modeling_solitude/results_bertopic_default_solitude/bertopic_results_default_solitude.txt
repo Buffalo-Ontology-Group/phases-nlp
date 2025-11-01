@@ -1,0 +1,2602 @@
+BERTopic results default solitude
+
+Topic 0 (Solitary): confinement, prisoners, solitary, prison, isolation, units, correctional, effects, haney, persons
+Summary: Solitary confinement is a form of solitary confinement in which prisoners are isolated from the rest of the prison population. Solitary confinement is so common in prisons that it has been dubbed a “socially accepted’ practice.
+
+Topic 1 (Creativity): creative, ideas, creativity, efforts, paulus, process, groups, group, collaborative, domains
+Summary: Creative people tend to have some characteristics in common with “lone geniuses,” such as broad interests, and inde- pendence. But the key factors in many cases is simple hard work, persistence, and a resultant high quantity of creative products.
+
+Topic 2 (Singlehood): singlehood, single, perspective, depaulo, reasons, marriage, morris, żurek, spouse, mating
+Summary: Singlehood is a phenomenon that is determined by multiple factors involving social, cultural, religious, and psychological ones. This chapter will present the current knowledge on singlehood from a psychologi- cal perspective.
+
+Topic 3 (Aloneness): solitude, chapters, paradox, psychoanalytic, perspectives, beneficial, chapter, handbook, bad, updated
+Summary: The Handbook of Solitude was the first academic volume to specifically focus on the diverse theoretical and empirical approaches to the psychological study of solitude. In this second edition of the Handbook, we are absolutely thrilled to present a blend of new and updated chapters that approach solitude from a myriad of theoretical perspectives and methodo- logical approaches.
+
+Topic 4 (Ostracism): ostracism, williams, chronic, individuals, ignored, wesselmann, ostracized, effects, studying, giving
+Summary: Ostracism – being ignored and excluded – is a social phenomenon that occurs in a myriad cultures and contexts among humans and nonhuman social animals. Evolutionary theory offers an explanation for the robustness of ostracism in human society and its occur- rence within groups of othersocial animals.
+
+Topic 5 (Solitude): presence, definition, alone, physically, solitude, larson, other, tables, café, 1990
+Summary: Solitude can be and sometimes has been operationalized as an absence of social interaction and sometimes as physical aloneness. There is really no agreed‐upon physical “dis- tance” from others that is mandated in order for an individual to be considered alone.
+
+Topic 6 (Primates): hinde, he, me, my, was, had, letter, his, student, university
+Summary: John van der Horst was inspired by the work of Robert Hinde and others in the field of Child Development. He says he was inspired to study social and social relationships by Hinde’s theory of social complexity.
+
+Topic 7 (Rest): rest, athletes, sport, recovery, psychology, you, athlete, rested, within, detachment
+Summary: Athlete recovery is critical for athletes’ sport performance and health and well-being. Rest is typically associated with inactivity, which is considered to aid the athlete’s recovery from physical and psychological fatigue following training and competition.
+
+Topic 8 (Conclusion): conclusion, remarks, conclusions, concluding, final, longer, outcomes, term, , 
+Summary: Conclusion Concluding Remarks Conclusions Outcomes
+
+Topic 9 (Shyness): shyness, colonnesi, conscious, positive, smile, expressions, fearful, nonpositive, appeasement, coy
+Summary: Shyness reflects inhibition and anxiousness in social situations, and has been conceptualized as an emotion as well as an enduring characteristic of one’s personality. Temperamental shyness has been linked to a range of internalizing problems, but primarily social anxiety.
+
+Topic 10 (Adulthood): emerging, adulthood, decade, young, education, choices, affords, countries, flourishing, people
+Summary: Emerging adulthood is a time with very little structure for young people. The median age of first marriage has continued to climb with the average age of marriage in 1996 being 25 for women and 27 for men in the U.S.
+
+Topic 11 (Hikikomori): hikikomori, youths, countries, pathway, income, homes, prolonged, globalization, parents, society
+Summary: Hikikomori is generally seen as an emerging youth issue related to globalization and urbanization. It has not been the subject of research in most countries for two probable reasons: a lack of global consensus with respect to a research definition and diagnostic criteria; and more importantly, the extreme challenges, which confront research teams.
+
+Topic 12 (Athletes): athletes, home, athlete, rest, pasta, favre, public, bonding, he, resting
+Summary: Study: Solitude as a Means to Obtaining Mental Rest in Skilled Athlete Populations. Study: Reduced social interaction and engagement in solitude help athletes achieve the mental rest they desire.
+
+Topic 13 (Affective): extraverts, extraverted, extraversion, reward, introverts, happiness, trait, socializing, zelenski, dispositional
+Summary: Extraversion and happiness are heritable, but genetic causes are not clear. Some theories of extraversion suggest physiological causes that might stem from genetic variations.
+
+Topic 14 (Cyberbullying): digital, online, technologies, cybervictimization, young, exclusion, technology, people, access, victimization
+Summary: Digital technology plays a dominant role in understanding contemporary young peoples’ peer relations. Young people’s online and offline lives complement and parallel each other, with young people utilizing online environments to fulfill developmental tasks.
+
+Topic 15 (Shyness): adaptive, brain, shyness, neoteny, subtypes, regulatory, maturation, mechanisms, evolutionary, instantiated
+Summary: The origins of shyness are multifaceted. We speculate that shyness may have evolved due to individual differences in frontal brain maturation, resulting from the process of neoteny.
+
+Topic 16 (Sport): sport, athlete, hockey, just, reduced, column, table, about, thinking, re
+Summary: Athletes are constantly engaged in sport-related activities during the season. This constant engagement can lead to a sense of being always thinking about their sport.
+
+Topic 17 (Preschoolers): play, parten, onlooker, associative, categories, participation, unoccupied, ses, 1932, cooperative
+Summary: The study of nonsocial play at school has a long and rich history (see Coplan, 2011, for a review). Of par- ticular influence was Parten’s (1932) taxonomy of social participation.
+
+Topic 18 (Solitude): mindfulness, mindful, zinn, kabat, awareness, meditation, thoughts, mind, encourages, intentional
+Summary: Mindfulness is not an emptying of the mind, but rather an openness and sensitivity to the nuances of an individual’s emotions and physical responses. Mindfulness practice provides an opportunity for people to turn inward and nonjudgmentally witness their inner experiences.
+
+Topic 19 (Introversion): anthony, kagan, disorders, unfamiliar, behavioral, thomas, inhibition, symptoms, temperament, sub
+Summary: The construct of temperamental behavioral inhibition (BI) was introduced by Kagan to refer to children exhibiting fearfulness, withdrawal, and reticence in response to unfamiliar objects, people, and situations. In contrast, introversion is a much broader trait construct that encom- passes a number of facets, including low levels of positive affect, sociability, assertiveness, activity, and excitement‐ seeking.
+
+Topic 20 (Solitude): older, problem, everyday, adults, old, age, solving, autonomy, solitude, heterogeneity
+Summary: Hoppman and colleagues look into solitude experienced by individuals in older adulthood. Age-related shifts in everyday prob- lem solving may be linked with older adults’ emotional experiences during solitude.
+
+Topic 21 (Avoidance): approach, avoidance, motivations, mehrabian, motivation, cognitions, appropriate, ksionzky, affiliation, bring
+Summary: Social approach and avoidance motivations are largely independent of each other. They exhibit theoretically different (and not simply inverse) patterns of relationships with social experience and behavior.
+
+Topic 22 (Rodents): postweaning, isolation, rats, weaning, lukkes, systems, adolescence, rodents, cortex, male
+Summary: Social experiences that take place in childhood and adolescence play an important role for physical and mental health outcomes. In rodent work, the standard procedure used for examining the effects of social isolation in adolescence is the postweaning social isolation paradigm.
+
+Topic 23 (Speech): piaget, flavell, assimilation, ancients, my, cognitive, taking, relevant, accommodation, was
+Summary: Robert Sears’ “Your ancients revisited: A history of child development” is a favorite of mine. I often remind younger scholars that knowledge of the past can be rather helpful in creating a viable future for any given field of study.
+
+Topic 24 (Culture): cultural, behaviors, chen, culture, meanings, societies, evaluations, display, values, reports
+Summary: Research on culture and social withdrawal has focused mainly on the display of socially withdrawn behavior among children with different cultural backgrounds. It is difficult to establish logical and empirical links between the collective endorsement of cultural beliefs and values by a group and behaviors or developmental patterns that are displayed by individuals.
+
+Topic 25 (Solitary): activities, solitary, adolescents, spend, alone, span, content, adolescence, across, forced
+Summary: Solitary activities can have both costs and benefits from early childhood to adolescence. The causes and content of these solitary activities appear to be important determi- nants of the consequences of solitude.
+
+Topic 26 (Friendships): anxiously, friendship, withdrawn, adolescents, friendships, mutual, friends, involvement, adolescent, youth
+Summary: Anxiously withdrawn adolescents who are able to form mutual and lasting friendships fare better than those who do not. Friendship dissolution is a common and challenging experience for most adolescents.
+
+Topic 27 (Parenting): mothers, overcontrol, 1945, statements, her, parenting, freud, children, spitz, lorenz
+Summary: The importance of the early affective relationships among caregivers and their infants has a long history of emphasis in both human and animal work. Controlling and intrusive parenting can be one factor.
+
+Topic 28 (Autism): asd, friends, friendships, neurotypical, autism, friendship, kasari, bauminger, quality, report
+Summary: Having friends is crucial to a child’s development of social, communication, and theory of mind skills. A lack of socially supportive relationships is linked to a plethora of negative outcomes in adolescence and adulthood.
+
+Topic 29 (Necessity): winnicott, capacity, 1965, communicating, object, subject, necessity, alone, aloneness, conception
+Summary: Winnicott’s views reflect a developmental and clinical conceptualization of the origins and first manifesta- tions of aloneness and solitude as well as their vicissitudes. The capacity to be alone is a major manifestation of emotional maturity and is not acquired by all individuals, whereas the necessity of being alone is universal.
+
+Topic 30 (Introversion): adulthood, emerging, asendorpf, caspi, withdrawal, work, evans, shy, instability, thirties
+Summary: There are three different but equally important lines of research that describe the impact of withdrawal on development in emerging adulthood. Caspi et al.
+
+Topic 31 (Aloneness): arousal, emotions, condition, neutral, deactivation, positive, alone, choice, week, time
+Summary: Up to half of adults’ waking time is spent alone, yet research on the experience and functions of time spent alone has been relatively neglected. In this chapter, we examine some of the varied ways people spend time alone, and the implications of time alone for emotion regulation and wellness.
+
+Topic 32 (Dating): motivation, attributions, approach, avoidance, gable, interpretation, success, failure, motivations, positive
+Summary: Social approach and avoidance motivations are two fundamental motivational dimensions that differ in the perceived end state. As most social situations are ambiguous, the cognitive bias with which a person perceives the situation is important in determining whether it is interpreted in a positive or negative way.
+
+Topic 33 (Glucocorticoids): inhibition, rats, rhesus, capitanio, behavioral, temperament, situations, basal, cavigelli, intruder
+Summary: Nonhuman primates possess relatively stable temperamental and personality dimensions that are compara- ble to the dimensions studied in humans. One temperament that has been associated with experiences of social isolation in human work is behavioral inhibition.
+
+Topic 34 (Primates): monkeys, harlow, reared, primates, deprived, rearing, rhesus, months, deprivation, kept
+Summary: Harry Harlow is one of the most prominent scientists who examined the effects of social deprivation and social isolation on nonhuman primates’ behaviors. Harlow’s studies on maternal deprivation and total isolation.
+
+Topic 35 (Autism): asd, autism, inclusion, spectrum, supports, belonging, classrooms, inclusive, additionally, challenges
+Summary: Autism spectrum disorder (ASD) is a neurodevelopmental condition characterized by pervasive challenges in social communication. Social challenges are considered a core deficit of ASD, as many individuals on the spectrum struggle with social interactions and associated milieu.
+
+Topic 36 (Paraprofessional): skills, paraprofessional, asd, playground, paraprofessionals, school, setting, adult, intervention, interventions
+Summary: Three types of interventions have been explored that may help limit the effects of loneliness on children with ASD. These interventions include adults as paraprofessional support at school, peer‐mediated interventions, and social skills groups.
+
+Topic 37 (Loneliness): media, problematic, use, users, kim, smartphones, psychological, excessive, looking, domain
+Summary: A large group of studies shows that heavy use of these media does not seem to do much in alleviating users’ existing problems. High levels of loneliness, depression, ADHD, or low levels of self-esteem have been found to develop problematic use of smartphones more than those with healthier psychological characteristics.
+
+Topic 38 (Behaviorally): play, solitary, active, coplan, passive, gavinski, molina, frequently, 2001, 1982
+Summary: Nonsocial play is the display of solitary activities and behaviors in the presence of other potential play partners. Solitary‐active play may be reflective of a child playing alone predominantly because other children do not want to play with them due to their immature behaviors.
+
+Topic 39 (Anxiety): amygdala, regions, cortex, activation, clauss, fox, orbitofrontal, hippocampus, anterior, brain
+Summary: The amygdala, anterior hippocampus, and orbitofrontal cortex are key components of a larger complex network that underlies anxious temperament. One possibility is that the central nucleus of the amygdala may play a role in the experience of fear and inhibition.
+
+Topic 40 (Motivation): doing, alone, activity, autonomy, motivation, when, deci, do, autonomous, controlled
+Summary: People may not always experience themselves as having choice, spending their time alone completing tasks that they think they should be doing. Autonomous motivation refers to a willingness to act, as when a person personally values an activity or finds interest in it.
+
+Topic 41 (Loneliness): lonely, loneliness, discrepancy, peplau, assurance, feel, perlman, need, minister, others
+Summary: Loneliness is a negative psychological experience caused by actual or perceived deficiencies in one’s relationships and from feelings of deprivation in relation to others. Being isolated or lonely means that there is a lack of support from others, which makes lonely people feel insecure and unprotected during interaction with others.
+
+Topic 42 (Withdrawal): hikikomori, psychiatric, japan, kato, disorders, wong, teo, months, six, burden
+Summary: Hikikomori is a nonpsychotic phenomenon that is distinguishable from the withdrawal state based on the positive or negative symptoms of schizophrenia. In 2010, in an attempt to offer a more acceptable definition for evaluation and, thus, garner further support for the development of services for hikkomori in Japan, the Ministry of Health, Labour, and Welfare suggested that hikikorori could be better described as homebound withdrawn behavior from social relation- ships, employment, and other types of social participation.
+
+Topic 43 (Deprivation): deprivation, animal, rodents, care, impact, reversible, institutional, whether, nonhuman, humans
+Summary: This chapter reviews the research on the effects of social deprivation on children. We examine how, why, and when social interactions or their absence matter for healthy development.
+
+Topic 44 (Smartphone): face, phone, smartphone, use, smartphones, problematic, users, media, phones, kim
+Summary: Study: Loneliness is a cause or an outcome of problematic use of media. Study: Heavy use of social media hurts how people feel daily and how satisfied they are with their lives.
+
+Topic 45 (Solitude): peer, solitude, experiences, contexts, negative, comes, variable, assembled, organismic, chapter
+Summary: This book presents the study of solitude in different developmental stages across the life span from early childhood to older adulthood. Solitude’s relations with negative peer experiences have been studied more extensively with young children than with any other age group.
+
+Topic 46 (Loneliness): media, face, cmc, loneliness, users, problematic, vicious, relying, mediated, communication
+Summary: More and more people are living alone and relying on CMC as a major means for social interac- tion. We ask whether mediated communication can satiate people’s desire to be with oth- ers as much as face-to-face interaction, or even replace it.
+
+Topic 47 (Preschoolers): bi, toddler, reticence, years, henderson, emotion, physiological, project, four, contemporaneously
+Summary: Early BI continues to shape the quality of children’s day-to-day experiences, particularly within interpersonal contexts. The Waterloo Toddler Project examined whether BI at two years predicted solitude among unfamiliar peers and inter- nalizing difficulties at age four years.
+
+Topic 48 (Adolescence): victimization, anxiously, peer, shell, youth, anxious, withdrawn, withdrawal, moderated, oh
+Summary: Markovic and Bowker (2015) examined whether peer-valued characteristics (e.g., humor, prosocial behavior) moderated the associations between anxious‐withdrawal and two facets of young adolescents’ peer relations (i.e., peer acceptance or popularity, peer victimization) Findings suggested that peer‐valued characteristics moderated associations between anxiety and certain aspects of peer relations. The direction and strength of these associations often differed depending on the adolescents' gender.
+
+Topic 49 (Immigrants): immigration, immigrants, immigrant, context, solitude, me, discriminatory, majority, host, involuntary
+Summary: Solitude, that is, spending time alone or lacking social interaction, is a complex phenomenon. For most immigrants, solitude often involves unpleasant experiences of fear and discomfort with interacting with others.
+
+Topic 50 (Awareness): condition, reflection, franzoi, brewer, consciousness, browse, preparation, self, nguyen, 1984
+Summary: People generally report more self‐reflection and more awareness of inner thoughts and emotions when alone. This raises the question of whether deliberate thinking is considered an activity or whether it should be excluded from the definition of solitude.
+
+Topic 51 (Aloneness): authentic, authenticity, introjects, when, inauthentic, inau, feeling, aloneness, thentic, they
+Summary: Introjects are the “should” and “have‐to” messages people carry with them. Introjects make people feel compelled to engage in activities out of guilt or anxiety.
+
+Topic 52 (Conclusions): directions, conclusions, future, premise, conclusion, empirical, status, considering, contexts, and
+Summary: Conclusions and Future Directions: Considering Contexts Empirical Status of Premise 1 Em
+
+Topic 53 (Peer): peer, maltreatment, adversity, victimization, rejection, disliking, orientations, ladd, differing, forms
+Summary: Peers’ adverse reactions to differing expressions of solitude may vary in form or severity, thereby posing different levels of risk. Peer victimization refers to harsher forms of peer maltreatment, such as when children fre- quently are the recipients of peers’ aggressive overtures.
+
+Topic 54 (Introduction): introduction, overview, introdnction, beginnings, edition, handbook, theoretical, personal, new, this
+Summary: New Edition of the New Edition of
+
+Topic 55 (Social): sociometry, moreno, journal, manuscripts, uchida, constructs, drawal, had, position, aware
+Summary: From nonclinical perspectives, some researchers have considered prolonged social withdrawal from social constructionist (Horiguchi, 2015), social‐cultural (Borovoy, 2008, 2010), and psychological frameworks. This section of the chapter aims to review some of these non- clinical perspectives in order to broaden the reader’s appreciation of the nature of prolonged socially with- drawn behavior.
+
+Topic 56 (Mindfulness): mindfulness, mindful, ergas, simple, butzer, takes, scholars, practice, minutes, living
+Summary: Research suggests that there are positive aspects of mindful solitude that can be benefi- cial not only for adults, but for children and adolescents as well. Mindful living is quite simple, but it takes practice.
+
+Topic 57 (Adolescence): places, favorite, green, parks, natural, korpela, nature, owens, spaces, finnish
+Summary: There are relations among privacy regulation, restoration, and self-regulation in children and adolescents. The need to be alone, the importance of hiding places (often in nature), and the need to escape from social demands are commonly reported in these studies.
+
+Topic 58 (Playmates): play, competence, krasnor, dramatic, you, solving, goals, problem, index, preschoolers
+Summary: The goal of the curriculum was to provide preschoolers with opportunities to attain concepts designed to help their entry into the public school system. The curriculum resembled that developed by Spivack and Shure that had as a goal the development of social consequential and means‐ends thinking in preschoolers and kin- dergartners attending Head Start programs.
+
+Topic 59 (Infancy): transitional, game, playing, separation, phenomena, mother, he, object, disappearance, da
+Summary: Freud (1920/1955a) observed that the child was able to renunciate the instinctual satisfaction caused by the mother’s presence. In this area, transitional objects and transitional phenomena appear in the beginning of life, followed by the use of symbols and playing and finally by culture.
+
+Topic 60 (Avoidance): victimization, exclusion, peer, anxious, centered, solitary, variable, unsociable, school, obtained
+Summary: Peer exclusion refers to peers’ attempts to marginalize children, or limit their participation in social interactions and activities. Peer exclusion also has been linked with adverse developmental outcomes (see Buhs et al., 2006)
+
+Topic 61 (Loneliness): asd, loneliness, autism, spectrum, protective, depression, sequelae, hedley, support, cacioppo
+Summary: Loneliness is widely conceptualized as an aversive, negative affective state, often likened to depression or anxiety. Individuals with autism report higher levels of loneliness in comparison to neuro- typical peers.
+
+Topic 62 (Shyness): chen, china, shy, canada, attitudes, raja, western, tani, cultural, socialization
+Summary: In Western cultures, an important socialization goal is to help children develop independence and self-confi- dence. Parents view shy, wary, and anxious behavior as indicating social imma- turity and thus often express negative attitudes toward the behavior.
+
+Topic 63 (Inhibition): bi, psychopathology, stably, muris, switching, thorell, moderators, inhibition, dis, development
+Summary: We review the literature on the stability of BI and its expression across develop- ment. Next, we discuss factors that may influence the development and maintenance of BI.
+
+Topic 64 (Happiness): happiness, extraversion, facets, objection, affect, positive, steel, inventory, satisfaction, eudaimonic
+Summary: Happiness is a multifaceted construct, with affective and cognitive components. We conclude that the association between extraversion and happiness cannot be fully explained by biases in the definition or measurement of happiness.
+
+Topic 65 (Heritability): bi, genetic, parenting, twin, parents, etiology, pa, eley, moder, colleagues
+Summary: Twin studies comparing concordance between monozygotic and dizygotic twins have found that BI is moder- ately heritable. Although BI appears to be at least partially heritable, the specific genetic influences remain elusive (see Clauss, Avery, & Blackford, 2015 for a review)
+
+Topic 66 (Singlehood): attachment, pepping, singlehood, attached, securely, long, subgroups, term, macdonald, model
+Summary: Researchers have long been interested in examining singlehood from the perspective of attachment theory. Pepping and colleagues (Pepping & MacDonald, 2019; Pepping et al., 2018) outlined an attachment-related theoretical model of long-term singlehood.
+
+Topic 67 (Solitude): complex, solitude, causes, consequences, well, spending, merton, sunlight, we, nature
+Summary: The notion that solitude has negative consequences has a long history and can literally be traced back to biblical times (Genesis 2:18, And the LORD God said “It is not good for the man to be alone”). Contemporary approaches to the psychology of solitude now acknowledge that time alone is neither inher- ently good nor bad.
+
+Topic 68 (Relationships): status, satisfaction, relationship, partner, single, being, well, having, adamczyk, partnered
+Summary: The importance of relationships for people’s mental and physical health has been well documented in the literature. Married people report lower rates of mental illness and greater happiness in comparison to unmarried, divorced, separated, or widowed individuals.
+
+Topic 69 (Daydreams): imaginary, companion, fantasy, fantasies, twin, child, narcissistic, creation, benson, pryor
+Summary: A very frequent fantasy for toddlers and preschool‐aged children is the imaginary companion. This companion is an invisible person or animal created by the child who talks and plays with it for a considerable period of time.
+
+Topic 70 (Snmmary): processes, snmmary, conclnsions, preconditions, modulate, nested, separateness, symbolic, loss, connectedness
+Summary: Separateness, absence, and loss are the preconditions for symbolic connectedness. process
+
+Topic 71 (Preschool): waterloo, hired, hire, labs, facility, income, faculty, families, university, dyck
+Summary: In 1973, I accepted a position at the University of Waterloo. I suggested that it could become an on‐campus preschool that could provide an early education to 3‐ to 5-year-olds from middle class as well as lower income homes.
+
+Topic 72 (Aloneness): alone, personality, autonomy, enjoyment, time, preference, spending, measures, spent, its
+Summary: Several studies have examined personality correlates of attitudes toward spending time alone. It is important, however, to distinguish between choosing to be alone over being with others and autono- mously pursuing time alone for its enjoyment and benefits.
+
+Topic 73 (Primate): phillips, models, nonhuman, humans, neocortex, primates, primate, brains, rhesus, stevens
+Summary: Nonhuman primates are the evolutionarily closest animals to humans. They provide important models to understand the potential effects of deprivations in social experiences on humans.
+
+Topic 74 (Intimacy): disclosure, patients, alden, sad, conversational, partners, responsiveness, treatment, taylor, intimacy
+Summary: SAD patients are less likely to reciprocate the self‐disclosure of their conversational partners and, in turn, their partners are less interested in future con- tact with them. Students with social anxiety reported avoidance of expressing emotion, lack of assertion, and interpersonal dependency in their interactions with family and friends.
+
+Topic 75 (Rodent): reared, offspring, pups, fathers, mothers, paternal, communal, caregiving, biparental, voles
+Summary: Human family structures are diverse and complex. Some children are cared by their biological parents, some by their nonbiological parents while others are reared by a combination of both biological and nonbiologically parents.
+
+Topic 76 (Adolescents): anxious, greca, la, rapee, socially, spence, anxiety, fears, overall, 1999
+Summary: Socially anxious children often avoid and withdraw from social interactions due to fears of being negatively evaluated and/or rejected by peers. The most notable impact of social anxiety is on the nature of peer relationships.
+
+Topic 77 (Childhood): waterloo, wlp, withdrawal, summary, began, guided, longitudinal, flipping, project, significance
+Summary: The Waterloo Longitudinal Project (WLP) was guided by the belief that peers influence growth and development. In our longitudinal study of typical, school attending children we demonstrated that social withdrawal: (1) is stable; (2) is associated concurrently, from early through late childhood, with measures conceptually reflective of peer rejection, observed social failures, felt insecurity, negative self‐ appraisals of social relationships.
+
+Topic 78 (Solitude): feeling, oceanic, narcissism, vs, 1961, 1930, art, freud, infancy, essay
+Summary: Solitude may be, on the one hand, a retreat in front of the pain inherent in human relations. On the other hand, it is also deemed to provide a fertile ground for the cultivation of authenticity, creativity, and genuine relationships.
+
+Topic 79 (Motivations): northway, summer, camp, accepted, least, were, schools, sociometric, remembering, camps
+Summary: Mary Northway Northway (1944) conducted a series of sociometric studies of children attending both summer camps and elementary schools in the province of Ontario, Canada. The goal of these studies was to determine “the person- ality patterns of children least acceptable to their age mates”
+
+Topic 80 (Loneliness): asd, loneliness, interventions, sequelae, treatment, protective, tenance, directly, friendships, against
+Summary: Dissatisfaction with the quality of friendships or stress derived from navigating complex social milieu may contribute to the high levels of loneliness reported by children with ASD. Negative self‐perceptions and social rejection are risk factors for the development of loneliness in ASD.
+
+Topic 81 (Withdrawn): withdrawn, deviation, kindergarten, entire, standard, mean, extremely, below, details, 10
+Summary: Rubin, Hymel, & Mills: Social withdrawal in the first year of life predicted behavioral problems two and four years later. The consequences of social withdrawal seem to be negative regardless of the underlying motivation, they say.
+
+Topic 82 (Withdrawn): mothers, internalizing, strategies, withdrawn, displays, child, hypothetical, embarrassment, typical, withdrawal
+Summary: Mothers were mostly similar in the emotions, causal attributions, and behavioral reactions they thought they would have in response to their children’s displays of social withdrawal in early childhood. Mothers were more likely to explain withdrawal on the basis of dispositional (e.g., temperament) or constitutional causes.
+
+Topic 83 (Motivation): nikitin, freund, peripheral, avoidance, motivation, older, approach, adulthood, tasks, relationships
+Summary: To date, little is known about the development of approach and avoidance motivations beyond young adulthood. Nikitin and Freund (2019b) found that older adults reported higher levels of avoidance goals in peripheral but not close relationships.
+
+Topic 84 (Solitude): solitary, peer, subtypes, adversities, experiences, precipitates, negative, focal, longitudinal, transactional
+Summary: Evidence suggests that solitary children are at risk for negative peer experiences. The nature, timing, and severity of such experiences appears to vary depending on the motivations that underlie children’s manifestations of solitude.
+
+Topic 85 (Shyness): maternal, parenting, mothers, positivity, negativity, hane, overprotection, too, approach, parental
+Summary: The pursuit of solitude within interpersonal contexts – also referred to as social withdrawal – primarily is construed as arising from motivational or emotional states that exist within the child. Maternal positivity and negativity differentially influenced the development of social withdrawal in childhood.
+
+Topic 86 (Aloneness): attachment, propose, togetherness, capacity, solitude, healthy, security, perspective, comfortably, alone
+Summary: An Attachment Perspective on Solitude and Loneliness. Being together and being alone are two core human experiences that have both rewarding and aversive aspects.
+
+Topic 87 (Friendships): friendships, adolescents, withdrawn, socially, school, increasingly, peers, adolescent, nevertheless, questions
+Summary: There is convincing evidence that socially withdrawn adolescents’ peers play an important role in their lives. Despite their best efforts to avoid most peers, withdrawn adolescents still encounter groups of peers who are rejecting, victimizing, and excluding.
+
+Topic 88 (Shyness): delta, frontal, power, maturation, beta, eeg, correlation, shy, alpha, adr
+Summary: Study 1 examined resting state frontal EEG asymmetry among children classified as posi- tive shy, nonpositive shy, and low shy. Study 2 examined frontal EEG delta‐beta correlation among these shyness subtypes.
+
+Topic 89 (Withdrawal): withdrawal, tendency, unfamil, voluminously, literal, iar, familiar, dimen, katz, extracurricular
+Summary: Social withdrawal refers to the behavioral tendency to consistently avoid familiar and unfamil- iar peers. This behavioral tendency tends to be stable across contexts and over time.
+
+Topic 90 (Acculturation): host, culture, immigrants, mainstream, berry, acculturation, castelli, country, language, asylum
+Summary: Immigration refers to people’s movement from their country of origin to another county for residential rather than visiting purposes. Immigration may be voluntary or forced.
+
+Topic 91 (Introversion): introversion, extraversion, personality, traits, eysenck, narrower, dimension, neuroticism, broad, popular
+Summary: Popular conceptions of introversion and extraversion are often attributed to Carl Jung. But empirical personality research on the topic has a history that is distinct from these.
+
+Topic 92 (Shyness): sexual, romantic, emerging, relationships, relational, 2013, sexuality, luster, adults, shy
+Summary: Shy emerging adults are less likely to be in a roman- tic relationship, feel less competent in romantic relationships, engage in less dating, and report lower quality relationships. Shyness has been associated with increased levels of masturbation and pornography use.
+
+Topic 93 (Adolescence): expansion, withdrawal, peers, adolescence, dyadic, adolescent, fare, during, we, complexity
+Summary: Social withdrawal during adolescence has been relatively neglected in favor of research on social withdrawal during childhood and emerging adulthood. Peers in the workplace may help with work performance and job advancement.
+
+Topic 94 (Acculturation): acculturation, immigrant, marginalized, migrants, acculturative, involuntary, separated, integrated, style, styles
+Summary: Research has shown that failed attempts at participating in the host society by immigrants who are characterized by separated or marginalized acculturation styles may result in involuntary solitude. The acculturative stress model also provides a framework that connects immigrant parents’ experiences of acculturations to their children’s psychosocial experiences related to solitude.
+
+Topic 95 (Shyness): emerging, friendships, shy, adults, closson, surrogates, avoidant, structure, barry, friends
+Summary: Shy emerging adults report experiencing less affection in their friendships, less confidence that their friendships will last, and less overall satisfaction with their friendships. Research has shown that shy young people often rely on friends to act as “social surrogates” in unfamiliar situations to help facilitate social interac- tion.
+
+Topic 96 (Shyness): shyness, chinese, xu, regulated, adjustment, positively, associated, asian, china, values
+Summary: Shyness seems to be more accepted in group-oriented cultures than in Western indi- vidualistic cultures. Unlike their Western counterparts, shy children in East Asia receive parental support and experience little pressure from parents.
+
+Topic 97 (Loneliness): romantic, adamczyk, status, single, loneliness, partnered, segrin, satisfaction, singlehood, relationship
+Summary: Adamczyk (2019) found that single adults who often and always expressed preference for an alternate relationship status also reported the lowest level of satisfaction with their single satisfaction. The transition from partner status to single status over a period of 12 months has been found to be associated with increased romantic loneliness.
+
+Topic 98 (Loneliness): cortisol, physical, mortality, cacioppo, eisenberger, health, loneliness, holt, lunstad, isolation
+Summary: Social isolation has been associated with an elevated risk of depression, low life satisfaction, poor self-rated physical health, cardiovascular disease, and mortality in samples aged 30–103 years. For example, elevated loneliness on a given day was associated with subsequent increases in the cortisol awakening response (operationally defined by the increase in salivary cortisol during the first 30 minutes after awakening) on the following day.
+
+Topic 99 (Shyness): unsociability, unsociable, coplan, western, children, 2011, raja, benign, meier, viewed
+Summary: In Western societies, shyness is generally regarded as indicating incompetence and immaturity. Research has shown that unsociability is not necessarily associated with internalizing problems or peer difficulties.
+
+Topic 100 (Lonely): offline, resources, resource, lonelier, mediated, online, compensate, communication, lonely, deficient
+Summary: One of the reasons for such global escalation of loneliness might be that more people are living alone than ever. As a way to compensate for the lack of direct human contacts, today’s individuals rely on mediated communication a lot.
+
+Topic 101 (Mobile): mobile, device, smartphones, applications, phone, smartphone, billion, million, users, downloaded
+Summary: Since Facebook’s debut in 2006, close to 2.77 billion people are using social media in 2019. Seventy percent of both East Asians and North Americans use social media.
+
+Topic 102 (Summary): summary, thank, notes, your, you, perspective, attention, for, , 
+Summary: “
+
+Topic 103 (Loneliness): mother, infant, unfortunate, aloneness, cases, toy, capacity, companion, alone, other
+Summary: The infant's capacity to be alone – a capacity that develops throughout life – depends largely on the mother’s capacity to being alone. Primary maternal preoccupation, in the sense of the mother's complete devotion to her newborn baby, gradually subsides.
+
+Topic 104 (Solitude): sad, dahl, disorder, rodebaugh, married, clinical, emotional, unable, close, satisfied
+Summary: People with social anxiety disorder (SAD) often unable to establish satisfying relationships. SAD is associated with a variety of negative effects, including underemployment, financial hardship, and increased use of health care services.
+
+Topic 105 (Rubin): chester, dr, dear, kurzban, chow, zhang, wirth, dewall, hipson, wesselmann
+Summary: A number of studies have shown that the idea of a ‘golden age’ of
+
+Topic 106 (Leisure): activities, leisure, adolescents, spent, screens, tv, homework, watching, hobbies, sedentary
+Summary: Researchers postulated that engaging in leisure activities is particularly important for staving off boredom and promoting well-being. Larson (1990, 1995, 1997) suggests that solitude is beneficial in adolescence because it affords opportunities to engage in leisure.
+
+Topic 107 (Parenting): sad, anxiety, apa, phobia, prevalent, disorder, psychiatric, clinical, evaluation, kessler
+Summary: Social anxiety is a ubiquitous human experience. Some individuals develop social anxiety disor- der (SAD) SAD is the third most prevalent psychiatric disorder in North America.
+
+Topic 108 (Stimulus): stimulus, barrier, stimuli, autoerotism, gediman, esman, freud, mechanism, drive, narcissism
+Summary: In Freudian theory the initial state of the human being is that of autoerotism and primary narcissism. The stimulus barrier seems to be the mechanism that ensures the preservation of this way of being.
+
+Topic 109 (Identity): identity, exploration, commitment, career, explore, emerging, work, avoidant, dislike, adulthood
+Summary: A key feature of emerging adulthood is the opportunity it affords young people to form their identity. For successful identity development to occur, there should be a period of exploration followed by commitment.
+
+Topic 110 (Hikikomori): hikikomori, stage, stages, insecure, kasahara, hattori, dickie, psychosocial, crisis, koyama
+Summary: Hikikomori coexists with a variety of psychiatric conditions, including adjustment disorders, anxiety‐related disorders, autism spectrum disorders, major depressive disorder, post‐traumatic disorder, Psychological perspectives. We have reviewed and summarized some of the most recent international studies on hikkomori in this chap- ter.
+
+Topic 111 (Withdrawn): interventions, family, withdrawn, service, intervention, impacted, preventative, young, innovative, program
+Summary: Some youth will withdraw due to one, two, or three of the aforementioned factors, and thus, interventions should be tailored accordingly. Innovative ideas for engagement and intervention are needed.
+
+Topic 112 (Loneliness): problematic, media, use, outcome, cause, discusses, tematic, outlook, endeavor, sys
+Summary: This chapter explores the association between problematic use of media and psychological well‐being, especially loneliness. It attempts to provide asys- tematic overview of noteworthy research findings for interested readers.
+
+Topic 113 (Avoidance): span, approach, motivation, motivations, avoidance, trainings, across, processes, aim, establishing
+Summary: In this chapter, we discuss processes that underlie the positive and negative outcomes of social approach and avoidance motivations. Taking a developmental perspective, we explore how these processes might change across the life span.
+
+Topic 114 (Culture): emerging, roommates, adulthood, coworkers, decade, withdrawal, withdrawing, cultures, classmates, flourishing
+Summary: Social interactions with roommates, classmates, coworkers, and other peers may be indicators of whether or not young people are taking advantage of the opportunities afforded them in the third decade of life. There is scant research on social withdrawal in these very specific social contexts.
+
+Topic 115 (Challenges): directions, future, go, summary, here, challenges, where, do, we, from
+Summary: Future Directions Where Do We Go From
+
+Topic 116 (Single): fear, single, spielmann, being, ex, individuals, longing, adamczyk, partner, among
+Summary: Fear of being single was positively associated with dependence on less satisfying relationships and longitudinally predictive of the initiation (or lack thereof) of breakups. Fear of beingsingle was also a positive predictor of feelings of love and longing for ex-partners.
+
+Topic 117 (Environment): company, urban, kaplan, restorative, environment, staats, setting, fatigued, park, enablement
+Summary: Social support can make a situation more restorative, and that the company of friends can serve multiple functions, conducive or not conducive to restoration. In a series of studies, we looked at the effects of different leisure environments and social context – being alone versus being with a friend – on the restorative potential of the situation.
+
+Topic 118 (Ostracism): ostracized, ostracism, williams, needs, responses, participants, pro, inclusionary, membership, need
+Summary: Research has found two main types of responses to ostracism: pro‐ and antisocial behavior. Several studies suggest ostracized individuals may respond prosocially as a way to become reincluded.
+
+Topic 119 (Rest): rest, learning, practice, consolidation, memory, distributed, motor, quiescent, periods, shea
+Summary: Distributed practice involves practice sessions separated by rest periods ranging in duration from seconds to days. A key explanation for the beneficial effect of rest periods within distributed practice is that they allow for memory consolidation.
+
+Topic 120 (Freud): ego, narcissism, libido, primary, infant, object, state, freudian, objects, aloneness
+Summary: In Freudian theory, development is conceived as a gradual differentiation of the subject from the object. The infant is immersed in omnipotent self-sufficiency, in which satisfaction is achieved through an equally omnipo- tent other.
+
+Topic 121 (Loneliness): loneliness, bauminger, neurotypical, asd, 2003, emotional, understanding, cognitive, scale, peers
+Summary: Early conceptualizations of loneliness delineate two distinct types, including emotional and social cognitive loneliness. Emotional loneliness is often felt in relation to the loss of an intimate companion or attachment figure.
+
+Topic 122 (Mindful): mindful, kimmes, hansen, relationally, jones, karremans, empathy, awareness, relationship, shortcomings
+Summary: Interpersonal mindfulness is defined as remaining aware and nonjudgmental in the presence of others. Research has exam- ined how interpersonal mindfulness may be linked to romantic relationship well-being.
+
+Topic 123 (Safety): alden, sad, sense, identity, erickson, self, gilbert, taylor, shame, they
+Summary: The ability to develop intimate relationships is dependent in part on a clear sense of one’s identity. Limited and often less positive social experiences in childhood and adolescence leave young adults with SAD less well prepared to navigate the process of identity formation.
+
+Topic 124 (Mindfulness): yoga, mindfulness, resilience, felver, students, dunning, zenner, mbis, improvements, african
+Summary: Research on mindfulness and yoga for children and adolescents. These studies suggest that yoga and mindfulness may have beneficial effects.
+
+Topic 125 (Cognitions): mates, bids, hartup, acceptance, interacted, was, frequently, popularity, peer, sociometric
+Summary: In the 1970s, it was assumed that children’s social cogni- tions were actualized by their social interactions. Researchers had shown that friendliness and sociability were positively associated with popularity among peers, regardless of the age group studied.
+
+Topic 126 (Anxiety): bi, allele, pérez, edgar, biases, mcdermott, attentional, monitoring, threat, short
+Summary: Kagan and colleagues (1988) suggested that BI resulted from an oversensitive amygdala. In the next section we summarize data on genetic, biological, cognitive, and environ- mental risk factors associated with the development and maintenance of BI.
+
+Topic 127 (Reticence): reticent, szabo, behavior, onlooking, respond, play, gal, nonsocial, playing, robinson
+Summary: Reticent behavior consists of onlooking (e.g., watching other children without joining in) and unoccupied behavior. This type of behavior is quite common in early childhood, observed to occur between 17–20% of the time during free play among unfamiliar peers.
+
+Topic 128 (Insecurities): bowlby, attachment, proximity, system, 1982, threats, caregiver, figures, figure, theory
+Summary: John Bowlby (1982) is considered the founder of attachment theory. In his theory, human beings are born with a psychobiological system that motivates them to seek proximity to significant others in times of need.
+
+Topic 129 (Restoration): restoration, attachments, distur, bance, nature, setting, reviewing, natural, company, degrade
+Summary: The evidence suggests that company of friends may enable people to experience restoration in nature without concerns for safety. Company may enhance restoration through the mutual appreciation of the given natural setting but it also may degrade restoration if attention is drawn away from the environment.
+
+Topic 130 (Solitude): premise, adversity, peer, inference, addressing, adversities, investigative, forms, solitude, produced
+Summary: We review the constructs of solitude and negative peer experiences, identify common or established exemplars, and summarize the conceptual distinctions that researchers have made. The strongest support for the inference that solitude, in one or more of its behavioral expressions, provokes negativepeer experiences comes from studies that examine solitude as an antecedent rather than a concurrent correlate of peer adversity.
+
+Topic 131 (Unnamed Topic): , , , , , , , , , 
+Summary: 
+
+Topic 132 (Withdrawn): withdrawn, requests, partners, cost, krasnor, 1986, goals, children, rubin, try
+Summary: Withdrawn children were found to be quiet, highly compliant, and submissive. They also experi- enced a higher than average degree of social failure.
+
+Topic 133 (Peer): deve1opmenta1, re1ationa1, re1ation, so1itude, corresponding, peer, experiences, level, dyadic, directions
+Summary: The concept of Negative Peer Experiences and Corresponding Re1ationa1 Forms is
+
+Topic 134 (Loneliness): grade, withdrawn, extremely, anxious, withdrawal, revised, ninth, rcp, aggregate, athletic
+Summary: By the age of seven years (second grade), children who were identified as extremely withdrawn had more severe difficulties than their younger, preschool‐ and kindergarten‐aged counterparts. In late childhood (fourth grade) and early adolescence (fifth grade), we used the Revised Class Play to identify extremely withdrawn individuals.
+
+Topic 135 (Shyness): regulation, rothbart, inhibitory, eisenberg, inhibition, retrospective, self, behavioral, control, 1995
+Summary: Self‐regulation has been long regarded as a key component of temperament and personality. It has been suggested that self‐regulatory capacity may lead to individual differences in behavioral inhibition (wariness in response to novelty, a proposed antecedent of shyness) High levels of self‐regulation are known to predict positive social functioning and academic success.
+
+Topic 136 (Oneself): asian, construal, american, european, students, americans, independent, college, construals, pendent
+Summary: Okazaki (1997) proposed that the higher social anxiety reported by Asian immigrant college students in the U.S. may be partly due to stronger interdependent self‐construal and/or weaker independent self‐ construal than European American college students.
+
+Topic 137 (Shyness): adversities, peer, propensities, victimization, exclusion, unsociability, disinterest, solitary, correlated, gazelle
+Summary: Investigators have also studied solitude and solitary subtypes (e.g., anxious solitary/shy, unsociable, avoidant) with samples of adolescents, as well as young adults. Results showed that, whereas shyness correlated negatively with peer acceptance, both shyness and unsociability correlated positively with peer vic- timization.
+
+Topic 138 (Maternal): seattle, booth, attachment, minnesota, matas, meeting, security, resistant, sroufe, waters
+Summary: The author was part of a consortium being funded by the MacArthur Foundation to examine the effects of infant care on infant and toddler development. The Seattle site hosted the study of the causes and correlates of early attachment relationships.
+
+Topic 139 (Solitary): idiom, bollas, nucleus, unthought, called, 1989, character, psychic, describes, environment
+Summary: Christopher Bollas (1989) posited that each human being has a true self, which may be called idiom. The idiom meets culture and, through their dialectic, the psychic life of the individual develops.
+
+Topic 140 (Exploration): games, exploration, smilansky, rules, hutt, play, 1979, bruner, suggested, question
+Summary: Piaget (1962) in his book, Play, Dreams and Imitation in Childhood, described a taxonomic model for the devel- opment of children’s games. Sara Smilansky (1968) suggested that the child moves naturally from one “stage” of play to the next “in keep- ing with his biological development”
+
+Topic 141 (Solitude): instruction, autonomy, received, supportive, thwarting, subjects, condition, tones, subject, participants
+Summary: Nguyen et al. (under review) experimentally created three conditions: a neutral solitude condition, an autonomy‐supportive solitude condition and an autonomy-thwarting solitude condi- tion.
+
+Topic 142 (Antonomy): solitnde, distingnishing, antonomy, anthenticity, aloneness, role, effects, and, in, of
+Summary: The Role of Antonomy in Aloneness
+
+Topic 143 (Mindfulness): yoga, dorjee, mindfulness, zelazo, kaunhoven, lyons, variety, resources, prefrontal, beneficial
+Summary: As a form of positive solitude, mindfulness and yoga may provide children and adolescents with the abil- ity to momentarily disconnect from (and become more aware of ) the influence of technology on their lives. Research on adults suggests that mindfulness is associated with changes in the structure and function of a variety of brain regions, including the prefrontal cortex.
+
+Topic 144 (Mindfulness): sexual, mindfulness, leavitt, mindful, newcombe, weaver, accepting, women, interference, sex
+Summary: Practicing positive solitude during a sexual experience may be more difficult to achieve than being mindful in other day-to-day experiences. Individuals who create a mindful awareness without judgment during sexual experiences may possess an enhanced ability to observe their thoughts and feelings without immediate reaction.
+
+Topic 145 (Athletes): practice, deliberate, performance, ericsson, expert, constraint, baker, must, effort, sports
+Summary: Deliberate practice requires considerable effort, placing great demands on the attentional systems, and where movement is required, on the physical systems. To engage in daily deliberate practice over many years, individuals must avoid becoming exhausted from engaging in such practice, given its effortful nature.
+
+Topic 146 (Privacy): home, maxwell, private, spaces, privacy, where, room, scottish, wales, laufer
+Summary: The availability of privacy is closely related to the achievement of self‐identity and self‐ esteem. Children highly value having a room of their own that they can name as the primary place where they feel most at home.
+
+Topic 147 (Stress): settings, stress, restorative, nature, natural, regulation, frequency, places, vocational, teachers
+Summary: In the restorative environments literature, it is assumed that, in general, people tend to avoid settings or situations where undesired emotions may become activated. There is some evidence to suggest that spontaneous place choices to implement restora- tive coping strategies are related not only to the amount of stress, but to the sources of this stress.
+
+Topic 148 (Introversion): pleasant, arousal, activated, extraversion, affect, unpleasant, feelings, correlation, pleasantness, extraverts
+Summary: There are good reasons to think that the association between happiness and introversion‐extraversion might depend on the particular operationalization of happiness. Some widely used measures may indeed favor extraverts.
+
+Topic 149 (Loneliness): internet, support, problematic, users, media, honest, cancer, use, online, improving
+Summary: The more people used the internet, the lonelier and more depressed they got compared to two years ago when the participants had first joined the project. A similar result was found for adolescents who used instant messengers excessively for six months and ended up having higher levels of depression than before (van den Eijnden et al., 2008)
+
+Topic 150 (Loneliness): facebook, use, sns, passive, posting, snacking, users, active, updates, greater
+Summary: Research on active public use and social adjustment is generally mixed. Active public use has mixed associations with loneliness, and no association with social anxiety or thwarted belongingness.
+
+Topic 151 (Social): private, higher, content, sns, active, audience, platforms, messaging, use, browsing
+Summary: For young people who report greater shyness, active use may be a “safer’ route in connecting with others. Those higher in unsociability and social avoidance may find actively posting to SNSs less appealing.
+
+Topic 152 (Introverts): objection, happiness, introverts, cultures, individualistic, happier, cause, superior, stopped, aren
+Summary: Research on extraversion and happiness is conducted in Western cultures that prize individualism and assertiveness. The pattern might be different in cultures, such as Japan, that place greater value on thoughtfulness, passivity, and quiet reflection.
+
+Topic 153 (Introversion): introverts, extraverts, quantity, wilt, 2019, trait, sun, spend, more, recordings
+Summary: A primary conceptual characteristic of introversion is frequent experience of solitude. We have already reviewed evidence suggesting that introverts spend more time alone.
+
+Topic 154 (Athletes): sport, athletes, rest, spending, days, athlete, teammates, environments, time, chose
+Summary: Being alone better enables athletes to engage in activities, and social and physical environments, that are unrelated to their sport, which helps them think less about their sport. Being alone removes cognitive costs such as those associated with the need to communicate and be socially interactive.
+
+Topic 155 (Solitude): digital, devices, vs, computer, meaning, truly, communication, audio, alone, how
+Summary: There is no real consensus about at what point increasingly interactive technologies would render someone as no longer “alone” One study found that emerging adults with a preference for being alone were equally happy when using devices during alone time compared to not using devices.
+
+Topic 156 (Loneliness): media, use, problematic, connect, leisure, forms, connective, avoidant, video, games
+Summary: As with other forms of leisure, we need to consider both what the activity itself affords and what the time engaged in that form of leisure is taking away from other activities. Emerging findings suggest that unsociable and avoidant individuals may not use social media as a way to connect with others.
+
+Topic 157 (Ostracism): unpleasantness, ostracism, unpleasant, ostracized, ren, anticipated, experiments, rejection, desire, taxes
+Summary: One reason for wanting to be alone is to prevent anticipated ostracism or rejection. Ostracism certainly is an unpleasant social interaction that taxes one’s cognitive and emotional resources.
+
+Topic 158 (Neurocognitive): somel, petanjek, brain, neurocognitive, prefrontal, neoteny, interestingly, cortex, attentional, structure
+Summary: There is empirical evidence for neoteny in the human brain, particularly the prefrontal
+
+Topic 159 (Parenting): parenting, beliefs, parental, devel, 7amily, timetables, stndy, intimately, socialized, achieves
+Summary: We argue that it is likely that parental beliefs influence parenting behaviors. We argue that these strategies play an important role in determining whether the child achieves social competence or develops problematic behaviors such as social withdrawal.
+
+Topic 160 (Solitary): nonsocial, gazelle, passive, play, solitary, reticent, sample, grades, coplan, faldowski
+Summary: Solitary play was found to be negatively associated with indices of lan- guage capacity (e.g., total utterances, total words, use of unique words) Solitary‐passive play (along with reticent behavior and solitary‐active play) was also associated with teacher-rated anxious and fearful behaviors. Boys who engage in solitary play appear to be at greater risk for internalizing, social and academic difficulties as compared to girls.
+
+Topic 161 (Socially): fail, recessive, uninterested, acceptable, difficulties, personality, last, become, investigators, hypothesis
+Summary: developmental scientists have regarded the peer culture as an important social- izing context for children’s development. As early as the 1930s, concerns were expressed about children who lacked the “social effectiveness” to “take their place” in social groups and become accepted by their associates.
+
+Topic 162 (Avoidance): avoidance, 1990a, motivation, asendorpf, stein, se, ding, approach, concerns, desire
+Summary: Researchers have recently studied social avoidance (active evasion of social interactions) and its relations with adjustment. Based on limited evidence, it appears that social avoid- ance is related to peer relationship difficulties and internalizing problems in different societies.
+
+Topic 163 (Implications): implications, interventions, directions, issues, practice, potential, future, for, and, 
+Summary: Interventions are
+
+Topic 164 (Shyness): 05, ratings, rated, unsociability, pspi, correlated, exclusion, scores, coplan, investigators
+Summary: Coplan et al. (2004) measured two forms of solitude – shyness and unsociability – along with several features of children’s social adjustment, including peer exclusion.
+
+Topic 165 (Shyness): shyness, parental, societies, himself, encouragement, herself, shy, viewed, independence, problems
+Summary: Culture may affect the functional meaning of children’s behaviors as indicated in their developmental outcomes. Shyness is generally associated with adjustment problems, including social incompetence, academic difficul- ties, negative self‐regard, and other internalizing problems in Western cultures.
+
+Topic 166 (Solitary): stern, evoked, companions, 1985, generalized, rigs, representations, core, intersubjectivity, 2000
+Summary: Daniel Stern (1985/2000, 1994, 1995) was one of the main proponents of intersubjectivity – a theory highly relevant to the study of solitude. He introduced a layered model of development that was later revised to include three preverbal senses of self – emergent, core, and subjective (or intersub- jective) – all emerging together.
+
+Topic 167 (Separateness): autistic, mahler, infant, phase, ogden, symbiosis, sensation, normal, theory, autism
+Summary: In the first two months of life, the infant lives in an autistic shell, which does not lead to disorganization. The stimulus barrier, the omnipo- tence stemming from the satisfaction of biological needs, and the hallucinatory wish‐fulfillment protect the infant from the awareness of isolation.
+
+Topic 168 (Hallucination): mother, hallucinatory, wish, hallucination, infant, absence, green, representa, framing, her
+Summary: The infant seeks to repeat the remembered real experience. Relying on the memory image of the mother, the infant creates, with his/her own body and in a hallucinatory manner, a perceptually identical experience.
+
+Topic 169 (Neuroendocrine): hofer, maternal, separations, levine, tactile, handling, stimulation, paradigms, meaney, handled
+Summary: Early studies of Levine (1960) followed by Meaney’s and his colleagues work ( 1988) have made a substantial impact to the study of maternal separation and deprivation in rodents. Research has linked handling with a range of positive developmental outcomes.
+
+Topic 170 (Nostalgic): avoidant, nostalgia, wildschut, attachment, induction, experimental, security, admitting, narratives, abeyta
+Summary: Attachment researchers have hypothesized that anxious attachment is more conducive to loneliness than is avoidant attachment. Avoidant people try to deny or inhibit attachment needs and may therefore feel less directly or less consciously frustrated by poor‐quality relationships or nonresponsive partners.
+
+Topic 171 (Aloneness): partner, home, actor, scales, completed, instructed, attachment, minutes, shaver, gal
+Summary: Difficulty in enjoying solitude might be especially pronounced in people who score high in attachment anxi- ety. Attachment‐anxious individuals might be less accepting of their partner’s moments or periods of solitude.
+
+Topic 172 (Infant): infant, winnicott, 1958, mother, state, infants, impulses, sensations, enjoy, true
+Summary: According to Winnicott (1958), the capacity to enjoy moments of solitude develops from the calm experi- ence of being alone during infancy. The presence of a good enough mother, who is reliable, responsive, and sensitive to the infant’s needs, provides a temporal and spatial place for infants to exist in a state of “going‐on‐being”
+
+Topic 173 (Study): directions, method, future, research, study, studies, for, , , 
+Summary: Future Research Directions
+
+Topic 174 (Shyness): attentional, shifting, shyness, socioemotional, nonpositive, conjunction, regulation, functioning, inhibitory, different
+Summary: Neural correlates of attentional shifting also have been shown to moderate the association between shyness or behavioral inhibition and socioemotional adjustment. This pattern of results suggests that different aspects of self‐regulation may have different consequences for shy children across different domains of functioning (e.g., social adjustment, academic adjustment, psychopathology)
+
+Topic 175 (Loneliness): isolation, interrelated, network, quantifiable, precision, recognizing, sociodemographic, importantly, physical, mental
+Summary: In studies with adult populations, social isolation is often defined as an objectively quantifiable lack of social connections. Recognizing the difference between social isolation, loneliness, and solitude is key for conceptual precision.
+
+Topic 176 (Solitude): contemplative, solitude, motives, coplan, reason, preference, disinterest, 2004, approaching, affinity
+Summary: A key determining factor in how we experience solitude is whether it is sought out because of an intrinsic (i.e., autonomous, self‐ directed) motivation. An affinity for solitude is also a component of the broader person- ality dimension of introversion‐extraversion.
+
+Topic 177 (Loneliness): cybervictimization, needs, loneliness, sullivan, zalk, additionally, anxiety, psychological, emerge, meta
+Summary: Research has identified loneliness, at any age, as one of the strongest risk factors for psychological ill‐being. Cybervictimization was found to be negatively related to support from peers for adolescents in Spain.
+
+Topic 178 (Motivations): motivation, nikitin, freund, approach, avoidance, dispositional, 2019b, initialization, elliot, positively
+Summary: Belongingness is a central human need. Lack of, or low quality of, social bonds impacts well‐being, health, and even mortality.
+
+Topic 179 (Emotions): carstensen, older, english, fiori, networks, emotional, wagner, ramifications, ties, losses
+Summary: In old age, social networks are often smaller than earlier in life. One reason is social losses due to the death of members of one’s social network.
+
+Topic 180 (Solitude): lay, pauly, affect, solitude, 85, lifespan, preference, older, 18, samples
+Summary: Unlike social isolation and loneliness, solitude seems to have both negative and positive connotations. From a lifespan perspective, this raises the question of what accounts for the tremendous heterogeneity that is specific to solitude experiences.
+
+Topic 181 (Aging): gerstorf, lifespan, timescales, old, pauly, sliwinski, health, physical, time, mental
+Summary: Time alone is a ubiquitous experience across the adult lifespan that becomes even more salient in old age. Young and middle-aged adults under age 65 spend about 30–40% of their waking time alone.
+
+Topic 182 (Anxiety): disorder, bi, disorders, anxiety, hudson, dodd, klein, biederman, mumper, onset
+Summary: BI and anxiety disorders show considerable overlap in phenotypic presentation and course. The fact that BI is evident in infancy or early childhood suggests that BI may be a precursor or predisposition for later anxiety disorders.
+
+Topic 183 (Shyness): adr, poole, visits, enrollment, score, schmidt, spanning, 2020b, across, six
+Summary: We have examined the ADR score in relation to shyness during early (Schmidt & Poole, 2018) and late childhood in three separate studies. In Study 1, we examined how maternal‐reported shyness predicted the trajectory of ADR across the repeated assessments spanning age six to eight years.
+
+Topic 184 (Shyness): right, shifting, davidson, asymmetry, frontal, attentional, schmidt, task, experimenter, seeking
+Summary: Hassan et al., 2020: We found that attentional shifting, but not inhibi- tory control, moderated the association between shyness and social support seeking. We found shyness was only nega- tively associated with social.
+
+Topic 185 (Restoration): path, restoration, encounter, visitors, forest, participants, empty, walk, experiments, strangers
+Summary: The presence of unknown others in natural environments has no effect on the evaluation of the environment or on restoration. In two experiments participants generally favored the empty path over the path with a person.
+
+Topic 186 (Interpersonal): program, taxonomies, our, longitudinal, hinde, set, followed, assays, voluminous, matic
+Summary: The Seattle study and the introduction of Hinde’s conceptual model of the dialectical relations between the constructs of setting conditions, individual characteristics, interpersonal interactions (or the lack thereof), dyadic and group relationships and experiences, set the stage for all that was to follow in my program of research on the topic of social withdrawal. From a personal perspective, it was the writings and research of HindE (e.g., 1987) that guided our emphasis on studying phenomena that we could see.
+
+Topic 187 (Solitude): editors, handbook, my, stanford, hetherington, maccoby, research, careers, graduate, book
+Summary: The three editors of this handbook were all fortunate to work with Kenneth Rubin as his graduate students. Rubin is widely regarded as a founder of the field of childhood social withdrawal.
+
+Topic 188 (Solitary): session, quartet, paradigm, seattle, free, minutes, clean, unfamiliar, quartets, up
+Summary: The pro- totypical “peers paradigm’ in studies of the origins, correlates, and consequences of BI and socially reticent behavior was developed in the Seattle study. At age eight years, participants were brought together in same‐sex, same‐age (+/– three months) quartets.
+
+Topic 189 (Stability): bi, contexts, stability, nonsocial, threat, dyson, unselected, phobias, buss, laboratory
+Summary: As a temperament trait, BI should be at least relatively stable. Some change is expected due to development and changing life contexts and events.
+
+Topic 190 (Depression): grade, fifth, depression, second, assessed, worth, predictive, assessments, analyses, earlier
+Summary: We found that children who had been observed to engage in solitary behavior subsequently reported negative feelings of self‐ worth, negative evaluations of their own social competence, and a high degree of loneliness in the fourth grade. Second grade solitude also predicted feelings of low self‐worth and depression in grade 5.
+
+Topic 191 (Loneliness): security, enjoy, representations, attachment, mikulincer, shaver, mitigat, goosens, dozens, contributor
+Summary: The development of an inner sense of security during interactions with a loving and responsive attachment figure is an important contributor to developing the capacity to be alone and enjoy solitude. Adults who enjoy a strong sense of attachment security tend to maintain positive representations of relationship partners.
+
+Topic 192 (Solitary): though, bollas, idiom, wordless, imageless, container, authorizing, true, 1989, spoken
+Summary: Bollas (1989) defined this inevitable and authentic aloneness as follows: In our true self we are essentially alone. Only by living from this authorizing idiom do we know something of that person that we are.
+
+Topic 193 (Withdrawal): chen, zeng, kagitcibasi, sci, modernization, values, coexist, silbereisen, weaken, greenfield
+Summary: The implications of social change for individual development are an important topic in developmental sci- ence. Traditional and new values may serve different functions in human development and thus may coexist through integration and organization.
+
+Topic 194 (Personality): capacity, necessity, alone, personality, being, be, the, to, and, of
+Summary: The Capacity to Be Alone and the Necess
+
+Topic 195 (Bullying): bullying, asd, mediated, hebron, pmis, humphrey, chang, locke, friendships, interventions
+Summary: Children with ASD are more likely than neurotypical peers and peers with other disabilities to experience bullying. Victims of bullying are at increased risk for feelings of loneliness and other negative mental health outcomes.
+
+Topic 196 (Interpersonal): construals, knowledge, bias, orientations, dismissal, schematic, vehicles, brumbaugh, invalidates, reinforces
+Summary: People enter social interactions with knowledge and attitudes that they acquired during past interactions with the same relationship partner. These cognitive construals include a person’s goal structure (the goals he or she frequently seeks) and knowledge about self and others.
+
+Topic 197 (Voluntary): aat, components, program, therapy, dog, rm, animals, service, counselling, dogs
+Summary: Animal‐assisted therapy (AAT) with trained dogs and job training were developed as core components of this Regain Momentum (RM) program. Components of the program included four non‐AAT components and four AAT components.
+
+Topic 198 (Peer): frequency, 1973, communicative, initiations, iannotti, taking, competence, monologues, peer, was
+Summary: In the 1970s, it was becoming clear that children’s social interactions with peers provided an opportunity not only to establish egalitarian and reciprocal relationships, but also allowed children to understand the rules and norms of their peer subcultures. The lack of social interaction in the peer group was associated with indices of peer acceptance and popularity.
+
+Topic 199 (Anxious): attachment, shaver, lever, petegem, prioritize, closeness, score, goals, push, fraley
+Summary: attachment research has focused on patterns of relational expectations, emotions, and behaviors that result from internalizing a particular history of attachment experiences. Research indicates that attachment styles are conceptually located in a two-dimensional space defined by two roughly orthogonal dimensions, attachment anxiety and attachment‐related avoidance.
+
+Topic 200 (Solitude): larson, consider, children, how, infrequency, mitigating, richards, archbell, relies, spend
+Summary: We focus on the putative causes and conse- quences of solitary activities in childhood and adolescence. The majority of this work has focused on younger children, but some recent studies of older children and adolescents have also emerged.
+
+Topic 201 (Psychological): vagal, tone, cardiac, restrictive, rsa, parenting, dysregulation, dysregulated, toddler, practices
+Summary: Cardiac vagal tone, because of its influences on parasympathetic functioning, is an assessment of the physiological regu- lation of arousal. Lower cardiac vagaltone, an index of emotion dysregulation and a correlate of social wariness and BI, predicted maternal engagement of harsh, restrictive parenting practices.
+
+Topic 202 (Shyness): immigrants, temperamental, shyness, unfamiliar, host, intergroup, involuntary, majority, anxious, immigration
+Summary: The process of immigration and experiences of shyness in intergroup contexts. One implication of being a member of the social category of immigrants is the inevitable adaption to an unfamiliar social environment.
+
+Topic 203 (Social): deri, schultz, allison, grotevant, intensifying, impedes, determinants, lafontana, perpetuating, operate
+Summary: People have a tendency to compare themselves to similar others (Festinger, 1954) Adolescents tend to put great emphasis on being popular. Peer group becomes one of the strongest determinants of psychosocial functioning.
+
+Topic 204 (Messaging): private, messaging, frison, online, initiate, text, texting, active, chatting, valkenburg
+Summary: In terms of dyadic‐level peer experiences, most adolescents today use social media and text messaging to correspond and interact with their friends. Interacting online with friends might be particularly appealing for socially withdrawn adolescents.
+
+Topic 205 (Adolescent): careful, measures, socially, withdrawn, developmentally, rejected, adolescents, gazelle, dill, prakash
+Summary: Peers matter in the lives of socially withdrawn youth, but perhaps especially for socially withdrawn adolescents. Peer nomination measures are considered the gold standard in adolescent social withdrawal research.
+
+Topic 206 (Motivations): withdrawal, motivational, avoidance, model, asendorpf, driven, motivations, low, referred, withdraw
+Summary: To date, most studies of social withdrawal have focused on social withdrawal that is motivated by social fears and anxieties. This type of withdrawal is similar to the constructs of shyness, behavioral inhibition, shyness‐sensitivity, and anxious‐solitude.
+
+Topic 207 (Solitude): measurement, designs, analytic, researchers, strategies, investigative, progress, made, design, facets
+Summary: In recent years, advances in theory, measurement, research design, analytic strategies, and evidence have extended knowledge about the development of solitude in children and youth. Progress in these areas have advanced researchers’ efforts to isolate and distinguish distinct facets of solitude.
+
+Topic 208 (Ostracism): williams, resignation, temporal, stage, ostracism, 2009, extreme, unworthiness, futile, model
+Summary: Williams’s (2009) model has three stages: reflexive, reflective, and resignation. Resignation stage has received little empirical study, but preliminary evidence suggests that consistent exposure to ostracism can lead to extreme consequences.
+
+Topic 209 (Solitude): objectives, advances, consideration, adversities, increment, knowledge, epochs, accomplishments, priorities, database
+Summary: In the next section we consider how the evidence assembled thus far reflects on Premise 1, or the assertion that solitude fosters negative peer experiences. Consideration is given to the strengths and limitations of the existing database, advances in knowledge, and potential directions for future research.
+
+Topic 210 (Immigrant): foreign, immigrants, country, language, generation, host, immigrant, born, accent, accents
+Summary: Immigrants vary in their or their parents’ countries of birth and may be considered of different generations. Categorizing a person as an immigrant involves attending to cues such as discrepancies in language, accent, cultural and ethnic backgrounds, religions, skin tone or other visible markers.
+
+Topic 211 (Immigrants): category, salience, immigrants, categories, stereotype, intergroup, categorization, perpetual, unique, foreigner
+Summary: Despite growing numbers of immigrant populations, immigrants, especially those who are visible minorities, are usually categorized as a social group that is foreign to the host society. Research has shown that children and adults alike readily use social categories such as gender.
+
+Topic 212 (Fomo): fomo, presentations, snss, przybylski, those, baker, characterized, lower, poorer, higher
+Summary: One personality trait that has received increasing attention in relation to young people’s digital technology use is the fear of missing out (FoMO) FoMO is the “pervasive apprehension that others might be having rewarding experiences from which one is absent” FoMO has been linked to greater SNS use (Baker et al., 2016) and poorer well‐being.
+
+Topic 213 (Solitude): questions, ultimately, daily, health, adaptive, promises, before, solitude, timescales, assessments
+Summary: We contend that being more explicit about matters of time would push the field in new directions. Answering these questions is crucial because it would help identify targets for intervention before negative physical and mental health outcomes manifest.
+
+Topic 214 (Immigrants): intergroup, stephan, host, outgroup, immigrants, members, anxiety, culture, involuntary, leading
+Summary: The stress of intergroup contact and relations experienced by immigrants may be accompanied by social anxiety. Intergroup anxiety is accompanied by a negative cognitive appraisal that interaction with outgroup mem- bers will lead to negative consequences.
+
+Topic 215 (Avoidance): motivation, freund, avoidance, cues, nikitin, faces, 2015b, information, angry, word
+Summary: With respect to attentional and perceptual processes, social avoidance motivation is related to enhanced processing of negative information. People high in avoidance motivation avoid eye contact and talk less in social interactions.
+
+Topic 216 (Shyness): heritage, asian, anxiety, majority, paulhus, intergroup, immigrants, group, construal, european
+Summary: There is growing interest in understanding the higher social anxiety symptoms reported by some immigrant groups. Results of a meta‐analysis of about 40 studies indicated that immigrants of Asian heritage on average tend to report higher levels of social anxiety than those of European heritage or members of the majority group in the host society.
+
+Topic 217 (Avoidance): asymmetry, frontal, eeg, approach, activation, biological, measure, davidson, motivations, avoidance
+Summary: Biological tests of (social) approach and avoidance motivations are based on frontal electroencephalographic (EEG) asymmetry (Davidson et al., 1979) Frontal EEG asymmetry has been used as an index of approach and withdrawal (i.e., avoidance) motivation. According to the approach‐withdrawal model, increased activation in the left frontal cortex is associated with increases in appetitive, approach-related behavior.
+
+Topic 218 (Turtle): inhibited, points, maternal, adolescence, childhood, anxious, clinical, mick, essex, voort
+Summary: The term “socially anxious” will be used to encompass all of maternal overcontrol and biological markers of emotion dysregulation in the development of socially anxious, shy/withdrawn behavior. Much of the existing research on childhood and adolescent SAD consists of a combination of clinical and non- clinical populations.
+
+Topic 219 (Introversion): happy, happiness, extraversion, steel, introverts, introversion, diener, anglim, stronger, unsociability
+Summary: There is fairly robust evidence that people scoring higher on extraversion report higher levels of happiness. Despite this, our introverted colleagues, friends, and family bristle at the idea.
+
+Topic 220 (Solitary): solitary, behavior, subtypes, conceptions, agendas, motivations, rarely, underlie, putatively, posedly
+Summary: Researchers have sought to understand why children are (or become) solitary. The diversity of motives and emotions that are hypothesized to underlie solitary propensities have enabled researchers to envision different “reasons,” or combinations of internal causes, that may account for children’s solitary behavior.
+
+Topic 221 (Restorative): hartig, environments, demanding, restorative, restoration, ulrich, kaplan, performances, psychophysiological, lederbogen
+Summary: In the environmental psychological literature, the term restoration refers to the process of renewing, recovering or reestablishing physical, psychological and social resources. Those environments that permit or promote restoration after being in another, more demanding environment are referred to as restorative environments.
+
+Topic 222 (Avoidance): reticent, crying, motor, 2004, emotionality, coplan, fearful, activity, henderson, frequent
+Summary: Reticent behavior is conceptualized as a behavioral indicator of an approach‐avoidance conflict in social contexts. The frequent display of reticent behavior among peers is thought to reflect a child “trapped” in this conflict due to social fear and anxiety.
+
+Topic 223 (Loneliness): motivation, approach, avoidance, maintenance, high, goals, relationship, partner, combination, impett
+Summary: Social approach and avoidance motivations also seem to impact the maintenance of social relationships. For example, engaging in sex due to avoidance motivation (e.g., to avoid disappointing one’s partner) was found to be detrimental to relationships over time.
+
+Topic 224 (Marriage): polish, partner, romantic, lifetime, marriage, shaver, nationality, article, 386, cultural
+Summary: The lack of a romantic partner appeared to be more strongly associated with increased romantic loneliness for Polish than for American participants. In societies in which people highly value the institution of marriage and attach great importance to having a partner, single individuals may face strong pressure to marry.
+
+Topic 225 (Shyness): frontal, alpha, eeg, brain, allen, reznik, hemisphere, activity, power, asymmetry
+Summary: One of the most widely studied neural correlates of shyness and related phenomena is frontal brain EEG alpha asymmetry. This work is rooted in motivational models of frontal brain activation.
+
+Topic 226 (Solitude): nguyen, spending, mined, pressured, hay, morisey, motivat, sometimes, viewed, instead
+Summary: When solitude is chosen, spending time alone is viewed more positively and is associated with more positive outcomes. However, choosing to spend time alone can sometimes be viewed negatively by others and lead to rejection and ostracism.
+
+Topic 227 (Toddlers): toddlers, fox, conduct, funding, examination, received, inhibited, paradigm, bi, humanities
+Summary: In 1990, Nathan Fox and I received initial funding from the MacArthur Foundation to conduct pilot work on the relations between frontal brain asymmetry, BI, and social compe- tence in preschoolers. One year later (1991), we received a more substantial grant from NIH to conduct a more thorough examination of these aforementioned relations.
+
+Topic 228 (Adulthood): how, spend, time, much, spent, regarding, rises, tities, elderlies, laid
+Summary: emerging adulthood affords young people the autonomy to choose how and with whom (if anybody) to spend their time. We know very little about how much time emerging adults spend in various activities.
+
+Topic 229 (Solitude): aloneliness, dissatisfaction, need, psychologists, met, coplan, catton, shipley, toler, horney
+Summary: Social psychologists consider affiliation with others to be a basic human need. Failure to meet this need to belong can have profoundly negative implications for well-being.
+
+Topic 230 (Anxiety): disaster, stress, bi, symptoms, anxiety, broeren, stressful, after, events, mumper
+Summary: BI has been consistently linked with social anxiety. A substantial body of literature suggests that stress plays a role in the development of anxiety symptoms and disorders.
+
+Topic 231 (Shyness): emerging, unsociable, adulthood, necessary, sary, healthy, work, neces, boost, bigger
+Summary: Shyness may lengthen the time necessary to form healthy, committed rela- tionships. Future longitudinal work that extends from emerging adulthood into established adulthood will be necessary to understand the specific relational consequences of shyness during emerging adulthood.
+
+Topic 232 (Aloneness): affinity, desire, solitropic, teppers, aloneness, coded, reverse, spend, motivations, orientation
+Summary: The term social withdrawal is considered an “umbrella construct” capturing behavioral tenden- cies to consistently avoid and withdraw from familiar and unfamiliar peers. Affinity for aloneness expresses the desire to spend time alone and is unre- lated to the desireto spend time with others.
+
+Topic 233 (Coping): exclusion, esteem, fact, physical, serious, leary, itself, 302, 107, dean
+Summary: There is a closely related body of literature on what has been termed “social exclu- sion’ – what happens when people are involuntarily and purposely separated from others. These studies, too, show that this kind of social separation produces a host of serious negative consequences.
+
+Topic 234 (Loneliness): adverse, effects, isolation, importance, deprivation, understanding, exclusion, social, loneliness, of
+Summary: The Adverse Effects of Social Isolation, Social
+
+Topic 235 (Shyness): immigrants, accents, categorization, members, stereo, epps, acculturation, intergroup, spoken, nonimmigrants
+Summary: One of the most salient experiences shared among voluntary immigrants, especially those who are visible minorities, is being “othered” (Epps & Furman, 2016). That is, explicitly or implicitly, immigrants are often perceived as not belonging to the same social category as members of the majority groups in the host society.
+
+Topic 236 (Universe): preserving, 1965, winnicott, predecessor, universe, portrays, secret, noncommunication, innermost, falsely
+Summary: Winnicott (1965) also stated that health means (i) being able to use noncommunication in the sense of silent or secret communication with the subjectively perceived objects and (ii) the ability to lose contact with the commonly shared reality with the aim of feeling real.
+
+Topic 237 (Peer): spring, decreasing, increasing, grade, growth, fall, trajectory, exclusion, 1092, 392
+Summary: Booth‐LaForce and Oxford (2008) used person centered growth analyses to identify multiple social withdrawal trajectories. Social withdrawal, and two forms of negative peer experience (i.e., peer acceptance/rejection, peer exclusion) were assessed via teacher reports.
+
+Topic 238 (Aloneness): language, stern, share, shareable, intersubjectivity, aloneness, infant, emergence, representation, inability
+Summary: In ill health, the lack of attunement by the mother cre- ates in the infant a feeling of uncanny aloneness. With the emergence of language during the end of the first year of life, the infant is more likely than before to experience the inability to share some experiences not only with others but also with the self.
+
+Topic 239 (Aloneness): breast, thinking, bion, absent, frustration, infant, absence, containment, meets, reverie
+Summary: According to Bion’s (1967) theory of thinking, thoughts are preconceptions. From the first experiences of satis- faction, which are provided to the infant by an actual breast, the preconception meets a realization and becomes a concept.
+
+Topic 240 (Kindergarteners): kindergarteners, graders, 564, equations, rendered, 340, analyses, problems, dictors, speculative
+Summary: Coplan et al. (2018) had parents rate three forms of solitude (i.e., shyness, unsociability, and social avoidance) several months prior to assessing children’s socioemotional functioning, including peer problems.
+
+Topic 241 (Shyness): contact, affiliate, desire, avoid, consist, disparities, terminological, hav, affili, fear
+Summary: There is emerging interest in other types of children’s social solitude or withdrawal. The subtypes that have been proposed and investigated most consist- ently are: shy, unsociable, and socially avoidant.
+
+Topic 242 (Solitude): likelihood, activities, engaging, sociability, each, how, various, manifestations, correlated, undertake
+Summary: In this section, we undertake an analysis of available evidence on solitude and negative peer experiences. As a heuristic tool, we consider evidence bearing on two opposing premises.
+
+Topic 243 (Solitude): premises, precipitate, exacerbate, tends, premise, next, con, implications, considered, relations
+Summary: This premise con- tends that negative peer experiences precipitate or exacerbate social withdrawal and solitude. Next we
+
+
+Document-Level Assignments:
+Doc 1: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 2: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 3: Topic 67 (Solitude), Prob: 0.40219650
+Doc 4: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 5: Topic 5 (Solitude), Prob: 1.00000000
+Doc 6: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 7: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 8: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 9: Topic 3 (Aloneness), Prob: 0.75458968
+Doc 10: Topic 67 (Solitude), Prob: 0.86145058
+Doc 11: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 12: Topic 229 (Solitude), Prob: 1.00000000
+Doc 13: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 14: Topic 1 (Creativity), Prob: 1.00000000
+Doc 15: Topic 67 (Solitude), Prob: 1.00000000
+Doc 16: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 17: Topic 67 (Solitude), Prob: 1.00000000
+Doc 18: Topic 70 (Snmmary), Prob: 0.43529264
+Doc 19: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 20: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 21: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 22: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 23: Topic 176 (Solitude), Prob: 0.76811924
+Doc 24: Topic 226 (Solitude), Prob: 1.00000000
+Doc 25: Topic 67 (Solitude), Prob: 1.00000000
+Doc 26: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 27: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 28: Topic 53 (Peer), Prob: 1.00000000
+Doc 29: Topic 177 (Loneliness), Prob: 0.97912372
+Doc 30: Topic 25 (Solitary), Prob: 1.00000000
+Doc 31: Topic 67 (Solitude), Prob: 0.99744774
+Doc 32: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 33: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 34: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 35: Topic 3 (Aloneness), Prob: 0.61733907
+Doc 36: Topic 155 (Solitude), Prob: 1.00000000
+Doc 37: Topic 155 (Solitude), Prob: 1.00000000
+Doc 38: Topic 155 (Solitude), Prob: 1.00000000
+Doc 39: Topic 54 (Introduction), Prob: 0.06219804
+Doc 40: Topic 3 (Aloneness), Prob: 0.69103631
+Doc 41: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 42: Topic 45 (Solitude), Prob: 0.87391218
+Doc 43: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 44: Topic 20 (Solitude), Prob: 1.00000000
+Doc 45: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 46: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 47: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 48: Topic 0 (Solitary), Prob: 1.00000000
+Doc 49: Topic 187 (Solitude), Prob: 1.00000000
+Doc 50: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 51: Topic 67 (Solitude), Prob: 0.65970088
+Doc 52: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 53: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 54: Topic 15 (Shyness), Prob: 0.75404707
+Doc 55: Topic 9 (Shyness), Prob: 1.00000000
+Doc 56: Topic 15 (Shyness), Prob: 1.00000000
+Doc 57: Topic 15 (Shyness), Prob: 0.96696722
+Doc 58: Topic 9 (Shyness), Prob: 0.82689574
+Doc 59: Topic 9 (Shyness), Prob: 1.00000000
+Doc 60: Topic 9 (Shyness), Prob: 0.62203643
+Doc 61: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 62: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 63: Topic 9 (Shyness), Prob: 1.00000000
+Doc 64: Topic 9 (Shyness), Prob: 1.00000000
+Doc 65: Topic 9 (Shyness), Prob: 0.73189181
+Doc 66: Topic 15 (Shyness), Prob: 0.60183473
+Doc 67: Topic 9 (Shyness), Prob: 0.99665168
+Doc 68: Topic 9 (Shyness), Prob: 1.00000000
+Doc 69: Topic 9 (Shyness), Prob: 1.00000000
+Doc 70: Topic 9 (Shyness), Prob: 1.00000000
+Doc 71: Topic 9 (Shyness), Prob: 1.00000000
+Doc 72: Topic 9 (Shyness), Prob: 1.00000000
+Doc 73: Topic 15 (Shyness), Prob: 1.00000000
+Doc 74: Topic 135 (Shyness), Prob: 1.00000000
+Doc 75: Topic 174 (Shyness), Prob: 1.00000000
+Doc 76: Topic 135 (Shyness), Prob: 0.88108477
+Doc 77: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 78: Topic 135 (Shyness), Prob: 0.58857286
+Doc 79: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 80: Topic 174 (Shyness), Prob: 0.82660545
+Doc 81: Topic 184 (Shyness), Prob: 1.00000000
+Doc 82: Topic 135 (Shyness), Prob: 1.00000000
+Doc 83: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 84: Topic 174 (Shyness), Prob: 0.81597311
+Doc 85: Topic 9 (Shyness), Prob: 0.97894965
+Doc 86: Topic 9 (Shyness), Prob: 1.00000000
+Doc 87: Topic 174 (Shyness), Prob: 1.00000000
+Doc 88: Topic 15 (Shyness), Prob: 0.94798051
+Doc 89: Topic 15 (Shyness), Prob: 0.96226900
+Doc 90: Topic 88 (Shyness), Prob: 1.00000000
+Doc 91: Topic 225 (Shyness), Prob: 1.00000000
+Doc 92: Topic 225 (Shyness), Prob: 1.00000000
+Doc 93: Topic 184 (Shyness), Prob: 0.92635244
+Doc 94: Topic 15 (Shyness), Prob: 1.00000000
+Doc 95: Topic 15 (Shyness), Prob: 0.68365974
+Doc 96: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 97: Topic 184 (Shyness), Prob: 1.00000000
+Doc 98: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 99: Topic 88 (Shyness), Prob: 1.00000000
+Doc 100: Topic 88 (Shyness), Prob: 1.00000000
+Doc 101: Topic 88 (Shyness), Prob: 0.56087332
+Doc 102: Topic 88 (Shyness), Prob: 0.92995525
+Doc 103: Topic 183 (Shyness), Prob: 0.75258759
+Doc 104: Topic 131 (Unnamed Topic), Prob: 1.00000000
+Doc 105: Topic 183 (Shyness), Prob: 0.80621504
+Doc 106: Topic 183 (Shyness), Prob: 1.00000000
+Doc 107: Topic 88 (Shyness), Prob: 0.64932933
+Doc 108: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 109: Topic 158 (Neurocognitive), Prob: 0.70302518
+Doc 110: Topic 15 (Shyness), Prob: 0.31115558
+Doc 111: Topic 15 (Shyness), Prob: 0.36242554
+Doc 112: Topic 9 (Shyness), Prob: 0.71482255
+Doc 113: Topic 15 (Shyness), Prob: 0.47386341
+Doc 114: Topic 8 (Conclusion), Prob: 1.00000000
+Doc 115: Topic 15 (Shyness), Prob: 0.61098909
+Doc 116: Topic 86 (Aloneness), Prob: 0.91135396
+Doc 117: Topic 86 (Aloneness), Prob: 0.29622826
+Doc 118: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 119: Topic 128 (Insecurities), Prob: 1.00000000
+Doc 120: Topic 128 (Insecurities), Prob: 1.00000000
+Doc 121: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 122: Topic 128 (Insecurities), Prob: 0.21642490
+Doc 123: Topic 199 (Anxious), Prob: 1.00000000
+Doc 124: Topic 128 (Insecurities), Prob: 0.29105703
+Doc 125: Topic 199 (Anxious), Prob: 1.00000000
+Doc 126: Topic 196 (Interpersonal), Prob: 1.00000000
+Doc 127: Topic 196 (Interpersonal), Prob: 0.93393562
+Doc 128: Topic 196 (Interpersonal), Prob: 1.00000000
+Doc 129: Topic 199 (Anxious), Prob: 1.00000000
+Doc 130: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 131: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 132: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 133: Topic 131 (Unnamed Topic), Prob: 1.00000000
+Doc 134: Topic 86 (Aloneness), Prob: 1.00000000
+Doc 135: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 136: Topic 229 (Solitude), Prob: 1.00000000
+Doc 137: Topic 172 (Infant), Prob: 1.00000000
+Doc 138: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 139: Topic 191 (Loneliness), Prob: 1.00000000
+Doc 140: Topic 171 (Aloneness), Prob: 0.94777376
+Doc 141: Topic 171 (Aloneness), Prob: 1.00000000
+Doc 142: Topic 171 (Aloneness), Prob: 1.00000000
+Doc 143: Topic 171 (Aloneness), Prob: 1.00000000
+Doc 144: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 145: Topic 86 (Aloneness), Prob: 0.79966126
+Doc 146: Topic 191 (Loneliness), Prob: 1.00000000
+Doc 147: Topic 41 (Loneliness), Prob: 1.00000000
+Doc 148: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 149: Topic 170 (Nostalgic), Prob: 0.56425036
+Doc 150: Topic 191 (Loneliness), Prob: 1.00000000
+Doc 151: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 152: Topic 170 (Nostalgic), Prob: 1.00000000
+Doc 153: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 154: Topic 170 (Nostalgic), Prob: 1.00000000
+Doc 155: Topic 170 (Nostalgic), Prob: 1.00000000
+Doc 156: Topic 131 (Unnamed Topic), Prob: 1.00000000
+Doc 157: Topic 8 (Conclusion), Prob: 0.08628452
+Doc 158: Topic 86 (Aloneness), Prob: 1.00000000
+Doc 159: Topic 22 (Rodents), Prob: 0.12577363
+Doc 160: Topic 43 (Deprivation), Prob: 1.00000000
+Doc 161: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 162: Topic 234 (Loneliness), Prob: 1.00000000
+Doc 163: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 164: Topic 43 (Deprivation), Prob: 1.00000000
+Doc 165: Topic 43 (Deprivation), Prob: 1.00000000
+Doc 166: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 167: Topic 27 (Parenting), Prob: 0.21169006
+Doc 168: Topic 34 (Primates), Prob: 0.35641681
+Doc 169: Topic 128 (Insecurities), Prob: 1.00000000
+Doc 170: Topic 73 (Primate), Prob: 1.00000000
+Doc 171: Topic 73 (Primate), Prob: 1.00000000
+Doc 172: Topic 73 (Primate), Prob: 0.73370582
+Doc 173: Topic 73 (Primate), Prob: 0.81738724
+Doc 174: Topic 33 (Glucocorticoids), Prob: 0.71457345
+Doc 175: Topic 34 (Primates), Prob: 0.29963457
+Doc 176: Topic 34 (Primates), Prob: 0.26554115
+Doc 177: Topic 34 (Primates), Prob: 0.85775717
+Doc 178: Topic 34 (Primates), Prob: 0.85775717
+Doc 179: Topic 34 (Primates), Prob: 1.00000000
+Doc 180: Topic 34 (Primates), Prob: 0.63675118
+Doc 181: Topic 22 (Rodents), Prob: 0.26703027
+Doc 182: Topic 34 (Primates), Prob: 0.21357722
+Doc 183: Topic 34 (Primates), Prob: 1.00000000
+Doc 184: Topic 33 (Glucocorticoids), Prob: 0.59809930
+Doc 185: Topic 33 (Glucocorticoids), Prob: 1.00000000
+Doc 186: Topic 33 (Glucocorticoids), Prob: 0.70338379
+Doc 187: Topic 33 (Glucocorticoids), Prob: 0.83178326
+Doc 188: Topic 33 (Glucocorticoids), Prob: 1.00000000
+Doc 189: Topic 39 (Anxiety), Prob: 0.43080966
+Doc 190: Topic 39 (Anxiety), Prob: 0.61016800
+Doc 191: Topic 33 (Glucocorticoids), Prob: 1.00000000
+Doc 192: Topic 73 (Primate), Prob: 1.00000000
+Doc 193: Topic 73 (Primate), Prob: 1.00000000
+Doc 194: Topic 43 (Deprivation), Prob: 1.00000000
+Doc 195: Topic 169 (Neuroendocrine), Prob: 1.00000000
+Doc 196: Topic 169 (Neuroendocrine), Prob: 0.95888937
+Doc 197: Topic 169 (Neuroendocrine), Prob: 1.00000000
+Doc 198: Topic 169 (Neuroendocrine), Prob: 1.00000000
+Doc 199: Topic 75 (Rodent), Prob: 0.54947272
+Doc 200: Topic 75 (Rodent), Prob: 0.58754714
+Doc 201: Topic 75 (Rodent), Prob: 1.00000000
+Doc 202: Topic 75 (Rodent), Prob: 1.00000000
+Doc 203: Topic 75 (Rodent), Prob: 1.00000000
+Doc 204: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 205: Topic 22 (Rodents), Prob: 0.76302052
+Doc 206: Topic 22 (Rodents), Prob: 0.32984875
+Doc 207: Topic 22 (Rodents), Prob: 0.35545859
+Doc 208: Topic 22 (Rodents), Prob: 1.00000000
+Doc 209: Topic 22 (Rodents), Prob: 1.00000000
+Doc 210: Topic 22 (Rodents), Prob: 1.00000000
+Doc 211: Topic 75 (Rodent), Prob: 0.37898650
+Doc 212: Topic 33 (Glucocorticoids), Prob: 0.74833763
+Doc 213: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 214: Topic 22 (Rodents), Prob: 0.16940183
+Doc 215: Topic 33 (Glucocorticoids), Prob: 0.68508542
+Doc 216: Topic 33 (Glucocorticoids), Prob: 0.74833763
+Doc 217: Topic 52 (Conclusions), Prob: 1.00000000
+Doc 218: Topic 43 (Deprivation), Prob: 1.00000000
+Doc 219: Topic 43 (Deprivation), Prob: 1.00000000
+Doc 220: Topic 43 (Deprivation), Prob: 1.00000000
+Doc 221: Topic 43 (Deprivation), Prob: 0.89064481
+Doc 222: Topic 75 (Rodent), Prob: 0.77055413
+Doc 223: Topic 43 (Deprivation), Prob: 1.00000000
+Doc 224: Topic 3 (Aloneness), Prob: 0.97663010
+Doc 225: Topic 3 (Aloneness), Prob: 0.58155296
+Doc 226: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 227: Topic 192 (Solitary), Prob: 1.00000000
+Doc 228: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 229: Topic 108 (Stimulus), Prob: 0.09951014
+Doc 230: Topic 168 (Hallucination), Prob: 1.00000000
+Doc 231: Topic 120 (Freud), Prob: 0.87953174
+Doc 232: Topic 120 (Freud), Prob: 1.00000000
+Doc 233: Topic 120 (Freud), Prob: 1.00000000
+Doc 234: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 235: Topic 78 (Solitude), Prob: 1.00000000
+Doc 236: Topic 108 (Stimulus), Prob: 0.72536466
+Doc 237: Topic 108 (Stimulus), Prob: 0.33947138
+Doc 238: Topic 108 (Stimulus), Prob: 0.72777735
+Doc 239: Topic 108 (Stimulus), Prob: 1.00000000
+Doc 240: Topic 108 (Stimulus), Prob: 1.00000000
+Doc 241: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 242: Topic 167 (Separateness), Prob: 1.00000000
+Doc 243: Topic 167 (Separateness), Prob: 1.00000000
+Doc 244: Topic 167 (Separateness), Prob: 0.84836816
+Doc 245: Topic 167 (Separateness), Prob: 0.79654897
+Doc 246: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 247: Topic 51 (Aloneness), Prob: 0.49211225
+Doc 248: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 249: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 250: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 251: Topic 236 (Universe), Prob: 1.00000000
+Doc 252: Topic 172 (Infant), Prob: 1.00000000
+Doc 253: Topic 172 (Infant), Prob: 0.91148560
+Doc 254: Topic 29 (Necessity), Prob: 0.70782949
+Doc 255: Topic 236 (Universe), Prob: 1.00000000
+Doc 256: Topic 29 (Necessity), Prob: 0.70782949
+Doc 257: Topic 29 (Necessity), Prob: 0.79166790
+Doc 258: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 259: Topic 166 (Solitary), Prob: 1.00000000
+Doc 260: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 261: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 262: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 263: Topic 238 (Aloneness), Prob: 1.00000000
+Doc 264: Topic 238 (Aloneness), Prob: 1.00000000
+Doc 265: Topic 139 (Solitary), Prob: 1.00000000
+Doc 266: Topic 139 (Solitary), Prob: 0.91408189
+Doc 267: Topic 139 (Solitary), Prob: 1.00000000
+Doc 268: Topic 192 (Solitary), Prob: 1.00000000
+Doc 269: Topic 192 (Solitary), Prob: 1.00000000
+Doc 270: Topic 139 (Solitary), Prob: 0.71756618
+Doc 271: Topic 139 (Solitary), Prob: 0.89489934
+Doc 272: Topic 194 (Personality), Prob: 1.00000000
+Doc 273: Topic 59 (Infancy), Prob: 0.62485578
+Doc 274: Topic 59 (Infancy), Prob: 0.79322684
+Doc 275: Topic 59 (Infancy), Prob: 0.62485578
+Doc 276: Topic 168 (Hallucination), Prob: 1.00000000
+Doc 277: Topic 168 (Hallucination), Prob: 0.82286497
+Doc 278: Topic 168 (Hallucination), Prob: 0.82286497
+Doc 279: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 280: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 281: Topic 78 (Solitude), Prob: 1.00000000
+Doc 282: Topic 78 (Solitude), Prob: 1.00000000
+Doc 283: Topic 78 (Solitude), Prob: 1.00000000
+Doc 284: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 285: Topic 103 (Loneliness), Prob: 1.00000000
+Doc 286: Topic 59 (Infancy), Prob: 1.00000000
+Doc 287: Topic 194 (Personality), Prob: 1.00000000
+Doc 288: Topic 29 (Necessity), Prob: 1.00000000
+Doc 289: Topic 29 (Necessity), Prob: 1.00000000
+Doc 290: Topic 29 (Necessity), Prob: 1.00000000
+Doc 291: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 292: Topic 29 (Necessity), Prob: 1.00000000
+Doc 293: Topic 103 (Loneliness), Prob: 1.00000000
+Doc 294: Topic 103 (Loneliness), Prob: 0.86297220
+Doc 295: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 296: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 297: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 298: Topic 239 (Aloneness), Prob: 1.00000000
+Doc 299: Topic 239 (Aloneness), Prob: 1.00000000
+Doc 300: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 301: Topic 59 (Infancy), Prob: 0.96829755
+Doc 302: Topic 29 (Necessity), Prob: 1.00000000
+Doc 303: Topic 29 (Necessity), Prob: 1.00000000
+Doc 304: Topic 59 (Infancy), Prob: 1.00000000
+Doc 305: Topic 59 (Infancy), Prob: 1.00000000
+Doc 306: Topic 59 (Infancy), Prob: 0.80195161
+Doc 307: Topic 166 (Solitary), Prob: 1.00000000
+Doc 308: Topic 166 (Solitary), Prob: 0.73928178
+Doc 309: Topic 103 (Loneliness), Prob: 0.64016149
+Doc 310: Topic 69 (Daydreams), Prob: 0.76744042
+Doc 311: Topic 69 (Daydreams), Prob: 0.39804982
+Doc 312: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 313: Topic 69 (Daydreams), Prob: 0.22287021
+Doc 314: Topic 69 (Daydreams), Prob: 1.00000000
+Doc 315: Topic 27 (Parenting), Prob: 0.21458045
+Doc 316: Topic 69 (Daydreams), Prob: 1.00000000
+Doc 317: Topic 69 (Daydreams), Prob: 1.00000000
+Doc 318: Topic 69 (Daydreams), Prob: 0.15533137
+Doc 319: Topic 8 (Conclusion), Prob: 0.50752446
+Doc 320: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 321: Topic 120 (Freud), Prob: 1.00000000
+Doc 322: Topic 78 (Solitude), Prob: 1.00000000
+Doc 323: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 324: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 325: Topic 78 (Solitude), Prob: 0.90701605
+Doc 326: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 327: Topic 103 (Loneliness), Prob: 1.00000000
+Doc 328: Topic 86 (Aloneness), Prob: 1.00000000
+Doc 329: Topic 103 (Loneliness), Prob: 0.89853424
+Doc 330: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 331: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 332: Topic 70 (Snmmary), Prob: 0.38464357
+Doc 333: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 334: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 335: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 336: Topic 120 (Freud), Prob: 1.00000000
+Doc 337: Topic 3 (Aloneness), Prob: 0.54435445
+Doc 338: Topic 102 (Summary), Prob: 0.01728803
+Doc 339: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 340: Topic 166 (Solitary), Prob: 1.00000000
+Doc 341: Topic 193 (Withdrawal), Prob: 1.00000000
+Doc 342: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 343: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 344: Topic 99 (Shyness), Prob: 0.48363629
+Doc 345: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 346: Topic 193 (Withdrawal), Prob: 1.00000000
+Doc 347: Topic 24 (Culture), Prob: 1.00000000
+Doc 348: Topic 24 (Culture), Prob: 1.00000000
+Doc 349: Topic 24 (Culture), Prob: 1.00000000
+Doc 350: Topic 96 (Shyness), Prob: 0.78824431
+Doc 351: Topic 24 (Culture), Prob: 1.00000000
+Doc 352: Topic 24 (Culture), Prob: 1.00000000
+Doc 353: Topic 24 (Culture), Prob: 1.00000000
+Doc 354: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 355: Topic 24 (Culture), Prob: 1.00000000
+Doc 356: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 357: Topic 24 (Culture), Prob: 0.67119085
+Doc 358: Topic 62 (Shyness), Prob: 1.00000000
+Doc 359: Topic 105 (Rubin), Prob: 1.00000000
+Doc 360: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 361: Topic 96 (Shyness), Prob: 1.00000000
+Doc 362: Topic 62 (Shyness), Prob: 1.00000000
+Doc 363: Topic 96 (Shyness), Prob: 1.00000000
+Doc 364: Topic 165 (Shyness), Prob: 1.00000000
+Doc 365: Topic 165 (Shyness), Prob: 1.00000000
+Doc 366: Topic 165 (Shyness), Prob: 1.00000000
+Doc 367: Topic 96 (Shyness), Prob: 0.79987420
+Doc 368: Topic 96 (Shyness), Prob: 1.00000000
+Doc 369: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 370: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 371: Topic 241 (Shyness), Prob: 1.00000000
+Doc 372: Topic 99 (Shyness), Prob: 1.00000000
+Doc 373: Topic 99 (Shyness), Prob: 1.00000000
+Doc 374: Topic 99 (Shyness), Prob: 1.00000000
+Doc 375: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 376: Topic 99 (Shyness), Prob: 0.47152602
+Doc 377: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 378: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 379: Topic 163 (Implications), Prob: 0.35750556
+Doc 380: Topic 99 (Shyness), Prob: 0.49538553
+Doc 381: Topic 162 (Avoidance), Prob: 1.00000000
+Doc 382: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 383: Topic 9 (Shyness), Prob: 0.93452464
+Doc 384: Topic 24 (Culture), Prob: 1.00000000
+Doc 385: Topic 193 (Withdrawal), Prob: 1.00000000
+Doc 386: Topic 19 (Introversion), Prob: 0.30678633
+Doc 387: Topic 19 (Introversion), Prob: 1.00000000
+Doc 388: Topic 63 (Inhibition), Prob: 0.97159509
+Doc 389: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 390: Topic 189 (Stability), Prob: 1.00000000
+Doc 391: Topic 189 (Stability), Prob: 1.00000000
+Doc 392: Topic 63 (Inhibition), Prob: 0.78117654
+Doc 393: Topic 189 (Stability), Prob: 1.00000000
+Doc 394: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 395: Topic 47 (Preschoolers), Prob: 0.52794945
+Doc 396: Topic 30 (Introversion), Prob: 0.49711717
+Doc 397: Topic 63 (Inhibition), Prob: 1.00000000
+Doc 398: Topic 126 (Anxiety), Prob: 1.00000000
+Doc 399: Topic 65 (Heritability), Prob: 1.00000000
+Doc 400: Topic 65 (Heritability), Prob: 0.77897071
+Doc 401: Topic 65 (Heritability), Prob: 0.86553375
+Doc 402: Topic 126 (Anxiety), Prob: 0.80883474
+Doc 403: Topic 158 (Neurocognitive), Prob: 1.00000000
+Doc 404: Topic 39 (Anxiety), Prob: 0.55244876
+Doc 405: Topic 39 (Anxiety), Prob: 1.00000000
+Doc 406: Topic 39 (Anxiety), Prob: 1.00000000
+Doc 407: Topic 39 (Anxiety), Prob: 1.00000000
+Doc 408: Topic 39 (Anxiety), Prob: 0.61421865
+Doc 409: Topic 158 (Neurocognitive), Prob: 1.00000000
+Doc 410: Topic 126 (Anxiety), Prob: 1.00000000
+Doc 411: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 412: Topic 63 (Inhibition), Prob: 0.91036535
+Doc 413: Topic 159 (Parenting), Prob: 1.00000000
+Doc 414: Topic 65 (Heritability), Prob: 1.00000000
+Doc 415: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 416: Topic 19 (Introversion), Prob: 0.24931122
+Doc 417: Topic 65 (Heritability), Prob: 0.88071037
+Doc 418: Topic 8 (Conclusion), Prob: 0.07564119
+Doc 419: Topic 63 (Inhibition), Prob: 1.00000000
+Doc 420: Topic 55 (Social), Prob: 0.62536098
+Doc 421: Topic 47 (Preschoolers), Prob: 0.51072883
+Doc 422: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 423: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 424: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 425: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 426: Topic 19 (Introversion), Prob: 0.25770881
+Doc 427: Topic 182 (Anxiety), Prob: 1.00000000
+Doc 428: Topic 182 (Anxiety), Prob: 1.00000000
+Doc 429: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 430: Topic 230 (Anxiety), Prob: 1.00000000
+Doc 431: Topic 182 (Anxiety), Prob: 1.00000000
+Doc 432: Topic 182 (Anxiety), Prob: 0.58729578
+Doc 433: Topic 63 (Inhibition), Prob: 1.00000000
+Doc 434: Topic 63 (Inhibition), Prob: 0.92921609
+Doc 435: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 436: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 437: Topic 27 (Parenting), Prob: 0.21662440
+Doc 438: Topic 158 (Neurocognitive), Prob: 1.00000000
+Doc 439: Topic 126 (Anxiety), Prob: 0.89990847
+Doc 440: Topic 126 (Anxiety), Prob: 1.00000000
+Doc 441: Topic 159 (Parenting), Prob: 0.97563742
+Doc 442: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 443: Topic 65 (Heritability), Prob: 0.93946457
+Doc 444: Topic 65 (Heritability), Prob: 1.00000000
+Doc 445: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 446: Topic 230 (Anxiety), Prob: 1.00000000
+Doc 447: Topic 52 (Conclusions), Prob: 1.00000000
+Doc 448: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 449: Topic 109 (Identity), Prob: 0.47288528
+Doc 450: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 451: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 452: Topic 25 (Solitary), Prob: 0.85206200
+Doc 453: Topic 25 (Solitary), Prob: 1.00000000
+Doc 454: Topic 200 (Solitude), Prob: 1.00000000
+Doc 455: Topic 25 (Solitary), Prob: 0.67269552
+Doc 456: Topic 25 (Solitary), Prob: 0.98227229
+Doc 457: Topic 38 (Behaviorally), Prob: 0.59427748
+Doc 458: Topic 38 (Behaviorally), Prob: 0.81426995
+Doc 459: Topic 17 (Preschoolers), Prob: 0.66786025
+Doc 460: Topic 127 (Reticence), Prob: 1.00000000
+Doc 461: Topic 222 (Avoidance), Prob: 1.00000000
+Doc 462: Topic 127 (Reticence), Prob: 0.57342132
+Doc 463: Topic 127 (Reticence), Prob: 1.00000000
+Doc 464: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 465: Topic 127 (Reticence), Prob: 0.19251620
+Doc 466: Topic 38 (Behaviorally), Prob: 1.00000000
+Doc 467: Topic 38 (Behaviorally), Prob: 1.00000000
+Doc 468: Topic 38 (Behaviorally), Prob: 1.00000000
+Doc 469: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 470: Topic 38 (Behaviorally), Prob: 1.00000000
+Doc 471: Topic 38 (Behaviorally), Prob: 1.00000000
+Doc 472: Topic 38 (Behaviorally), Prob: 1.00000000
+Doc 473: Topic 38 (Behaviorally), Prob: 1.00000000
+Doc 474: Topic 17 (Preschoolers), Prob: 1.00000000
+Doc 475: Topic 160 (Solitary), Prob: 0.91713798
+Doc 476: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 477: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 478: Topic 160 (Solitary), Prob: 1.00000000
+Doc 479: Topic 160 (Solitary), Prob: 0.91713798
+Doc 480: Topic 160 (Solitary), Prob: 1.00000000
+Doc 481: Topic 25 (Solitary), Prob: 1.00000000
+Doc 482: Topic 200 (Solitude), Prob: 1.00000000
+Doc 483: Topic 25 (Solitary), Prob: 0.95163675
+Doc 484: Topic 106 (Leisure), Prob: 1.00000000
+Doc 485: Topic 106 (Leisure), Prob: 1.00000000
+Doc 486: Topic 106 (Leisure), Prob: 1.00000000
+Doc 487: Topic 25 (Solitary), Prob: 1.00000000
+Doc 488: Topic 106 (Leisure), Prob: 0.39646443
+Doc 489: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 490: Topic 106 (Leisure), Prob: 0.56331223
+Doc 491: Topic 52 (Conclusions), Prob: 0.07386314
+Doc 492: Topic 25 (Solitary), Prob: 1.00000000
+Doc 493: Topic 45 (Solitude), Prob: 0.63971044
+Doc 494: Topic 106 (Leisure), Prob: 0.78829470
+Doc 495: Topic 25 (Solitary), Prob: 1.00000000
+Doc 496: Topic 25 (Solitary), Prob: 0.73284508
+Doc 497: Topic 200 (Solitude), Prob: 1.00000000
+Doc 498: Topic 130 (Solitude), Prob: 1.00000000
+Doc 499: Topic 161 (Socially), Prob: 1.00000000
+Doc 500: Topic 161 (Socially), Prob: 0.89475868
+Doc 501: Topic 220 (Solitary), Prob: 1.00000000
+Doc 502: Topic 84 (Solitude), Prob: 1.00000000
+Doc 503: Topic 84 (Solitude), Prob: 1.00000000
+Doc 504: Topic 84 (Solitude), Prob: 1.00000000
+Doc 505: Topic 130 (Solitude), Prob: 0.66295408
+Doc 506: Topic 15 (Shyness), Prob: 0.41534446
+Doc 507: Topic 85 (Shyness), Prob: 0.49020768
+Doc 508: Topic 220 (Solitary), Prob: 1.00000000
+Doc 509: Topic 241 (Shyness), Prob: 1.00000000
+Doc 510: Topic 133 (Peer), Prob: 0.27040057
+Doc 511: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 512: Topic 53 (Peer), Prob: 0.59566405
+Doc 513: Topic 60 (Avoidance), Prob: 0.29571545
+Doc 514: Topic 53 (Peer), Prob: 1.00000000
+Doc 515: Topic 133 (Peer), Prob: 0.29067500
+Doc 516: Topic 242 (Solitude), Prob: 1.00000000
+Doc 517: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 518: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 519: Topic 45 (Solitude), Prob: 0.69697564
+Doc 520: Topic 84 (Solitude), Prob: 0.89523121
+Doc 521: Topic 45 (Solitude), Prob: 0.91459884
+Doc 522: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 523: Topic 164 (Shyness), Prob: 0.80241553
+Doc 524: Topic 127 (Reticence), Prob: 1.00000000
+Doc 525: Topic 164 (Shyness), Prob: 1.00000000
+Doc 526: Topic 240 (Kindergarteners), Prob: 1.00000000
+Doc 527: Topic 164 (Shyness), Prob: 1.00000000
+Doc 528: Topic 164 (Shyness), Prob: 0.70288035
+Doc 529: Topic 240 (Kindergarteners), Prob: 1.00000000
+Doc 530: Topic 45 (Solitude), Prob: 1.00000000
+Doc 531: Topic 60 (Avoidance), Prob: 0.46066888
+Doc 532: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 533: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 534: Topic 237 (Peer), Prob: 1.00000000
+Doc 535: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 536: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 537: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 538: Topic 60 (Avoidance), Prob: 1.00000000
+Doc 539: Topic 60 (Avoidance), Prob: 0.32681897
+Doc 540: Topic 133 (Peer), Prob: 1.00000000
+Doc 541: Topic 60 (Avoidance), Prob: 1.00000000
+Doc 542: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 543: Topic 137 (Shyness), Prob: 1.00000000
+Doc 544: Topic 62 (Shyness), Prob: 1.00000000
+Doc 545: Topic 137 (Shyness), Prob: 1.00000000
+Doc 546: Topic 137 (Shyness), Prob: 0.97069967
+Doc 547: Topic 48 (Adolescence), Prob: 0.45006785
+Doc 548: Topic 209 (Solitude), Prob: 1.00000000
+Doc 549: Topic 52 (Conclusions), Prob: 0.03864635
+Doc 550: Topic 45 (Solitude), Prob: 0.99473328
+Doc 551: Topic 130 (Solitude), Prob: 1.00000000
+Doc 552: Topic 130 (Solitude), Prob: 1.00000000
+Doc 553: Topic 130 (Solitude), Prob: 0.90066350
+Doc 554: Topic 53 (Peer), Prob: 0.52635586
+Doc 555: Topic 243 (Solitude), Prob: 1.00000000
+Doc 556: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 557: Topic 53 (Peer), Prob: 0.40039473
+Doc 558: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 559: Topic 60 (Avoidance), Prob: 1.00000000
+Doc 560: Topic 237 (Peer), Prob: 1.00000000
+Doc 561: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 562: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 563: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 564: Topic 52 (Conclusions), Prob: 0.05908670
+Doc 565: Topic 53 (Peer), Prob: 0.89878681
+Doc 566: Topic 45 (Solitude), Prob: 0.50729597
+Doc 567: Topic 84 (Solitude), Prob: 1.00000000
+Doc 568: Topic 137 (Shyness), Prob: 0.93954166
+Doc 569: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 570: Topic 53 (Peer), Prob: 1.00000000
+Doc 571: Topic 137 (Shyness), Prob: 1.00000000
+Doc 572: Topic 209 (Solitude), Prob: 1.00000000
+Doc 573: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 574: Topic 207 (Solitude), Prob: 1.00000000
+Doc 575: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 576: Topic 207 (Solitude), Prob: 1.00000000
+Doc 577: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 578: Topic 209 (Solitude), Prob: 1.00000000
+Doc 579: Topic 207 (Solitude), Prob: 1.00000000
+Doc 580: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 581: Topic 84 (Solitude), Prob: 1.00000000
+Doc 582: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 583: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 584: Topic 93 (Adolescence), Prob: 0.82823872
+Doc 585: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 586: Topic 105 (Rubin), Prob: 0.98148952
+Doc 587: Topic 93 (Adolescence), Prob: 1.00000000
+Doc 588: Topic 89 (Withdrawal), Prob: 0.73361837
+Doc 589: Topic 89 (Withdrawal), Prob: 1.00000000
+Doc 590: Topic 206 (Motivations), Prob: 1.00000000
+Doc 591: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 592: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 593: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 594: Topic 205 (Adolescent), Prob: 1.00000000
+Doc 595: Topic 93 (Adolescence), Prob: 1.00000000
+Doc 596: Topic 93 (Adolescence), Prob: 0.82338553
+Doc 597: Topic 93 (Adolescence), Prob: 1.00000000
+Doc 598: Topic 87 (Friendships), Prob: 0.79077138
+Doc 599: Topic 133 (Peer), Prob: 1.00000000
+Doc 600: Topic 48 (Adolescence), Prob: 0.50674299
+Doc 601: Topic 205 (Adolescent), Prob: 1.00000000
+Doc 602: Topic 62 (Shyness), Prob: 1.00000000
+Doc 603: Topic 48 (Adolescence), Prob: 1.00000000
+Doc 604: Topic 48 (Adolescence), Prob: 1.00000000
+Doc 605: Topic 48 (Adolescence), Prob: 0.86162929
+Doc 606: Topic 48 (Adolescence), Prob: 0.55137163
+Doc 607: Topic 48 (Adolescence), Prob: 0.47330815
+Doc 608: Topic 62 (Shyness), Prob: 1.00000000
+Doc 609: Topic 48 (Adolescence), Prob: 1.00000000
+Doc 610: Topic 133 (Peer), Prob: 1.00000000
+Doc 611: Topic 87 (Friendships), Prob: 0.58761200
+Doc 612: Topic 26 (Friendships), Prob: 0.93083699
+Doc 613: Topic 26 (Friendships), Prob: 0.17399422
+Doc 614: Topic 26 (Friendships), Prob: 0.16295919
+Doc 615: Topic 26 (Friendships), Prob: 1.00000000
+Doc 616: Topic 26 (Friendships), Prob: 1.00000000
+Doc 617: Topic 26 (Friendships), Prob: 1.00000000
+Doc 618: Topic 26 (Friendships), Prob: 0.71561297
+Doc 619: Topic 26 (Friendships), Prob: 0.95989357
+Doc 620: Topic 26 (Friendships), Prob: 0.87591072
+Doc 621: Topic 26 (Friendships), Prob: 0.66528910
+Doc 622: Topic 173 (Study), Prob: 1.00000000
+Doc 623: Topic 87 (Friendships), Prob: 1.00000000
+Doc 624: Topic 87 (Friendships), Prob: 0.68793022
+Doc 625: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 626: Topic 87 (Friendships), Prob: 1.00000000
+Doc 627: Topic 14 (Cyberbullying), Prob: 1.00000000
+Doc 628: Topic 204 (Messaging), Prob: 1.00000000
+Doc 629: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 630: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 631: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 632: Topic 26 (Friendships), Prob: 0.15860229
+Doc 633: Topic 93 (Adolescence), Prob: 0.73055460
+Doc 634: Topic 8 (Conclusion), Prob: 0.39300382
+Doc 635: Topic 205 (Adolescent), Prob: 1.00000000
+Doc 636: Topic 114 (Culture), Prob: 1.00000000
+Doc 637: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 638: Topic 10 (Adulthood), Prob: 1.00000000
+Doc 639: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 640: Topic 10 (Adulthood), Prob: 1.00000000
+Doc 641: Topic 10 (Adulthood), Prob: 1.00000000
+Doc 642: Topic 10 (Adulthood), Prob: 1.00000000
+Doc 643: Topic 10 (Adulthood), Prob: 0.99509655
+Doc 644: Topic 10 (Adulthood), Prob: 1.00000000
+Doc 645: Topic 10 (Adulthood), Prob: 1.00000000
+Doc 646: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 647: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 648: Topic 89 (Withdrawal), Prob: 0.40766313
+Doc 649: Topic 232 (Aloneness), Prob: 1.00000000
+Doc 650: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 651: Topic 206 (Motivations), Prob: 1.00000000
+Doc 652: Topic 162 (Avoidance), Prob: 0.72111540
+Doc 653: Topic 114 (Culture), Prob: 1.00000000
+Doc 654: Topic 114 (Culture), Prob: 1.00000000
+Doc 655: Topic 30 (Introversion), Prob: 1.00000000
+Doc 656: Topic 30 (Introversion), Prob: 0.64118259
+Doc 657: Topic 10 (Adulthood), Prob: 0.65072758
+Doc 658: Topic 30 (Introversion), Prob: 0.83143349
+Doc 659: Topic 109 (Identity), Prob: 1.00000000
+Doc 660: Topic 109 (Identity), Prob: 1.00000000
+Doc 661: Topic 109 (Identity), Prob: 1.00000000
+Doc 662: Topic 109 (Identity), Prob: 0.55159969
+Doc 663: Topic 10 (Adulthood), Prob: 1.00000000
+Doc 664: Topic 92 (Shyness), Prob: 1.00000000
+Doc 665: Topic 92 (Shyness), Prob: 0.26451657
+Doc 666: Topic 231 (Shyness), Prob: 1.00000000
+Doc 667: Topic 92 (Shyness), Prob: 1.00000000
+Doc 668: Topic 92 (Shyness), Prob: 0.41918992
+Doc 669: Topic 176 (Solitude), Prob: 1.00000000
+Doc 670: Topic 92 (Shyness), Prob: 1.00000000
+Doc 671: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 672: Topic 95 (Shyness), Prob: 1.00000000
+Doc 673: Topic 95 (Shyness), Prob: 0.64147206
+Doc 674: Topic 95 (Shyness), Prob: 1.00000000
+Doc 675: Topic 95 (Shyness), Prob: 1.00000000
+Doc 676: Topic 114 (Culture), Prob: 0.64867714
+Doc 677: Topic 95 (Shyness), Prob: 0.50354172
+Doc 678: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 679: Topic 95 (Shyness), Prob: 0.63806868
+Doc 680: Topic 231 (Shyness), Prob: 1.00000000
+Doc 681: Topic 109 (Identity), Prob: 0.46186112
+Doc 682: Topic 10 (Adulthood), Prob: 1.00000000
+Doc 683: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 684: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 685: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 686: Topic 228 (Adulthood), Prob: 1.00000000
+Doc 687: Topic 156 (Loneliness), Prob: 1.00000000
+Doc 688: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 689: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 690: Topic 156 (Loneliness), Prob: 1.00000000
+Doc 691: Topic 156 (Loneliness), Prob: 1.00000000
+Doc 692: Topic 156 (Loneliness), Prob: 0.88400893
+Doc 693: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 694: Topic 10 (Adulthood), Prob: 0.34356556
+Doc 695: Topic 10 (Adulthood), Prob: 1.00000000
+Doc 696: Topic 30 (Introversion), Prob: 0.78681655
+Doc 697: Topic 8 (Conclusion), Prob: 0.04462945
+Doc 698: Topic 30 (Introversion), Prob: 1.00000000
+Doc 699: Topic 24 (Culture), Prob: 0.41376853
+Doc 700: Topic 114 (Culture), Prob: 0.65978007
+Doc 701: Topic 30 (Introversion), Prob: 0.44711535
+Doc 702: Topic 62 (Shyness), Prob: 0.87613729
+Doc 703: Topic 8 (Conclusion), Prob: 1.00000000
+Doc 704: Topic 10 (Adulthood), Prob: 1.00000000
+Doc 705: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 706: Topic 2 (Singlehood), Prob: 0.61422545
+Doc 707: Topic 2 (Singlehood), Prob: 0.99843857
+Doc 708: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 709: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 710: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 711: Topic 2 (Singlehood), Prob: 0.93876720
+Doc 712: Topic 2 (Singlehood), Prob: 0.90939749
+Doc 713: Topic 2 (Singlehood), Prob: 0.90939749
+Doc 714: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 715: Topic 224 (Marriage), Prob: 1.00000000
+Doc 716: Topic 68 (Relationships), Prob: 0.10262904
+Doc 717: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 718: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 719: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 720: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 721: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 722: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 723: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 724: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 725: Topic 97 (Loneliness), Prob: 1.00000000
+Doc 726: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 727: Topic 92 (Shyness), Prob: 0.34347604
+Doc 728: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 729: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 730: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 731: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 732: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 733: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 734: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 735: Topic 97 (Loneliness), Prob: 0.97873563
+Doc 736: Topic 97 (Loneliness), Prob: 1.00000000
+Doc 737: Topic 97 (Loneliness), Prob: 0.68745444
+Doc 738: Topic 97 (Loneliness), Prob: 0.71830652
+Doc 739: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 740: Topic 68 (Relationships), Prob: 0.70582379
+Doc 741: Topic 68 (Relationships), Prob: 1.00000000
+Doc 742: Topic 68 (Relationships), Prob: 1.00000000
+Doc 743: Topic 68 (Relationships), Prob: 1.00000000
+Doc 744: Topic 68 (Relationships), Prob: 0.40738492
+Doc 745: Topic 97 (Loneliness), Prob: 0.36344955
+Doc 746: Topic 116 (Single), Prob: 0.39638431
+Doc 747: Topic 116 (Single), Prob: 0.81429406
+Doc 748: Topic 116 (Single), Prob: 1.00000000
+Doc 749: Topic 68 (Relationships), Prob: 0.23180019
+Doc 750: Topic 116 (Single), Prob: 0.86049771
+Doc 751: Topic 116 (Single), Prob: 1.00000000
+Doc 752: Topic 66 (Singlehood), Prob: 1.00000000
+Doc 753: Topic 66 (Singlehood), Prob: 0.64235984
+Doc 754: Topic 66 (Singlehood), Prob: 1.00000000
+Doc 755: Topic 66 (Singlehood), Prob: 0.38611046
+Doc 756: Topic 66 (Singlehood), Prob: 0.66327031
+Doc 757: Topic 66 (Singlehood), Prob: 0.74878451
+Doc 758: Topic 8 (Conclusion), Prob: 0.06962873
+Doc 759: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 760: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 761: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 762: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 763: Topic 2 (Singlehood), Prob: 0.96527457
+Doc 764: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 765: Topic 66 (Singlehood), Prob: 0.12301055
+Doc 766: Topic 2 (Singlehood), Prob: 0.95786299
+Doc 767: Topic 2 (Singlehood), Prob: 1.00000000
+Doc 768: Topic 224 (Marriage), Prob: 1.00000000
+Doc 769: Topic 2 (Singlehood), Prob: 0.87733188
+Doc 770: Topic 175 (Loneliness), Prob: 0.99470100
+Doc 771: Topic 54 (Introduction), Prob: 1.00000000
+Doc 772: Topic 181 (Aging), Prob: 0.53967846
+Doc 773: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 774: Topic 175 (Loneliness), Prob: 1.00000000
+Doc 775: Topic 41 (Loneliness), Prob: 1.00000000
+Doc 776: Topic 5 (Solitude), Prob: 1.00000000
+Doc 777: Topic 5 (Solitude), Prob: 1.00000000
+Doc 778: Topic 175 (Loneliness), Prob: 1.00000000
+Doc 779: Topic 175 (Loneliness), Prob: 1.00000000
+Doc 780: Topic 98 (Loneliness), Prob: 1.00000000
+Doc 781: Topic 98 (Loneliness), Prob: 1.00000000
+Doc 782: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 783: Topic 180 (Solitude), Prob: 1.00000000
+Doc 784: Topic 20 (Solitude), Prob: 1.00000000
+Doc 785: Topic 181 (Aging), Prob: 1.00000000
+Doc 786: Topic 181 (Aging), Prob: 1.00000000
+Doc 787: Topic 5 (Solitude), Prob: 1.00000000
+Doc 788: Topic 213 (Solitude), Prob: 1.00000000
+Doc 789: Topic 20 (Solitude), Prob: 1.00000000
+Doc 790: Topic 181 (Aging), Prob: 1.00000000
+Doc 791: Topic 179 (Emotions), Prob: 0.43666423
+Doc 792: Topic 20 (Solitude), Prob: 1.00000000
+Doc 793: Topic 20 (Solitude), Prob: 1.00000000
+Doc 794: Topic 20 (Solitude), Prob: 1.00000000
+Doc 795: Topic 20 (Solitude), Prob: 1.00000000
+Doc 796: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 797: Topic 20 (Solitude), Prob: 1.00000000
+Doc 798: Topic 180 (Solitude), Prob: 1.00000000
+Doc 799: Topic 180 (Solitude), Prob: 0.64976519
+Doc 800: Topic 180 (Solitude), Prob: 1.00000000
+Doc 801: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 802: Topic 179 (Emotions), Prob: 1.00000000
+Doc 803: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 804: Topic 115 (Challenges), Prob: 1.00000000
+Doc 805: Topic 20 (Solitude), Prob: 1.00000000
+Doc 806: Topic 213 (Solitude), Prob: 1.00000000
+Doc 807: Topic 213 (Solitude), Prob: 1.00000000
+Doc 808: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 809: Topic 5 (Solitude), Prob: 1.00000000
+Doc 810: Topic 20 (Solitude), Prob: 1.00000000
+Doc 811: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 812: Topic 20 (Solitude), Prob: 0.98256397
+Doc 813: Topic 8 (Conclusion), Prob: 1.00000000
+Doc 814: Topic 20 (Solitude), Prob: 1.00000000
+Doc 815: Topic 21 (Avoidance), Prob: 1.00000000
+Doc 816: Topic 178 (Motivations), Prob: 1.00000000
+Doc 817: Topic 32 (Dating), Prob: 1.00000000
+Doc 818: Topic 113 (Avoidance), Prob: 1.00000000
+Doc 819: Topic 21 (Avoidance), Prob: 1.00000000
+Doc 820: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 821: Topic 13 (Affective), Prob: 1.00000000
+Doc 822: Topic 32 (Dating), Prob: 1.00000000
+Doc 823: Topic 21 (Avoidance), Prob: 0.86327883
+Doc 824: Topic 162 (Avoidance), Prob: 0.75507835
+Doc 825: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 826: Topic 162 (Avoidance), Prob: 1.00000000
+Doc 827: Topic 232 (Aloneness), Prob: 1.00000000
+Doc 828: Topic 21 (Avoidance), Prob: 0.70142295
+Doc 829: Topic 21 (Avoidance), Prob: 0.70142295
+Doc 830: Topic 21 (Avoidance), Prob: 0.69508995
+Doc 831: Topic 21 (Avoidance), Prob: 0.49026170
+Doc 832: Topic 32 (Dating), Prob: 0.55354373
+Doc 833: Topic 178 (Motivations), Prob: 1.00000000
+Doc 834: Topic 178 (Motivations), Prob: 1.00000000
+Doc 835: Topic 223 (Loneliness), Prob: 1.00000000
+Doc 836: Topic 21 (Avoidance), Prob: 0.61506345
+Doc 837: Topic 70 (Snmmary), Prob: 0.38247858
+Doc 838: Topic 215 (Avoidance), Prob: 1.00000000
+Doc 839: Topic 215 (Avoidance), Prob: 1.00000000
+Doc 840: Topic 32 (Dating), Prob: 0.97816636
+Doc 841: Topic 32 (Dating), Prob: 0.83609298
+Doc 842: Topic 32 (Dating), Prob: 0.97816636
+Doc 843: Topic 32 (Dating), Prob: 0.67214771
+Doc 844: Topic 32 (Dating), Prob: 1.00000000
+Doc 845: Topic 70 (Snmmary), Prob: 1.00000000
+Doc 846: Topic 215 (Avoidance), Prob: 1.00000000
+Doc 847: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 848: Topic 70 (Snmmary), Prob: 1.00000000
+Doc 849: Topic 32 (Dating), Prob: 0.91605576
+Doc 850: Topic 178 (Motivations), Prob: 0.33558579
+Doc 851: Topic 21 (Avoidance), Prob: 0.73998619
+Doc 852: Topic 32 (Dating), Prob: 0.67302795
+Doc 853: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 854: Topic 223 (Loneliness), Prob: 1.00000000
+Doc 855: Topic 113 (Avoidance), Prob: 1.00000000
+Doc 856: Topic 73 (Primate), Prob: 0.82093976
+Doc 857: Topic 217 (Avoidance), Prob: 1.00000000
+Doc 858: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 859: Topic 39 (Anxiety), Prob: 0.74230565
+Doc 860: Topic 217 (Avoidance), Prob: 1.00000000
+Doc 861: Topic 117 (Environment), Prob: 0.90548920
+Doc 862: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 863: Topic 217 (Avoidance), Prob: 1.00000000
+Doc 864: Topic 85 (Shyness), Prob: 1.00000000
+Doc 865: Topic 85 (Shyness), Prob: 1.00000000
+Doc 866: Topic 19 (Introversion), Prob: 0.27219221
+Doc 867: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 868: Topic 222 (Avoidance), Prob: 1.00000000
+Doc 869: Topic 222 (Avoidance), Prob: 1.00000000
+Doc 870: Topic 81 (Withdrawn), Prob: 0.85579102
+Doc 871: Topic 19 (Introversion), Prob: 0.23720607
+Doc 872: Topic 218 (Turtle), Prob: 1.00000000
+Doc 873: Topic 19 (Introversion), Prob: 0.46701106
+Doc 874: Topic 83 (Motivation), Prob: 1.00000000
+Doc 875: Topic 179 (Emotions), Prob: 1.00000000
+Doc 876: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 877: Topic 83 (Motivation), Prob: 1.00000000
+Doc 878: Topic 83 (Motivation), Prob: 0.44612424
+Doc 879: Topic 83 (Motivation), Prob: 0.69375662
+Doc 880: Topic 83 (Motivation), Prob: 1.00000000
+Doc 881: Topic 163 (Implications), Prob: 1.00000000
+Doc 882: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 883: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 884: Topic 21 (Avoidance), Prob: 0.41619853
+Doc 885: Topic 21 (Avoidance), Prob: 0.58754479
+Doc 886: Topic 113 (Avoidance), Prob: 1.00000000
+Doc 887: Topic 83 (Motivation), Prob: 0.46020241
+Doc 888: Topic 52 (Conclusions), Prob: 1.00000000
+Doc 889: Topic 113 (Avoidance), Prob: 0.90928048
+Doc 890: Topic 21 (Avoidance), Prob: 1.00000000
+Doc 891: Topic 113 (Avoidance), Prob: 0.75273018
+Doc 892: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 893: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 894: Topic 105 (Rubin), Prob: 1.00000000
+Doc 895: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 896: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 897: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 898: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 899: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 900: Topic 4 (Ostracism), Prob: 0.61334426
+Doc 901: Topic 208 (Ostracism), Prob: 1.00000000
+Doc 902: Topic 208 (Ostracism), Prob: 1.00000000
+Doc 903: Topic 4 (Ostracism), Prob: 0.82933773
+Doc 904: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 905: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 906: Topic 4 (Ostracism), Prob: 0.61895148
+Doc 907: Topic 118 (Ostracism), Prob: 0.30456836
+Doc 908: Topic 118 (Ostracism), Prob: 1.00000000
+Doc 909: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 910: Topic 118 (Ostracism), Prob: 1.00000000
+Doc 911: Topic 4 (Ostracism), Prob: 0.82933773
+Doc 912: Topic 105 (Rubin), Prob: 1.00000000
+Doc 913: Topic 118 (Ostracism), Prob: 0.75261911
+Doc 914: Topic 118 (Ostracism), Prob: 1.00000000
+Doc 915: Topic 208 (Ostracism), Prob: 1.00000000
+Doc 916: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 917: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 918: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 919: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 920: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 921: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 922: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 923: Topic 4 (Ostracism), Prob: 0.84237627
+Doc 924: Topic 0 (Solitary), Prob: 1.00000000
+Doc 925: Topic 0 (Solitary), Prob: 1.00000000
+Doc 926: Topic 4 (Ostracism), Prob: 0.89000897
+Doc 927: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 928: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 929: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 930: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 931: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 932: Topic 157 (Ostracism), Prob: 1.00000000
+Doc 933: Topic 4 (Ostracism), Prob: 0.92899167
+Doc 934: Topic 157 (Ostracism), Prob: 1.00000000
+Doc 935: Topic 176 (Solitude), Prob: 1.00000000
+Doc 936: Topic 176 (Solitude), Prob: 1.00000000
+Doc 937: Topic 157 (Ostracism), Prob: 1.00000000
+Doc 938: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 939: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 940: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 941: Topic 11 (Hikikomori), Prob: 1.00000000
+Doc 942: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 943: Topic 102 (Summary), Prob: 1.00000000
+Doc 944: Topic 4 (Ostracism), Prob: 1.00000000
+Doc 945: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 946: Topic 54 (Introduction), Prob: 0.11207492
+Doc 947: Topic 31 (Aloneness), Prob: 0.20000489
+Doc 948: Topic 142 (Antonomy), Prob: 1.00000000
+Doc 949: Topic 5 (Solitude), Prob: 1.00000000
+Doc 950: Topic 5 (Solitude), Prob: 1.00000000
+Doc 951: Topic 5 (Solitude), Prob: 1.00000000
+Doc 952: Topic 5 (Solitude), Prob: 1.00000000
+Doc 953: Topic 5 (Solitude), Prob: 1.00000000
+Doc 954: Topic 5 (Solitude), Prob: 1.00000000
+Doc 955: Topic 5 (Solitude), Prob: 1.00000000
+Doc 956: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 957: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 958: Topic 5 (Solitude), Prob: 1.00000000
+Doc 959: Topic 50 (Awareness), Prob: 0.47693774
+Doc 960: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 961: Topic 5 (Solitude), Prob: 1.00000000
+Doc 962: Topic 142 (Antonomy), Prob: 1.00000000
+Doc 963: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 964: Topic 31 (Aloneness), Prob: 0.87945492
+Doc 965: Topic 3 (Aloneness), Prob: 0.61747426
+Doc 966: Topic 31 (Aloneness), Prob: 0.96273954
+Doc 967: Topic 31 (Aloneness), Prob: 0.76156475
+Doc 968: Topic 31 (Aloneness), Prob: 1.00000000
+Doc 969: Topic 31 (Aloneness), Prob: 0.82753850
+Doc 970: Topic 131 (Unnamed Topic), Prob: 0.74710912
+Doc 971: Topic 31 (Aloneness), Prob: 0.38695628
+Doc 972: Topic 31 (Aloneness), Prob: 1.00000000
+Doc 973: Topic 31 (Aloneness), Prob: 0.29824719
+Doc 974: Topic 50 (Awareness), Prob: 0.21921900
+Doc 975: Topic 50 (Awareness), Prob: 0.51149185
+Doc 976: Topic 50 (Awareness), Prob: 1.00000000
+Doc 977: Topic 50 (Awareness), Prob: 1.00000000
+Doc 978: Topic 50 (Awareness), Prob: 1.00000000
+Doc 979: Topic 50 (Awareness), Prob: 0.20634256
+Doc 980: Topic 50 (Awareness), Prob: 0.23493819
+Doc 981: Topic 142 (Antonomy), Prob: 0.79357786
+Doc 982: Topic 40 (Motivation), Prob: 0.51249717
+Doc 983: Topic 40 (Motivation), Prob: 0.60677059
+Doc 984: Topic 40 (Motivation), Prob: 1.00000000
+Doc 985: Topic 40 (Motivation), Prob: 1.00000000
+Doc 986: Topic 29 (Necessity), Prob: 1.00000000
+Doc 987: Topic 172 (Infant), Prob: 0.83283800
+Doc 988: Topic 51 (Aloneness), Prob: 0.37221405
+Doc 989: Topic 5 (Solitude), Prob: 1.00000000
+Doc 990: Topic 40 (Motivation), Prob: 0.80407869
+Doc 991: Topic 40 (Motivation), Prob: 0.58968076
+Doc 992: Topic 228 (Adulthood), Prob: 1.00000000
+Doc 993: Topic 72 (Aloneness), Prob: 0.53291714
+Doc 994: Topic 72 (Aloneness), Prob: 0.81437438
+Doc 995: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 996: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 997: Topic 226 (Solitude), Prob: 1.00000000
+Doc 998: Topic 141 (Solitude), Prob: 1.00000000
+Doc 999: Topic 141 (Solitude), Prob: 1.00000000
+Doc 1000: Topic 141 (Solitude), Prob: 1.00000000
+Doc 1001: Topic 141 (Solitude), Prob: 0.94877916
+Doc 1002: Topic 40 (Motivation), Prob: 0.44324642
+Doc 1003: Topic 194 (Personality), Prob: 1.00000000
+Doc 1004: Topic 72 (Aloneness), Prob: 0.45433911
+Doc 1005: Topic 72 (Aloneness), Prob: 1.00000000
+Doc 1006: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1007: Topic 242 (Solitude), Prob: 1.00000000
+Doc 1008: Topic 72 (Aloneness), Prob: 0.74806239
+Doc 1009: Topic 72 (Aloneness), Prob: 1.00000000
+Doc 1010: Topic 142 (Antonomy), Prob: 1.00000000
+Doc 1011: Topic 51 (Aloneness), Prob: 1.00000000
+Doc 1012: Topic 51 (Aloneness), Prob: 1.00000000
+Doc 1013: Topic 51 (Aloneness), Prob: 1.00000000
+Doc 1014: Topic 5 (Solitude), Prob: 1.00000000
+Doc 1015: Topic 51 (Aloneness), Prob: 0.60341665
+Doc 1016: Topic 40 (Motivation), Prob: 0.44324642
+Doc 1017: Topic 8 (Conclusion), Prob: 0.40518113
+Doc 1018: Topic 31 (Aloneness), Prob: 1.00000000
+Doc 1019: Topic 72 (Aloneness), Prob: 1.00000000
+Doc 1020: Topic 51 (Aloneness), Prob: 0.53591345
+Doc 1021: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1022: Topic 112 (Loneliness), Prob: 0.48906965
+Doc 1023: Topic 78 (Solitude), Prob: 1.00000000
+Doc 1024: Topic 41 (Loneliness), Prob: 0.68253674
+Doc 1025: Topic 100 (Lonely), Prob: 0.53512836
+Doc 1026: Topic 101 (Mobile), Prob: 0.20815346
+Doc 1027: Topic 101 (Mobile), Prob: 1.00000000
+Doc 1028: Topic 46 (Loneliness), Prob: 0.87808672
+Doc 1029: Topic 112 (Loneliness), Prob: 0.71734935
+Doc 1030: Topic 37 (Loneliness), Prob: 0.57251674
+Doc 1031: Topic 37 (Loneliness), Prob: 1.00000000
+Doc 1032: Topic 37 (Loneliness), Prob: 0.57398278
+Doc 1033: Topic 37 (Loneliness), Prob: 0.49753448
+Doc 1034: Topic 37 (Loneliness), Prob: 1.00000000
+Doc 1035: Topic 173 (Study), Prob: 0.81264281
+Doc 1036: Topic 112 (Loneliness), Prob: 1.00000000
+Doc 1037: Topic 41 (Loneliness), Prob: 0.53921655
+Doc 1038: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1039: Topic 46 (Loneliness), Prob: 0.87808672
+Doc 1040: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1041: Topic 41 (Loneliness), Prob: 0.81511523
+Doc 1042: Topic 44 (Smartphone), Prob: 1.00000000
+Doc 1043: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1044: Topic 112 (Loneliness), Prob: 1.00000000
+Doc 1045: Topic 46 (Loneliness), Prob: 0.60714695
+Doc 1046: Topic 44 (Smartphone), Prob: 1.00000000
+Doc 1047: Topic 100 (Lonely), Prob: 0.62277532
+Doc 1048: Topic 112 (Loneliness), Prob: 0.99822527
+Doc 1049: Topic 37 (Loneliness), Prob: 1.00000000
+Doc 1050: Topic 46 (Loneliness), Prob: 0.85997331
+Doc 1051: Topic 46 (Loneliness), Prob: 0.61006897
+Doc 1052: Topic 149 (Loneliness), Prob: 1.00000000
+Doc 1053: Topic 44 (Smartphone), Prob: 1.00000000
+Doc 1054: Topic 44 (Smartphone), Prob: 1.00000000
+Doc 1055: Topic 100 (Lonely), Prob: 1.00000000
+Doc 1056: Topic 131 (Unnamed Topic), Prob: 0.84958883
+Doc 1057: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1058: Topic 100 (Lonely), Prob: 0.67110460
+Doc 1059: Topic 100 (Lonely), Prob: 0.77139899
+Doc 1060: Topic 100 (Lonely), Prob: 1.00000000
+Doc 1061: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1062: Topic 46 (Loneliness), Prob: 1.00000000
+Doc 1063: Topic 37 (Loneliness), Prob: 0.46333059
+Doc 1064: Topic 44 (Smartphone), Prob: 1.00000000
+Doc 1065: Topic 149 (Loneliness), Prob: 0.99412151
+Doc 1066: Topic 149 (Loneliness), Prob: 0.99412151
+Doc 1067: Topic 149 (Loneliness), Prob: 1.00000000
+Doc 1068: Topic 46 (Loneliness), Prob: 1.00000000
+Doc 1069: Topic 115 (Challenges), Prob: 0.52879813
+Doc 1070: Topic 37 (Loneliness), Prob: 0.72044151
+Doc 1071: Topic 37 (Loneliness), Prob: 0.82800373
+Doc 1072: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1073: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1074: Topic 8 (Conclusion), Prob: 0.51008282
+Doc 1075: Topic 46 (Loneliness), Prob: 0.71109165
+Doc 1076: Topic 243 (Solitude), Prob: 1.00000000
+Doc 1077: Topic 14 (Cyberbullying), Prob: 0.81297764
+Doc 1078: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1079: Topic 54 (Introduction), Prob: 0.61074294
+Doc 1080: Topic 14 (Cyberbullying), Prob: 1.00000000
+Doc 1081: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1082: Topic 14 (Cyberbullying), Prob: 0.65336994
+Doc 1083: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1084: Topic 14 (Cyberbullying), Prob: 1.00000000
+Doc 1085: Topic 101 (Mobile), Prob: 1.00000000
+Doc 1086: Topic 101 (Mobile), Prob: 0.56554969
+Doc 1087: Topic 101 (Mobile), Prob: 0.27121065
+Doc 1088: Topic 44 (Smartphone), Prob: 1.00000000
+Doc 1089: Topic 44 (Smartphone), Prob: 1.00000000
+Doc 1090: Topic 44 (Smartphone), Prob: 1.00000000
+Doc 1091: Topic 44 (Smartphone), Prob: 1.00000000
+Doc 1092: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1093: Topic 204 (Messaging), Prob: 1.00000000
+Doc 1094: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1095: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1096: Topic 150 (Loneliness), Prob: 1.00000000
+Doc 1097: Topic 150 (Loneliness), Prob: 0.74569946
+Doc 1098: Topic 151 (Social), Prob: 1.00000000
+Doc 1099: Topic 151 (Social), Prob: 0.86642012
+Doc 1100: Topic 204 (Messaging), Prob: 0.89176394
+Doc 1101: Topic 151 (Social), Prob: 1.00000000
+Doc 1102: Topic 150 (Loneliness), Prob: 0.69056845
+Doc 1103: Topic 203 (Social), Prob: 1.00000000
+Doc 1104: Topic 150 (Loneliness), Prob: 1.00000000
+Doc 1105: Topic 151 (Social), Prob: 1.00000000
+Doc 1106: Topic 212 (Fomo), Prob: 1.00000000
+Doc 1107: Topic 212 (Fomo), Prob: 1.00000000
+Doc 1108: Topic 89 (Withdrawal), Prob: 1.00000000
+Doc 1109: Topic 212 (Fomo), Prob: 1.00000000
+Doc 1110: Topic 98 (Loneliness), Prob: 0.37230492
+Doc 1111: Topic 14 (Cyberbullying), Prob: 1.00000000
+Doc 1112: Topic 14 (Cyberbullying), Prob: 0.71083719
+Doc 1113: Topic 14 (Cyberbullying), Prob: 0.68192560
+Doc 1114: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1115: Topic 14 (Cyberbullying), Prob: 1.00000000
+Doc 1116: Topic 14 (Cyberbullying), Prob: 1.00000000
+Doc 1117: Topic 14 (Cyberbullying), Prob: 1.00000000
+Doc 1118: Topic 14 (Cyberbullying), Prob: 1.00000000
+Doc 1119: Topic 177 (Loneliness), Prob: 1.00000000
+Doc 1120: Topic 52 (Conclusions), Prob: 0.04187840
+Doc 1121: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1122: Topic 155 (Solitude), Prob: 0.64074895
+Doc 1123: Topic 14 (Cyberbullying), Prob: 1.00000000
+Doc 1124: Topic 14 (Cyberbullying), Prob: 1.00000000
+Doc 1125: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1126: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1127: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1128: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1129: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1130: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1131: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1132: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1133: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1134: Topic 1 (Creativity), Prob: 0.74859930
+Doc 1135: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1136: Topic 1 (Creativity), Prob: 0.80552420
+Doc 1137: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1138: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1139: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1140: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1141: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1142: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1143: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1144: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1145: Topic 1 (Creativity), Prob: 0.82717296
+Doc 1146: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1147: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1148: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1149: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1150: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1151: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1152: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1153: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1154: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1155: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1156: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1157: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1158: Topic 157 (Ostracism), Prob: 0.44387065
+Doc 1159: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 1160: Topic 1 (Creativity), Prob: 0.42921615
+Doc 1161: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1162: Topic 91 (Introversion), Prob: 0.51141067
+Doc 1163: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1164: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1165: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1166: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1167: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1168: Topic 1 (Creativity), Prob: 0.55616253
+Doc 1169: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1170: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1171: Topic 102 (Summary), Prob: 0.90875306
+Doc 1172: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1173: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1174: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1175: Topic 1 (Creativity), Prob: 1.00000000
+Doc 1176: Topic 12 (Athletes), Prob: 0.74565668
+Doc 1177: Topic 12 (Athletes), Prob: 0.74436142
+Doc 1178: Topic 7 (Rest), Prob: 1.00000000
+Doc 1179: Topic 7 (Rest), Prob: 0.93210454
+Doc 1180: Topic 7 (Rest), Prob: 0.82414338
+Doc 1181: Topic 7 (Rest), Prob: 1.00000000
+Doc 1182: Topic 7 (Rest), Prob: 1.00000000
+Doc 1183: Topic 7 (Rest), Prob: 1.00000000
+Doc 1184: Topic 70 (Snmmary), Prob: 1.00000000
+Doc 1185: Topic 119 (Rest), Prob: 1.00000000
+Doc 1186: Topic 119 (Rest), Prob: 1.00000000
+Doc 1187: Topic 119 (Rest), Prob: 1.00000000
+Doc 1188: Topic 145 (Athletes), Prob: 1.00000000
+Doc 1189: Topic 145 (Athletes), Prob: 1.00000000
+Doc 1190: Topic 7 (Rest), Prob: 1.00000000
+Doc 1191: Topic 7 (Rest), Prob: 1.00000000
+Doc 1192: Topic 173 (Study), Prob: 1.00000000
+Doc 1193: Topic 7 (Rest), Prob: 0.50616373
+Doc 1194: Topic 7 (Rest), Prob: 0.63676950
+Doc 1195: Topic 7 (Rest), Prob: 0.85877155
+Doc 1196: Topic 7 (Rest), Prob: 1.00000000
+Doc 1197: Topic 7 (Rest), Prob: 0.58138163
+Doc 1198: Topic 12 (Athletes), Prob: 1.00000000
+Doc 1199: Topic 16 (Sport), Prob: 0.79067013
+Doc 1200: Topic 16 (Sport), Prob: 1.00000000
+Doc 1201: Topic 16 (Sport), Prob: 0.90625377
+Doc 1202: Topic 16 (Sport), Prob: 0.93643673
+Doc 1203: Topic 16 (Sport), Prob: 0.58305716
+Doc 1204: Topic 16 (Sport), Prob: 1.00000000
+Doc 1205: Topic 16 (Sport), Prob: 1.00000000
+Doc 1206: Topic 16 (Sport), Prob: 1.00000000
+Doc 1207: Topic 16 (Sport), Prob: 1.00000000
+Doc 1208: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1209: Topic 7 (Rest), Prob: 0.65811189
+Doc 1210: Topic 16 (Sport), Prob: 1.00000000
+Doc 1211: Topic 16 (Sport), Prob: 0.68120992
+Doc 1212: Topic 12 (Athletes), Prob: 1.00000000
+Doc 1213: Topic 16 (Sport), Prob: 0.65432717
+Doc 1214: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1215: Topic 16 (Sport), Prob: 0.39408065
+Doc 1216: Topic 12 (Athletes), Prob: 1.00000000
+Doc 1217: Topic 12 (Athletes), Prob: 0.89441993
+Doc 1218: Topic 7 (Rest), Prob: 0.54162792
+Doc 1219: Topic 12 (Athletes), Prob: 1.00000000
+Doc 1220: Topic 12 (Athletes), Prob: 1.00000000
+Doc 1221: Topic 12 (Athletes), Prob: 1.00000000
+Doc 1222: Topic 12 (Athletes), Prob: 0.92542580
+Doc 1223: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1224: Topic 154 (Athletes), Prob: 0.84157026
+Doc 1225: Topic 16 (Sport), Prob: 0.52567467
+Doc 1226: Topic 154 (Athletes), Prob: 1.00000000
+Doc 1227: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1228: Topic 154 (Athletes), Prob: 1.00000000
+Doc 1229: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1230: Topic 7 (Rest), Prob: 1.00000000
+Doc 1231: Topic 7 (Rest), Prob: 0.99049557
+Doc 1232: Topic 119 (Rest), Prob: 0.68587972
+Doc 1233: Topic 119 (Rest), Prob: 0.22407197
+Doc 1234: Topic 145 (Athletes), Prob: 0.98030797
+Doc 1235: Topic 145 (Athletes), Prob: 1.00000000
+Doc 1236: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1237: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 1238: Topic 12 (Athletes), Prob: 0.64964216
+Doc 1239: Topic 12 (Athletes), Prob: 0.76238975
+Doc 1240: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1241: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1242: Topic 12 (Athletes), Prob: 1.00000000
+Doc 1243: Topic 154 (Athletes), Prob: 1.00000000
+Doc 1244: Topic 173 (Study), Prob: 1.00000000
+Doc 1245: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1246: Topic 12 (Athletes), Prob: 0.70455419
+Doc 1247: Topic 163 (Implications), Prob: 1.00000000
+Doc 1248: Topic 7 (Rest), Prob: 1.00000000
+Doc 1249: Topic 8 (Conclusion), Prob: 0.50752778
+Doc 1250: Topic 12 (Athletes), Prob: 1.00000000
+Doc 1251: Topic 49 (Immigrants), Prob: 1.00000000
+Doc 1252: Topic 49 (Immigrants), Prob: 1.00000000
+Doc 1253: Topic 54 (Introduction), Prob: 0.72519148
+Doc 1254: Topic 49 (Immigrants), Prob: 1.00000000
+Doc 1255: Topic 40 (Motivation), Prob: 0.39645489
+Doc 1256: Topic 90 (Acculturation), Prob: 0.52267567
+Doc 1257: Topic 49 (Immigrants), Prob: 1.00000000
+Doc 1258: Topic 45 (Solitude), Prob: 1.00000000
+Doc 1259: Topic 49 (Immigrants), Prob: 1.00000000
+Doc 1260: Topic 90 (Acculturation), Prob: 0.76689372
+Doc 1261: Topic 210 (Immigrant), Prob: 1.00000000
+Doc 1262: Topic 235 (Shyness), Prob: 1.00000000
+Doc 1263: Topic 211 (Immigrants), Prob: 1.00000000
+Doc 1264: Topic 210 (Immigrant), Prob: 1.00000000
+Doc 1265: Topic 210 (Immigrant), Prob: 1.00000000
+Doc 1266: Topic 90 (Acculturation), Prob: 1.00000000
+Doc 1267: Topic 90 (Acculturation), Prob: 1.00000000
+Doc 1268: Topic 90 (Acculturation), Prob: 1.00000000
+Doc 1269: Topic 94 (Acculturation), Prob: 1.00000000
+Doc 1270: Topic 202 (Shyness), Prob: 1.00000000
+Doc 1271: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1272: Topic 90 (Acculturation), Prob: 0.56433045
+Doc 1273: Topic 202 (Shyness), Prob: 1.00000000
+Doc 1274: Topic 202 (Shyness), Prob: 1.00000000
+Doc 1275: Topic 211 (Immigrants), Prob: 1.00000000
+Doc 1276: Topic 214 (Immigrants), Prob: 1.00000000
+Doc 1277: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1278: Topic 214 (Immigrants), Prob: 1.00000000
+Doc 1279: Topic 214 (Immigrants), Prob: 1.00000000
+Doc 1280: Topic 49 (Immigrants), Prob: 1.00000000
+Doc 1281: Topic 49 (Immigrants), Prob: 1.00000000
+Doc 1282: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1283: Topic 216 (Shyness), Prob: 1.00000000
+Doc 1284: Topic 136 (Oneself), Prob: 0.90292838
+Doc 1285: Topic 136 (Oneself), Prob: 0.95218625
+Doc 1286: Topic 136 (Oneself), Prob: 1.00000000
+Doc 1287: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1288: Topic 216 (Shyness), Prob: 1.00000000
+Doc 1289: Topic 216 (Shyness), Prob: 1.00000000
+Doc 1290: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1291: Topic 136 (Oneself), Prob: 1.00000000
+Doc 1292: Topic 136 (Oneself), Prob: 1.00000000
+Doc 1293: Topic 94 (Acculturation), Prob: 0.25510865
+Doc 1294: Topic 96 (Shyness), Prob: 0.58803441
+Doc 1295: Topic 94 (Acculturation), Prob: 1.00000000
+Doc 1296: Topic 94 (Acculturation), Prob: 0.33781359
+Doc 1297: Topic 94 (Acculturation), Prob: 0.30300293
+Doc 1298: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1299: Topic 115 (Challenges), Prob: 0.34352017
+Doc 1300: Topic 235 (Shyness), Prob: 1.00000000
+Doc 1301: Topic 94 (Acculturation), Prob: 1.00000000
+Doc 1302: Topic 211 (Immigrants), Prob: 0.84177401
+Doc 1303: Topic 49 (Immigrants), Prob: 0.32478194
+Doc 1304: Topic 91 (Introversion), Prob: 0.30679302
+Doc 1305: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1306: Topic 91 (Introversion), Prob: 0.38871870
+Doc 1307: Topic 91 (Introversion), Prob: 1.00000000
+Doc 1308: Topic 91 (Introversion), Prob: 0.90998989
+Doc 1309: Topic 91 (Introversion), Prob: 1.00000000
+Doc 1310: Topic 153 (Introversion), Prob: 1.00000000
+Doc 1311: Topic 153 (Introversion), Prob: 1.00000000
+Doc 1312: Topic 152 (Introverts), Prob: 1.00000000
+Doc 1313: Topic 219 (Introversion), Prob: 1.00000000
+Doc 1314: Topic 64 (Happiness), Prob: 0.92680367
+Doc 1315: Topic 64 (Happiness), Prob: 0.59824463
+Doc 1316: Topic 64 (Happiness), Prob: 1.00000000
+Doc 1317: Topic 148 (Introversion), Prob: 0.68114555
+Doc 1318: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1319: Topic 148 (Introversion), Prob: 1.00000000
+Doc 1320: Topic 148 (Introversion), Prob: 1.00000000
+Doc 1321: Topic 148 (Introversion), Prob: 0.62050786
+Doc 1322: Topic 64 (Happiness), Prob: 1.00000000
+Doc 1323: Topic 64 (Happiness), Prob: 0.77435184
+Doc 1324: Topic 64 (Happiness), Prob: 1.00000000
+Doc 1325: Topic 152 (Introverts), Prob: 0.84335390
+Doc 1326: Topic 219 (Introversion), Prob: 1.00000000
+Doc 1327: Topic 64 (Happiness), Prob: 0.61133864
+Doc 1328: Topic 152 (Introverts), Prob: 1.00000000
+Doc 1329: Topic 153 (Introversion), Prob: 1.00000000
+Doc 1330: Topic 13 (Affective), Prob: 0.95905265
+Doc 1331: Topic 153 (Introversion), Prob: 0.70555614
+Doc 1332: Topic 219 (Introversion), Prob: 1.00000000
+Doc 1333: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1334: Topic 13 (Affective), Prob: 1.00000000
+Doc 1335: Topic 13 (Affective), Prob: 1.00000000
+Doc 1336: Topic 13 (Affective), Prob: 1.00000000
+Doc 1337: Topic 13 (Affective), Prob: 1.00000000
+Doc 1338: Topic 13 (Affective), Prob: 0.90400189
+Doc 1339: Topic 13 (Affective), Prob: 1.00000000
+Doc 1340: Topic 13 (Affective), Prob: 1.00000000
+Doc 1341: Topic 13 (Affective), Prob: 1.00000000
+Doc 1342: Topic 152 (Introverts), Prob: 1.00000000
+Doc 1343: Topic 13 (Affective), Prob: 1.00000000
+Doc 1344: Topic 13 (Affective), Prob: 1.00000000
+Doc 1345: Topic 13 (Affective), Prob: 1.00000000
+Doc 1346: Topic 8 (Conclusion), Prob: 0.65537252
+Doc 1347: Topic 13 (Affective), Prob: 0.97505789
+Doc 1348: Topic 13 (Affective), Prob: 1.00000000
+Doc 1349: Topic 129 (Restoration), Prob: 0.93892127
+Doc 1350: Topic 221 (Restorative), Prob: 1.00000000
+Doc 1351: Topic 147 (Stress), Prob: 1.00000000
+Doc 1352: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1353: Topic 129 (Restoration), Prob: 0.70448634
+Doc 1354: Topic 221 (Restorative), Prob: 1.00000000
+Doc 1355: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1356: Topic 146 (Privacy), Prob: 1.00000000
+Doc 1357: Topic 146 (Privacy), Prob: 1.00000000
+Doc 1358: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1359: Topic 146 (Privacy), Prob: 1.00000000
+Doc 1360: Topic 146 (Privacy), Prob: 0.99099542
+Doc 1361: Topic 57 (Adolescence), Prob: 0.62744664
+Doc 1362: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1363: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1364: Topic 57 (Adolescence), Prob: 1.00000000
+Doc 1365: Topic 57 (Adolescence), Prob: 1.00000000
+Doc 1366: Topic 57 (Adolescence), Prob: 0.58805802
+Doc 1367: Topic 57 (Adolescence), Prob: 1.00000000
+Doc 1368: Topic 57 (Adolescence), Prob: 0.65325806
+Doc 1369: Topic 57 (Adolescence), Prob: 0.35895131
+Doc 1370: Topic 57 (Adolescence), Prob: 0.46204996
+Doc 1371: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1372: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1373: Topic 147 (Stress), Prob: 1.00000000
+Doc 1374: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1375: Topic 147 (Stress), Prob: 1.00000000
+Doc 1376: Topic 129 (Restoration), Prob: 1.00000000
+Doc 1377: Topic 221 (Restorative), Prob: 1.00000000
+Doc 1378: Topic 129 (Restoration), Prob: 1.00000000
+Doc 1379: Topic 117 (Environment), Prob: 0.79322903
+Doc 1380: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1381: Topic 117 (Environment), Prob: 1.00000000
+Doc 1382: Topic 117 (Environment), Prob: 1.00000000
+Doc 1383: Topic 117 (Environment), Prob: 0.92826190
+Doc 1384: Topic 185 (Restoration), Prob: 1.00000000
+Doc 1385: Topic 185 (Restoration), Prob: 1.00000000
+Doc 1386: Topic 185 (Restoration), Prob: 1.00000000
+Doc 1387: Topic 5 (Solitude), Prob: 1.00000000
+Doc 1388: Topic 5 (Solitude), Prob: 1.00000000
+Doc 1389: Topic 5 (Solitude), Prob: 1.00000000
+Doc 1390: Topic 52 (Conclusions), Prob: 0.32321974
+Doc 1391: Topic 147 (Stress), Prob: 0.85258204
+Doc 1392: Topic 129 (Restoration), Prob: 0.25878844
+Doc 1393: Topic 56 (Mindfulness), Prob: 0.60813254
+Doc 1394: Topic 18 (Solitude), Prob: 1.00000000
+Doc 1395: Topic 56 (Mindfulness), Prob: 0.60813254
+Doc 1396: Topic 18 (Solitude), Prob: 1.00000000
+Doc 1397: Topic 18 (Solitude), Prob: 1.00000000
+Doc 1398: Topic 18 (Solitude), Prob: 1.00000000
+Doc 1399: Topic 56 (Mindfulness), Prob: 1.00000000
+Doc 1400: Topic 101 (Mobile), Prob: 1.00000000
+Doc 1401: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1402: Topic 143 (Mindfulness), Prob: 1.00000000
+Doc 1403: Topic 56 (Mindfulness), Prob: 1.00000000
+Doc 1404: Topic 124 (Mindfulness), Prob: 1.00000000
+Doc 1405: Topic 124 (Mindfulness), Prob: 0.17057119
+Doc 1406: Topic 124 (Mindfulness), Prob: 1.00000000
+Doc 1407: Topic 124 (Mindfulness), Prob: 0.30996050
+Doc 1408: Topic 56 (Mindfulness), Prob: 1.00000000
+Doc 1409: Topic 143 (Mindfulness), Prob: 1.00000000
+Doc 1410: Topic 124 (Mindfulness), Prob: 1.00000000
+Doc 1411: Topic 143 (Mindfulness), Prob: 1.00000000
+Doc 1412: Topic 143 (Mindfulness), Prob: 0.68554876
+Doc 1413: Topic 56 (Mindfulness), Prob: 0.75714938
+Doc 1414: Topic 18 (Solitude), Prob: 1.00000000
+Doc 1415: Topic 144 (Mindfulness), Prob: 1.00000000
+Doc 1416: Topic 18 (Solitude), Prob: 1.00000000
+Doc 1417: Topic 18 (Solitude), Prob: 1.00000000
+Doc 1418: Topic 18 (Solitude), Prob: 1.00000000
+Doc 1419: Topic 18 (Solitude), Prob: 1.00000000
+Doc 1420: Topic 18 (Solitude), Prob: 0.96626693
+Doc 1421: Topic 122 (Mindful), Prob: 0.94683490
+Doc 1422: Topic 122 (Mindful), Prob: 0.93914768
+Doc 1423: Topic 122 (Mindful), Prob: 1.00000000
+Doc 1424: Topic 18 (Solitude), Prob: 0.58424542
+Doc 1425: Topic 122 (Mindful), Prob: 1.00000000
+Doc 1426: Topic 122 (Mindful), Prob: 0.76185560
+Doc 1427: Topic 18 (Solitude), Prob: 0.47500944
+Doc 1428: Topic 144 (Mindfulness), Prob: 0.63791705
+Doc 1429: Topic 144 (Mindfulness), Prob: 1.00000000
+Doc 1430: Topic 144 (Mindfulness), Prob: 0.95588047
+Doc 1431: Topic 56 (Mindfulness), Prob: 0.89784181
+Doc 1432: Topic 56 (Mindfulness), Prob: 0.38495196
+Doc 1433: Topic 8 (Conclusion), Prob: 0.37580151
+Doc 1434: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1435: Topic 61 (Loneliness), Prob: 1.00000000
+Doc 1436: Topic 35 (Autism), Prob: 0.49227835
+Doc 1437: Topic 61 (Loneliness), Prob: 0.95952527
+Doc 1438: Topic 61 (Loneliness), Prob: 0.35236911
+Doc 1439: Topic 41 (Loneliness), Prob: 0.71774867
+Doc 1440: Topic 41 (Loneliness), Prob: 0.49629017
+Doc 1441: Topic 121 (Loneliness), Prob: 0.47078699
+Doc 1442: Topic 121 (Loneliness), Prob: 0.24984941
+Doc 1443: Topic 80 (Loneliness), Prob: 1.00000000
+Doc 1444: Topic 61 (Loneliness), Prob: 0.66676070
+Doc 1445: Topic 80 (Loneliness), Prob: 1.00000000
+Doc 1446: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1447: Topic 121 (Loneliness), Prob: 1.00000000
+Doc 1448: Topic 121 (Loneliness), Prob: 1.00000000
+Doc 1449: Topic 80 (Loneliness), Prob: 1.00000000
+Doc 1450: Topic 121 (Loneliness), Prob: 1.00000000
+Doc 1451: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1452: Topic 28 (Autism), Prob: 1.00000000
+Doc 1453: Topic 28 (Autism), Prob: 0.20512010
+Doc 1454: Topic 28 (Autism), Prob: 1.00000000
+Doc 1455: Topic 28 (Autism), Prob: 0.94847992
+Doc 1456: Topic 28 (Autism), Prob: 0.30866685
+Doc 1457: Topic 28 (Autism), Prob: 0.93892318
+Doc 1458: Topic 28 (Autism), Prob: 0.20883506
+Doc 1459: Topic 28 (Autism), Prob: 0.28714959
+Doc 1460: Topic 28 (Autism), Prob: 0.28714959
+Doc 1461: Topic 102 (Summary), Prob: 0.99988614
+Doc 1462: Topic 28 (Autism), Prob: 1.00000000
+Doc 1463: Topic 80 (Loneliness), Prob: 0.47745770
+Doc 1464: Topic 41 (Loneliness), Prob: 0.77461272
+Doc 1465: Topic 177 (Loneliness), Prob: 0.96016930
+Doc 1466: Topic 61 (Loneliness), Prob: 1.00000000
+Doc 1467: Topic 80 (Loneliness), Prob: 0.43352507
+Doc 1468: Topic 80 (Loneliness), Prob: 0.55652394
+Doc 1469: Topic 80 (Loneliness), Prob: 0.25512198
+Doc 1470: Topic 61 (Loneliness), Prob: 0.83480501
+Doc 1471: Topic 195 (Bullying), Prob: 1.00000000
+Doc 1472: Topic 195 (Bullying), Prob: 1.00000000
+Doc 1473: Topic 35 (Autism), Prob: 0.99939171
+Doc 1474: Topic 35 (Autism), Prob: 1.00000000
+Doc 1475: Topic 35 (Autism), Prob: 0.78447392
+Doc 1476: Topic 35 (Autism), Prob: 1.00000000
+Doc 1477: Topic 163 (Implications), Prob: 1.00000000
+Doc 1478: Topic 36 (Paraprofessional), Prob: 0.40727186
+Doc 1479: Topic 36 (Paraprofessional), Prob: 0.84973624
+Doc 1480: Topic 36 (Paraprofessional), Prob: 1.00000000
+Doc 1481: Topic 36 (Paraprofessional), Prob: 0.87187134
+Doc 1482: Topic 36 (Paraprofessional), Prob: 0.87187134
+Doc 1483: Topic 35 (Autism), Prob: 0.53242786
+Doc 1484: Topic 195 (Bullying), Prob: 1.00000000
+Doc 1485: Topic 36 (Paraprofessional), Prob: 0.76078669
+Doc 1486: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1487: Topic 36 (Paraprofessional), Prob: 0.72742663
+Doc 1488: Topic 36 (Paraprofessional), Prob: 1.00000000
+Doc 1489: Topic 35 (Autism), Prob: 0.86509341
+Doc 1490: Topic 36 (Paraprofessional), Prob: 0.76078669
+Doc 1491: Topic 8 (Conclusion), Prob: 0.37957347
+Doc 1492: Topic 61 (Loneliness), Prob: 1.00000000
+Doc 1493: Topic 35 (Autism), Prob: 0.86509341
+Doc 1494: Topic 35 (Autism), Prob: 0.50820113
+Doc 1495: Topic 104 (Solitude), Prob: 0.43826361
+Doc 1496: Topic 104 (Solitude), Prob: 1.00000000
+Doc 1497: Topic 107 (Parenting), Prob: 0.86695795
+Doc 1498: Topic 107 (Parenting), Prob: 0.63991579
+Doc 1499: Topic 104 (Solitude), Prob: 1.00000000
+Doc 1500: Topic 104 (Solitude), Prob: 0.62280852
+Doc 1501: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1502: Topic 39 (Anxiety), Prob: 0.40032968
+Doc 1503: Topic 27 (Parenting), Prob: 0.17469418
+Doc 1504: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1505: Topic 203 (Social), Prob: 1.00000000
+Doc 1506: Topic 107 (Parenting), Prob: 1.00000000
+Doc 1507: Topic 218 (Turtle), Prob: 1.00000000
+Doc 1508: Topic 107 (Parenting), Prob: 1.00000000
+Doc 1509: Topic 53 (Peer), Prob: 0.34846918
+Doc 1510: Topic 203 (Social), Prob: 1.00000000
+Doc 1511: Topic 76 (Adolescents), Prob: 1.00000000
+Doc 1512: Topic 76 (Adolescents), Prob: 0.59852064
+Doc 1513: Topic 76 (Adolescents), Prob: 1.00000000
+Doc 1514: Topic 76 (Adolescents), Prob: 0.47859840
+Doc 1515: Topic 60 (Avoidance), Prob: 0.33035145
+Doc 1516: Topic 76 (Adolescents), Prob: 0.28621896
+Doc 1517: Topic 177 (Loneliness), Prob: 1.00000000
+Doc 1518: Topic 76 (Adolescents), Prob: 0.46188866
+Doc 1519: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1520: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1521: Topic 76 (Adolescents), Prob: 1.00000000
+Doc 1522: Topic 107 (Parenting), Prob: 1.00000000
+Doc 1523: Topic 123 (Safety), Prob: 0.91198847
+Doc 1524: Topic 123 (Safety), Prob: 0.97598303
+Doc 1525: Topic 107 (Parenting), Prob: 0.80788466
+Doc 1526: Topic 104 (Solitude), Prob: 0.61922901
+Doc 1527: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1528: Topic 51 (Aloneness), Prob: 0.44466404
+Doc 1529: Topic 74 (Intimacy), Prob: 0.76371113
+Doc 1530: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1531: Topic 74 (Intimacy), Prob: 1.00000000
+Doc 1532: Topic 74 (Intimacy), Prob: 1.00000000
+Doc 1533: Topic 74 (Intimacy), Prob: 0.77203305
+Doc 1534: Topic 74 (Intimacy), Prob: 0.76371113
+Doc 1535: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1536: Topic 123 (Safety), Prob: 1.00000000
+Doc 1537: Topic 123 (Safety), Prob: 0.97598303
+Doc 1538: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1539: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1540: Topic 74 (Intimacy), Prob: 0.78232929
+Doc 1541: Topic 123 (Safety), Prob: 1.00000000
+Doc 1542: Topic 74 (Intimacy), Prob: 0.76391627
+Doc 1543: Topic 115 (Challenges), Prob: 1.00000000
+Doc 1544: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1545: Topic 102 (Summary), Prob: 1.00000000
+Doc 1546: Topic 104 (Solitude), Prob: 1.00000000
+Doc 1547: Topic 11 (Hikikomori), Prob: 0.73168142
+Doc 1548: Topic 54 (Introduction), Prob: 0.96141370
+Doc 1549: Topic 42 (Withdrawal), Prob: 0.84243998
+Doc 1550: Topic 11 (Hikikomori), Prob: 1.00000000
+Doc 1551: Topic 10 (Adulthood), Prob: 0.59813492
+Doc 1552: Topic 10 (Adulthood), Prob: 1.00000000
+Doc 1553: Topic 10 (Adulthood), Prob: 0.55967467
+Doc 1554: Topic 10 (Adulthood), Prob: 0.85418793
+Doc 1555: Topic 11 (Hikikomori), Prob: 0.73168142
+Doc 1556: Topic 11 (Hikikomori), Prob: 0.87229771
+Doc 1557: Topic 42 (Withdrawal), Prob: 0.62366464
+Doc 1558: Topic 11 (Hikikomori), Prob: 0.66195050
+Doc 1559: Topic 42 (Withdrawal), Prob: 0.43536235
+Doc 1560: Topic 42 (Withdrawal), Prob: 1.00000000
+Doc 1561: Topic 42 (Withdrawal), Prob: 1.00000000
+Doc 1562: Topic 11 (Hikikomori), Prob: 1.00000000
+Doc 1563: Topic 42 (Withdrawal), Prob: 0.38235201
+Doc 1564: Topic 11 (Hikikomori), Prob: 1.00000000
+Doc 1565: Topic 110 (Hikikomori), Prob: 1.00000000
+Doc 1566: Topic 110 (Hikikomori), Prob: 0.44413580
+Doc 1567: Topic 42 (Withdrawal), Prob: 0.29886908
+Doc 1568: Topic 55 (Social), Prob: 1.00000000
+Doc 1569: Topic 110 (Hikikomori), Prob: 0.28710651
+Doc 1570: Topic 11 (Hikikomori), Prob: 0.76774878
+Doc 1571: Topic 110 (Hikikomori), Prob: 1.00000000
+Doc 1572: Topic 110 (Hikikomori), Prob: 0.27292680
+Doc 1573: Topic 11 (Hikikomori), Prob: 1.00000000
+Doc 1574: Topic 11 (Hikikomori), Prob: 0.66362335
+Doc 1575: Topic 11 (Hikikomori), Prob: 1.00000000
+Doc 1576: Topic 87 (Friendships), Prob: 0.64445144
+Doc 1577: Topic 11 (Hikikomori), Prob: 1.00000000
+Doc 1578: Topic 11 (Hikikomori), Prob: 1.00000000
+Doc 1579: Topic 111 (Withdrawn), Prob: 0.66702705
+Doc 1580: Topic 197 (Voluntary), Prob: 1.00000000
+Doc 1581: Topic 197 (Voluntary), Prob: 1.00000000
+Doc 1582: Topic 111 (Withdrawn), Prob: 0.22974326
+Doc 1583: Topic 42 (Withdrawal), Prob: 1.00000000
+Doc 1584: Topic 197 (Voluntary), Prob: 1.00000000
+Doc 1585: Topic 115 (Challenges), Prob: 1.00000000
+Doc 1586: Topic 110 (Hikikomori), Prob: 1.00000000
+Doc 1587: Topic 42 (Withdrawal), Prob: 0.48624756
+Doc 1588: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1589: Topic 111 (Withdrawn), Prob: 1.00000000
+Doc 1590: Topic 111 (Withdrawn), Prob: 1.00000000
+Doc 1591: Topic 111 (Withdrawn), Prob: 0.52805021
+Doc 1592: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1593: Topic 111 (Withdrawn), Prob: 0.49072490
+Doc 1594: Topic 8 (Conclusion), Prob: 0.30763833
+Doc 1595: Topic 11 (Hikikomori), Prob: 1.00000000
+Doc 1596: Topic 11 (Hikikomori), Prob: 1.00000000
+Doc 1597: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1598: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1599: Topic 41 (Loneliness), Prob: 1.00000000
+Doc 1600: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1601: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 1602: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1603: Topic 234 (Loneliness), Prob: 1.00000000
+Doc 1604: Topic 98 (Loneliness), Prob: 0.39833063
+Doc 1605: Topic 22 (Rodents), Prob: 0.15408551
+Doc 1606: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1607: Topic 98 (Loneliness), Prob: 1.00000000
+Doc 1608: Topic 179 (Emotions), Prob: 1.00000000
+Doc 1609: Topic 98 (Loneliness), Prob: 0.62728256
+Doc 1610: Topic 233 (Coping), Prob: 1.00000000
+Doc 1611: Topic 233 (Coping), Prob: 1.00000000
+Doc 1612: Topic 22 (Rodents), Prob: 0.13721386
+Doc 1613: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1614: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1615: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1616: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1617: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1618: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1619: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1620: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1621: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1622: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1623: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1624: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1625: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1626: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1627: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1628: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1629: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1630: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1631: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1632: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1633: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1634: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1635: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1636: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1637: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1638: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1639: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1640: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1641: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1642: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1643: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1644: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1645: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1646: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1647: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1648: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1649: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1650: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1651: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1652: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1653: Topic 8 (Conclusion), Prob: 0.39372884
+Doc 1654: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1655: Topic 55 (Social), Prob: 0.74302747
+Doc 1656: Topic 54 (Introduction), Prob: 1.00000000
+Doc 1657: Topic 187 (Solitude), Prob: 1.00000000
+Doc 1658: Topic 89 (Withdrawal), Prob: 1.00000000
+Doc 1659: Topic 77 (Childhood), Prob: 1.00000000
+Doc 1660: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1661: Topic 125 (Cognitions), Prob: 0.88237426
+Doc 1662: Topic 186 (Interpersonal), Prob: 1.00000000
+Doc 1663: Topic 79 (Motivations), Prob: 0.13097012
+Doc 1664: Topic 23 (Speech), Prob: 0.18053688
+Doc 1665: Topic 1 (Creativity), Prob: 0.52724914
+Doc 1666: Topic 23 (Speech), Prob: 0.24814413
+Doc 1667: Topic 23 (Speech), Prob: 0.24814413
+Doc 1668: Topic 79 (Motivations), Prob: 0.22218221
+Doc 1669: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1670: Topic 55 (Social), Prob: 0.39486971
+Doc 1671: Topic 79 (Motivations), Prob: 1.00000000
+Doc 1672: Topic 79 (Motivations), Prob: 0.31695880
+Doc 1673: Topic 79 (Motivations), Prob: 0.87639341
+Doc 1674: Topic 79 (Motivations), Prob: 1.00000000
+Doc 1675: Topic 79 (Motivations), Prob: 1.00000000
+Doc 1676: Topic 6 (Primates), Prob: 0.84751164
+Doc 1677: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1678: Topic 23 (Speech), Prob: 0.24814413
+Doc 1679: Topic 23 (Speech), Prob: 1.00000000
+Doc 1680: Topic 23 (Speech), Prob: 1.00000000
+Doc 1681: Topic 23 (Speech), Prob: 0.28435783
+Doc 1682: Topic 23 (Speech), Prob: 0.37760962
+Doc 1683: Topic 23 (Speech), Prob: 0.31776545
+Doc 1684: Topic 125 (Cognitions), Prob: 1.00000000
+Doc 1685: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1686: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1687: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1688: Topic 0 (Solitary), Prob: 1.00000000
+Doc 1689: Topic 17 (Preschoolers), Prob: 0.86830399
+Doc 1690: Topic 17 (Preschoolers), Prob: 0.95365143
+Doc 1691: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1692: Topic 125 (Cognitions), Prob: 0.80188732
+Doc 1693: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1694: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1695: Topic 24 (Culture), Prob: 0.56090030
+Doc 1696: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1697: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1698: Topic 19 (Introversion), Prob: 1.00000000
+Doc 1699: Topic 19 (Introversion), Prob: 0.76777644
+Doc 1700: Topic 19 (Introversion), Prob: 0.67319447
+Doc 1701: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1702: Topic 77 (Childhood), Prob: 0.98387156
+Doc 1703: Topic 54 (Introduction), Prob: 0.92204779
+Doc 1704: Topic 71 (Preschool), Prob: 1.00000000
+Doc 1705: Topic 71 (Preschool), Prob: 0.80467442
+Doc 1706: Topic 71 (Preschool), Prob: 0.86805244
+Doc 1707: Topic 71 (Preschool), Prob: 0.32606391
+Doc 1708: Topic 23 (Speech), Prob: 1.00000000
+Doc 1709: Topic 58 (Playmates), Prob: 1.00000000
+Doc 1710: Topic 58 (Playmates), Prob: 1.00000000
+Doc 1711: Topic 58 (Playmates), Prob: 1.00000000
+Doc 1712: Topic 17 (Preschoolers), Prob: 0.75026888
+Doc 1713: Topic 125 (Cognitions), Prob: 0.79763229
+Doc 1714: Topic 198 (Peer), Prob: 1.00000000
+Doc 1715: Topic 71 (Preschool), Prob: 0.26401174
+Doc 1716: Topic 17 (Preschoolers), Prob: 0.98094290
+Doc 1717: Topic 140 (Exploration), Prob: 0.78193816
+Doc 1718: Topic 17 (Preschoolers), Prob: 1.00000000
+Doc 1719: Topic 17 (Preschoolers), Prob: 1.00000000
+Doc 1720: Topic 17 (Preschoolers), Prob: 1.00000000
+Doc 1721: Topic 17 (Preschoolers), Prob: 1.00000000
+Doc 1722: Topic 17 (Preschoolers), Prob: 1.00000000
+Doc 1723: Topic 17 (Preschoolers), Prob: 1.00000000
+Doc 1724: Topic 125 (Cognitions), Prob: 1.00000000
+Doc 1725: Topic 71 (Preschool), Prob: 1.00000000
+Doc 1726: Topic 89 (Withdrawal), Prob: 0.70733918
+Doc 1727: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1728: Topic 198 (Peer), Prob: 1.00000000
+Doc 1729: Topic 198 (Peer), Prob: 1.00000000
+Doc 1730: Topic 140 (Exploration), Prob: 1.00000000
+Doc 1731: Topic 140 (Exploration), Prob: 1.00000000
+Doc 1732: Topic 140 (Exploration), Prob: 1.00000000
+Doc 1733: Topic 161 (Socially), Prob: 1.00000000
+Doc 1734: Topic 77 (Childhood), Prob: 1.00000000
+Doc 1735: Topic 161 (Socially), Prob: 1.00000000
+Doc 1736: Topic 58 (Playmates), Prob: 1.00000000
+Doc 1737: Topic 17 (Preschoolers), Prob: 1.00000000
+Doc 1738: Topic 58 (Playmates), Prob: 1.00000000
+Doc 1739: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1740: Topic 220 (Solitary), Prob: 1.00000000
+Doc 1741: Topic 3 (Aloneness), Prob: 1.00000000
+Doc 1742: Topic 81 (Withdrawn), Prob: 1.00000000
+Doc 1743: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1744: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1745: Topic 132 (Withdrawn), Prob: 1.00000000
+Doc 1746: Topic 132 (Withdrawn), Prob: 1.00000000
+Doc 1747: Topic 132 (Withdrawn), Prob: 1.00000000
+Doc 1748: Topic 58 (Playmates), Prob: 1.00000000
+Doc 1749: Topic 6 (Primates), Prob: 1.00000000
+Doc 1750: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1751: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1752: Topic 81 (Withdrawn), Prob: 0.82611475
+Doc 1753: Topic 58 (Playmates), Prob: 1.00000000
+Doc 1754: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1755: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1756: Topic 134 (Loneliness), Prob: 1.00000000
+Doc 1757: Topic 23 (Speech), Prob: 0.11219824
+Doc 1758: Topic 132 (Withdrawn), Prob: 0.45010742
+Doc 1759: Topic 81 (Withdrawn), Prob: 1.00000000
+Doc 1760: Topic 58 (Playmates), Prob: 1.00000000
+Doc 1761: Topic 134 (Loneliness), Prob: 1.00000000
+Doc 1762: Topic 134 (Loneliness), Prob: 1.00000000
+Doc 1763: Topic 132 (Withdrawn), Prob: 0.16475746
+Doc 1764: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1765: Topic 81 (Withdrawn), Prob: 1.00000000
+Doc 1766: Topic 134 (Loneliness), Prob: 0.79314071
+Doc 1767: Topic 19 (Introversion), Prob: 1.00000000
+Doc 1768: Topic 19 (Introversion), Prob: 0.51795130
+Doc 1769: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1770: Topic 190 (Depression), Prob: 1.00000000
+Doc 1771: Topic 134 (Loneliness), Prob: 0.85053243
+Doc 1772: Topic 190 (Depression), Prob: 1.00000000
+Doc 1773: Topic 190 (Depression), Prob: 1.00000000
+Doc 1774: Topic 77 (Childhood), Prob: 1.00000000
+Doc 1775: Topic 81 (Withdrawn), Prob: 0.85579102
+Doc 1776: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1777: Topic 187 (Solitude), Prob: 1.00000000
+Doc 1778: Topic 6 (Primates), Prob: 0.90133455
+Doc 1779: Topic 6 (Primates), Prob: 1.00000000
+Doc 1780: Topic 6 (Primates), Prob: 1.00000000
+Doc 1781: Topic 6 (Primates), Prob: 1.00000000
+Doc 1782: Topic 138 (Maternal), Prob: 1.00000000
+Doc 1783: Topic 138 (Maternal), Prob: 1.00000000
+Doc 1784: Topic 138 (Maternal), Prob: 0.72583245
+Doc 1785: Topic 138 (Maternal), Prob: 1.00000000
+Doc 1786: Topic 85 (Shyness), Prob: 1.00000000
+Doc 1787: Topic 188 (Solitary), Prob: 1.00000000
+Doc 1788: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1789: Topic 186 (Interpersonal), Prob: 1.00000000
+Doc 1790: Topic 6 (Primates), Prob: 0.77877970
+Doc 1791: Topic 6 (Primates), Prob: 1.00000000
+Doc 1792: Topic 30 (Introversion), Prob: 0.83180776
+Doc 1793: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1794: Topic 85 (Shyness), Prob: 0.45662730
+Doc 1795: Topic 206 (Motivations), Prob: 1.00000000
+Doc 1796: Topic 30 (Introversion), Prob: 0.78786546
+Doc 1797: Topic 30 (Introversion), Prob: 0.51904238
+Doc 1798: Topic 6 (Primates), Prob: 0.82472914
+Doc 1799: Topic 6 (Primates), Prob: 1.00000000
+Doc 1800: Topic 6 (Primates), Prob: 1.00000000
+Doc 1801: Topic 6 (Primates), Prob: 1.00000000
+Doc 1802: Topic 62 (Shyness), Prob: 1.00000000
+Doc 1803: Topic 138 (Maternal), Prob: 0.11696335
+Doc 1804: Topic 6 (Primates), Prob: 1.00000000
+Doc 1805: Topic 55 (Social), Prob: 0.60993809
+Doc 1806: Topic 6 (Primates), Prob: 1.00000000
+Doc 1807: Topic 159 (Parenting), Prob: 1.00000000
+Doc 1808: Topic 55 (Social), Prob: 1.00000000
+Doc 1809: Topic 159 (Parenting), Prob: 0.98622862
+Doc 1810: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1811: Topic 82 (Withdrawn), Prob: 0.55685152
+Doc 1812: Topic 82 (Withdrawn), Prob: 0.51548246
+Doc 1813: Topic 82 (Withdrawn), Prob: 1.00000000
+Doc 1814: Topic 27 (Parenting), Prob: 0.70117256
+Doc 1815: Topic 27 (Parenting), Prob: 1.00000000
+Doc 1816: Topic 81 (Withdrawn), Prob: 0.85579102
+Doc 1817: Topic 82 (Withdrawn), Prob: 0.43451698
+Doc 1818: Topic 82 (Withdrawn), Prob: 1.00000000
+Doc 1819: Topic 82 (Withdrawn), Prob: 1.00000000
+Doc 1820: Topic 27 (Parenting), Prob: 0.96796134
+Doc 1821: Topic 82 (Withdrawn), Prob: 0.35769638
+Doc 1822: Topic 77 (Childhood), Prob: 1.00000000
+Doc 1823: Topic 71 (Preschool), Prob: 0.90552254
+Doc 1824: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1825: Topic 188 (Solitary), Prob: 1.00000000
+Doc 1826: Topic 227 (Toddlers), Prob: 1.00000000
+Doc 1827: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1828: Topic 6 (Primates), Prob: 1.00000000
+Doc 1829: Topic 6 (Primates), Prob: 1.00000000
+Doc 1830: Topic 105 (Rubin), Prob: 0.24995632
+Doc 1831: Topic 47 (Preschoolers), Prob: 0.48045915
+Doc 1832: Topic 6 (Primates), Prob: 1.00000000
+Doc 1833: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1834: Topic 47 (Preschoolers), Prob: 1.00000000
+Doc 1835: Topic 227 (Toddlers), Prob: 1.00000000
+Doc 1836: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1837: Topic 188 (Solitary), Prob: 1.00000000
+Doc 1838: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1839: Topic 27 (Parenting), Prob: 1.00000000
+Doc 1840: Topic 27 (Parenting), Prob: 1.00000000
+Doc 1841: Topic 135 (Shyness), Prob: 0.31741844
+Doc 1842: Topic 47 (Preschoolers), Prob: 0.67013255
+Doc 1843: Topic 165 (Shyness), Prob: 0.81924855
+Doc 1844: Topic 201 (Psychological), Prob: 1.00000000
+Doc 1845: Topic 183 (Shyness), Prob: 1.00000000
+Doc 1846: Topic 201 (Psychological), Prob: 1.00000000
+Doc 1847: Topic 201 (Psychological), Prob: 1.00000000
+Doc 1848: Topic 85 (Shyness), Prob: 0.49020768
+Doc 1849: Topic 47 (Preschoolers), Prob: 0.95434510
+Doc 1850: Topic 47 (Preschoolers), Prob: 1.00000000
+Doc 1851: Topic 47 (Preschoolers), Prob: 0.95434510
+Doc 1852: Topic 218 (Turtle), Prob: 1.00000000
+Doc 1853: Topic 70 (Snmmary), Prob: 0.37000221
+Doc 1854: Topic 77 (Childhood), Prob: 1.00000000
+Doc 1855: Topic 55 (Social), Prob: 1.00000000
+Doc 1856: Topic 186 (Interpersonal), Prob: 1.00000000
+Doc 1857: Topic 77 (Childhood), Prob: 0.98530885
+Doc 1858: Topic 55 (Social), Prob: 0.49880323
+Doc 1859: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1860: Topic 105 (Rubin), Prob: 0.92684083
+Doc 1861: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1862: Topic 27 (Parenting), Prob: 0.35761749
+Doc 1863: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1864: Topic -1 (Noise / Outlier), Prob: 0.00000000
+Doc 1865: Topic 102 (Summary), Prob: 0.09376464
+Doc 1866: Topic 6 (Primates), Prob: 1.00000000
