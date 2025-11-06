@@ -338,9 +338,9 @@ def save_results(documents, topics, probs, topic_model, topic_labels, output_dir
 # Main
 if __name__ == "__main__":
     config = load_config()
-    docx_file_path = os.getenv("DOCX_FILE_PATH_SOLITUDE")
+    docx_file_path = os.getenv("DOCX_FILE_PATH_GEROTRANSCENDENCE")
     if not docx_file_path or not os.path.exists(docx_file_path):
-        raise ValueError("Check your .env: DOCX_FILE_PATH_SOLITUDE is missing or invalid.")
+        raise ValueError("Check your .env: DOCX_FILE_PATH_GEROTRANSCENDENCE is missing or invalid.")
 
     documents = read_documents_from_docx(docx_file_path)
     print(f"Loaded {len(documents)} paragraphs from {docx_file_path}")
