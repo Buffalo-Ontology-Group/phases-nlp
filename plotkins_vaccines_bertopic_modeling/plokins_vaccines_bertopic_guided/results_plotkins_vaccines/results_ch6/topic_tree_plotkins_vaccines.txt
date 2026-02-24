@@ -1,0 +1,39 @@
+.
+├─adjuvanted_oil_influenza_pandemic_vaccine
+│    ├─oil_influenza_water_seasonal_adjuvanted
+│    │    ├─■──oil_water oil_freund_water_emulsion ── Topic: 4
+│    │    └─influenza_seasonal_mf59_adjuvanted_adjuvanted influenza
+│    │         ├─■──seasonal_seasonal influenza_influenza_elderly_mf59 ── Topic: 5
+│    │         └─■──clade_repertoire_antibody repertoire_diversity affinity_affinity ── Topic: 7
+│    └─ferrets_adjuvanted_adjuvanted vaccine_neutralizing antibodies_cross -
+│         ├─■──ferrets_cross_neutralizing antibodies_cross -_induces ── Topic: 14
+│         └─■──positive_benefit risk_risk profile_age years_narcolepsy ── Topic: 13
+└─vaccine_vaccines_cpg_aluminum_adjuvant
+     ├─cpg_flagellin_phase_vaccine_dmlt
+     │    ├─flagellin_coli_dmlt_immunoge- nicity_safety immunoge-
+     │    │    ├─■──flagellin_recombinant_influenza vaccine_tlr-5_response elderly ── Topic: 17
+     │    │    └─■──dmlt_coli_oral_double_inactivated ── Topic: 16
+     │    └─cpg_plasmodium_stage_alhydrogel cpg_alhydrogel
+     │         ├─■──cpg_small_cancer_expert_evaluation efficacy ── Topic: 12
+     │         └─■──cpg_alhydrogel cpg_alhydrogel_stage_blood ── Topic: 8
+     └─vaccine_vaccines_aluminum_clinical_adjuvant
+          ├─vaccine_aluminum_vaccines_clinical_rts
+          │    ├─■──relies_vaccines second_matrix_m_future ── Topic: 18
+          │    └─vaccine_aluminum_vaccines_rts_adjuvants
+          │         ├─aluminum_vaccine_vaccines_adjuvants_mpl
+          │         │    ├─clinical trial_vaccine_safety_clinical_events
+          │         │    │    ├─■──strains_hpv_clinical trial_clinical_demonstrated acceptable ── Topic: 11
+          │         │    │    └─■──safety evaluation_adju- vants_vants_events_safety ── Topic: 6
+          │         │    └─aluminum_vaccines_adjuvants_vaccine_adjuvant
+          │         │         ├─live_vaccines_adjuvants_human papil-_hpv)-16/18 as04
+          │         │         │    ├─■──lomavirus_hpv)-16/18_analysis_agonist vaccine_papil- ── Topic: 3
+          │         │         │    └─■──live_vaccines_cmi_immunity_adjuvants ── Topic: 0
+          │         │         └─aluminum_salts_mpl_aluminum salts_vaccines containing
+          │         │              ├─■──aluminum_salts_aluminum salts_aluminum containing_freezing ── Topic: 2
+          │         │              └─■──mpl_sparing_dose sparing_pertussis_combination ── Topic: 15
+          │         └─■──rts_rts s_s_date_dren randomized ── Topic: 19
+          └─virosomes_polymer_polymers_ethylene_membrane
+               ├─virosomes_polymer_polymers_ethylene_membrane
+               │    ├─■──polymer_ethylene_polymers_cationic_properties.142 little ── Topic: 9
+               │    └─■──virosomes_membrane_licensed_peptides_liposomal membrane ── Topic: 10
+               └─■──____ ── Topic: 1

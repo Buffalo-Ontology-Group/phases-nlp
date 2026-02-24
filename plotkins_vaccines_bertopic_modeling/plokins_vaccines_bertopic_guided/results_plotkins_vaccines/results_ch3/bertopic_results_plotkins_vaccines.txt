@@ -1,0 +1,268 @@
+BERTopic results plotkins vaccines
+
+Topic 0
+  Auto Label:        Malaria
+  Descriptive Label: Malaria
+  Keywords:          rts, malaria, malaria vaccine, t cell, cell responses, protein, t, circumsporozoite protein, plasmodium, rts malaria
+  Summary:           It has usually been assumed that T-cell responses are the important protective correlate for bacille Calmette-Guérin (BCG) vaccine and tuberculosis in general. However, although pre- sumably related to T- cell function, it is uncertain as to which, and the mCoP for tuberculosis vaccine in humans remains elusive.
+
+Topic 1
+  Auto Label:        Vaccination
+  Descriptive Label: Vaccination
+  Keywords:          protection vaccination, correlates protection, mechanism, induced vaccination, protection, protection induced, vaccination, correlates, induced, principle mechanism
+  Summary:           There are cocorrelates, meaning that more than one immune function induced by a vaccine correlates with protection in an additive or synergistic way. The Mechanism of Protection by Vaccination Is Not Necessarily the Same Mechanism as
+
+Topic 2
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Pertussis
+  Keywords:          pertussis, pertussis vaccine, acellular, pertussis vaccines, bordetella, bordetella pertussis, cell acellular, acellular pertussis, use, model
+  Summary:           Pertussis vaccines, whether whole cell or acellular, contain multiple components of the bacteria. A CoP for pertussis vaccine has long been controversial, but the use of a cellular vaccines with a variable number is now being considered.
+
+Topic 3
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Vaccination
+  Keywords:          vaccine rev, diseases vaccine, infectious diseases, major infectious, vaccination major, rev, diseases, infectious, rev vaccines, major
+  Summary:           Vaccination against the
+
+Topic 4
+  Auto Label:        Hiv
+  Descriptive Label: Hiv – Antibody
+  Keywords:          efficacy trial, trial, hiv-1, vaccine efficacy, vaccine trial, analysis, efficacy, phase, reported vaccine, infection phase
+  Summary:           A striking example of the importance of antibody function has been reported after an HIV vaccine trial in Thailand. A sequential phase 2b trial design for evaluating vaccine efficacy and immune correlates for multiple HIV vaccine regimens.
+
+Topic 5
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Populations
+  Keywords:          surrogate, application, gilbert, endpoint, application vaccine, surrogate endpoint, vaccine trials, trials, cohort sampling, sampling model
+  Summary:           The reader is directed to chapters on specific vaccines for more extended analysis of each case. Determining the cutoff based on a continuous variable to define two populations with application to vaccines.
+
+Topic 6
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Vaccination – T6
+  Keywords:          dose, live vaccine, %, recipients infected, killed vaccine, inactivated vaccine, infected low, killed, high dose, % time
+  Summary:           Vaccination against poliomyelitis is usually highly effective in the prevention of paralysis because of the induction of serum antibody. Hepatitis B vaccine is highly immunogenic at birth, but anti- bodies are frequently lost later in life.
+
+Topic 7
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Antibodies
+  Keywords:          levels, higher, high levels, antibodies, times, measles, exposures, times higher, levels antibody, lower levels
+  Summary:           Only in the cases of zoster and tuberculosis vaccines does it appear that antibodies are not the primary mecha- nism of control, but that stimulation of specific T-cell subsets correlate with protection. Table 3.2 lists the commonly used licensed vaccines and their predominant mechanisms for causing disease.
+
+Topic 8
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Vaccine
+  Keywords:          influenza, immune correlates, attenuated cold, intranasal immunological, assessment influenza, tive exploration, cold adapted, immunological assessment, immune protection, elderly individuals
+  Summary:           The efficacy of influenza vaccination in elderly individuals. Correlates of immune protection induced by live, attenuated, cold-adapted, trivalent, intranasal influenza virus vaccine.
+
+Topic 9
+  Auto Label:        Hiv
+  Descriptive Label: Hiv – Antibodies
+  Keywords:          hiv-1, hiv-1 infection, risk, vaccine induced, declines, possible edlefsen, infection risk, risk declines, efficacy viruses, lower hiv-1
+  Summary:           Vaccine-induced IgG antibodies to V1V2 regions of multiple HIV-1 subtypes correlate with decreased risk of HIV- 1 infection.
+
+Topic 10
+  Auto Label:        Ebola
+  Descriptive Label: Ebola
+  Keywords:          cholera, year, obstacles clemens, clemens trial, protective vaccination, promises obstacles, toxic t, induction broad, trial oral, oral cholera
+  Summary:           Recent illustration of probable cocorrelates is the chim- panzee adenovirus vectored vaccine against Ebola virus. Correlates of protective immunity for Ebola vaccines: implications for regulatory approval by the animal rule
+
+Topic 11
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Vaccine – T11
+  Keywords:          respiratory, syncytial, respiratory syncytial, nasal, mucosal, rotavirus antibody, infections thoughts, influenza virus, virus infections, undoubtedly prevent
+  Summary:           The live, attenuated intranasal vaccine generates both serum antibody and nasal IgA mucosal antibody. Mucosal IgA antibody produced by vaccination has been identified to be important to protection against influ- enza39,171 polio,172 and respiratory syncy
+
+Topic 12
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Zoster
+  Keywords:          zoster, herpes, herpes zoster, zoster vaccine, excellent, zoster efficacy, efficacy adju-, adju- vanted, vanted herpes, demonstrated
+  Summary:           Efficacy, safety, and tolerability of herpes zoster vaccine in persons aged 50–59 years. Fold rise in antibody titers by measured by glycoprotein-based enzyme-linked immunosor- bent assay
+
+Topic 13
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Vaccinees
+  Keywords:          inactivated influenza, rate, influenza, attenuated inactivated, influenza vaccine, inactivated, influenza vaccines, children, case inactivated, low rate
+  Summary:           Two separate antibody responses seem important: that against the viral hemagglutinin and The CoP. Virus shedding occurred at a high rate in vac- cinees lacking both responses, at a low rate in vaccinees having both responses.
+
+Topic 14
+  Auto Label:        Cytomegalovirus
+  Descriptive Label: Cytomegalovirus
+  Keywords:          cytomegalovirus, challenge, study involved, vaccine low, maternal cytomegalovirus, involved experimental, infection novel, passage cytomega-, therapeutic cytomegalovirus, cytomegalovirus poietic
+  Summary:           Another challenge study involved an experimental cyto- megalovirus vaccine. The vaccine prevented infection by 100 PFU of the challenge virus, but not by 1000 PFU.
+
+Topic 15
+  Auto Label:        Pneumococcal
+  Descriptive Label: Pneumococcal
+  Keywords:          conjugate vaccine, conjugate, pneumococcal, pneumococcal conjugate, controlled trial, valent, controlled, placebo controlled, randomised, placebo
+  Summary:           Gambian Pneumococcal Vaccine Trial G. Efficacy of nine-valent pneumococcal conjugate vaccine against pneumonia and invasive pneumococCal disease in The Gambia.
+
+Topic 16
+  Auto Label:        Rotavirus
+  Descriptive Label: Rotavirus
+  Keywords:          rotavirus, rit attenuated, rit, attenuated bovine, monovalent inactivated, inactivated human, human rotavirus, rotavirus vaccine, vaccine induce, induce heterotypic
+  Summary:           RIT 4237 attenuated bovine rotavirus vaccine. Does a monovalent inactivated human rotav virus vaccine
+
+Topic 17
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Protection
+  Keywords:          permits, measurement, cop, assessing, vaccine critical, aside intellectual, theoretical practical, tions aside, permits number, practical extrapola-
+  Summary:           The determination of a correlate of protection (CoP) by a vaccine is often critical to its development. Once established, a CoP will allow bridging from one vaccine preparation to another.
+
+Topic 18
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Efficacy
+  Keywords:          ve, pathogen, biomarker, vaccinees, defined, needed, % vaccinees, subgroups, point, immune response
+  Summary:           Several approaches to defining and statistically evaluating CoPs based on efficacy trials have been pro- posed. The ‘VE curve’ approach directly assesses how VE varies across vaccinated subgroups defined by the level of the bio- marker.
+
+Topic 19
+  Auto Label:        Chlamydia
+  Descriptive Label: Chlamydia
+  Keywords:          chlamydia, chlamydia trachomatis, trachomatis, tularemia, tularemia cd8, trachomatis cell, development chlamydia, unexpected, macaques development, vaccination chlamydia
+  Summary:           Protective immunity against Chlamydia trachomatis infection in macaques.
+
+Topic 20
+  Auto Label:        Rubella
+  Descriptive Label: Rubella
+  Keywords:          rubella, rubella vaccines, neutralization, definitely, immunologic properties, shows, hemagglutination-, properties vaccine, properties, antibody response
+  Summary:           Fig. 3.2 shows a case in which neutralization was definitely important, where titers were measured by
+
+Topic 21
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Immune
+  Keywords:          development, efficacy trials, vaccine development, trials, biomarkers, immune responses, makes later, ideal circumstance, circumstance makes, cop case
+  Summary:           The immune responses of vaccine failures are compared with a sample of subjects who did not become infected. Ideally, the immune responses would be measured at the time of exposure to the infection.
+
+Topic 22
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Immunogenicity
+  Keywords:          systems, biology, fever vaccine, systems biology, yellow fever, fever, yellow, immunology, predicts, molecular
+  Summary:           Systems biology approach predicts immunogenicity of the yellow fever vaccine in humans.
+
+
+Document-Level Assignments:
+Doc 1: Topic 17 (Auto: Vaccine; Descriptive: Vaccine – Protection), Prob: 1.00000000
+Doc 2: Topic 1 (Auto: Vaccination; Descriptive: Vaccination), Prob: 0.61173419
+Doc 3: Topic 21 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 1.00000000
+Doc 4: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 5: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Populations), Prob: 0.52400399
+Doc 6: Topic 1 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 7: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T6), Prob: 0.80460991
+Doc 8: Topic 14 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 1.00000000
+Doc 9: Topic 7 (Auto: Vaccines; Descriptive: Vaccines – Antibodies), Prob: 1.00000000
+Doc 10: Topic 7 (Auto: Vaccines; Descriptive: Vaccines – Antibodies), Prob: 1.00000000
+Doc 11: Topic 20 (Auto: Rubella; Descriptive: Rubella), Prob: 1.00000000
+Doc 12: Topic 20 (Auto: Rubella; Descriptive: Rubella), Prob: 1.00000000
+Doc 13: Topic 7 (Auto: Vaccines; Descriptive: Vaccines – Antibodies), Prob: 0.94130941
+Doc 14: Topic 4 (Auto: Hiv; Descriptive: Hiv – Antibody), Prob: 0.94547620
+Doc 15: Topic 0 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 16: Topic 19 (Auto: Chlamydia; Descriptive: Chlamydia), Prob: 1.00000000
+Doc 17: Topic 11 (Auto: Influenza; Descriptive: Influenza – Vaccine – T11), Prob: 1.00000000
+Doc 18: Topic 13 (Auto: Influenza; Descriptive: Influenza – Vaccinees), Prob: 1.00000000
+Doc 19: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Pertussis), Prob: 0.79639378
+Doc 20: Topic 10 (Auto: Ebola; Descriptive: Ebola), Prob: 0.85941709
+Doc 21: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T6), Prob: 0.82106228
+Doc 22: Topic 7 (Auto: Vaccines; Descriptive: Vaccines – Antibodies), Prob: 1.00000000
+Doc 23: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 24: Topic 21 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 1.00000000
+Doc 25: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Efficacy), Prob: 1.00000000
+Doc 26: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 27: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Efficacy), Prob: 1.00000000
+Doc 28: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Efficacy), Prob: 1.00000000
+Doc 29: Topic 13 (Auto: Influenza; Descriptive: Influenza – Vaccinees), Prob: 1.00000000
+Doc 30: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Pertussis), Prob: 0.79639378
+Doc 31: Topic 0 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 32: Topic 0 (Auto: Malaria; Descriptive: Malaria), Prob: 0.81396674
+Doc 33: Topic 11 (Auto: Influenza; Descriptive: Influenza – Vaccine – T11), Prob: 0.88751462
+Doc 34: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 35: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 36: Topic 1 (Auto: Vaccination; Descriptive: Vaccination), Prob: 0.96437559
+Doc 37: Topic 1 (Auto: Vaccination; Descriptive: Vaccination), Prob: 0.53645328
+Doc 38: Topic 1 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 39: Topic 17 (Auto: Vaccine; Descriptive: Vaccine – Protection), Prob: 1.00000000
+Doc 40: Topic 7 (Auto: Vaccines; Descriptive: Vaccines – Antibodies), Prob: 1.00000000
+Doc 41: Topic 1 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 42: Topic 15 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 0.68248795
+Doc 43: Topic 1 (Auto: Vaccination; Descriptive: Vaccination), Prob: 0.98627876
+Doc 44: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T6), Prob: 0.54645649
+Doc 45: Topic 14 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 1.00000000
+Doc 46: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.22186433
+Doc 47: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T6), Prob: 1.00000000
+Doc 48: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 49: Topic 20 (Auto: Rubella; Descriptive: Rubella), Prob: 1.00000000
+Doc 50: Topic 9 (Auto: Hiv; Descriptive: Hiv – Antibodies), Prob: 1.00000000
+Doc 51: Topic 4 (Auto: Hiv; Descriptive: Hiv – Antibody), Prob: 1.00000000
+Doc 52: Topic 4 (Auto: Hiv; Descriptive: Hiv – Antibody), Prob: 1.00000000
+Doc 53: Topic 9 (Auto: Hiv; Descriptive: Hiv – Antibodies), Prob: 0.75953923
+Doc 54: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 55: Topic 1 (Auto: Vaccination; Descriptive: Vaccination), Prob: 0.53645328
+Doc 56: Topic 0 (Auto: Malaria; Descriptive: Malaria), Prob: 0.77226551
+Doc 57: Topic 0 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 58: Topic 0 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 59: Topic 19 (Auto: Chlamydia; Descriptive: Chlamydia), Prob: 1.00000000
+Doc 60: Topic 19 (Auto: Chlamydia; Descriptive: Chlamydia), Prob: 1.00000000
+Doc 61: Topic 8 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 0.67556869
+Doc 62: Topic 11 (Auto: Influenza; Descriptive: Influenza – Vaccine – T11), Prob: 0.66996359
+Doc 63: Topic 13 (Auto: Influenza; Descriptive: Influenza – Vaccinees), Prob: 0.97299364
+Doc 64: Topic 8 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 1.00000000
+Doc 65: Topic 8 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 0.55696785
+Doc 66: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 1.00000000
+Doc 67: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.94266181
+Doc 68: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.87309944
+Doc 69: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Pertussis), Prob: 1.00000000
+Doc 70: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Pertussis), Prob: 0.65101547
+Doc 71: Topic 10 (Auto: Ebola; Descriptive: Ebola), Prob: 1.00000000
+Doc 72: Topic 10 (Auto: Ebola; Descriptive: Ebola), Prob: 0.96662409
+Doc 73: Topic 10 (Auto: Ebola; Descriptive: Ebola), Prob: 1.00000000
+Doc 74: Topic 7 (Auto: Vaccines; Descriptive: Vaccines – Antibodies), Prob: 1.00000000
+Doc 75: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T6), Prob: 0.80460991
+Doc 76: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T6), Prob: 1.00000000
+Doc 77: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Zoster), Prob: 1.00000000
+Doc 78: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 79: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Zoster), Prob: 1.00000000
+Doc 80: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 81: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Zoster), Prob: 1.00000000
+Doc 82: Topic 16 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 83: Topic 16 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 84: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 1.00000000
+Doc 85: Topic 4 (Auto: Hiv; Descriptive: Hiv – Antibody), Prob: 0.66917165
+Doc 86: Topic 22 (Auto: Vaccines; Descriptive: Vaccines – Immunogenicity), Prob: 1.00000000
+Doc 87: Topic 13 (Auto: Influenza; Descriptive: Influenza – Vaccinees), Prob: 0.84438427
+Doc 88: Topic 22 (Auto: Vaccines; Descriptive: Vaccines – Immunogenicity), Prob: 1.00000000
+Doc 89: Topic 0 (Auto: Malaria; Descriptive: Malaria), Prob: 0.96935682
+Doc 90: Topic 8 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 1.00000000
+Doc 91: Topic 22 (Auto: Vaccines; Descriptive: Vaccines – Immunogenicity), Prob: 1.00000000
+Doc 92: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.31789056
+Doc 93: Topic 15 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 1.00000000
+Doc 94: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Populations), Prob: 0.71826890
+Doc 95: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Pertussis), Prob: 1.00000000
+Doc 96: Topic 4 (Auto: Hiv; Descriptive: Hiv – Antibody), Prob: 0.99839617
+Doc 97: Topic 21 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 1.00000000
+Doc 98: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Populations), Prob: 0.77246318
+Doc 99: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Populations), Prob: 0.96195988
+Doc 100: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Zoster), Prob: 0.74644635
+Doc 101: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Zoster), Prob: 0.64872332
+Doc 102: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Populations), Prob: 1.00000000
+Doc 103: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Populations), Prob: 1.00000000
+Doc 104: Topic 8 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 0.81220908
+Doc 105: Topic 16 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 106: Topic 10 (Auto: Ebola; Descriptive: Ebola), Prob: 0.80882596
+Doc 107: Topic 15 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 1.00000000
+Doc 108: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 109: Topic 15 (Auto: Pneumococcal; Descriptive: Pneumococcal), Prob: 0.89438876
+Doc 110: Topic 8 (Auto: Influenza; Descriptive: Influenza – Vaccine), Prob: 0.46533415
+Doc 111: Topic 17 (Auto: Vaccine; Descriptive: Vaccine – Protection), Prob: 1.00000000
+Doc 112: Topic 4 (Auto: Hiv; Descriptive: Hiv – Antibody), Prob: 0.66407781
+Doc 113: Topic 9 (Auto: Hiv; Descriptive: Hiv – Antibodies), Prob: 1.00000000
+Doc 114: Topic 9 (Auto: Hiv; Descriptive: Hiv – Antibodies), Prob: 0.54029021
+Doc 115: Topic 9 (Auto: Hiv; Descriptive: Hiv – Antibodies), Prob: 1.00000000
+Doc 116: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 117: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Pertussis), Prob: 0.64857065
+Doc 118: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Pertussis), Prob: 1.00000000
+Doc 119: Topic 0 (Auto: Malaria; Descriptive: Malaria), Prob: 0.69804321
+Doc 120: Topic 0 (Auto: Malaria; Descriptive: Malaria), Prob: 0.98917986
+Doc 121: Topic 0 (Auto: Malaria; Descriptive: Malaria), Prob: 1.00000000
+Doc 122: Topic 14 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 0.73623151
+Doc 123: Topic 14 (Auto: Cytomegalovirus; Descriptive: Cytomegalovirus), Prob: 1.00000000
+Doc 124: Topic 11 (Auto: Influenza; Descriptive: Influenza – Vaccine – T11), Prob: 0.82328371
+Doc 125: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.30350521
+Doc 126: Topic 11 (Auto: Influenza; Descriptive: Influenza – Vaccine – T11), Prob: 1.00000000

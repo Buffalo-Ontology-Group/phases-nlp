@@ -1,0 +1,4 @@
+Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+6,vaccine_vaccination_recherches vaccination_recherches_antirabique,"[0, 1, 2, 3]",1,recherches vaccination_babès recherches_antirabique_recherches_babès,5,vaccine_influenza_rotavirus_antibodies_immunity,1.0129599524057797
+5,vaccine_influenza_rotavirus_antibodies_immunity,"[0, 2, 3]",4,vaccine_rotavirus_antibodies_passive_vaccination,3,influenza_cause morbid-_morbid- ity_pregnant women_women reduces,0.9814436767920314
+4,vaccine_rotavirus_antibodies_passive_vaccination,"[0, 2]",2,rotavirus_vaccine_derived_passive_oral rotavirus,0,vaccine_smallpox_%_antibodies_vaccination,0.8745228741823883

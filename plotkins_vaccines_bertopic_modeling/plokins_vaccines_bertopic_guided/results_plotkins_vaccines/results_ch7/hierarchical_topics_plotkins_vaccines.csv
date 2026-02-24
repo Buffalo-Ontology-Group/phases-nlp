@@ -1,0 +1,16 @@
+Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+30,vaccines_vaccine_aluminum_cell_use,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]",27,cell_residuals_bacterial_manufacturing_vaccine,29,vaccines_vaccine_aluminum_thimerosal_formaldehyde,1.068689163204014
+29,vaccines_vaccine_aluminum_thimerosal_formaldehyde,"[0, 1, 3, 4, 6, 7, 9, 10, 11, 12, 14, 15]",26,pertussis_tetanus_children_gelatin_milk,28,aluminum_vaccines_vaccine_formaldehyde_thimerosal,1.0375694685358643
+28,aluminum_vaccines_vaccine_formaldehyde_thimerosal,"[0, 1, 3, 6, 10, 11, 14, 15]",24,aluminum_formaldehyde_thimerosal_vaccines_vaccine,25,yeast_section_aspects vaccination_section general_vaccine section,1.021781814117574
+27,cell_residuals_bacterial_manufacturing_vaccine,"[2, 5, 8, 13]",18,residuals_manufacturing_additives_manufacturing process_process,16,cell_bacterial_cells_diploid_insect,0.9938206785074243
+26,pertussis_tetanus_children_gelatin_milk,"[4, 7, 9, 12]",7,gelatin_allergic_measles mumps_measles_mumps,20,pertussis_children_milk_tetanus_milk allergy,0.9885703184089568
+25,yeast_section_aspects vaccination_section general_vaccine section,"[10, 14, 15]",15,yeast_persons history_hypersensitivity yeast_gardasil_vaccines gardasil,21,section_vaccine section_aspects_aspects vaccination_section general,0.986307078670522
+24,aluminum_formaldehyde_thimerosal_vaccines_vaccine,"[0, 1, 3, 6, 11]",22,aluminum_freeze_freeze dried_salts_added,23,formaldehyde_thimerosal_preservative_vaccines_residual formaldehyde,0.9844069631546315
+23,formaldehyde_thimerosal_preservative_vaccines_residual formaldehyde,"[0, 3, 6]",19,thimerosal_preservative_preservatives_vaccines_phenol,6,formaldehyde_residual formaldehyde_residual_requirements_allowed,0.9737483509390115
+22,aluminum_freeze_freeze dried_salts_added,"[1, 11]",11,freeze_freeze dried_dried_vaccines freeze_approximately,1,aluminum_aluminum content_licensed_adjuvant_adjuvants,0.9729496233349898
+21,section_vaccine section_aspects_aspects vaccination_section general,"[10, 14]",14,latex_contain latex_sensitive_latex-_active,10,general aspects_section general_vaccine section_aspects_aspects vaccination,0.9709556522438207
+20,pertussis_children_milk_tetanus_milk allergy,"[4, 9, 12]",17,pertussis_age_toxoids_tetanus toxoids_tetanus,12,milk_milk allergy_allergy_anaphylactic_cow milk,0.9605367644625047
+19,thimerosal_preservative_preservatives_vaccines_phenol,"[0, 3]",0,thimerosal_autism_manufacturers_vaccine manufacturers_contain thimerosal,3,preservative_preservatives_phenol_contamination_vials,0.9505480714154313
+18,residuals_manufacturing_additives_manufacturing process_process,"[2, 8]",8,tests_specifications_test_quantity additives_antibiotics,2,manufacturing_manufacturing process_residuals_process_vaccines licensed,0.9107149278771144
+17,pertussis_age_toxoids_tetanus toxoids_tetanus,"[4, 9]",4,age_age older_older_pertussis_years age,9,tetanus toxoids_toxoids_tetanus_toxoids vaccine_diphtheria tetanus,0.9102327414292127
+16,cell_bacterial_cells_diploid_insect,"[5, 13]",13,bacterial_cell_bacterial vaccines_bacterial vaccine_diploid,5,cell_insect_produced_line_continuous,0.9006623126683346

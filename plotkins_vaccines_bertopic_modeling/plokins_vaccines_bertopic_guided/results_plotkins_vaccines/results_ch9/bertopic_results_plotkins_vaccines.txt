@@ -1,0 +1,764 @@
+BERTopic results plotkins vaccines
+
+Topic 0
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Immunization
+  Keywords:          contraindications, precautions, contraindications precautions, use vaccines, schedules, vaccination providers, apply, providers, recommendations, information
+  Summary:           Recommendations for immunization practices are based on scientific knowledge of vaccine characteristics, biology of immunization, epidemiology of specific diseases, and host characteristics. Hands should be washed with soap and water or cleansed with an alcohol-based waterless antiseptic hand rub before each patient contact.
+
+Topic 1
+  Auto Label:        Antibody
+  Descriptive Label: Antibody – Hepatitis
+  Keywords:          birth, hours birth, preterm, hours, preterm infants, mothers, hbsag, status, birth weight, weight
+  Summary:           Hepatitis B (HepB) vaccine. (Minimum age: birth) Routine vaccination: For infants born to.
+
+Topic 2
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Polio
+  Keywords:          rotavirus, rotavirus vaccine, live oral, infant, oral, rotavirus vaccines, oral rotavirus, administered time, infants, breastfeeding
+  Summary:           For vaccines given orally, the vaccine must be swallowed and retained. A dose of oral polio vaccine (OPV) should be repeated immediately if a patient spits out, does not swallow, or regurgitates a dose within 10 minutes after administra- tion.
+
+Topic 3
+  Auto Label:        Poliovirus
+  Descriptive Label: Poliovirus
+  Keywords:          inactivated poliovirus, poliovirus vaccine, poliovirus, inactivated, polio, polio vaccine, seroconversion rates, antibody concentrations, enhanced potency, serologic response
+  Summary:           Interference with current inactivated and component vaccines is less marked than with live vaccines and requires exposure to large doses of passively acquired antibodies. The simplest approach to vaccinating a child with uncer- tain polio vaccine records is to revaccinate with IPV according to the U.S.
+
+Topic 4
+  Auto Label:        Tdap
+  Descriptive Label: Tdap – Dtap
+  Keywords:          syncope, tdap vaccine, adolescents, tdap, years, reports, dtap, vaccine receive, catch series, syncope reports
+  Summary:           Administer a 5-dose series of DTaP vaccine at ages 2, 4, 6, 15 through 18 months, and 4 through 6 years. Administer 1 dose of Tdap vaccine to all adolescents aged 11 through 12 years.
+
+Topic 5
+  Auto Label:        Vaccination
+  Descriptive Label: Vaccination – Vaccine
+  Keywords:          children initiate, initiate vaccination, initiate, weeks administer, vaccination weeks, administer doses, doses months, weeks, dose birthday, birthday
+  Summary:           A successful vaccination results in a pustular lesion (“Jenne- rian pustule”) at the vaccination site 6 to 8 days after primary vaccination. The vaccine series may be started at age 9 years.
+
+Topic 6
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Hiberix
+  Keywords:          primary series, vaccine primary, dose dose, unimmunized, dose, primary, depending vaccine, chemotherapy, administered unimmunized, final dose
+  Summary:           One booster dose (dose 3 or 4 depending on vaccine used in primary series) of any Hib vaccine should be administered at age 12 through 15 months. Hiberix should only be used for the booster (final) dose in children aged 12 months through 4 years who have received at least 1 prior dose of Hib-containing vaccine.
+
+Topic 7
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Tdap
+  Keywords:          tetanus, acellular pertussis, acellular, pertussis, toxoid, toxoids acellular, pertussis tdap, toxoid acellular, tetanus toxoids, toxoids
+  Summary:           Advisory Commit- tee on Immunization Practices (ACIP) recommends use of tetanus toxoid, reduced diphtheria toxoid and acellular pertussis (Tdap) vaccines.
+
+Topic 8
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Doses
+  Keywords:          intervals, minimum, minimum intervals, interval, recommended, doses, earlier minimum, valid doses, accelerated, administration preparations
+  Summary:           intervals longer than routinely recommended between doses do not impair the immunologic response to live and inactivated vaccines. In certain circumstances, administering doses of a multi- dose vaccine at shorter than the recommended intervals might be necessary.
+
+Topic 9
+  Auto Label:        Vaccination
+  Descriptive Label: Vaccination – Deferred
+  Keywords:          illness, severe illness, catch vaccination, catch, moderate severe, vaccination catch, moderate, severe, acute, management
+  Summary:           Vaccination usually is deferred in persons who have moder- ate or severe illness. For those who fall behind or start late, provide catch-up vaccination at the earliest opportunity.
+
+Topic 10
+  Auto Label:        Meningococcal
+  Descriptive Label: Meningococcal – Vaccines
+  Keywords:          meningococcal, vaccines meningococcal, meningococcal vaccines, meningococcal conjugate, acwy vaccines, acwy, conjugate acwy, conjugate, conjugate vaccine, use quadrivalent
+  Summary:           Meningococcal vaccines. [MenB] vaccines: MenB-4C Routine vaccination: Children with anatomic or functional asplenia (including sickle cell disease): Meningococ
+
+Topic 11
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Pertussis
+  Keywords:          pain, prilocaine, associated, nerve injury, nerve, pain infants, vaccination pain, injury resulting, lidocaine, lidocaine prilocaine
+  Summary:           No reports of direct nerve injury resulting from gluteal injection of current childhood vaccines have been published. Pretreatment with topical lidocaine- prilocaine emulsion cream or patch can decrease the pain of diphtheria and tetanus toxoids and pertussis (DTP and DTaP)
+
+Topic 12
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Egg
+  Keywords:          yellow fever, fever, yellow, egg, fever vaccine, egg ingestion, strain, skin tests, egg protein, ingestion
+  Summary:           Egg protein is a constituent of vaccines prepared with use of embryonated chicken eggs, such as influenza and yellow fever vaccines. On rare occasions, these vaccines can induce anaphylaxis or other immediate hypersensitivity reactions, and these reactions are sometimes attributed to egg protein antigen.
+
+Topic 13
+  Auto Label:        Anaphylactic
+  Descriptive Label: Anaphylactic
+  Keywords:          anaphylaxis, hypersensitivity, vaccine components, hypersensitivity reactions, providing, reaction, anaphylactic, administration vaccine, rare, anaphylactic reaction
+  Summary:           Hypersensitivity reactions after vaccination can be local or systemic and can vary in severity from mild discomfort at the site of vaccination to severe anaphylaxis. Whether a specific hypersensitivity reaction is caused by a vaccine com- ponent or an unrelated environmental allergen can be difficult to determine.
+
+Topic 14
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Interferon
+  Keywords:          live, response live, virus vaccines, inhibit, live virus, virus, persons received, nasally, long, admin- istered
+  Summary:           Interferon produced in response to the initial dose of measles virus vaccine has been postulated to inhibit replication of vaccinia virus in the subsequent vaccine dose. The possibility that two doses of the same or different live virus vaccines administered within too short an interval may inhibit the immunologic response is based on evidence from animal and human studies.
+
+Topic 15
+  Auto Label:        Vaccination
+  Descriptive Label: Vaccination – Catch
+  Keywords:          catch vaccination, vaccination catch, catch, vaccination, , , , , , 
+  Summary:           Catch-up vaccination
+
+Topic 16
+  Auto Label:        Measles
+  Descriptive Label: Measles – Rubella
+  Keywords:          rubella, rubella vaccination, mumps rubella, mumps, measles mumps, response measles, rubella vaccine, measles, acip allergic, vaccination anaphylaxis
+  Summary:           Allergic reactions to measles-mumps-rubella vaccination. Anaphylaxis to measles, mumps, and rubella vaccine mediated by IgE to gelatin.
+
+Topic 17
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Injection
+  Keywords:          muscle, needle, intramuscular, subcutaneous, injected, injections, thigh, muscle layer, free, gently
+  Summary:           Vaccines recommended for subcutaneous injection usually are administered into the thigh of infants younger than 12 months of age. To avoid administering the vaccine into a muscle, the skin should be held gently between the thumb and fingers.
+
+Topic 18
+  Auto Label:        Vaccination
+  Descriptive Label: Vaccination – Vaccines
+  Keywords:          pregnant, theoretical, fetus, women, theoretical risk, pregnant woman, woman, pregnant weeks, risk fetus, pregnancy
+  Summary:           No evidence exists of risk from vaccinating pregnant women with inactivated virus or bacterial vaccines or toxoids. Pregnant women who must travel to areas where the risk for yellow fever is high should receive yellow fever vaccine.
+
+Topic 19
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Hepb
+  Keywords:          birth dose, age weeks, children received, birth, discharge vaccine, doses hepb, receive birth, months starting, receive doses, newborns hospital
+  Summary:           Administration of a total of 4 doses of HepB vaccine is permitted when a combination vaccine is administered after the birth dose. A child whose records indicate receipt of three or more doses of vaccine can be considered protected.
+
+Topic 20
+  Auto Label:        Encephalitis
+  Descriptive Label: Encephalitis
+  Keywords:          japanese, encephalitis vaccine, japanese encephalitis, encephalitis, derived japanese, effects, derived, vaccine adverse, japanese encepha-, adverse effects
+  Summary:           A vero cell–derived Japanese encephalitis vaccine is available in the United States for people 2 years of age and older. Mouse brain– derived Japanese encepha- litis vaccine is no longer available.
+
+Topic 21
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Immunization
+  Keywords:          influenzae type, influenzae, haemophilus, haemophilus influenzae, type, type b, b vaccines, type conjugate, conjugate vaccines, b
+  Summary:           Interchangeability of Haemophilus influenzae type b vaccines in the primary series: evaluation of a two-dose mixed regimen. Effect of neonatal immunization with diphtheria and tetanus tox
+
+Topic 22
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Vaccination
+  Keywords:          departure international, departure, testing indicates, indicates, international travel, international, travel, months, vaccine minimum, aged months
+  Summary:           Routine vaccination: Administer a 2-dose series of MMR vaccine at ages 12 through 15 months and 4 through 6 years. Administer 1 dose of MMR Vaccine to infants aged 6 through 11 months before departure from the United States for international travel.
+
+Topic 23
+  Auto Label:        Measles
+  Descriptive Label: Measles – Adoption
+  Keywords:          %, record, opportunities, missed, measles vaccine, received, measles, pediatric clinic, asian, record indicate
+  Summary:           Study of children adopted from the People’s Republic of China, Russia, and Eastern Europe determined that only 39% (range: 17%–88% by country) of children with documentation of more than three doses of DTP before adoption had protective serologic concentrations of diphtheria and tetanus antitoxin.
+
+Topic 24
+  Auto Label:        Varicella
+  Descriptive Label: Varicella
+  Keywords:          transmission varicella, varicella vaccine, transmission, varicella, mother, virus bad, mother transmission, var, http://www.cdc.gov/mmwr/pdf/rr/rr5604.pdf, toddler mother
+  Summary:           Varicella (VAR) vaccine. (Minimum age: 12 months) Routine vaccination: [No.
+
+Topic 25
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Allergic
+  Keywords:          reaction tetanus, reaction, tetanus, complexes, subsequent vaccination, circulating, antigens, unlikely, allergic reaction, containing vaccine
+  Summary:           A severe allergic reaction (e.g., ana- phylaxis) to a previous dose of vaccine or to a vaccine com- ponent is a contraindication to the respective vaccine. A serum sickness–type reaction caused by circulating complexes of vaccine antigen and previously acquired antibody is the probable cause of these reactions.
+
+Topic 26
+  Auto Label:        Pertussis
+  Descriptive Label: Pertussis – Vaccine
+  Keywords:          acellular pertussis, acellular, pertussis, pertussis vaccines, interchangeability, vaccines infancy, preferred entire, vaccine manufacturer, ity diphtheria, vaccination series.58
+  Summary:           When feasible, acellular pertussis vaccine from the same manufacturer is preferred for the entire primary vaccination series. Age and dose interval as factors in agglutinin formation to pertussi vaccine.
+
+Topic 27
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Measles
+  Keywords:          measles mumps, measles, vaccine measles, com- bination, use com-, vaccination use, circulating measles, vaccines circulating, measles vaccines, yellow measles
+  Summary:           Live virus vaccines, such as measles, mumps, rubella, yellow
+
+Topic 28
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Rabies
+  Keywords:          diploid, rabies, diploid cell, human diploid, rabies vaccine, cell rabies, human, cell, booster, booster dose
+  Summary:           6% of persons who receive a booster dose of human diploid rabies vaccine have a serum sickness– type illness. This reaction is thought to be caused by sensitization to human albumin that has been altered chemi- cally.
+
+Topic 29
+  Auto Label:        Pneumococcal
+  Descriptive Label: Pneumococcal – Vaccines
+  Keywords:          pneumococcal, valent, valent pneumococcal, conjugate vaccine, polysaccharide vaccine, pneumococcal conjugate, conjugate, pneumococcal vaccine, mococcal, pneu- mococcal
+  Summary:           simultaneous administration of vaccines generally does not cause immunologic interfer- ence, with two exceptions. Pneumococcal polysaccharide vaccine may interfere with the immune response to pneumococcal conjugate vaccines.
+
+Topic 30
+  Auto Label:        Allergy
+  Descriptive Label: Allergy
+  Keywords:          rubber, natural rubber, natural, latex, contain, allergy, penicillin, supplied vials, supplied, vials syringes
+  Summary:           If a person reports a severe (anaphylactic) allergy to latex, vaccines supplied in vials or syringes that contain natural rubber should not be administered. Live virus vaccines may contain trace amounts of one or more antimicrobial agents, such as neomycin, streptomycin and polymyxin B.
+
+Topic 31
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Vaccines
+  Keywords:          mmwr recomm, recomm, prevention control, vaccines recommendations, influenza vaccines, prevention, mmwr, control, 2016–17 season, seasonal influenza
+  Summary:           For the 2016–17 season, follow dosing guidelines in the 2016 ACIP influenza vaccine recommendations. Prevention and control of seasonal influenza with vaccines: recommendations of the Advisory Committee on Immunization Practices–United
+
+Topic 32
+  Auto Label:        Hpv
+  Descriptive Label: Hpv
+  Keywords:          dose series, administer vaccine, series vaccine, age years, administer, administer dose, series, series females, completed dose, history sexual
+  Summary:           Administer a 4-dose series of PCV13 vaccine at ages 2, 4, and 6 months. Administer HPV vaccine beginning at age 9 years to children and youth with any history of sexual abuse or assault.
+
+Topic 33
+  Auto Label:        Pcv13
+  Descriptive Label: Pcv13
+  Keywords:          ppsv23, ppsv23 vaccination, recent dose, weeks recent, administer ppsv23, history ppsv23, children history, possible children, vaccination possible, prior ppsv23
+  Summary:           Pneumococcal vaccines. Routine vaccination with PCV13: Catch-up vaccination withPCV13.
+
+Topic 34
+  Auto Label:        Vaccination
+  Descriptive Label: Vaccination – Routine
+  Keywords:          vaccination routine, routine vaccination, routine, vaccination, , , , , , 
+  Summary:           Routine vaccination
+
+Topic 35
+  Auto Label:        Hepa
+  Descriptive Label: Hepa
+  Keywords:          hepa vaccine, hepa, doses hepa, dose hepa, months, series doses, programs target, target older, apart previously, vaccination programs
+  Summary:           Children who have received 1 dose of HepA vaccine before age 24 months should receive a second dose 6 to 18 months after the first dose. Administer 2 doses of hepatitis A vaccine at least 6 months apart to previously unvaccinated persons who live in areas where vaccination programs target older children or who are at increased risk for infection.
+
+Topic 36
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Vaccination – T36
+  Keywords:          measles, infants months, measles vaccine, maternal, maternal antibody, infants, tinely, depends rate, timing administration, optimal timing
+  Summary:           The optimal timing for administration of measles vaccine depends on the rate of disappearance of passively acquired maternal antibody and the risk of exposure to measles virus. In many developing countries, where measles is highly endemic and frequently affects infants, routine measles vaccination is recommended at 9 months of age.
+
+Topic 37
+  Auto Label:        Freezer
+  Descriptive Label: Freezer
+  Keywords:          temperature, frozen, temperatures, refrigerator, freezer, freezing, storage, stored, cold, peratures
+  Summary:           Freezer is acceptable for storage of vaccines that must be stored in a frozen state. Exposure to higher or lower temperatures than recom- mended can damage a vaccine.
+
+Topic 38
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Seizures
+  Keywords:          seizure, seizures, neurologic, personal, disorders, parent, mmrv vaccine, history seizure, history seizures, family
+  Summary:           Pertussis and measles vaccinations are not contraindicated in persons with a family history of seizures. For infants with a personal history of a seizure, delaying pertussis vaccination is recommended until a progressive neurologic disorder is excluded or the cause of the seizure has been estab- lished.
+
+Topic 39
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Advisory
+  Keywords:          vaccine committee, administration address, c site, efficacious, policy, title, address, efficacious vaccine, c, safe efficacious
+  Summary:           National Vaccine Advisory Committee. Simultaneous administration of childhood vaccines: an important public health policy that is
+
+Topic 40
+  Auto Label:        Pneumococcal
+  Descriptive Label: Pneumococcal – Vaccinated
+  Keywords:          preterm infants, vaccination preterm, term infants, preterm, birth weight, weight, term, infants, birth, chrono-
+  Summary:           Infants born prematurely, regardless of birth weight, should be vaccinated at the same chronological age and according to the same schedule and precautions as full- term infants and children. Birth weight and size are not factors in deciding whether to postpone routine vaccination.
+
+Topic 41
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Immunogenicity
+  Keywords:          intramuscular, intramuscular injection, subcutaneous intradermal, routes, route, local, injection, subcutaneous, label, product label
+  Summary:           Vaccines should be administered in sites where they elicit the desired immune response and where the likelihood of local tissue, neural, or vascular injury is minimal. These routes usually are determined during prelicensure vaccine studies and are based on vaccine composition and immunogenicity.
+
+Topic 42
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Laiv
+  Keywords:          influenza vaccine, influenza, attenuated, vaccine viruses, viruses environment, attenuated influenza, environment, 2015–16, aspirin, viruses
+  Summary:           Live attenuated influenza vaccine (LAIV) is licensed for healthy nonpregnant persons 2 through 49 years of age. LAIV should NOT be administered to some persons, including those who have experienced severe allergic reactions to LAIV.
+
+Topic 43
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Thimerosal
+  Keywords:          thimerosal, preservative, thimerosal preservative, formulations influenza, goal, formulations, established, thimerosal vaccines, routinely, goal established
+  Summary:           Thimerosal as a preservative is present in certain other vaccines. Examples are tetanus toxoid, Td, DT, certain formulations of influenza vaccine, and meningococcal polysaccharide vaccine.
+
+Topic 44
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Inactivated
+  Keywords:          spacing, vaccines.5 inactivated, spacing multiple, spacing vaccine, includes, vaccines known, vaccine spacing, spacing different, doses spacing, table includes
+  Summary:           Table 9.2 includes guidelines for spacing administration of different vaccines. Inactivated
+
+Topic 45
+  Auto Label:        Menb
+  Descriptive Label: Menb
+  Keywords:          interchangeable, produced, manufacturers, immunization series, different manufacturers, produced manufacturer, complete immunization, different, interchangeable vaccine, vaccines interchangeable
+  Summary:           Combination and monovalent vaccines against the same dis- eases with similar antigens and produced by the same manu- facturer are considered interchangeable in most situations. The two MenB vaccines are not interchangeable; the same vaccine product must be used for all doses.
+
+Topic 46
+  Auto Label:        Tdap
+  Descriptive Label: Tdap – Pertussis
+  Keywords:          pertussis, early, protection pertussis, subsequent doses, toxoid, pertussis vaccine, updated recom-, updated, reduced toxoid, toxoid reduced
+  Summary:           Early infancy is the time of greatest risk of serious complications from pertussis. infants who are younger than 1 month of age do not respond as well immunologically to whole-cell pertussedis vaccine.
+
+Topic 47
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Storage
+  Keywords:          handling, storage, storage handling, vaccine storage, toolkit, control prevention, handling requirements, shipping storage, centers, centers disease
+  Summary:           Vaccines must be properly shipped, stored, and handled to avoid loss of biologic activities. Recommended storage and handling requirements for each vaccine are given in each manufacturer’s product information.
+
+Topic 48
+  Auto Label:        Rubella
+  Descriptive Label: Rubella
+  Keywords:          breastfed, human milk, milk, breastfed infants, human, secreted, interruption breastfeeding, breastfeeding ule.5,53,184,185, bacteria, ule.5,53,184,185 vaccines
+  Summary:           Lactating women also may safely receive live virus vaccines, such as MMR, LAIV, OPV, and varicella. Most live vaccine strains are not known to be secreted in human milk.
+
+Topic 49
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Syringe
+  Keywords:          syringes, filling, drawn, syringe, errors, inactivated vaccine, simultaneously time, syringes immediate, filled, drawn syringe
+  Summary:           Vaccines should not be drawn into a syringe until immediately before administration. Care should be taken to ensure that the cold chain and sterility are maintained until the vaccine is administered.
+
+Topic 50
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Immunity
+  Keywords:          types, infants receive, induce, examples, multiple doses, multiple, induce protective, mount, effectiveness, reducing
+  Summary:           Most vaccines require administration of multiple doses in a primary series for devel- opment of immunity. Different vaccines, including live virus products, can be administered simultaneously without reducing their safety and effectiveness.
+
+Topic 51
+  Auto Label:        Meningococcal
+  Descriptive Label: Meningococcal – Menhibrix
+  Keywords:          mmwr available, mmwr, menhibrix, vaccine footnotes, footnotes mmwr, available http://www.cdc.gov/mmwr/pdf/rr/rr6301.pdf, footnotes, guidance related, http://www.cdc.gov/mmwr/pdf/rr/rr6301.pdf, http://www.cdc.gov/mmwr/pdf/rr/rr6301.pdf catch
+  Summary:           For recommendations on the use of MenHibrix in patients at increased risk for meningococcal disease, please refer to the menedococcal vaccine footnotes and also to MMWR February 28, 2014 / 63(RR01);1–13. For other catch-up
+
+Topic 52
+  Auto Label:        Antibody
+  Descriptive Label: Antibody – Immunosorbent
+  Keywords:          immu-, immunosorbent, schneider, acquired measles, t persisting, reactions children, clinical reactions, antibody following, following gamma, gamma globulin
+  Summary:           Early immu- nization on antibody response to reimmunization with measles vaccine as demonstrated by enzyme-linked immunosorbent assay (ELISA)
+
+Topic 53
+  Auto Label:        Hepatitis
+  Descriptive Label: Hepatitis – Vaccines
+  Keywords:          thimerosal, thimerosal vaccine, ocular, problem vaccine, vaccines hypersensitivity, reactions thimerosal, letter ocular, ocular sensitivity, sensitivity thimerosal, thimerosal problem
+  Summary:           Reactions to thimerosal in hepatitis B vaccines. Hyp
+
+Topic 54
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Antibody
+  Keywords:          breast feeding, breast, feeding, responses parenteral, conventional, impaired, vaccines antibodies, relation vaccines, lactation, feeding antibody
+  Summary:           Antibody responses to parenteral and oral vaccines are impaired by conventional and low protein
+
+Topic 55
+  Auto Label:        Measles
+  Descriptive Label: Measles – Vaccines
+  Keywords:          skin testing, influenza vaccine, influenza, egg, eggs, testing, allergic, skin, culture, chick
+  Summary:           A history of allergy to eggs is not a contraindication to vaccination with influenza vaccine. Measles and mumps vaccines are produced in chick embryo fibroblast cell culture.
+
+Topic 56
+  Auto Label:        Vaccination
+  Descriptive Label: Vaccination – Hypersensitivity
+  Keywords:          thimerosal, tests, delayed type, type hypersensitivity, delayed, patch, limited, hypersensitivity, type, positive delayed
+  Summary:           Thimerosal elicits positive delayed-type hypersensitivity patch tests in 1% to 18% of persons tested, but these tests have limited or no clinical relevance. Most patients do not experience reac- tions to thimerosal administered as a component of vaccines, even when patch or intradermal tests for
+
+Topic 57
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Vaccination – T57
+  Keywords:          tract infection, seroconversion measles, upper respiratory, respiratory tract, respiratory, compared children, tract, upper, recent, seroconversion
+  Summary:           Mild illness, febrile (temperature ≥38°C) or afebrile, is not a contraindication to vaccination. The decision to administer or delay vaccination because of an intercurrent or recent acute illness depends on evaluation of the etiology of the disease and the severity of symptoms.
+
+Topic 58
+  Auto Label:        Hepatitis
+  Descriptive Label: Hepatitis – Diphtheria
+  Keywords:          children hemophilia, hemophilia, old children, safety immunoge-, immunoge- nicity, vaccine safety, injection vaccine, immunoge-, arm thigh, nicity subcutaneous
+  Summary:           Controlled trial of Haemophilus influenzae type B diphtheria toxoid conjugate
+
+Topic 59
+  Auto Label:        Pertussis
+  Descriptive Label: Pertussis – Convulsions
+  Keywords:          convulsions use, history convulsions, conditions family, illnesses conditions, vaccines illnesses, convulsions, concerning, evidence concerning, use pertussis, concerning pertussis
+  Summary:           Family history of convulsions and
+
+
+Document-Level Assignments:
+Doc 1: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 2: Topic 47 (Auto: Vaccines; Descriptive: Vaccines – Storage), Prob: 1.00000000
+Doc 3: Topic 47 (Auto: Vaccines; Descriptive: Vaccines – Storage), Prob: 1.00000000
+Doc 4: Topic 37 (Auto: Freezer; Descriptive: Freezer), Prob: 1.00000000
+Doc 5: Topic 37 (Auto: Freezer; Descriptive: Freezer), Prob: 1.00000000
+Doc 6: Topic 37 (Auto: Freezer; Descriptive: Freezer), Prob: 1.00000000
+Doc 7: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 8: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 9: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 10: Topic 39 (Auto: Vaccine; Descriptive: Vaccine – Advisory), Prob: 1.00000000
+Doc 11: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 12: Topic 39 (Auto: Vaccine; Descriptive: Vaccine – Advisory), Prob: 1.00000000
+Doc 13: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 14: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 15: Topic 49 (Auto: Vaccine; Descriptive: Vaccine – Syringe), Prob: 0.99649790
+Doc 16: Topic 41 (Auto: Vaccine; Descriptive: Vaccine – Immunogenicity), Prob: 0.85840855
+Doc 17: Topic 41 (Auto: Vaccine; Descriptive: Vaccine – Immunogenicity), Prob: 1.00000000
+Doc 18: Topic 41 (Auto: Vaccine; Descriptive: Vaccine – Immunogenicity), Prob: 0.59515688
+Doc 19: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 20: Topic 17 (Auto: Vaccines; Descriptive: Vaccines – Injection), Prob: 1.00000000
+Doc 21: Topic 17 (Auto: Vaccines; Descriptive: Vaccines – Injection), Prob: 0.98463245
+Doc 22: Topic 17 (Auto: Vaccines; Descriptive: Vaccines – Injection), Prob: 0.83619789
+Doc 23: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 0.46258433
+Doc 24: Topic 17 (Auto: Vaccines; Descriptive: Vaccines – Injection), Prob: 0.50580059
+Doc 25: Topic 41 (Auto: Vaccine; Descriptive: Vaccine – Immunogenicity), Prob: 1.00000000
+Doc 26: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 27: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 28: Topic 5 (Auto: Vaccination; Descriptive: Vaccination – Vaccine), Prob: 0.26165239
+Doc 29: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.55587012
+Doc 30: Topic 42 (Auto: Influenza; Descriptive: Influenza – Laiv), Prob: 1.00000000
+Doc 31: Topic 17 (Auto: Vaccines; Descriptive: Vaccines – Injection), Prob: 0.43569494
+Doc 32: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 33: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 34: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 0.78824164
+Doc 35: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 1.00000000
+Doc 36: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 37: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 38: Topic 36 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T36), Prob: 0.68449271
+Doc 39: Topic 46 (Auto: Tdap; Descriptive: Tdap – Pertussis), Prob: 1.00000000
+Doc 40: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 41: Topic 44 (Auto: Vaccine; Descriptive: Vaccine – Inactivated), Prob: 1.00000000
+Doc 42: Topic 44 (Auto: Vaccine; Descriptive: Vaccine – Inactivated), Prob: 1.00000000
+Doc 43: Topic 50 (Auto: Vaccines; Descriptive: Vaccines – Immunity), Prob: 1.00000000
+Doc 44: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 45: Topic 8 (Auto: Vaccine; Descriptive: Vaccine – Doses), Prob: 1.00000000
+Doc 46: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 47: Topic 8 (Auto: Vaccine; Descriptive: Vaccine – Doses), Prob: 0.82169145
+Doc 48: Topic 9 (Auto: Vaccination; Descriptive: Vaccination – Deferred), Prob: 1.00000000
+Doc 49: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 50: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 51: Topic 8 (Auto: Vaccine; Descriptive: Vaccine – Doses), Prob: 1.00000000
+Doc 52: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 53: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 54: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 55: Topic 8 (Auto: Vaccine; Descriptive: Vaccine – Doses), Prob: 0.63912467
+Doc 56: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 57: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 58: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 0.79961740
+Doc 59: Topic 19 (Auto: Vaccine; Descriptive: Vaccine – Hepb), Prob: 1.00000000
+Doc 60: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 61: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 62: Topic 19 (Auto: Vaccine; Descriptive: Vaccine – Hepb), Prob: 0.94523759
+Doc 63: Topic 19 (Auto: Vaccine; Descriptive: Vaccine – Hepb), Prob: 0.97972276
+Doc 64: Topic 19 (Auto: Vaccine; Descriptive: Vaccine – Hepb), Prob: 1.00000000
+Doc 65: Topic 19 (Auto: Vaccine; Descriptive: Vaccine – Hepb), Prob: 1.00000000
+Doc 66: Topic 15 (Auto: Vaccination; Descriptive: Vaccination – Catch), Prob: 0.30817454
+Doc 67: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.79998668
+Doc 68: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.16524998
+Doc 69: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.21093483
+Doc 70: Topic 15 (Auto: Vaccination; Descriptive: Vaccination – Catch), Prob: 0.83633909
+Doc 71: Topic 5 (Auto: Vaccination; Descriptive: Vaccination – Vaccine), Prob: 0.92937770
+Doc 72: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Tdap), Prob: 1.00000000
+Doc 73: Topic 34 (Auto: Vaccination; Descriptive: Vaccination – Routine), Prob: 1.00000000
+Doc 74: Topic 4 (Auto: Tdap; Descriptive: Tdap – Dtap), Prob: 1.00000000
+Doc 75: Topic 9 (Auto: Vaccination; Descriptive: Vaccination – Deferred), Prob: 0.70099090
+Doc 76: Topic 4 (Auto: Tdap; Descriptive: Tdap – Dtap), Prob: 1.00000000
+Doc 77: Topic 21 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 1.00000000
+Doc 78: Topic 34 (Auto: Vaccination; Descriptive: Vaccination – Routine), Prob: 1.00000000
+Doc 79: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Hiberix), Prob: 1.00000000
+Doc 80: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Hiberix), Prob: 1.00000000
+Doc 81: Topic 51 (Auto: Meningococcal; Descriptive: Meningococcal – Menhibrix), Prob: 1.00000000
+Doc 82: Topic 15 (Auto: Vaccination; Descriptive: Vaccination – Catch), Prob: 0.43862051
+Doc 83: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Hiberix), Prob: 0.43118908
+Doc 84: Topic 51 (Auto: Meningococcal; Descriptive: Meningococcal – Menhibrix), Prob: 1.00000000
+Doc 85: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 86: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Hiberix), Prob: 0.66471003
+Doc 87: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Hiberix), Prob: 0.79323993
+Doc 88: Topic 21 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 1.00000000
+Doc 89: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Hiberix), Prob: 1.00000000
+Doc 90: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Hiberix), Prob: 0.62665693
+Doc 91: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Hiberix), Prob: 0.40530281
+Doc 92: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Hiberix), Prob: 0.23741063
+Doc 93: Topic 33 (Auto: Pcv13; Descriptive: Pcv13), Prob: 0.71768807
+Doc 94: Topic 32 (Auto: Hpv; Descriptive: Hpv), Prob: 0.78499191
+Doc 95: Topic 33 (Auto: Pcv13; Descriptive: Pcv13), Prob: 0.88514874
+Doc 96: Topic 33 (Auto: Pcv13; Descriptive: Pcv13), Prob: 0.68651586
+Doc 97: Topic 33 (Auto: Pcv13; Descriptive: Pcv13), Prob: 1.00000000
+Doc 98: Topic 33 (Auto: Pcv13; Descriptive: Pcv13), Prob: 1.00000000
+Doc 99: Topic 3 (Auto: Poliovirus; Descriptive: Poliovirus), Prob: 1.00000000
+Doc 100: Topic 15 (Auto: Vaccination; Descriptive: Vaccination – Catch), Prob: 0.85077006
+Doc 101: Topic 42 (Auto: Influenza; Descriptive: Influenza – Laiv), Prob: 1.00000000
+Doc 102: Topic 34 (Auto: Vaccination; Descriptive: Vaccination – Routine), Prob: 0.36970304
+Doc 103: Topic 42 (Auto: Influenza; Descriptive: Influenza – Laiv), Prob: 1.00000000
+Doc 104: Topic 31 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 0.86872109
+Doc 105: Topic 42 (Auto: Influenza; Descriptive: Influenza – Laiv), Prob: 0.39097646
+Doc 106: Topic 31 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 0.62618483
+Doc 107: Topic 22 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.40547432
+Doc 108: Topic 22 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.96094178
+Doc 109: Topic 22 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 1.00000000
+Doc 110: Topic 22 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 1.00000000
+Doc 111: Topic 15 (Auto: Vaccination; Descriptive: Vaccination – Catch), Prob: 1.00000000
+Doc 112: Topic 22 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.71138831
+Doc 113: Topic 24 (Auto: Varicella; Descriptive: Varicella), Prob: 0.90678385
+Doc 114: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 115: Topic 9 (Auto: Vaccination; Descriptive: Vaccination – Deferred), Prob: 1.00000000
+Doc 116: Topic 24 (Auto: Varicella; Descriptive: Varicella), Prob: 0.98290661
+Doc 117: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 118: Topic 35 (Auto: Hepa; Descriptive: Hepa), Prob: 1.00000000
+Doc 119: Topic 35 (Auto: Hepa; Descriptive: Hepa), Prob: 0.96066349
+Doc 120: Topic 35 (Auto: Hepa; Descriptive: Hepa), Prob: 0.89654308
+Doc 121: Topic 9 (Auto: Vaccination; Descriptive: Vaccination – Deferred), Prob: 1.00000000
+Doc 122: Topic 35 (Auto: Hepa; Descriptive: Hepa), Prob: 1.00000000
+Doc 123: Topic 10 (Auto: Meningococcal; Descriptive: Meningococcal – Vaccines), Prob: 0.56163953
+Doc 124: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 125: Topic 9 (Auto: Vaccination; Descriptive: Vaccination – Deferred), Prob: 0.70099090
+Doc 126: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 127: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 128: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 0.80573099
+Doc 129: Topic 10 (Auto: Meningococcal; Descriptive: Meningococcal – Vaccines), Prob: 1.00000000
+Doc 130: Topic 5 (Auto: Vaccination; Descriptive: Vaccination – Vaccine), Prob: 1.00000000
+Doc 131: Topic 5 (Auto: Vaccination; Descriptive: Vaccination – Vaccine), Prob: 0.39730126
+Doc 132: Topic 5 (Auto: Vaccination; Descriptive: Vaccination – Vaccine), Prob: 0.69695698
+Doc 133: Topic 10 (Auto: Meningococcal; Descriptive: Meningococcal – Vaccines), Prob: 0.76053322
+Doc 134: Topic 10 (Auto: Meningococcal; Descriptive: Meningococcal – Vaccines), Prob: 0.43861512
+Doc 135: Topic 45 (Auto: Menb; Descriptive: Menb), Prob: 1.00000000
+Doc 136: Topic 10 (Auto: Meningococcal; Descriptive: Meningococcal – Vaccines), Prob: 0.81305925
+Doc 137: Topic 5 (Auto: Vaccination; Descriptive: Vaccination – Vaccine), Prob: 1.00000000
+Doc 138: Topic 5 (Auto: Vaccination; Descriptive: Vaccination – Vaccine), Prob: 0.35952068
+Doc 139: Topic 5 (Auto: Vaccination; Descriptive: Vaccination – Vaccine), Prob: 0.81101694
+Doc 140: Topic 10 (Auto: Meningococcal; Descriptive: Meningococcal – Vaccines), Prob: 0.27970650
+Doc 141: Topic 45 (Auto: Menb; Descriptive: Menb), Prob: 1.00000000
+Doc 142: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 143: Topic 51 (Auto: Meningococcal; Descriptive: Meningococcal – Menhibrix), Prob: 1.00000000
+Doc 144: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Tdap), Prob: 1.00000000
+Doc 145: Topic 34 (Auto: Vaccination; Descriptive: Vaccination – Routine), Prob: 1.00000000
+Doc 146: Topic 4 (Auto: Tdap; Descriptive: Tdap – Dtap), Prob: 1.00000000
+Doc 147: Topic 4 (Auto: Tdap; Descriptive: Tdap – Dtap), Prob: 1.00000000
+Doc 148: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 149: Topic 15 (Auto: Vaccination; Descriptive: Vaccination – Catch), Prob: 1.00000000
+Doc 150: Topic 4 (Auto: Tdap; Descriptive: Tdap – Dtap), Prob: 1.00000000
+Doc 151: Topic 4 (Auto: Tdap; Descriptive: Tdap – Dtap), Prob: 1.00000000
+Doc 152: Topic 4 (Auto: Tdap; Descriptive: Tdap – Dtap), Prob: 1.00000000
+Doc 153: Topic 4 (Auto: Tdap; Descriptive: Tdap – Dtap), Prob: 1.00000000
+Doc 154: Topic 32 (Auto: Hpv; Descriptive: Hpv), Prob: 1.00000000
+Doc 155: Topic 34 (Auto: Vaccination; Descriptive: Vaccination – Routine), Prob: 0.54615100
+Doc 156: Topic 32 (Auto: Hpv; Descriptive: Hpv), Prob: 1.00000000
+Doc 157: Topic 5 (Auto: Vaccination; Descriptive: Vaccination – Vaccine), Prob: 0.38099783
+Doc 158: Topic 32 (Auto: Hpv; Descriptive: Hpv), Prob: 0.77323406
+Doc 159: Topic 15 (Auto: Vaccination; Descriptive: Vaccination – Catch), Prob: 0.43156957
+Doc 160: Topic 32 (Auto: Hpv; Descriptive: Hpv), Prob: 0.50694815
+Doc 161: Topic 8 (Auto: Vaccine; Descriptive: Vaccine – Doses), Prob: 0.82169145
+Doc 162: Topic 8 (Auto: Vaccine; Descriptive: Vaccine – Doses), Prob: 0.54457631
+Doc 163: Topic 8 (Auto: Vaccine; Descriptive: Vaccine – Doses), Prob: 1.00000000
+Doc 164: Topic 50 (Auto: Vaccines; Descriptive: Vaccines – Immunity), Prob: 1.00000000
+Doc 165: Topic 44 (Auto: Vaccine; Descriptive: Vaccine – Inactivated), Prob: 1.00000000
+Doc 166: Topic 44 (Auto: Vaccine; Descriptive: Vaccine – Inactivated), Prob: 0.38464361
+Doc 167: Topic 49 (Auto: Vaccine; Descriptive: Vaccine – Syringe), Prob: 1.00000000
+Doc 168: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Interferon), Prob: 0.76321876
+Doc 169: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Interferon), Prob: 0.99761935
+Doc 170: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 171: Topic 17 (Auto: Vaccines; Descriptive: Vaccines – Injection), Prob: 0.63872199
+Doc 172: Topic 50 (Auto: Vaccines; Descriptive: Vaccines – Immunity), Prob: 1.00000000
+Doc 173: Topic 29 (Auto: Pneumococcal; Descriptive: Pneumococcal – Vaccines), Prob: 1.00000000
+Doc 174: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 175: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Interferon), Prob: 0.73366224
+Doc 176: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Interferon), Prob: 0.56400237
+Doc 177: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Interferon), Prob: 0.37722669
+Doc 178: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Egg), Prob: 0.24946098
+Doc 179: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 180: Topic 3 (Auto: Poliovirus; Descriptive: Poliovirus), Prob: 0.32626273
+Doc 181: Topic 8 (Auto: Vaccine; Descriptive: Vaccine – Doses), Prob: 0.86080551
+Doc 182: Topic 49 (Auto: Vaccine; Descriptive: Vaccine – Syringe), Prob: 1.00000000
+Doc 183: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Interferon), Prob: 1.00000000
+Doc 184: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 185: Topic 22 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.28911749
+Doc 186: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.42653005
+Doc 187: Topic 45 (Auto: Menb; Descriptive: Menb), Prob: 1.00000000
+Doc 188: Topic 45 (Auto: Menb; Descriptive: Menb), Prob: 0.65009123
+Doc 189: Topic 26 (Auto: Pertussis; Descriptive: Pertussis – Vaccine), Prob: 0.74678607
+Doc 190: Topic 26 (Auto: Pertussis; Descriptive: Pertussis – Vaccine), Prob: 1.00000000
+Doc 191: Topic 4 (Auto: Tdap; Descriptive: Tdap – Dtap), Prob: 1.00000000
+Doc 192: Topic 13 (Auto: Anaphylactic; Descriptive: Anaphylactic), Prob: 1.00000000
+Doc 193: Topic 13 (Auto: Anaphylactic; Descriptive: Anaphylactic), Prob: 1.00000000
+Doc 194: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Allergic), Prob: 1.00000000
+Doc 195: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Allergic), Prob: 0.62285059
+Doc 196: Topic 20 (Auto: Encephalitis; Descriptive: Encephalitis), Prob: 0.05617377
+Doc 197: Topic 13 (Auto: Anaphylactic; Descriptive: Anaphylactic), Prob: 1.00000000
+Doc 198: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Egg), Prob: 0.74800223
+Doc 199: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Egg), Prob: 0.74800223
+Doc 200: Topic 55 (Auto: Measles; Descriptive: Measles – Vaccines), Prob: 1.00000000
+Doc 201: Topic 27 (Auto: Vaccines; Descriptive: Vaccines – Measles), Prob: 1.00000000
+Doc 202: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 203: Topic 28 (Auto: Vaccine; Descriptive: Vaccine – Rabies), Prob: 1.00000000
+Doc 204: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 0.80355382
+Doc 205: Topic 13 (Auto: Anaphylactic; Descriptive: Anaphylactic), Prob: 0.57113170
+Doc 206: Topic 30 (Auto: Allergy; Descriptive: Allergy), Prob: 0.05727542
+Doc 207: Topic 30 (Auto: Allergy; Descriptive: Allergy), Prob: 0.41762499
+Doc 208: Topic 43 (Auto: Vaccines; Descriptive: Vaccines – Thimerosal), Prob: 1.00000000
+Doc 209: Topic 43 (Auto: Vaccines; Descriptive: Vaccines – Thimerosal), Prob: 1.00000000
+Doc 210: Topic 56 (Auto: Vaccination; Descriptive: Vaccination – Hypersensitivity), Prob: 1.00000000
+Doc 211: Topic 9 (Auto: Vaccination; Descriptive: Vaccination – Deferred), Prob: 0.16778136
+Doc 212: Topic 13 (Auto: Anaphylactic; Descriptive: Anaphylactic), Prob: 1.00000000
+Doc 213: Topic 13 (Auto: Anaphylactic; Descriptive: Anaphylactic), Prob: 1.00000000
+Doc 214: Topic 4 (Auto: Tdap; Descriptive: Tdap – Dtap), Prob: 1.00000000
+Doc 215: Topic 40 (Auto: Pneumococcal; Descriptive: Pneumococcal – Vaccinated), Prob: 1.00000000
+Doc 216: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 217: Topic 40 (Auto: Pneumococcal; Descriptive: Pneumococcal – Vaccinated), Prob: 1.00000000
+Doc 218: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 219: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 220: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 221: Topic 40 (Auto: Pneumococcal; Descriptive: Pneumococcal – Vaccinated), Prob: 1.00000000
+Doc 222: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.95363554
+Doc 223: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 224: Topic 48 (Auto: Rubella; Descriptive: Rubella), Prob: 1.00000000
+Doc 225: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.57421839
+Doc 226: Topic 18 (Auto: Vaccination; Descriptive: Vaccination – Vaccines), Prob: 0.46801824
+Doc 227: Topic 18 (Auto: Vaccination; Descriptive: Vaccination – Vaccines), Prob: 0.84830944
+Doc 228: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 229: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 230: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 231: Topic 18 (Auto: Vaccination; Descriptive: Vaccination – Vaccines), Prob: 0.56881004
+Doc 232: Topic 18 (Auto: Vaccination; Descriptive: Vaccination – Vaccines), Prob: 0.43288139
+Doc 233: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 234: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 0.63503070
+Doc 235: Topic 18 (Auto: Vaccination; Descriptive: Vaccination – Vaccines), Prob: 0.43288139
+Doc 236: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 237: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 238: Topic 23 (Auto: Measles; Descriptive: Measles – Adoption), Prob: 1.00000000
+Doc 239: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 0.80772904
+Doc 240: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 241: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 0.69971878
+Doc 242: Topic 4 (Auto: Tdap; Descriptive: Tdap – Dtap), Prob: 1.00000000
+Doc 243: Topic 19 (Auto: Vaccine; Descriptive: Vaccine – Hepb), Prob: 0.83492872
+Doc 244: Topic 3 (Auto: Poliovirus; Descriptive: Poliovirus), Prob: 1.00000000
+Doc 245: Topic 38 (Auto: Vaccines; Descriptive: Vaccines – Seizures), Prob: 0.83874540
+Doc 246: Topic 38 (Auto: Vaccines; Descriptive: Vaccines – Seizures), Prob: 1.00000000
+Doc 247: Topic 38 (Auto: Vaccines; Descriptive: Vaccines – Seizures), Prob: 1.00000000
+Doc 248: Topic 38 (Auto: Vaccines; Descriptive: Vaccines – Seizures), Prob: 0.87038518
+Doc 249: Topic 9 (Auto: Vaccination; Descriptive: Vaccination – Deferred), Prob: 0.41226708
+Doc 250: Topic 57 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T57), Prob: 1.00000000
+Doc 251: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 252: Topic 9 (Auto: Vaccination; Descriptive: Vaccination – Deferred), Prob: 0.36235828
+Doc 253: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 254: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 255: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 256: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 257: Topic 13 (Auto: Anaphylactic; Descriptive: Anaphylactic), Prob: 1.00000000
+Doc 258: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 259: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 260: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.79998668
+Doc 261: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Interferon), Prob: 1.00000000
+Doc 262: Topic 18 (Auto: Vaccination; Descriptive: Vaccination – Vaccines), Prob: 1.00000000
+Doc 263: Topic 18 (Auto: Vaccination; Descriptive: Vaccination – Vaccines), Prob: 1.00000000
+Doc 264: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 265: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 0.75786565
+Doc 266: Topic 37 (Auto: Freezer; Descriptive: Freezer), Prob: 0.44044780
+Doc 267: Topic 47 (Auto: Vaccines; Descriptive: Vaccines – Storage), Prob: 1.00000000
+Doc 268: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Egg), Prob: 1.00000000
+Doc 269: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 0.95157676
+Doc 270: Topic 28 (Auto: Vaccine; Descriptive: Vaccine – Rabies), Prob: 1.00000000
+Doc 271: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 272: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 0.51208888
+Doc 273: Topic 58 (Auto: Hepatitis; Descriptive: Hepatitis – Diphtheria), Prob: 1.00000000
+Doc 274: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Tdap), Prob: 1.00000000
+Doc 275: Topic 17 (Auto: Vaccines; Descriptive: Vaccines – Injection), Prob: 1.00000000
+Doc 276: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 277: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Tdap), Prob: 1.00000000
+Doc 278: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 279: Topic 10 (Auto: Meningococcal; Descriptive: Meningococcal – Vaccines), Prob: 1.00000000
+Doc 280: Topic 58 (Auto: Hepatitis; Descriptive: Hepatitis – Diphtheria), Prob: 1.00000000
+Doc 281: Topic 3 (Auto: Poliovirus; Descriptive: Poliovirus), Prob: 0.15423692
+Doc 282: Topic 31 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 0.95944584
+Doc 283: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 0.47405897
+Doc 284: Topic 31 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 1.00000000
+Doc 285: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 1.00000000
+Doc 286: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 0.50425631
+Doc 287: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Pertussis), Prob: 1.00000000
+Doc 288: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 289: Topic 27 (Auto: Vaccines; Descriptive: Vaccines – Measles), Prob: 0.60056018
+Doc 290: Topic 16 (Auto: Measles; Descriptive: Measles – Rubella), Prob: 1.00000000
+Doc 291: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Tdap), Prob: 1.00000000
+Doc 292: Topic 26 (Auto: Pertussis; Descriptive: Pertussis – Vaccine), Prob: 0.56673975
+Doc 293: Topic 26 (Auto: Pertussis; Descriptive: Pertussis – Vaccine), Prob: 1.00000000
+Doc 294: Topic 46 (Auto: Tdap; Descriptive: Tdap – Pertussis), Prob: 1.00000000
+Doc 295: Topic 21 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 0.18036981
+Doc 296: Topic 52 (Auto: Antibody; Descriptive: Antibody – Immunosorbent), Prob: 1.00000000
+Doc 297: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 298: Topic 3 (Auto: Poliovirus; Descriptive: Poliovirus), Prob: 0.54175881
+Doc 299: Topic 3 (Auto: Poliovirus; Descriptive: Poliovirus), Prob: 0.54810702
+Doc 300: Topic 27 (Auto: Vaccines; Descriptive: Vaccines – Measles), Prob: 0.59717512
+Doc 301: Topic 24 (Auto: Varicella; Descriptive: Varicella), Prob: 1.00000000
+Doc 302: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Egg), Prob: 1.00000000
+Doc 303: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.55587012
+Doc 304: Topic 39 (Auto: Vaccine; Descriptive: Vaccine – Advisory), Prob: 0.64072685
+Doc 305: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Tdap), Prob: 0.79553614
+Doc 306: Topic 10 (Auto: Meningococcal; Descriptive: Meningococcal – Vaccines), Prob: 0.35062070
+Doc 307: Topic 29 (Auto: Pneumococcal; Descriptive: Pneumococcal – Vaccines), Prob: 1.00000000
+Doc 308: Topic 36 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T36), Prob: 1.00000000
+Doc 309: Topic 36 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T36), Prob: 0.75988364
+Doc 310: Topic 36 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T36), Prob: 1.00000000
+Doc 311: Topic 52 (Auto: Antibody; Descriptive: Antibody – Immunosorbent), Prob: 1.00000000
+Doc 312: Topic 48 (Auto: Rubella; Descriptive: Rubella), Prob: 0.90459740
+Doc 313: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Egg), Prob: 0.29241722
+Doc 314: Topic 3 (Auto: Poliovirus; Descriptive: Poliovirus), Prob: 0.95974760
+Doc 315: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 316: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 317: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 318: Topic 3 (Auto: Poliovirus; Descriptive: Poliovirus), Prob: 0.51870670
+Doc 319: Topic 52 (Auto: Antibody; Descriptive: Antibody – Immunosorbent), Prob: 1.00000000
+Doc 320: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 0.97207824
+Doc 321: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 0.84593120
+Doc 322: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 323: Topic 21 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 0.72046981
+Doc 324: Topic 21 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 1.00000000
+Doc 325: Topic 21 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 0.28807239
+Doc 326: Topic 26 (Auto: Pertussis; Descriptive: Pertussis – Vaccine), Prob: 0.68937296
+Doc 327: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Tdap), Prob: 1.00000000
+Doc 328: Topic 59 (Auto: Pertussis; Descriptive: Pertussis – Convulsions), Prob: 1.00000000
+Doc 329: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Allergic), Prob: 0.64732720
+Doc 330: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Tdap), Prob: 1.00000000
+Doc 331: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Allergic), Prob: 1.00000000
+Doc 332: Topic 29 (Auto: Pneumococcal; Descriptive: Pneumococcal – Vaccines), Prob: 0.45562533
+Doc 333: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Allergic), Prob: 0.95682767
+Doc 334: Topic 16 (Auto: Measles; Descriptive: Measles – Rubella), Prob: 0.26249818
+Doc 335: Topic 20 (Auto: Encephalitis; Descriptive: Encephalitis), Prob: 1.00000000
+Doc 336: Topic 20 (Auto: Encephalitis; Descriptive: Encephalitis), Prob: 0.16702005
+Doc 337: Topic 20 (Auto: Encephalitis; Descriptive: Encephalitis), Prob: 1.00000000
+Doc 338: Topic 20 (Auto: Encephalitis; Descriptive: Encephalitis), Prob: 0.65056728
+Doc 339: Topic 20 (Auto: Encephalitis; Descriptive: Encephalitis), Prob: 0.90889961
+Doc 340: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Egg), Prob: 0.69908060
+Doc 341: Topic 31 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 1.00000000
+Doc 342: Topic 55 (Auto: Measles; Descriptive: Measles – Vaccines), Prob: 1.00000000
+Doc 343: Topic 23 (Auto: Measles; Descriptive: Measles – Adoption), Prob: 0.57715471
+Doc 344: Topic 16 (Auto: Measles; Descriptive: Measles – Rubella), Prob: 0.24975350
+Doc 345: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 346: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 347: Topic 13 (Auto: Anaphylactic; Descriptive: Anaphylactic), Prob: 1.00000000
+Doc 348: Topic 28 (Auto: Vaccine; Descriptive: Vaccine – Rabies), Prob: 0.29142702
+Doc 349: Topic 28 (Auto: Vaccine; Descriptive: Vaccine – Rabies), Prob: 1.00000000
+Doc 350: Topic 28 (Auto: Vaccine; Descriptive: Vaccine – Rabies), Prob: 0.03615176
+Doc 351: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 352: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 353: Topic 30 (Auto: Allergy; Descriptive: Allergy), Prob: 1.00000000
+Doc 354: Topic 30 (Auto: Allergy; Descriptive: Allergy), Prob: 1.00000000
+Doc 355: Topic 30 (Auto: Allergy; Descriptive: Allergy), Prob: 1.00000000
+Doc 356: Topic 43 (Auto: Vaccines; Descriptive: Vaccines – Thimerosal), Prob: 0.33910929
+Doc 357: Topic 43 (Auto: Vaccines; Descriptive: Vaccines – Thimerosal), Prob: 1.00000000
+Doc 358: Topic 53 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccines), Prob: 1.00000000
+Doc 359: Topic 53 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccines), Prob: 1.00000000
+Doc 360: Topic 56 (Auto: Vaccination; Descriptive: Vaccination – Hypersensitivity), Prob: 1.00000000
+Doc 361: Topic 53 (Auto: Hepatitis; Descriptive: Hepatitis – Vaccines), Prob: 1.00000000
+Doc 362: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 363: Topic 3 (Auto: Poliovirus; Descriptive: Poliovirus), Prob: 0.81623437
+Doc 364: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 365: Topic 3 (Auto: Poliovirus; Descriptive: Poliovirus), Prob: 0.60123270
+Doc 366: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 367: Topic 40 (Auto: Pneumococcal; Descriptive: Pneumococcal – Vaccinated), Prob: 0.39602479
+Doc 368: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 369: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 370: Topic 1 (Auto: Antibody; Descriptive: Antibody – Hepatitis), Prob: 1.00000000
+Doc 371: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 1.00000000
+Doc 372: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.83123186
+Doc 373: Topic 48 (Auto: Rubella; Descriptive: Rubella), Prob: 1.00000000
+Doc 374: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Egg), Prob: 1.00000000
+Doc 375: Topic 54 (Auto: Vaccines; Descriptive: Vaccines – Antibody), Prob: 1.00000000
+Doc 376: Topic 54 (Auto: Vaccines; Descriptive: Vaccines – Antibody), Prob: 1.00000000
+Doc 377: Topic 54 (Auto: Vaccines; Descriptive: Vaccines – Antibody), Prob: 1.00000000
+Doc 378: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 379: Topic 46 (Auto: Tdap; Descriptive: Tdap – Pertussis), Prob: 1.00000000
+Doc 380: Topic 29 (Auto: Pneumococcal; Descriptive: Pneumococcal – Vaccines), Prob: 0.42212405
+Doc 381: Topic 3 (Auto: Poliovirus; Descriptive: Poliovirus), Prob: 0.19219665
+Doc 382: Topic 29 (Auto: Pneumococcal; Descriptive: Pneumococcal – Vaccines), Prob: 1.00000000
+Doc 383: Topic 24 (Auto: Varicella; Descriptive: Varicella), Prob: 1.00000000
+Doc 384: Topic 24 (Auto: Varicella; Descriptive: Varicella), Prob: 0.96507305
+Doc 385: Topic 27 (Auto: Vaccines; Descriptive: Vaccines – Measles), Prob: 1.00000000
+Doc 386: Topic 59 (Auto: Pertussis; Descriptive: Pertussis – Convulsions), Prob: 1.00000000
+Doc 387: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Tdap), Prob: 1.00000000
+Doc 388: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 389: Topic 27 (Auto: Vaccines; Descriptive: Vaccines – Measles), Prob: 1.00000000
+Doc 390: Topic 16 (Auto: Measles; Descriptive: Measles – Rubella), Prob: 1.00000000
+Doc 391: Topic 16 (Auto: Measles; Descriptive: Measles – Rubella), Prob: 1.00000000
+Doc 392: Topic 23 (Auto: Measles; Descriptive: Measles – Adoption), Prob: 0.87799604
+Doc 393: Topic 57 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T57), Prob: 1.00000000
+Doc 394: Topic 16 (Auto: Measles; Descriptive: Measles – Rubella), Prob: 0.50012537
+Doc 395: Topic 23 (Auto: Measles; Descriptive: Measles – Adoption), Prob: 1.00000000
+Doc 396: Topic 23 (Auto: Measles; Descriptive: Measles – Adoption), Prob: 1.00000000
+Doc 397: Topic 39 (Auto: Vaccine; Descriptive: Vaccine – Advisory), Prob: 1.00000000
+Doc 398: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 399: Topic 16 (Auto: Measles; Descriptive: Measles – Rubella), Prob: 0.30054158
+Doc 400: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 1.00000000

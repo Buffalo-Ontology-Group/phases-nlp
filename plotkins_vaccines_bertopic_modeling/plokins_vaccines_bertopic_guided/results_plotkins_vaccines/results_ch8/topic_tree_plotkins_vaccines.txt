@@ -1,0 +1,7 @@
+.
+├─■──recherches vaccination_babès recherches_antirabique_recherches_babès ── Topic: 1
+└─vaccine_influenza_rotavirus_antibodies_immunity
+     ├─vaccine_rotavirus_antibodies_passive_vaccination
+     │    ├─■──rotavirus_vaccine_derived_passive_oral rotavirus ── Topic: 2
+     │    └─■──vaccine_smallpox_%_antibodies_vaccination ── Topic: 0
+     └─■──influenza_cause morbid-_morbid- ity_pregnant women_women reduces ── Topic: 3

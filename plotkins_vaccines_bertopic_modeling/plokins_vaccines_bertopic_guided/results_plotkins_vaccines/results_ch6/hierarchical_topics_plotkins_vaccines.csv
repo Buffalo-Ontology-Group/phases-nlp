@@ -1,0 +1,20 @@
+Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+38,vaccine_vaccines_influenza_adjuvant_adjuvanted,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]",31,adjuvanted_oil_influenza_pandemic_vaccine,37,vaccine_vaccines_cpg_aluminum_adjuvant,1.0767155836396436
+37,vaccine_vaccines_cpg_aluminum_adjuvant,"[0, 1, 2, 3, 6, 8, 9, 10, 11, 12, 15, 16, 17, 18, 19]",35,cpg_flagellin_phase_vaccine_dmlt,36,vaccine_vaccines_aluminum_clinical_adjuvant,1.0367410371205215
+36,vaccine_vaccines_aluminum_clinical_adjuvant,"[0, 1, 2, 3, 6, 9, 10, 11, 15, 18, 19]",33,vaccine_aluminum_vaccines_clinical_rts,34,virosomes_polymer_polymers_ethylene_membrane,1.0264617139391903
+35,cpg_flagellin_phase_vaccine_dmlt,"[8, 12, 16, 17]",23,flagellin_coli_dmlt_immunoge- nicity_safety immunoge-,21,cpg_plasmodium_stage_alhydrogel cpg_alhydrogel,1.013154993192684
+34,virosomes_polymer_polymers_ethylene_membrane,"[1, 9, 10]",25,virosomes_polymer_polymers_ethylene_membrane,1,____,1.0124305308923214
+33,vaccine_aluminum_vaccines_clinical_rts,"[0, 2, 3, 6, 11, 15, 18, 19]",18,relies_vaccines second_matrix_m_future,32,vaccine_aluminum_vaccines_rts_adjuvants,0.9984237206112291
+32,vaccine_aluminum_vaccines_rts_adjuvants,"[0, 2, 3, 6, 11, 15, 19]",30,aluminum_vaccine_vaccines_adjuvants_mpl,19,rts_rts s_s_date_dren randomized,0.9888312097288392
+31,adjuvanted_oil_influenza_pandemic_vaccine,"[4, 5, 7, 13, 14]",28,oil_influenza_water_seasonal_adjuvanted,27,ferrets_adjuvanted_adjuvanted vaccine_neutralizing antibodies_cross -,0.9872731587322836
+30,aluminum_vaccine_vaccines_adjuvants_mpl,"[0, 2, 3, 6, 11, 15]",22,clinical trial_vaccine_safety_clinical_events,29,aluminum_vaccines_adjuvants_vaccine_adjuvant,0.9870872177552101
+29,aluminum_vaccines_adjuvants_vaccine_adjuvant,"[0, 2, 3, 15]",24,live_vaccines_adjuvants_human papil-_hpv)-16/18 as04,26,aluminum_salts_mpl_aluminum salts_vaccines containing,0.9788062737627728
+28,oil_influenza_water_seasonal_adjuvanted,"[4, 5, 7]",4,oil_water oil_freund_water_emulsion,20,influenza_seasonal_mf59_adjuvanted_adjuvanted influenza,0.969293116422176
+27,ferrets_adjuvanted_adjuvanted vaccine_neutralizing antibodies_cross -,"[13, 14]",14,ferrets_cross_neutralizing antibodies_cross -_induces,13,positive_benefit risk_risk profile_age years_narcolepsy,0.9646708057150803
+26,aluminum_salts_mpl_aluminum salts_vaccines containing,"[2, 15]",2,aluminum_salts_aluminum salts_aluminum containing_freezing,15,mpl_sparing_dose sparing_pertussis_combination,0.9635088023381972
+25,virosomes_polymer_polymers_ethylene_membrane,"[9, 10]",9,polymer_ethylene_polymers_cationic_properties.142 little,10,virosomes_membrane_licensed_peptides_liposomal membrane,0.9617449039902819
+24,live_vaccines_adjuvants_human papil-_hpv)-16/18 as04,"[0, 3]",3,lomavirus_hpv)-16/18_analysis_agonist vaccine_papil-,0,live_vaccines_cmi_immunity_adjuvants,0.9542502876483113
+23,flagellin_coli_dmlt_immunoge- nicity_safety immunoge-,"[16, 17]",17,flagellin_recombinant_influenza vaccine_tlr-5_response elderly,16,dmlt_coli_oral_double_inactivated,0.9399906858993213
+22,clinical trial_vaccine_safety_clinical_events,"[6, 11]",11,strains_hpv_clinical trial_clinical_demonstrated acceptable,6,safety evaluation_adju- vants_vants_events_safety,0.9364517350645688
+21,cpg_plasmodium_stage_alhydrogel cpg_alhydrogel,"[8, 12]",12,cpg_small_cancer_expert_evaluation efficacy,8,cpg_alhydrogel cpg_alhydrogel_stage_blood,0.9105979765274127
+20,influenza_seasonal_mf59_adjuvanted_adjuvanted influenza,"[5, 7]",5,seasonal_seasonal influenza_influenza_elderly_mf59,7,clade_repertoire_antibody repertoire_diversity affinity_affinity,0.8486334031373817

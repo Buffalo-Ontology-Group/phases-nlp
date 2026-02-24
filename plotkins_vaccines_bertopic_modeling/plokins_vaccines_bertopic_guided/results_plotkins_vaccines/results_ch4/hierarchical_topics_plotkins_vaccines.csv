@@ -1,0 +1,12 @@
+Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+22,vaccine_vaccines_industry_development_vaccine industry,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",20,vaccine_market_growth_vaccine market_sold,21,vaccine_development_pharmaceutical_companies_role,1.0427859030148687
+21,vaccine_development_pharmaceutical_companies_role,"[0, 2, 3, 4, 7, 8, 9]",19,development_vaccine_pharmaceutical_role_product,18,vaccine policy_testimony vaccine_policy_testimony_major vaccine,1.015851579126013
+20,vaccine_market_growth_vaccine market_sold,"[1, 5, 6, 10, 11]",17,sold_market_vaccine market_growth_private market,15,vaccine_years vaccine_vaccine manufacturers_business vaccine_industry past,1.0114219934990107
+19,development_vaccine_pharmaceutical_role_product,"[0, 2, 3, 8, 9]",14,pharmaceutical_company_role_companies_industry,16,development_funding_phase_studies_efficacy,0.9795990671476027
+18,vaccine policy_testimony vaccine_policy_testimony_major vaccine,"[4, 7]",7,major vaccine_venture_investment_capital_compliance increasing,4,commerce_committee testimony_generic_policy commerce_political,0.9637731038342869
+17,sold_market_vaccine market_growth_private market,"[6, 11]",11,sold_private market_private_market_reduced,6,growth_projected_market growth_vaccine market_global vaccine,0.9583968267625931
+16,development_funding_phase_studies_efficacy,"[0, 2]",0,phase_efficacy_safety_clinical_studies,2,funding_purchase_government_development_vaccines,0.9488812526813396
+15,vaccine_years vaccine_vaccine manufacturers_business vaccine_industry past,"[1, 5, 10]",12,vaccine manufacturers_business vaccine_manufacturers vaccines_industry past_vaccine,10,shortages_sup-_future_industrial_critical,0.9476474970484094
+14,pharmaceutical_company_role_companies_industry,"[3, 8, 9]",9,company vaccine_company_competition_resources comparisons_large company,13,role_pharmaceutical_companies_sales_development,0.9322607852803206
+13,role_pharmaceutical_companies_sales_development,"[3, 8]",8,role_understand_predominant_role major_examine,3,sales_product_spent_products_companies,0.9215533625652745
+12,vaccine manufacturers_business vaccine_manufacturers vaccines_industry past_vaccine,"[1, 5]",1,conjugate_vaccine_vaccines_conjugate vaccine_new vaccines,5,manufacturers vaccines_business vaccine_industry past_past years_vaccine manufacturers,0.9185909212591683

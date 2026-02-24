@@ -1,0 +1,23 @@
+.
+├─polio_manufacturing_ipv_polio vaccine_vaccine manufacturing
+│    ├─■──e.g._increased_vaccine manufacturing_manufacturing_manufactured ── Topic: 7
+│    └─polio_ipv_polio vaccine_manufacturing_dose
+│         ├─■──ipv_low_potential_dose_manufacturing ── Topic: 5
+│         └─■──polio_polio vaccine_eradication_polio vaccines_require ── Topic: 6
+└─vaccine_vaccines_virus_like_prime
+     ├─vaccines_boost_prime_prime boost_vaccine
+     │    ├─life_licensure_organizations_vaccines_shelf
+     │    │    ├─■──organizations_licensure_vaccines_human_regulating procedures ── Topic: 11
+     │    │    └─■──shelf_shelf life_life_lyophilization_formulation ── Topic: 4
+     │    └─prime_boost_prime boost_vaccines_efficacy
+     │         ├─■──prime_boost_prime boost_efficacy_boost vaccines ── Topic: 3
+     │         └─■──undergo_section_service_act_service act ── Topic: 9
+     └─vaccine_virus_like_influenza_cells
+          ├─vaccine_influenza_cells_produced_virus
+          │    ├─■──vlps_challenge_assembly_targets_proteins ── Topic: 8
+          │    └─vaccine_influenza_virus_cells_recombinant
+          │         ├─vaccine_influenza_produced_cell_cells
+          │         │    ├─■──measles_cells_cell_later_grown ── Topic: 0
+          │         │    └─■──influenza_influenza vaccine_types_vaccine produced_trivalent ── Topic: 2
+          │         └─■──aluminum_recombinant_sulfate_lot_vaccine ── Topic: 1
+          └─■──like_particles_particles vaccine_like particles_virus like ── Topic: 10

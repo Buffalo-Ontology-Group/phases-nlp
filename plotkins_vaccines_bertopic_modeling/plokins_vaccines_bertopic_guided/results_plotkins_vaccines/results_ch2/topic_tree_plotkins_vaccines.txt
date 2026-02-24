@@ -1,0 +1,67 @@
+.
+├─challenges_implications_infant immunity_responses infection_challenges infant
+│    ├─■──challenges_premature_birth huge_difference responsiveness_health immunological ── Topic: 17
+│    └─■──implications_development challenges_con- cerns_neonatal vaccine_addressing ── Topic: 32
+└─vaccine_vaccines_responses_t_cell
+     ├─cells_vaccine_t_specific_memory
+     │    ├─maternal_vaccine_antibody_maternal antibodies_responses
+     │    │    ├─■──phenomenon_ps_b cell_given_known triggering ── Topic: 30
+     │    │    └─maternal_maternal antibodies_vaccine_antibody_antibody responses
+     │    │         ├─memory b_persistence_b cells_plasma cells_memory
+     │    │         │    ├─■──memory b_memory_b cells_glycoconjugate_illustrated ── Topic: 19
+     │    │         │    └─■──term survival_survival_weeks_persistence_vaccine doses ── Topic: 22
+     │    │         └─maternal_maternal antibodies_influence_responses_main
+     │    │              ├─■──maternal_maternal antibodies_postnatal_influence_inhibitory ── Topic: 2
+     │    │              └─■──new_correlates_nonspecific_nature vaccine_vaccine antibody ── Topic: 1
+     │    └─t_cells_measles_t cells_cell
+     │         ├─measles_measles vaccine_mucosal_surfaces_mucosal surfaces
+     │         │    ├─measles_measles vaccine_viral_reduce_mortality
+     │         │    │    ├─■──measles_measles vaccine_mortality_rubella_mumps ── Topic: 4
+     │         │    │    └─■──nasal_viral_pattern_recognition_limit viral ── Topic: 26
+     │         │    └─adjuvants_essentially_tissues_tem_clearance infected
+     │         │         ├─■──adjuvants_innate immunity_vaccine adjuvants_innate_nonlive ── Topic: 8
+     │         │         └─■──infected tissues_essentially remain_nodes challenge_residing lymph_challenge novel ── Topic: 33
+     │         └─t_cell_t cell_cells_t cells
+     │              ├─t_cell_cells_t cell_t cells
+     │              │    ├─■──memory t_memory_specific organs_organs_bystander ── Topic: 11
+     │              │    └─t_cell_surface_vaccine antigens_t cell
+     │              │         ├─■──regulatory t_t_regulatory_t cell_cell ── Topic: 14
+     │              │         └─■──vaccine antigens_antigens_t_cells_b cell ── Topic: 9
+     │              └─■──tuberculosis_prime_predominant_importance t_vaccines overshadow ── Topic: 20
+     └─vaccine_vaccination_vaccines_responses_influenza
+          ├─conjugate_pneumococcal_influenzae_polysaccharide_acellular
+          │    ├─influenzae_acellular_acellular pertussis_pertussis_influenzae type
+          │    │    ├─■──acellular_pertussis_acellular pertussis_pertussis vaccine_pertussis vaccines ── Topic: 0
+          │    │    └─■──influenzae_influenzae type_type_type b_conjugate ── Topic: 6
+          │    └─pneumococcal_polysaccharide_conjugate_pneumococcal polysaccharide_glycoconjugate vaccines
+          │         ├─■──pneumococcal_pneumococcal polysaccharide_polysaccharide_pneumococcal conjugate_polysaccharide vaccin ── Topic: 7
+          │         └─■──glycoconjugate vaccines_glycoconjugate_protein_carrier_conjugate vaccines ── Topic: 5
+          └─vaccination_vaccine_influenza_long_term
+               ├─influenza_elderly_age_adjuvant_responses
+               │    ├─elderly_age_zoster_responses_influenza vaccination
+               │    │    ├─age_elderly_vivo_responses_changes
+               │    │    │    ├─■──vivo_vivo elderly_human circulating_blunted response_influenza reduced ── Topic: 29
+               │    │    │    └─■──changes_age_elderly_antibody_extremes ── Topic: 10
+               │    │    └─■──zoster_varicella zoster_herpes_herpes zoster_formulating ── Topic: 25
+               │    └─influenza_adjuvant_influenza vaccines_adapted_trivalent
+               │         ├─■──trivalent_adapted_intranasal_children_influenza ── Topic: 15
+               │         └─■──adjuvant_influenza vaccines_pandemic influenza_pandemic_influenza ── Topic: 21
+               └─vaccination_long_term_long term_based
+                    ├─based_based vaccines_humanity_immune systems_humanity diverse
+                    │    ├─■──pharmacogenomics vaccines_aluminum salts_today_salts_aluminum ── Topic: 27
+                    │    └─humanity_immune systems_diverse_diverse immune_probing humanity
+                    │         ├─■──immunity_fever_immunity yellow_yellow_innate trained ── Topic: 24
+                    │         └─■──probing humanity_humanity_humanity diverse_diverse immune_systems vaccines ── Topic: 23
+                    └─vaccination_term_long term_randomized_smallpox
+                         ├─vaccination_term_long term_randomized_smallpox
+                         │    ├─smallpox_smallpox vaccination_cell memory_humans_titers
+                         │    │    ├─■──titers_phases_hepa- titis_present time_residual titers ── Topic: 28
+                         │    │    └─■──smallpox_smallpox vaccination_cell memory_humans_edge ── Topic: 31
+                         │    └─randomized_trial_meningococcal_vaccination_as04 adjuvanted
+                         │         ├─randomized_as04 adjuvanted_as04_study_human papillomavirus
+                         │         │    ├─■──as04 adjuvanted_as04_papillomavirus_human papillomavirus_adjuvanted vaccine ── Topic: 12
+                         │         │    └─■──term efficacy_study_response vaccine_randomized_randomized trial ── Topic: 3
+                         │         └─meningococcal_immunological effects_serogroup_meningococcal serogroup_infants
+                         │              ├─■──meningococcal_serogroup_meningococcal serogroup_vaccine infants_hexavalent ── Topic: 16
+                         │              └─■──immunological effects_heterologous_immunological_torres_randomised trial ── Topic: 18
+                         └─■──____ ── Topic: 13

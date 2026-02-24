@@ -1,0 +1,97 @@
+.
+├─eds vaccines_eds_live vaccines_live eds_vaccines live
+│    ├─■──live vaccines_live eds_vaccines live_live_eds vaccines ── Topic: 47
+│    └─■──eds vaccines_eds_vaccines eds_vaccines_ ── Topic: 48
+└─vaccine_vaccination_vaccines_polio_live
+     ├─vaccine_vaccination_polio_attenuated_virus
+     │    ├─polio_polio vaccine_paralytic polio_paralytic_sabin
+     │    │    ├─polio_polio vaccine_sabin_vaccines polio_highly publicized
+     │    │    │    ├─■──placebo_placebo states_grades_children grades_states children ── Topic: 32
+     │    │    │    └─polio_polio vaccine_sabin_vaccines polio_vaccine crisis
+     │    │    │         ├─■──polio_sabin_polio vaccine_associated_ipv ── Topic: 23
+     │    │    │         └─■──polio vaccine_polio_history polio_adding history_publicized adding ── Topic: 44
+     │    │    └─■──paralytic_paralytic polio_polio_cases_vaccination program ── Topic: 38
+     │    └─vaccine_vaccination_attenuated_virus_varicella
+     │         ├─vaccine_vaccination_attenuated_varicella_rotavirus
+     │         │    ├─vaccine_varicella_rotavirus_attenuated_live
+     │         │    │    ├─rotavirus_vaccine_intussusception_adenovirus_recombinant
+     │         │    │    │    ├─adenovirus_recombinant_vaccine_types_lyme
+     │         │    │    │    │    ├─genome_identification_candidates_proteins_allows
+     │         │    │    │    │    │    ├─■──allows_identification_genome_proteins_analysis reverse ── Topic: 46
+     │         │    │    │    │    │    └─■──candidates_vaccine candidates_meningococcus_genome sequencing_sequencing ── Topic: 24
+     │         │    │    │    │    └─adenovirus_recombinant_types_lyme_technical
+     │         │    │    │    │         ├─recombinant_lyme_lyme disease_vlps_surface
+     │         │    │    │    │         │    ├─■──lyme_lyme disease_disease vaccine_outer surface_ospa ── Topic: 5
+     │         │    │    │    │         │    └─vlps_yeast_females_recombinant_hpv
+     │         │    │    │    │         │         ├─■──yeast_recombinant_vlps_particles_vaccine recombinant ── Topic: 10
+     │         │    │    │    │         │         └─■──females_hpv_ages_ages years_quadrivalent vaccine ── Topic: 39
+     │         │    │    │    │         └─adenovirus_technical_technical report_report vaccine_types
+     │         │    │    │    │              ├─adenovirus_types_adenovirus vaccines_types adenovirus_immunization live
+     │         │    │    │    │              │    ├─■──adenovirus_types adenovirus_adenovirus vaccines_types_immunization live ── Topic: 21
+     │         │    │    │    │              │    └─■──vaccine tuberculosis_bcg_tuberculosis_began_homologous ── Topic: 36
+     │         │    │    │    │              └─technical_technical report_report vaccine_report_treatment
+     │         │    │    │    │                   ├─■──arthritis_vaccines approvedproducts_biologicsbloodvaccines vaccines_biologicsbloodvaccines_approvedp ── Topic: 35
+     │         │    │    │    │                   └─■──technical_report vaccine_technical report_report_vaccine technical ── Topic: 26
+     │         │    │    │    └─rotavirus_intussusception_rotavirus vaccine_rotavirus vaccines_vaccine intussusception
+     │         │    │    │         ├─■──intussusception_vaccine intussusception_reporting_vaccine adverse_event reporting ── Topic: 16
+     │         │    │    │         └─■──rotavirus_rotavirus vaccines_human rotavirus_rotavirus vaccine_pentavalent ── Topic: 1
+     │         │    │    └─varicella_attenuated_zoster_live attenuated_varicella vaccine
+     │         │    │         ├─zoster_influenza_attenuated_better_virus
+     │         │    │         │    ├─hepatitis_rubella_inactivated hepatitis_embryo_human fibroblasts
+     │         │    │         │    │    ├─■──hepatitis_inactivated hepatitis_hepatitis vaccine_provost_inactivated ── Topic: 19
+     │         │    │         │    │    └─■──rubella_embryo_obtained_kidney_licensure rubella ── Topic: 37
+     │         │    │         │    └─zoster_influenza_zoster vaccine_live vaccine_selection
+     │         │    │         │         ├─influenza_live vaccine_selection better_immunogenic highly_better immunogenic
+     │         │    │         │         │    ├─■──immunogenic highly_selection_selection better_better immunogenic_attenuated live ── Topic: 45
+     │         │    │         │         │    └─■──influenza_adapted_cold_cold adapted_influenza vaccine ── Topic: 0
+     │         │    │         │         └─■──zoster_zoster vaccine_older_herpes_herpes zoster ── Topic: 15
+     │         │    │         └─varicella_varicella vaccine_attenuated varicella_varicella vaccination_impact
+     │         │    │              ├─■──varicella vaccine_attenuated varicella_varicella_healthy children_live attenuated ── Topic: 18
+     │         │    │              └─■──varicella vaccination_varicella_impact_rev_remaining ── Topic: 31
+     │         │    └─vaccination_anthrax_pasteur_pertussis_anthrax vaccine
+     │         │         ├─vaccination_pertussis_measles_contre_history
+     │         │         │    ├─pertussis_measles_contre_rabies_yellow
+     │         │         │    │    ├─contre_measles_sellards_theiler_attenuated measles
+     │         │         │    │    │    ├─measles_attenuated measles_vaccination history_measles vaccine_history
+     │         │         │    │    │    │    ├─■──measles_attenuated measles_measles vaccine_tests_general summary ── Topic: 33
+     │         │         │    │    │    │    └─■──fever_yellow fever_yellow_history_fixed ── Topic: 30
+     │         │         │    │    │    └─contre_sellards_theiler_tuberculose sellards_neuse
+     │         │         │    │    │         ├─■──theiler_mouse_sellards_brain_mouse brain ── Topic: 40
+     │         │         │    │    │         └─■──contre_tuberculose sellards_contre tuberculose_préventive contre_vaccination préventive ── Topic: 27
+     │         │         │    │    └─pertussis_rabies_pasteur_pertussis vaccine_pasteur successors
+     │         │         │    │         ├─rabies_pasteur_vaccination vaccinology_vaccinology jenner_successors
+     │         │         │    │         │    ├─■──vaccinology jenner_pasteur successors_successors_vaccination vaccinology_jenner pasteur ── Topic: 41
+     │         │         │    │         │    └─rabies_bacterins_pasteur_rabies vaccine_human vaccines
+     │         │         │    │         │         ├─■──bacterins_human vaccines_dis- eases_introduced vaccination_major dis- ── Topic: 43
+     │         │         │    │         │         └─■──rabies_pasteur_medical_rabies vaccine_roux ── Topic: 22
+     │         │         │    │         └─■──pertussis_pertussis vaccine_acellular_vaccine pertussis_acellular pertussis ── Topic: 3
+     │         │         │    └─vaccination_arm_vaccination vaccination_cowpox_new light
+     │         │         │         ├─arm_cowpox_animal_person_vaccination
+     │         │         │         │    ├─■──arm_cowpox_arm arm_calf_lymph ── Topic: 14
+     │         │         │         │    └─■──short history_short_person_vaccination_vaccination vaccination ── Topic: 20
+     │         │         │         └─■──rediscovered_dawn_dawn vaccination_light dawn_new light ── Topic: 42
+     │         │         └─anthrax_anthrax vaccine_advances_chicken cholera_chicken
+     │         │              ├─anthrax_anthrax vaccine_chicken_chicken cholera_haffkine
+     │         │              │    ├─■──chicken_chicken cholera_haffkine_plague_anthrax ── Topic: 4
+     │         │              │    └─■──anthrax_anthrax vaccine_human anthrax_anthrax vaccines_protective antigen ── Topic: 11
+     │         │              └─■──killed vaccines_serum_transmis-_vaccine report_vaccine fell ── Topic: 6
+     │         └─encephalitis_japanese_japanese encephalitis_encephalitis vaccine_tick
+     │              ├─japanese_japanese encephalitis_encephalitis_encephalitis vaccine_mouse
+     │              │    ├─■──mouse_brain_mouse brain_brain developed_inactivated ── Topic: 28
+     │              │    └─■──japanese_japanese encephalitis_encephalitis_vaccine inacti-_encephalitis vaccine ── Topic: 13
+     │              └─■──tick_borne encephalitis_borne_tick borne_encephalitis ── Topic: 29
+     └─meningococcal_pneumococcal_oral_conjugate_typhoid
+          ├─oral_typhoid_cholera_cholera vaccine_oral cholera
+          │    ├─typhoid_ty21a_field trial_typhoid vaccines_field
+          │    │    ├─■──typhoid_wright_typhoid vaccines_vaccines controlled_typhoid fever ── Topic: 7
+          │    │    └─■──ty21a_salmonella_salmonella typhi_typhi_vaccine coated ── Topic: 17
+          │    └─cholera_oral_cholera vaccine_oral cholera_oral vaccines
+          │         ├─■──live oral_cholera_oral_oral cholera_cholera vaccine ── Topic: 9
+          │         └─■──cholera_killed oral_cholera vaccine_lessons_oral ── Topic: 25
+          └─meningococcal_pneumococcal_conjugate_polysaccharide_capsular
+               ├─pneumococcal_polysaccharide_pneumococcal conjugate_capsular_influenzae
+               │    ├─■──influenzae_polysaccharide_capsular_capsular polysaccharide_polysaccharides ── Topic: 8
+               │    └─■──pneumococcal_pneumococcal conjugate_conjugate_conjugate vaccine_valent ── Topic: 2
+               └─meningococcal_meningococcal conjugate_group_conjugate_group vaccine
+                    ├─■──meningococcal_meningococcal conjugate_conjugate_conjugate vaccines_infants ── Topic: 12
+                    └─■──meningococcal_group vaccine_group_immunity_observer ── Topic: 34

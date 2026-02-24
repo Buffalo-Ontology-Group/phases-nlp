@@ -1,0 +1,173 @@
+BERTopic results plotkins vaccines
+
+Topic 0
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Viruses
+  Keywords:          measles, cells, cell, later, grown, vaccine, chicken, e.g., final vaccine, embryonated chicken
+  Summary:           The manufacture of vaccines is composed of several basic steps that result in the finished product. Viruses are grown in cells, which can be either primary cells, such as chicken fibroblasts (e.g., yellow fever vaccine), or continuous cell lines.
+
+Topic 1
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Hepatitis
+  Keywords:          aluminum, recombinant, sulfate, lot, vaccine, virus, immunodeficiency, amorphous aluminum, vaccine recombinant, qc
+  Summary:           In July 1986, a recombinant hepatitis B vaccine was licensed in the United States. Hepatitis B vaccines are sterile suspensions for intramuscu- lar injection.
+
+Topic 2
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Influenza
+  Keywords:          influenza, influenza vaccine, types, vaccine produced, trivalent, vaccine, package, trivalent types, produced, influenza virus
+  Summary:           Influenza virus vaccine for intramuscular use is a sterile sus- pension prepared from influenza viruses propagated in chicken embryos. This vaccine is the primary method for pre- venting influenza and its more severe complications.
+
+Topic 3
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Vaccination
+  Keywords:          prime, boost, prime boost, efficacy, boost vaccines, successful, early, clinical studies, ensure, batch
+  Summary:           A new tool has emerged that uses a “prime-boost” strategy for vaccination. The concept uses one vaccine as a prime, followed by the use of an entirely different vaccine for the boost.
+
+Topic 4
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Efficacy
+  Keywords:          shelf, shelf life, life, lyophilization, formulation, conditions, shipping, storage, tempera-, vaccine manufacturers
+  Summary:           Vaccine efficacy can be adversely affected by improper dis- tribution and storage conditions. The sensitivity of vaccines to Automated vaccine formulation vessels.
+
+Topic 5
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Vaccina
+  Keywords:          ipv, low, potential, dose, manufacturing, allow broader, geographies, focused low, low cost, dose vial
+  Summary:           Most of the vaccines for global vaccina- tion come from India and China. These geographies are currently not an option for IPV manufacture based on the WHO GAPIII recommendations.
+
+Topic 6
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Polio
+  Keywords:          polio, polio vaccine, eradication, polio vaccines, require, manufacturing, vaccine manufacturing, require substantial, initial, manufacturing processes
+  Summary:           The manufacture of polio vaccines began in 1955. The risk of vaccine-associated paralytic poliomyelitis is estimated at 0.42 per million33 over a three-dose schedule.
+
+Topic 7
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Competencies
+  Keywords:          e.g., increased, vaccine manufacturing, manufacturing, manufactured, development, manufactured worldwide, build, year given, healthy fact
+  Summary:           The ability to manufacture these vaccines safely and consistently is built on four competencies. Most vaccine compa- nies focus on a core set of vaccine platform technologies.
+
+Topic 8
+  Auto Label:        Vlp
+  Descriptive Label: Vlp
+  Keywords:          vlps, challenge, assembly, targets, proteins, vaccine owing, assembly vlps, vlps insect, vlps challenging, neutralizing antibodies
+  Summary:           For a VLP to be a realistic vaccine candidate, it needs to be These proteins are targets of neutralizing antibodies and are essential components of a vaccine. assembly of VLPs in insect cells is a different type of technical challenge to those produced viruses with multiple capsids.
+
+Topic 9
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Regulated
+  Keywords:          undergo, section, service, act, service act, health service, section public, biological, biological products, authority
+  Summary:           In the United States, vaccines are regulated as biological products. Vaccines undergo a rigorous review of labora- tory, nonclinical, and clinical data.
+
+Topic 10
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Virus
+  Keywords:          like, particles, particles vaccine, like particles, virus like, virus, based, based vaccines, traditional viral, vaccines traditional
+  Summary:           Virus-Like Particle–Based Vaccines. Traditional viral vaccines rely on attenuated virus strains
+
+Topic 11
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Ema
+  Keywords:          organizations, licensure, vaccines, human, regulating procedures, vaccine working, market vaccines, effective vaccines, safe effective, delivering safe
+  Summary:           The EMA’s Committee on Medicinal Products for Human Use has over- sight for human vaccines. Vaccines are licensed through a centralized procedure that allows for simultaneous licensure within all countries within the European Union.
+
+
+Document-Level Assignments:
+Doc 1: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Competencies), Prob: 0.75500549
+Doc 2: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Competencies), Prob: 0.75508950
+Doc 3: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Competencies), Prob: 1.00000000
+Doc 4: Topic 9 (Auto: Vaccines; Descriptive: Vaccines – Regulated), Prob: 1.00000000
+Doc 5: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 6: Topic 11 (Auto: Vaccines; Descriptive: Vaccines – Ema), Prob: 1.00000000
+Doc 7: Topic 11 (Auto: Vaccines; Descriptive: Vaccines – Ema), Prob: 1.00000000
+Doc 8: Topic 9 (Auto: Vaccines; Descriptive: Vaccines – Regulated), Prob: 0.59634969
+Doc 9: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 10: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 1.00000000
+Doc 11: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Efficacy), Prob: 0.75776818
+Doc 12: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Efficacy), Prob: 0.58943285
+Doc 13: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Efficacy), Prob: 1.00000000
+Doc 14: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Efficacy), Prob: 0.43335092
+Doc 15: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Efficacy), Prob: 0.92165233
+Doc 16: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Efficacy), Prob: 0.92165233
+Doc 17: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 18: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Efficacy), Prob: 1.00000000
+Doc 19: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 0.93261955
+Doc 20: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 21: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 22: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 23: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 1.00000000
+Doc 24: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 1.00000000
+Doc 25: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Efficacy), Prob: 0.58943285
+Doc 26: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 27: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Hepatitis), Prob: 1.00000000
+Doc 28: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Hepatitis), Prob: 0.83586743
+Doc 29: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Hepatitis), Prob: 1.00000000
+Doc 30: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Hepatitis), Prob: 1.00000000
+Doc 31: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Hepatitis), Prob: 1.00000000
+Doc 32: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Hepatitis), Prob: 0.56531318
+Doc 33: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Hepatitis), Prob: 1.00000000
+Doc 34: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 35: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Competencies), Prob: 0.76788010
+Doc 36: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 37: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 1.00000000
+Doc 38: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 0.94939799
+Doc 39: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 1.00000000
+Doc 40: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Hepatitis), Prob: 0.34541269
+Doc 41: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 1.00000000
+Doc 42: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – Virus), Prob: 1.00000000
+Doc 43: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – Virus), Prob: 0.80027870
+Doc 44: Topic 8 (Auto: Vlp; Descriptive: Vlp), Prob: 0.88078254
+Doc 45: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Hepatitis), Prob: 1.00000000
+Doc 46: Topic 8 (Auto: Vlp; Descriptive: Vlp), Prob: 1.00000000
+Doc 47: Topic 8 (Auto: Vlp; Descriptive: Vlp), Prob: 1.00000000
+Doc 48: Topic 8 (Auto: Vlp; Descriptive: Vlp), Prob: 1.00000000
+Doc 49: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 1.00000000
+Doc 50: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 1.00000000
+Doc 51: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Vaccina), Prob: 1.00000000
+Doc 52: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Vaccina), Prob: 1.00000000
+Doc 53: Topic 6 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.57219115
+Doc 54: Topic 6 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 1.00000000
+Doc 55: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Vaccina), Prob: 1.00000000
+Doc 56: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Vaccina), Prob: 1.00000000
+Doc 57: Topic 6 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.63659939
+Doc 58: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 1.00000000
+Doc 59: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Vaccina), Prob: 0.96295467
+Doc 60: Topic 6 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 1.00000000
+Doc 61: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 1.00000000
+Doc 62: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 1.00000000
+Doc 63: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.84192589
+Doc 64: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 1.00000000
+Doc 65: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 0.85656613
+Doc 66: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 1.00000000
+Doc 67: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Competencies), Prob: 1.00000000
+Doc 68: Topic 11 (Auto: Vaccines; Descriptive: Vaccines – Ema), Prob: 1.00000000
+Doc 69: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.82085650
+Doc 70: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 71: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 1.00000000
+Doc 72: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 1.00000000
+Doc 73: Topic 9 (Auto: Vaccines; Descriptive: Vaccines – Regulated), Prob: 1.00000000
+Doc 74: Topic 9 (Auto: Vaccines; Descriptive: Vaccines – Regulated), Prob: 1.00000000
+Doc 75: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 76: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 77: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Hepatitis), Prob: 0.91017793
+Doc 78: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Hepatitis), Prob: 1.00000000
+Doc 79: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Hepatitis), Prob: 1.00000000
+Doc 80: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Hepatitis), Prob: 1.00000000
+Doc 81: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Hepatitis), Prob: 1.00000000
+Doc 82: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.66130985
+Doc 83: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – Virus), Prob: 1.00000000
+Doc 84: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – Virus), Prob: 1.00000000
+Doc 85: Topic 8 (Auto: Vlp; Descriptive: Vlp), Prob: 0.78660619
+Doc 86: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 0.73893383
+Doc 87: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 0.61242696
+Doc 88: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 89: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 0.80493013
+Doc 90: Topic 6 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.67425019
+Doc 91: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Viruses), Prob: 0.93979952
+Doc 92: Topic 6 (Auto: Vaccines; Descriptive: Vaccines – Polio), Prob: 0.84141015
+Doc 93: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Vaccina), Prob: 1.00000000
+Doc 94: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.84192589
+Doc 95: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.73403814
+Doc 96: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 1.00000000
+Doc 97: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 1.00000000
