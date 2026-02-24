@@ -1,0 +1,174 @@
+BERTopic results plotkins vaccines
+
+Topic 0
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Animal
+  Keywords:          phase, efficacy, safety, clinical, studies, process, assays, development involves, lots, analytical
+  Summary:           Less than 1 in 15 vaccine candidates entering Phase II achieves licensure. Lack of good animal models to predict vaccine behavior in humans.
+
+Topic 1
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Developed
+  Keywords:          conjugate, vaccine, vaccines, conjugate vaccine, new vaccines, rotavirus, new, developed, varicella, combination
+  Summary:           The U.S. has been extraordinarily successful in vaccine research and development (R&D) In the past 20 years, most new vaccines approved worldwide were developed in the United States.
+
+Topic 2
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Government
+  Keywords:          funding, purchase, government, development, vaccines, research, countries, effective, advanced, organizations
+  Summary:           Several branches of the U.S. government play major roles in vaccine R&D.
+
+Topic 3
+  Auto Label:        Cost
+  Descriptive Label: Cost
+  Keywords:          sales, product, spent, products, companies, %, industry, compared, pharmaceutical, vaccine
+  Summary:           The vaccine industry is relatively small, compared to the pharmaceutical industry, but growing. We estimate that total infectious disease vaccine sales in 2013 were more than $25 billion worldwide.
+
+Topic 4
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Dod
+  Keywords:          commerce, committee testimony, generic, policy commerce, political, targeted vaccine, vaccine absence, absence regulatory, regulatory pathway, pathway generic
+  Summary:           The absence of a regulatory pathway for generic vaccines deters potential entrants from engaging in a complex and expensive approval process. The Department of Defense (DOD) does targeted vaccine.
+
+Topic 5
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Business
+  Keywords:          manufacturers vaccines, business vaccine, industry past, past years, vaccine manufacturers, years vaccine, past, manufacturers, years, vaccine business
+  Summary:           In the past 20 years, the vaccine business
+
+Topic 6
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Growth
+  Keywords:          growth, projected, market growth, vaccine market, global vaccine, global, worldwide, market, introduce new, early 2020s
+  Summary:           This projected growth may plateau in the early 2020s unless the vaccine industry continues to introduce new inno- vative products. Sustaining this growth will be a challenge because of dwindling numbers of high-value vaccine targets.
+
+Topic 7
+  Auto Label:        Venture
+  Descriptive Label: Venture
+  Keywords:          major vaccine, venture, investment, capital, compliance increasing, considerable ongoing, remaining major, people maintain, intensive business, capital intensive
+  Summary:           The vaccine business is a capital-intensive business that requires considerable ongoing investment in manufacturing assets, facilities, and people. A strong venture capital and investment community that views vaccine companies as potentially financially reward- ing as other investment opportunities.
+
+Topic 8
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Companies
+  Keywords:          role, understand, predominant, role major, examine, relation, service, major pharmaceutical, understand predominant, vaccines examine
+  Summary:           The role of large, full-service vaccine companies (Table 4.5)12 is predominantly in development.
+
+Topic 9
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Companies – T9
+  Keywords:          company vaccine, company, competition, resources comparisons, large company, typical, company fig, consulting company, mercer consulting, performed mercer
+  Summary:           Because vaccine companies are subsidiaries of large com- panies, vaccine R&D and manufacturing must compete with other product areas for resources. As a result, sole-sourced vaccines, manufactured in fully depreciated assets, are profitable for pharmaceutical compa- nies.
+
+Topic 10
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Reliability
+  Keywords:          shortages, sup-, future, industrial, critical, need, markets, industry, supply, public
+  Summary:           In the last 10 years, the vaccine industry in the U.S. and Europe has considerably improved its reliability as a sup- plier.
+
+Topic 11
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Market
+  Keywords:          sold, private market, private, market, reduced, governments reduced, rest, reduced prices, restricted, freedom
+  Summary:           Less than 50% of the vaccines for children sold in the United States are sold on the private market. The rest
+
+
+Document-Level Assignments:
+Doc 1: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Business), Prob: 1.00000000
+Doc 2: Topic 3 (Auto: Cost; Descriptive: Cost), Prob: 0.77408414
+Doc 3: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Business), Prob: 1.00000000
+Doc 4: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 0.91445214
+Doc 5: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Growth), Prob: 0.70540844
+Doc 6: Topic 7 (Auto: Venture; Descriptive: Venture), Prob: 1.00000000
+Doc 7: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 1.00000000
+Doc 8: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – Reliability), Prob: 1.00000000
+Doc 9: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 10: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 11: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 12: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 0.94827192
+Doc 13: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 14: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 15: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 16: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 17: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 18: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 19: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 20: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 21: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 22: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Growth), Prob: 0.85243043
+Doc 23: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Growth), Prob: 1.00000000
+Doc 24: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 25: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 26: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 27: Topic 3 (Auto: Cost; Descriptive: Cost), Prob: 1.00000000
+Doc 28: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 29: Topic 3 (Auto: Cost; Descriptive: Cost), Prob: 1.00000000
+Doc 30: Topic 3 (Auto: Cost; Descriptive: Cost), Prob: 1.00000000
+Doc 31: Topic 8 (Auto: Vaccine; Descriptive: Vaccine – Companies), Prob: 1.00000000
+Doc 32: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Government), Prob: 0.84184794
+Doc 33: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Government), Prob: 1.00000000
+Doc 34: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 35: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Dod), Prob: 0.74729199
+Doc 36: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 37: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Government), Prob: 0.94329090
+Doc 38: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 39: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 40: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 41: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Government), Prob: 1.00000000
+Doc 42: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 43: Topic 8 (Auto: Vaccine; Descriptive: Vaccine – Companies), Prob: 1.00000000
+Doc 44: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 45: Topic 7 (Auto: Venture; Descriptive: Venture), Prob: 1.00000000
+Doc 46: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 0.85907493
+Doc 47: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 48: Topic 7 (Auto: Venture; Descriptive: Venture), Prob: 1.00000000
+Doc 49: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Government), Prob: 0.82011272
+Doc 50: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Government), Prob: 1.00000000
+Doc 51: Topic 3 (Auto: Cost; Descriptive: Cost), Prob: 1.00000000
+Doc 52: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Companies – T9), Prob: 1.00000000
+Doc 53: Topic 8 (Auto: Vaccine; Descriptive: Vaccine – Companies), Prob: 1.00000000
+Doc 54: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 55: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 56: Topic 7 (Auto: Venture; Descriptive: Venture), Prob: 0.85490188
+Doc 57: Topic 3 (Auto: Cost; Descriptive: Cost), Prob: 1.00000000
+Doc 58: Topic 3 (Auto: Cost; Descriptive: Cost), Prob: 1.00000000
+Doc 59: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Dod), Prob: 0.52953729
+Doc 60: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 61: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Companies – T9), Prob: 1.00000000
+Doc 62: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 1.00000000
+Doc 63: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Government), Prob: 1.00000000
+Doc 64: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 65: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 1.00000000
+Doc 66: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 1.00000000
+Doc 67: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 68: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 69: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 0.99118744
+Doc 70: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 1.00000000
+Doc 71: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 1.00000000
+Doc 72: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 73: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 1.00000000
+Doc 74: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 0.87637142
+Doc 75: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Companies – T9), Prob: 1.00000000
+Doc 76: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 77: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Market), Prob: 1.00000000
+Doc 78: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 79: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 80: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 1.00000000
+Doc 81: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Government), Prob: 1.00000000
+Doc 82: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Market), Prob: 1.00000000
+Doc 83: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Growth), Prob: 1.00000000
+Doc 84: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 85: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 86: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – Reliability), Prob: 1.00000000
+Doc 87: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 88: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 0.70221500
+Doc 89: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Dod), Prob: 1.00000000
+Doc 90: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 0.72833816
+Doc 91: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Dod), Prob: 1.00000000
+Doc 92: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Business), Prob: 0.80678469
+Doc 93: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Dod), Prob: 1.00000000
+Doc 94: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Government), Prob: 1.00000000
+Doc 95: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Animal), Prob: 1.00000000
+Doc 96: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 1.00000000
+Doc 97: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Developed), Prob: 1.00000000
+Doc 98: Topic 5 (Auto: Vaccine; Descriptive: Vaccine – Business), Prob: 1.00000000

@@ -1,0 +1,12 @@
+Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+22,vaccine_vaccines_virus_manufacturing_polio,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",16,polio_manufacturing_ipv_polio vaccine_vaccine manufacturing,21,vaccine_vaccines_virus_like_prime,1.0416625388861467
+21,vaccine_vaccines_virus_like_prime,"[0, 1, 2, 3, 4, 8, 9, 10, 11]",20,vaccines_boost_prime_prime boost_vaccine,19,vaccine_virus_like_influenza_cells,1.0168734932952992
+20,vaccines_boost_prime_prime boost_vaccine,"[3, 4, 9, 11]",17,life_licensure_organizations_vaccines_shelf,15,prime_boost_prime boost_vaccines_efficacy,0.9853390590545319
+19,vaccine_virus_like_influenza_cells,"[0, 1, 2, 8, 10]",18,vaccine_influenza_cells_produced_virus,10,like_particles_particles vaccine_like particles_virus like,0.9799665973121708
+18,vaccine_influenza_cells_produced_virus,"[0, 1, 2, 8]",8,vlps_challenge_assembly_targets_proteins,14,vaccine_influenza_virus_cells_recombinant,0.9774546726913986
+17,life_licensure_organizations_vaccines_shelf,"[4, 11]",11,organizations_licensure_vaccines_human_regulating procedures,4,shelf_shelf life_life_lyophilization_formulation,0.9619106616534213
+16,polio_manufacturing_ipv_polio vaccine_vaccine manufacturing,"[5, 6, 7]",7,e.g._increased_vaccine manufacturing_manufacturing_manufactured,12,polio_ipv_polio vaccine_manufacturing_dose,0.9597475491816536
+15,prime_boost_prime boost_vaccines_efficacy,"[3, 9]",3,prime_boost_prime boost_efficacy_boost vaccines,9,undergo_section_service_act_service act,0.9594151016443545
+14,vaccine_influenza_virus_cells_recombinant,"[0, 1, 2]",13,vaccine_influenza_produced_cell_cells,1,aluminum_recombinant_sulfate_lot_vaccine,0.9461541559405722
+13,vaccine_influenza_produced_cell_cells,"[0, 2]",0,measles_cells_cell_later_grown,2,influenza_influenza vaccine_types_vaccine produced_trivalent,0.9283767076976155
+12,polio_ipv_polio vaccine_manufacturing_dose,"[5, 6]",5,ipv_low_potential_dose_manufacturing,6,polio_polio vaccine_eradication_polio vaccines_require,0.9177346417379327

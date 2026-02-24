@@ -1,0 +1,287 @@
+BERTopic results plotkins vaccines
+
+Topic 0
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Adjuvants
+  Keywords:          live, vaccines, cmi, immunity, adjuvants, mucosal, safe, diseases, attenuated, vaccine adjuvants
+  Summary:           Adjuvants are substances that are added to vaccine antigens to enhance and modulate the immunogenicity of the antigen. Currently 10 adjuvants are approved for use in vaccines as adjuants in licensed and investigational vaccines.
+
+Topic 1
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Immunol
+  Keywords:          , , , , , , , , , 
+  Summary:           Vaccine. Clin Vaccine Immunol
+
+Topic 2
+  Auto Label:        Antigens
+  Descriptive Label: Antigens
+  Keywords:          aluminum, salts, aluminum salts, aluminum containing, freezing, hydroxide, committee, containing, containing vaccines, aluminum hydroxide
+  Summary:           Alum was used there- after as an adjuvant for numerous human vaccines. Other aluminum salts, in the form of aluminum oxyhy- droxide or hydroxyphosphate, are the most widely used adju- vants.
+
+Topic 3
+  Auto Label:        Hemocyanin
+  Descriptive Label: Hemocyanin
+  Keywords:          lomavirus, hpv)-16/18, analysis, agonist vaccine, papil-, as04 adjuvanted, hpv)-16/18 as04, lomavirus hpv)-16/18, papil- lomavirus, human papil-
+  Summary:           In 2009, the molecule mono- phosphoryl lipid (MPL) A was the first new adjuvant in a vaccine (Cervarix vaccine against human papillomavirus)
+
+Topic 4
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Freund
+  Keywords:          oil, water oil, freund, water, emulsion, oil emulsion, freund adjuvant, mineral, mineral oil, squalene
+  Summary:           In the 1940s, Jules Freund developed a water-in-oil emul- sion, the Freund adjuvant. The latter was briefly used for a commercial influenza vaccine in the United Kingdom in the 1960s.
+
+Topic 5
+  Auto Label:        Fluad
+  Descriptive Label: Fluad
+  Keywords:          seasonal, seasonal influenza, influenza, elderly, mf59, elderly adults, adjuvanted, fluad, mf59 adjuvanted, influenza vaccines
+  Summary:           MF59 was approved only in one vaccine, FLUAD, an influenza vaccine for older adults, and licensed in several European countries from 1997 onward. Oil-in-water emulsion adjuvants are highly effective at enhancing immunogenicity and allowing for dose reduction in pandemic influenza vaccines.
+
+Topic 6
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Adjuvants
+  Keywords:          safety evaluation, adju- vants, vants, events, safety, adju-, vaccine safety, benefit balance, vaccine related, events reported.128
+  Summary:           128 Holding clinical development of a vaccine based on a single adverse event demonstrates the challenges of developing vaccines with novel adjuvants. The risk-to-benefit balance associated with the vaccine being devel- oped will always be the guiding principle.
+
+Topic 7
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Antibody
+  Keywords:          clade, repertoire, antibody repertoire, diversity affinity, affinity, diversity, antibody, adjuvanted influenza, pandemic, enhance
+  Summary:           Oil-in-water adjuvants not only enhance the immune response and allow for dose reduction, but also enhance diversity and affinity of the antibodies induced.63 This qualitative and quan- titative expansion of the antibody repertoire has tremendous relevance for vaccination against pathogens.
+
+Topic 8
+  Auto Label:        Malaria
+  Descriptive Label: Malaria – Vaccines
+  Keywords:          cpg, alhydrogel cpg, alhydrogel, stage, blood, plasmodium, blood stage, phase, induced faster, seroprotection induced
+  Summary:           CpG has been evaluated with and without alum for malaria vaccines,104,105 conjugate pneumonia vaccines,106 and hepatitis B vaccines107,108. CpG permits rapid and long-term seroprotection in HIV-infected patients.
+
+Topic 9
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Influenza
+  Keywords:          polymer, ethylene, polymers, cationic, properties.142 little, component vaccine, contains polyoxidonium,141, parenteral, polymers includes, class polymers
+  Summary:           The influenza vaccine Grippol licensed in Russia contains polyoxidonium. An analogous polymer, poly(carboxylatophenoxy) phosphazene (PCPP) has been widely investigated as an adju- vant for vaccines and has been shown to exert adjuvant activity.
+
+Topic 10
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Virosomes
+  Keywords:          virosomes, membrane, licensed, peptides, liposomal membrane, adjuvant carrier, vaccine virosomes, virosomes vaccine, licensed inflexal, sponsor
+  Summary:           Several licensed vaccines contain virosomes, which are recon- stituted empty envelopes of influenza viruses. Virosomes have been used for influenza vaccines and as adjuvants for hepatitis A vaccine (licensed in Europe as Epaxal)
+
+Topic 11
+  Auto Label:        Hepatitis
+  Descriptive Label: Hepatitis
+  Keywords:          strains, hpv, clinical trial, clinical, demonstrated acceptable, fendrix vaccine, patients extensive, hpv vaccine, vaccine hemodialyzed, acceptable safety
+  Summary:           Vaccine. vaccines (Cervarix [HPV vaccine] and Fendrix [hepatitis B vaccine for hemodialyzed patients]).
+
+Topic 12
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Cpg
+  Keywords:          cpg, small, cancer, expert, evaluation efficacy, motifs inducing, b, containing oligonucleotides, pure cpg, cpg containing
+  Summary:           CPG has also been used in cancer vaccines, such as non– small-cell lung cancer or melanoma, but as of this writing, with no significantly positive results in humans. CPG 7909 adjuvant improves hepatitis B virus vaccine seroprotection in antiretroviral- treated HIV-infected adults.
+
+Topic 13
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Narcolepsy
+  Keywords:          positive, benefit risk, risk profile, age years, narcolepsy, age, older, risk, adjuvanted vaccine, viral
+  Summary:           An increased number of cases of narcolepsy has been reported in children and adolescents vaccinated with an AS03-adjuvanted H1N1 pandemic vaccine in three northern European coun- tries. 2009–2010 pandemic season showed a positive benefit-to-risk profile for the vaccines.
+
+Topic 14
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Influenza – T14
+  Keywords:          ferrets, cross, neutralizing antibodies, cross -, induces, neutralizing, responses ferrets, humoral immune, cellular humoral, cellular
+  Summary:           A single immunization with CoVaccine HT-adjuvanted H5N1 influenza virus vaccine induces protec- tive cellular and humoral immune responses in ferrets. This adju- vant has been reported to allow for dose sparing in the context of influenza vaccines.
+
+Topic 15
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Adjuvant
+  Keywords:          mpl, sparing, dose sparing, pertussis, combination, dose, development noteworthy, vaccines development, immunostimulants described, noteworthy combination
+  Summary:           AS01, the combination of liposome, MPL and QS21, will most likely be the next new adjuvant present in a licensed vaccine. AS03 demonstrated potent dose-sparing potential for pan- demic influenza antigens.
+
+Topic 16
+  Auto Label:        Dmlt
+  Descriptive Label: Dmlt
+  Keywords:          dmlt, coli, oral, double, inactivated, tigated adjuvant, inactivated influenza, randomized placebo, placebo, etec vaccine
+  Summary:           160 Phase I evaluation of intranasal trivalent inactivated influenza vaccine with nontoxi- genic Escherichia coli enterotoxin and novel biovector as mucosal adjuvants.
+
+Topic 17
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Immune
+  Keywords:          flagellin, recombinant, influenza vaccine, tlr-5, response elderly, fusion, immunopotentiation, vax102, fused, nicity recombinant
+  Summary:           Vaccine. Induction of a potent immune response in the elderly using the TLR-5 agonist, flagel- lin, with a recombinant hemag
+
+Topic 18
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Iscom
+  Keywords:          relies, vaccines second, matrix, m, future, technology, second, le, success, clinical studies
+  Summary:           IsCOM technology-based matrix M adjuvant: success in future vaccines relies on formula-
+
+Topic 19
+  Auto Label:        Malaria
+  Descriptive Label: Malaria – Vaccine
+  Keywords:          rts, rts s, s, date, dren randomized, candidates children, randomized trial, adju- vanted, chil- dren, rts malaria
+  Summary:           The malaria vaccine candi- date RTS,S/AS is in phase III clinical trials [in French].
+
+
+Document-Level Assignments:
+Doc 1: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 2: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 3: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 4: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 1.00000000
+Doc 5: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 0.98694375
+Doc 6: Topic 4 (Auto: Influenza; Descriptive: Influenza – Freund), Prob: 1.00000000
+Doc 7: Topic 4 (Auto: Influenza; Descriptive: Influenza – Freund), Prob: 1.00000000
+Doc 8: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – Virosomes), Prob: 1.00000000
+Doc 9: Topic 3 (Auto: Hemocyanin; Descriptive: Hemocyanin), Prob: 1.00000000
+Doc 10: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 11: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 12: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 13: Topic 15 (Auto: Vaccines; Descriptive: Vaccines – Adjuvant), Prob: 1.00000000
+Doc 14: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 1.00000000
+Doc 15: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 1.00000000
+Doc 16: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 1.00000000
+Doc 17: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 1.00000000
+Doc 18: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 1.00000000
+Doc 19: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 1.00000000
+Doc 20: Topic 4 (Auto: Influenza; Descriptive: Influenza – Freund), Prob: 0.95327842
+Doc 21: Topic 4 (Auto: Influenza; Descriptive: Influenza – Freund), Prob: 0.75453431
+Doc 22: Topic 5 (Auto: Fluad; Descriptive: Fluad), Prob: 0.44439673
+Doc 23: Topic 15 (Auto: Vaccines; Descriptive: Vaccines – Adjuvant), Prob: 1.00000000
+Doc 24: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 25: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Influenza – T14), Prob: 0.93197931
+Doc 26: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 27: Topic 5 (Auto: Fluad; Descriptive: Fluad), Prob: 0.40657874
+Doc 28: Topic 5 (Auto: Fluad; Descriptive: Fluad), Prob: 0.48981076
+Doc 29: Topic 7 (Auto: Influenza; Descriptive: Influenza – Antibody), Prob: 0.45648676
+Doc 30: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Influenza – T14), Prob: 0.63502802
+Doc 31: Topic 4 (Auto: Influenza; Descriptive: Influenza – Freund), Prob: 0.49551954
+Doc 32: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – Narcolepsy), Prob: 1.00000000
+Doc 33: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – Narcolepsy), Prob: 1.00000000
+Doc 34: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – Narcolepsy), Prob: 0.62078454
+Doc 35: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 36: Topic 11 (Auto: Hepatitis; Descriptive: Hepatitis), Prob: 0.45018883
+Doc 37: Topic 15 (Auto: Vaccines; Descriptive: Vaccines – Adjuvant), Prob: 0.85931664
+Doc 38: Topic 3 (Auto: Hemocyanin; Descriptive: Hemocyanin), Prob: 1.00000000
+Doc 39: Topic 15 (Auto: Vaccines; Descriptive: Vaccines – Adjuvant), Prob: 0.95391013
+Doc 40: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 0.92956315
+Doc 41: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 0.72403131
+Doc 42: Topic 11 (Auto: Hepatitis; Descriptive: Hepatitis), Prob: 0.50046230
+Doc 43: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 44: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Cpg), Prob: 1.00000000
+Doc 45: Topic 8 (Auto: Malaria; Descriptive: Malaria – Vaccines), Prob: 0.25840159
+Doc 46: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Cpg), Prob: 0.97677377
+Doc 47: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 48: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 49: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Adjuvants), Prob: 0.81721797
+Doc 50: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – Narcolepsy), Prob: 0.71341711
+Doc 51: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – Virosomes), Prob: 1.00000000
+Doc 52: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 53: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 54: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 55: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 56: Topic 16 (Auto: Dmlt; Descriptive: Dmlt), Prob: 1.00000000
+Doc 57: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 58: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Adjuvants), Prob: 1.00000000
+Doc 59: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Adjuvants), Prob: 0.70090730
+Doc 60: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 61: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 62: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 63: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 0.76486099
+Doc 64: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Adjuvants), Prob: 1.00000000
+Doc 65: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 66: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 0.88825741
+Doc 67: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 1.00000000
+Doc 68: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 69: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 1.00000000
+Doc 70: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 1.00000000
+Doc 71: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.84067477
+Doc 72: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 1.00000000
+Doc 73: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.61337997
+Doc 74: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 0.94126379
+Doc 75: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 1.00000000
+Doc 76: Topic 2 (Auto: Antigens; Descriptive: Antigens), Prob: 0.80509159
+Doc 77: Topic 4 (Auto: Influenza; Descriptive: Influenza – Freund), Prob: 0.66443700
+Doc 78: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 79: Topic 4 (Auto: Influenza; Descriptive: Influenza – Freund), Prob: 0.58200998
+Doc 80: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 1.00000000
+Doc 81: Topic 8 (Auto: Malaria; Descriptive: Malaria – Vaccines), Prob: 1.00000000
+Doc 82: Topic 4 (Auto: Influenza; Descriptive: Influenza – Freund), Prob: 0.38207391
+Doc 83: Topic 5 (Auto: Fluad; Descriptive: Fluad), Prob: 0.95566170
+Doc 84: Topic 7 (Auto: Influenza; Descriptive: Influenza – Antibody), Prob: 0.89121070
+Doc 85: Topic 7 (Auto: Influenza; Descriptive: Influenza – Antibody), Prob: 1.00000000
+Doc 86: Topic 8 (Auto: Malaria; Descriptive: Malaria – Vaccines), Prob: 1.00000000
+Doc 87: Topic 7 (Auto: Influenza; Descriptive: Influenza – Antibody), Prob: 0.52914088
+Doc 88: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Adjuvants), Prob: 1.00000000
+Doc 89: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 90: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.57716516
+Doc 91: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Influenza – T14), Prob: 1.00000000
+Doc 92: Topic 5 (Auto: Fluad; Descriptive: Fluad), Prob: 1.00000000
+Doc 93: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 94: Topic 4 (Auto: Influenza; Descriptive: Influenza – Freund), Prob: 0.94832540
+Doc 95: Topic 5 (Auto: Fluad; Descriptive: Fluad), Prob: 1.00000000
+Doc 96: Topic 5 (Auto: Fluad; Descriptive: Fluad), Prob: 0.86559467
+Doc 97: Topic 7 (Auto: Influenza; Descriptive: Influenza – Antibody), Prob: 1.00000000
+Doc 98: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Influenza – T14), Prob: 1.00000000
+Doc 99: Topic 7 (Auto: Influenza; Descriptive: Influenza – Antibody), Prob: 0.93021447
+Doc 100: Topic 7 (Auto: Influenza; Descriptive: Influenza – Antibody), Prob: 0.52914088
+Doc 101: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 102: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.88005970
+Doc 103: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 104: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.87084129
+Doc 105: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.64020298
+Doc 106: Topic 3 (Auto: Hemocyanin; Descriptive: Hemocyanin), Prob: 1.00000000
+Doc 107: Topic 3 (Auto: Hemocyanin; Descriptive: Hemocyanin), Prob: 1.00000000
+Doc 108: Topic 3 (Auto: Hemocyanin; Descriptive: Hemocyanin), Prob: 1.00000000
+Doc 109: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.60240989
+Doc 110: Topic 3 (Auto: Hemocyanin; Descriptive: Hemocyanin), Prob: 1.00000000
+Doc 111: Topic 11 (Auto: Hepatitis; Descriptive: Hepatitis), Prob: 1.00000000
+Doc 112: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 113: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 114: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.51469512
+Doc 115: Topic 3 (Auto: Hemocyanin; Descriptive: Hemocyanin), Prob: 0.67908285
+Doc 116: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – Virosomes), Prob: 0.48706726
+Doc 117: Topic 3 (Auto: Hemocyanin; Descriptive: Hemocyanin), Prob: 1.00000000
+Doc 118: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Cpg), Prob: 0.96431969
+Doc 119: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.51802879
+Doc 120: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.97149871
+Doc 121: Topic 8 (Auto: Malaria; Descriptive: Malaria – Vaccines), Prob: 0.66528268
+Doc 122: Topic 8 (Auto: Malaria; Descriptive: Malaria – Vaccines), Prob: 0.25840159
+Doc 123: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 124: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Cpg), Prob: 0.83074852
+Doc 125: Topic 12 (Auto: Vaccine; Descriptive: Vaccine – Cpg), Prob: 1.00000000
+Doc 126: Topic 11 (Auto: Hepatitis; Descriptive: Hepatitis), Prob: 1.00000000
+Doc 127: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.87084129
+Doc 128: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.59492965
+Doc 129: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 130: Topic 17 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 1.00000000
+Doc 131: Topic 17 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 1.00000000
+Doc 132: Topic 17 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 1.00000000
+Doc 133: Topic 3 (Auto: Hemocyanin; Descriptive: Hemocyanin), Prob: 1.00000000
+Doc 134: Topic 11 (Auto: Hepatitis; Descriptive: Hepatitis), Prob: 1.00000000
+Doc 135: Topic 8 (Auto: Malaria; Descriptive: Malaria – Vaccines), Prob: 0.88928135
+Doc 136: Topic 3 (Auto: Hemocyanin; Descriptive: Hemocyanin), Prob: 1.00000000
+Doc 137: Topic 18 (Auto: Vaccines; Descriptive: Vaccines – Iscom), Prob: 1.00000000
+Doc 138: Topic 18 (Auto: Vaccines; Descriptive: Vaccines – Iscom), Prob: 1.00000000
+Doc 139: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.84067477
+Doc 140: Topic 18 (Auto: Vaccines; Descriptive: Vaccines – Iscom), Prob: 1.00000000
+Doc 141: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 0.90367050
+Doc 142: Topic 19 (Auto: Malaria; Descriptive: Malaria – Vaccine), Prob: 1.00000000
+Doc 143: Topic 19 (Auto: Malaria; Descriptive: Malaria – Vaccine), Prob: 1.00000000
+Doc 144: Topic 19 (Auto: Malaria; Descriptive: Malaria – Vaccine), Prob: 1.00000000
+Doc 145: Topic 3 (Auto: Hemocyanin; Descriptive: Hemocyanin), Prob: 1.00000000
+Doc 146: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.66102455
+Doc 147: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 148: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 149: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – Virosomes), Prob: 0.81363296
+Doc 150: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – Virosomes), Prob: 1.00000000
+Doc 151: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 0.63454023
+Doc 152: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 0.64792824
+Doc 153: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 154: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Adjuvants), Prob: 0.68935042
+Doc 155: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 0.44840022
+Doc 156: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 157: Topic 0 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 158: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.59528557
+Doc 159: Topic 1 (Auto: Vaccine; Descriptive: Vaccine – Immunol), Prob: 0.51539581
+Doc 160: Topic 16 (Auto: Dmlt; Descriptive: Dmlt), Prob: 1.00000000
+Doc 161: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 162: Topic 16 (Auto: Dmlt; Descriptive: Dmlt), Prob: 1.00000000
+Doc 163: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Adjuvants), Prob: 1.00000000

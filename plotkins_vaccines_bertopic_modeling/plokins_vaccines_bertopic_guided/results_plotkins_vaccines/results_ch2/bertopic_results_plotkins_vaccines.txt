@@ -1,0 +1,498 @@
+BERTopic results plotkins vaccines
+
+Topic 0
+  Auto Label:        Pertussis
+  Descriptive Label: Pertussis
+  Keywords:          acellular, pertussis, acellular pertussis, pertussis vaccine, pertussis vaccines, neonatal, ifn, neonatal priming, γ, immunization acellular
+  Summary:           Neonatal priming with a combined DTaP vaccine blunted rather than primed subsequent infant pertussis responses. Neonatal and infant T-cell responses also differ from those elicited later in life.
+
+Topic 1
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Immune
+  Keywords:          new, correlates, nonspecific, nature vaccine, vaccine antibody, population, questions, assess, development new, responses nonlive
+  Summary:           New methods have emerged allowing the assessment of a growing number of vaccine-associated immune parameters, including in humans. The nature of the vaccine exerts a direct influence on the type of immune effectors that are elicited and that mediate protec- tive efficacy.
+
+Topic 2
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Immunization
+  Keywords:          maternal, maternal antibodies, postnatal, influence, inhibitory, infant, inhibitory influence, influence maternal, infant antibody, antibody
+  Summary:           Early life antibody responses are directly determined by the prenatal (e.g., gestational age238) and the postnatal age at immunization. Accelerated infant vaccine schedules in which three vaccine doses are given at 1-month intervals result in lower immune responses.
+
+Topic 3
+  Auto Label:        Peptides
+  Descriptive Label: Peptides
+  Keywords:          term efficacy, study, response vaccine, randomized, randomized trial, term immunogenicity, long term, term, recombinant, peptides
+  Summary:           Pro- gression to chronic liver disease has not been reported in fully immunized vaccine responders. Co-administration of CpG oligonucleotides enhances the late affinity maturation process of human anti–hepatitis B vaccine response.
+
+Topic 4
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Immunology
+  Keywords:          measles, measles vaccine, mortality, rubella, mumps, month old, old infants, vaccine, old, immunity induced
+  Summary:           There is indirect evidence that vaccine-induced T cells contribute to the protection conferred by other vaccines. The understanding of vaccine immunology requires appraising how B- and T-cell responses are elicited, supported, maintained, and/or reacti- vated.
+
+Topic 5
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Conjugate
+  Keywords:          glycoconjugate vaccines, glycoconjugate, protein, carrier, conjugate vaccines, conjugate, polysaccharide, carriers, markedly, bacterial vaccines
+  Summary:           The conjugation of bacterial PS to a protein carrier (e.g., glyco- conjugate vaccines) provides foreign peptide antigens that are presented to the immune system. A protein that is used as a template to which polysaccharide moieties are chemically conjugated to generate glycoconjugate vaccines.
+
+Topic 6
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Influenzae
+  Keywords:          influenzae, influenzae type, type, type b, conjugate, haemophilus, vaccine failure, conjugate vaccine, acellular pertussis, failure
+  Summary:           A window of 4 to 7 days after H. influenzae b (Hib) PS immuni- zation was reported as sufficient for high levels of PS-specific vaccine antibodies to appear in the blood of previously primed infants.
+
+Topic 7
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Pneumococcal
+  Keywords:          pneumococcal, pneumococcal polysaccharide, polysaccharide, pneumococcal conjugate, polysaccharide vaccine, valent pneumococcal, valent, conjugate, vaccine pneumococcal, conjugate vaccine
+  Summary:           Pneumococcal conju- gate and plain polysaccharide vaccines have divergent effects on antigen-specific B cells. Cellular CD4 T cell responses to the diphtheria-derived carrier protein of conjugated pneumo- coccal vaccine and antibody response to pneumococcal vaccina- tion in HIV-infected adults.
+
+Topic 8
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Antigens
+  Keywords:          adjuvants, innate immunity, vaccine adjuvants, innate, nonlive, activate, signals, danger signals, danger, nonlive vaccines
+  Summary:           The induction of antigen-specific B- and T-cell responses requires their activation in the draining lymph nodes by specific antigen-presenting cells (APCs) The very first requirement to elicit vaccine responses is to provide sufficient “danger signals” through vaccine antigens and/or adjuvants to trigger an inflammatory reaction.
+
+Topic 9
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Immune
+  Keywords:          vaccine antigens, antigens, t, cells, b cell, surface, b, cell, cd8, lymphocytes
+  Summary:           Vaccines protect by inducing effector mechanisms (cells or molecules) capable of rapidly controlling replicating patho- gens or inactivating their toxic components. Vaccine-induced immune effectors (Table 2.1) are essentially antibodies produced by B lymphocytes.
+
+Topic 10
+  Auto Label:        Immunization
+  Descriptive Label: Immunization
+  Keywords:          changes, age, elderly, antibody, extremes, antibody responses, responses, aged, healthy elderly, extremes age
+  Summary:           Age at immunization also modulates vaccine antibody per- sistence, which is shorter at the two extremes of life. Certain conditions may also limit the persistence of vaccine antibody responses because of enhanced catabo- lism.
+
+Topic 11
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Immune – T11
+  Keywords:          memory t, memory, specific organs, organs, bystander, bystander memory, t, t cells, cells, esti- mated
+  Summary:           Immune memory is essential to T-cell vaccine efficacy. Trm cells were demonstrated as central for the protection against mucosal infections.
+
+Topic 12
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Hpv
+  Keywords:          as04 adjuvanted, as04, papillomavirus, human papillomavirus, adjuvanted vaccine, hpv, dose schedule, modeling, immunogenicity safety, hpv-16/18 as04
+  Summary:           HPV vaccines induce high and sustained anti- body responses after a single vaccine dose, even in healthy young adults. These priming doses may occasionally be combined into a single ‘double’ dose, such as for hepatitis A or B.
+
+Topic 13
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – T13
+  Keywords:          , , , , , , , , , 
+  Summary:           V
+
+Topic 14
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Antigens – T14
+  Keywords:          regulatory t, t, regulatory, t cell, cell, pathogens, vac- cination, ifngamma, cell epitopes, antigens peptide
+  Summary:           T-cell epitopes may be gener- ated from any region of the vaccine antigens. peptide sequence is located within or at the surface of the protein.
+
+Topic 15
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Vaccines
+  Keywords:          trivalent, adapted, intranasal, children, influenza, palsy, vaccines immunocompetent, land, risk bell, immunocompetent immunocom-
+  Summary:           Use of the inactivated intra- nasal influenza vaccine and the risk of Bell's palsy in Switzer- land. Antibody responses to natural influenza A/H1N1/09 disease or following immunization with adjuvanted vaccines.
+
+Topic 16
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Vaccination
+  Keywords:          meningococcal, serogroup, meningococcal serogroup, vaccine infants, hexavalent, reduced primary, primary schedule, schedule menin-, effects prior, gococcal c
+  Summary:           Meningococcal serogroup C conjugate vaccine is immunogenic in infancy and primes for memory. Avidity maturation following vaccination with a meningococcal recombinant hexavalent PorA OMV vaccine in UK infants.
+
+Topic 17
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Immunogenic
+  Keywords:          challenges, premature, birth huge, difference responsiveness, health immunological, huge difference, con- ceptual, ceptual challenges, challenges challenges, vaccines challenges
+  Summary:           A few additional vaccines that would be immunogenic soon after birth would make a huge difference. This disease burden is caused by a limited number of patho- gens, such that the availability of a few
+
+Topic 18
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Vaccination – T18
+  Keywords:          immunological effects, heterologous, immunological, torres, randomised trial, strain mycobacteria, bissau randomized, mycobacteria specific, pitalization respiratory, martinon
+  Summary:           Heterologous immunological effects of early BCG vaccination in low-birth- weight infants in Guinea-Bissau. The influence of BCG vaccine strain on mycobacteria-specific and non-specific immune responses in a prospective
+
+Topic 19
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Protection
+  Keywords:          memory b, memory, b cells, glycoconjugate, illustrated, term vaccine, priming, immune memory, b, protection
+  Summary:           To generate vaccine-mediated protection is a complex chal- lenge. Currently available vaccines have largely been devel- oped empirically.
+
+Topic 20
+  Auto Label:        Vaccination
+  Descriptive Label: Vaccination
+  Keywords:          tuberculosis, prime, predominant, importance t, vaccines overshadow, localization, intracellular, cells essential, essential induction, induction high
+  Summary:           Bacille Calmette-Guérin (BCG) may play a more critical role than previously anticipated for specific diseases like pertussis. Specific T cell frequency and cytokine expression profile do not correlate with protection against tuberculosis.
+
+Topic 21
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Vaccines – T21
+  Keywords:          adjuvant, influenza vaccines, pandemic influenza, pandemic, influenza, efficacy influenza, synthetic biological, vaccines adjuvant, antirheumatic, antibody mediated
+  Summary:           The capacity of the MF59 adju- vant to induce strong Tfh/GC responses in infant mice7 could also be relevant to the ability of the adjuvant to improve the efficacy of influenza vaccines in young children.
+
+Topic 22
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Immunization
+  Keywords:          term survival, survival, weeks, persistence, vaccine doses, plasma cells, persistence vaccine, plasma, role, months
+  Summary:           Antigen-specific plasma cells elicited in spleen/ nodes after immunization have only a short life span. The nature of the vaccine has a crucial role.
+
+Topic 23
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Vaccinology
+  Keywords:          probing humanity, humanity, humanity diverse, diverse immune, systems vaccines, diverse, immune systems, probing, systems, human dendritic
+  Summary:           Systems vaccinology: probing humanity’s diverse immune systems with vaccines.
+
+Topic 24
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Fever
+  Keywords:          immunity, fever, immunity yellow, yellow, innate trained, responses innate, yf-17d, stimulate, polyvalent, lasting
+  Summary:           Yellow fever vaccine YF-17D activates multiple dendritic cell subsets via TLR2, 7, 8, and 9
+
+Topic 25
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Influenza
+  Keywords:          zoster, varicella zoster, herpes, herpes zoster, formulating, varicella, people, older, older adults, limitations
+  Summary:           A single dose of the AS03-adjuvanted influenza H1N1/09 vaccine in healthy children elicited anti- body responses similar to those observed in convalescent chil- dren48. Formulating the varicella-zoster-virus IgE protein into the novel AS01b adjuvant system conferred unprece- dented vaccine efficacy in the elderly.
+
+Topic 26
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Antibodies
+  Keywords:          nasal, viral, pattern, recognition, limit viral, live viral, mucosal, table, serum antibodies, oral
+  Summary:           Antigen-specific antibodies have been formally demon- strated as conferring vaccine-induced protection against many diseases. Current vaccines mostly mediate protection through the induction of highly specific IgG serum antibodies.
+
+Topic 27
+  Auto Label:        Microneedle
+  Descriptive Label: Microneedle
+  Keywords:          pharmacogenomics vaccines, aluminum salts, today, salts, aluminum, immunology aluminum, pharmacogenomics, application, salts today, today vaccines
+  Summary:           Aluminum salts are most often used
+
+Topic 28
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Antibodies
+  Keywords:          titers, phases, hepa- titis, present time, residual titers, early appearance, antibodies present, triggering long, time early, vaccines triggering
+  Summary:           Early appearance of neu- tralizing antibodies after vaccination with an inactivated hepa- titis A vaccine. Correlation of antibody
+
+Topic 29
+  Auto Label:        Influenza
+  Descriptive Label: Influenza – Vaccination
+  Keywords:          vivo, vivo elderly, human circulating, blunted response, influenza reduced, ctl culture, activation vivo, decreased expansion, vivo decreased, cells impairs
+  Summary:           Human circulating influenza-CD4+ ICOS1+IL-21+ T cells expand after vaccination, exert helper function, and predict antibody responses. Age-related impaired type 1 T
+
+Topic 30
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Immunization – T30
+  Keywords:          phenomenon, ps, b cell, given, known triggering, ence given, replenished, reported70–73, formal demonstration, sequently
+  Summary:           Induction of antigen-specific immune effectors by an immunization process does not imply that these antibodies, cells, or cytokines rep- resent surrogates—or even correlates—of vaccine efficacy. This requires the formal demonstration that vaccine-mediated pro- tection is dependent on the pres- ence of a given marker.
+
+Topic 31
+  Auto Label:        Smallpox
+  Descriptive Label: Smallpox
+  Keywords:          smallpox, smallpox vaccination, cell memory, humans, edge, viral immunity, cutting, immunity smallpox, proliferative, ifn-
+  Summary:           Long-term B cell memory in humans after smallpox vaccination. Distinct time effects of vaccination
+
+Topic 32
+  Auto Label:        Immunity
+  Descriptive Label: Immunity
+  Keywords:          implications, development challenges, con- cerns, neonatal vaccine, addressing, parents, cerns, overwhelm, weaken, implications neonatal
+  Summary:           Do multiple vaccines overwhelm or weaken the infant's immune system? Philbin VJ, Levy O.
+
+Topic 33
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Lymph
+  Keywords:          infected tissues, essentially remain, nodes challenge, residing lymph, challenge novel, cells residing, novel replicating, induce maintain, maintain sufficient, tem trm
+  Summary:           Anti- gens may fail to efficiently reach the vaccine-induced B and T cells residing in the lymph nodes. This is a
+
+
+Document-Level Assignments:
+Doc 1: Topic 27 (Auto: Microneedle; Descriptive: Microneedle), Prob: 1.00000000
+Doc 2: Topic 19 (Auto: Vaccines; Descriptive: Vaccines – Protection), Prob: 1.00000000
+Doc 3: Topic 20 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 4: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 0.97984635
+Doc 5: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 1.00000000
+Doc 6: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 0.51783450
+Doc 7: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 1.00000000
+Doc 8: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 1.00000000
+Doc 9: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 1.00000000
+Doc 10: Topic 27 (Auto: Microneedle; Descriptive: Microneedle), Prob: 1.00000000
+Doc 11: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 1.00000000
+Doc 12: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 0.52575799
+Doc 13: Topic 30 (Auto: Vaccines; Descriptive: Vaccines – Immunization – T30), Prob: 1.00000000
+Doc 14: Topic 26 (Auto: Vaccines; Descriptive: Vaccines – Antibodies), Prob: 0.67915087
+Doc 15: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 1.00000000
+Doc 16: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 17: Topic 26 (Auto: Vaccines; Descriptive: Vaccines – Antibodies), Prob: 0.88052962
+Doc 18: Topic 26 (Auto: Vaccines; Descriptive: Vaccines – Antibodies), Prob: 1.00000000
+Doc 19: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 1.00000000
+Doc 20: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Antigens), Prob: 0.95528888
+Doc 21: Topic 26 (Auto: Vaccines; Descriptive: Vaccines – Antibodies), Prob: 1.00000000
+Doc 22: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 23: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Antigens), Prob: 1.00000000
+Doc 24: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 1.00000000
+Doc 25: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 1.00000000
+Doc 26: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Antigens), Prob: 1.00000000
+Doc 27: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 28: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 0.93359139
+Doc 29: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 1.00000000
+Doc 30: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 1.00000000
+Doc 31: Topic 22 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 0.96480018
+Doc 32: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 0.56862831
+Doc 33: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 34: Topic 28 (Auto: Vaccine; Descriptive: Vaccine – Antibodies), Prob: 1.00000000
+Doc 35: Topic 30 (Auto: Vaccines; Descriptive: Vaccines – Immunization – T30), Prob: 1.00000000
+Doc 36: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 1.00000000
+Doc 37: Topic 30 (Auto: Vaccines; Descriptive: Vaccines – Immunization – T30), Prob: 1.00000000
+Doc 38: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 1.00000000
+Doc 39: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 0.70716401
+Doc 40: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 1.00000000
+Doc 41: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 1.00000000
+Doc 42: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Antigens), Prob: 1.00000000
+Doc 43: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 44: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 45: Topic 12 (Auto: Vaccines; Descriptive: Vaccines – Hpv), Prob: 1.00000000
+Doc 46: Topic 22 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 47: Topic 22 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 0.81651916
+Doc 48: Topic 22 (Auto: Vaccine; Descriptive: Vaccine – Immunization), Prob: 1.00000000
+Doc 49: Topic 10 (Auto: Immunization; Descriptive: Immunization), Prob: 0.95114817
+Doc 50: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 1.00000000
+Doc 51: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 52: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 53: Topic 19 (Auto: Vaccines; Descriptive: Vaccines – Protection), Prob: 0.72754213
+Doc 54: Topic 28 (Auto: Vaccine; Descriptive: Vaccine – Antibodies), Prob: 1.00000000
+Doc 55: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 0.83261600
+Doc 56: Topic 19 (Auto: Vaccines; Descriptive: Vaccines – Protection), Prob: 1.00000000
+Doc 57: Topic 19 (Auto: Vaccines; Descriptive: Vaccines – Protection), Prob: 1.00000000
+Doc 58: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 59: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 60: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 1.00000000
+Doc 61: Topic 19 (Auto: Vaccines; Descriptive: Vaccines – Protection), Prob: 0.81593765
+Doc 62: Topic 33 (Auto: Vaccines; Descriptive: Vaccines – Lymph), Prob: 1.00000000
+Doc 63: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 1.00000000
+Doc 64: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Immune – T11), Prob: 0.91424696
+Doc 65: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Antigens – T14), Prob: 0.86365666
+Doc 66: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 1.00000000
+Doc 67: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 1.00000000
+Doc 68: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Antigens – T14), Prob: 0.46014646
+Doc 69: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 1.00000000
+Doc 70: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 0.57350995
+Doc 71: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 72: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Immune – T11), Prob: 1.00000000
+Doc 73: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Immune – T11), Prob: 1.00000000
+Doc 74: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 75: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Immune – T11), Prob: 0.49121055
+Doc 76: Topic 33 (Auto: Vaccines; Descriptive: Vaccines – Lymph), Prob: 1.00000000
+Doc 77: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 1.00000000
+Doc 78: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 0.99647155
+Doc 79: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 80: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Immune – T11), Prob: 1.00000000
+Doc 81: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 82: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 1.00000000
+Doc 83: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 0.71291174
+Doc 84: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 1.00000000
+Doc 85: Topic 10 (Auto: Immunization; Descriptive: Immunization), Prob: 1.00000000
+Doc 86: Topic 17 (Auto: Vaccine; Descriptive: Vaccine – Immunogenic), Prob: 1.00000000
+Doc 87: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 0.97601327
+Doc 88: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 0.98501603
+Doc 89: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 1.00000000
+Doc 90: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 1.00000000
+Doc 91: Topic 21 (Auto: Influenza; Descriptive: Influenza – Vaccines – T21), Prob: 1.00000000
+Doc 92: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 93: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 94: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 0.75925413
+Doc 95: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 96: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 1.00000000
+Doc 97: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 1.00000000
+Doc 98: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 0.55452612
+Doc 99: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 1.00000000
+Doc 100: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 1.00000000
+Doc 101: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 0.75590861
+Doc 102: Topic 10 (Auto: Immunization; Descriptive: Immunization), Prob: 0.65873487
+Doc 103: Topic 10 (Auto: Immunization; Descriptive: Immunization), Prob: 0.68253060
+Doc 104: Topic 10 (Auto: Immunization; Descriptive: Immunization), Prob: 0.55720879
+Doc 105: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 0.79668554
+Doc 106: Topic 23 (Auto: Vaccines; Descriptive: Vaccines – Vaccinology), Prob: 1.00000000
+Doc 107: Topic 29 (Auto: Influenza; Descriptive: Influenza – Vaccination), Prob: 1.00000000
+Doc 108: Topic 24 (Auto: Vaccines; Descriptive: Vaccines – Fever), Prob: 1.00000000
+Doc 109: Topic 24 (Auto: Vaccines; Descriptive: Vaccines – Fever), Prob: 1.00000000
+Doc 110: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Antigens – T14), Prob: 0.72289971
+Doc 111: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 1.00000000
+Doc 112: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 1.00000000
+Doc 113: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 1.00000000
+Doc 114: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 115: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Pneumococcal), Prob: 1.00000000
+Doc 116: Topic 20 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 117: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 0.77821114
+Doc 118: Topic 25 (Auto: Vaccine; Descriptive: Vaccine – Influenza), Prob: 1.00000000
+Doc 119: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 120: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 121: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 122: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 123: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 124: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 125: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 1.00000000
+Doc 126: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Antigens), Prob: 1.00000000
+Doc 127: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Antigens), Prob: 1.00000000
+Doc 128: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – T13), Prob: 0.95834499
+Doc 129: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Antigens), Prob: 1.00000000
+Doc 130: Topic 23 (Auto: Vaccines; Descriptive: Vaccines – Vaccinology), Prob: 0.58188237
+Doc 131: Topic 24 (Auto: Vaccines; Descriptive: Vaccines – Fever), Prob: 1.00000000
+Doc 132: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 1.00000000
+Doc 133: Topic 27 (Auto: Microneedle; Descriptive: Microneedle), Prob: 1.00000000
+Doc 134: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 1.00000000
+Doc 135: Topic 15 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 0.77373746
+Doc 136: Topic 15 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 0.73905586
+Doc 137: Topic 28 (Auto: Vaccine; Descriptive: Vaccine – Antibodies), Prob: 1.00000000
+Doc 138: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 1.00000000
+Doc 139: Topic 16 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 1.00000000
+Doc 140: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 1.00000000
+Doc 141: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Pneumococcal), Prob: 1.00000000
+Doc 142: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 1.00000000
+Doc 143: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Pneumococcal), Prob: 1.00000000
+Doc 144: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Pneumococcal), Prob: 1.00000000
+Doc 145: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Pneumococcal), Prob: 1.00000000
+Doc 146: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Pneumococcal), Prob: 0.89299422
+Doc 147: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Pneumococcal), Prob: 1.00000000
+Doc 148: Topic 17 (Auto: Vaccine; Descriptive: Vaccine – Immunogenic), Prob: 1.00000000
+Doc 149: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 1.00000000
+Doc 150: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 1.00000000
+Doc 151: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Pneumococcal), Prob: 0.71705251
+Doc 152: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Antigens), Prob: 0.72481953
+Doc 153: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 1.00000000
+Doc 154: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 155: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 1.00000000
+Doc 156: Topic 15 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 1.00000000
+Doc 157: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Pneumococcal), Prob: 1.00000000
+Doc 158: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 0.76835218
+Doc 159: Topic 21 (Auto: Influenza; Descriptive: Influenza – Vaccines – T21), Prob: 1.00000000
+Doc 160: Topic 21 (Auto: Influenza; Descriptive: Influenza – Vaccines – T21), Prob: 1.00000000
+Doc 161: Topic 27 (Auto: Microneedle; Descriptive: Microneedle), Prob: 0.58475567
+Doc 162: Topic 23 (Auto: Vaccines; Descriptive: Vaccines – Vaccinology), Prob: 1.00000000
+Doc 163: Topic 23 (Auto: Vaccines; Descriptive: Vaccines – Vaccinology), Prob: 1.00000000
+Doc 164: Topic 12 (Auto: Vaccines; Descriptive: Vaccines – Hpv), Prob: 0.38406068
+Doc 165: Topic 12 (Auto: Vaccines; Descriptive: Vaccines – Hpv), Prob: 1.00000000
+Doc 166: Topic 12 (Auto: Vaccines; Descriptive: Vaccines – Hpv), Prob: 0.45191458
+Doc 167: Topic 12 (Auto: Vaccines; Descriptive: Vaccines – Hpv), Prob: 1.00000000
+Doc 168: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 0.44946020
+Doc 169: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 170: Topic 12 (Auto: Vaccines; Descriptive: Vaccines – Hpv), Prob: 1.00000000
+Doc 171: Topic 12 (Auto: Vaccines; Descriptive: Vaccines – Hpv), Prob: 1.00000000
+Doc 172: Topic 12 (Auto: Vaccines; Descriptive: Vaccines – Hpv), Prob: 1.00000000
+Doc 173: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 1.00000000
+Doc 174: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 0.86396315
+Doc 175: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 176: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 0.50248121
+Doc 177: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Pneumococcal), Prob: 1.00000000
+Doc 178: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 1.00000000
+Doc 179: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 180: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 1.00000000
+Doc 181: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 0.81601639
+Doc 182: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – T13), Prob: 0.53848215
+Doc 183: Topic 16 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.87772534
+Doc 184: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 0.75716032
+Doc 185: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Pneumococcal), Prob: 0.79611123
+Doc 186: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Pneumococcal), Prob: 1.00000000
+Doc 187: Topic 31 (Auto: Smallpox; Descriptive: Smallpox), Prob: 1.00000000
+Doc 188: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 1.00000000
+Doc 189: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – T13), Prob: 0.42811615
+Doc 190: Topic 16 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 1.00000000
+Doc 191: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Immune – T11), Prob: 0.67579579
+Doc 192: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 1.00000000
+Doc 193: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 1.00000000
+Doc 194: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 1.00000000
+Doc 195: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 196: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Conjugate), Prob: 0.93395687
+Doc 197: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 0.90073797
+Doc 198: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 199: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 200: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 201: Topic 16 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 1.00000000
+Doc 202: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 1.00000000
+Doc 203: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 204: Topic 12 (Auto: Vaccines; Descriptive: Vaccines – Hpv), Prob: 1.00000000
+Doc 205: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Immune – T11), Prob: 0.45341413
+Doc 206: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Immune – T11), Prob: 0.57759466
+Doc 207: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Antigens), Prob: 1.00000000
+Doc 208: Topic 9 (Auto: Vaccine; Descriptive: Vaccine – Immune), Prob: 0.99271586
+Doc 209: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Antigens – T14), Prob: 1.00000000
+Doc 210: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Antigens – T14), Prob: 1.00000000
+Doc 211: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Antigens – T14), Prob: 1.00000000
+Doc 212: Topic 20 (Auto: Vaccination; Descriptive: Vaccination), Prob: 0.78510837
+Doc 213: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 214: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 0.64724641
+Doc 215: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Antigens), Prob: 0.75684019
+Doc 216: Topic 31 (Auto: Smallpox; Descriptive: Smallpox), Prob: 1.00000000
+Doc 217: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Antigens – T14), Prob: 0.70652006
+Doc 218: Topic 31 (Auto: Smallpox; Descriptive: Smallpox), Prob: 1.00000000
+Doc 219: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Immune), Prob: 0.94121244
+Doc 220: Topic 8 (Auto: Vaccines; Descriptive: Vaccines – Antigens), Prob: 0.72481953
+Doc 221: Topic 11 (Auto: Vaccine; Descriptive: Vaccine – Immune – T11), Prob: 0.90130616
+Doc 222: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 223: Topic 3 (Auto: Peptides; Descriptive: Peptides), Prob: 0.44946020
+Doc 224: Topic 15 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 0.73905586
+Doc 225: Topic 15 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 1.00000000
+Doc 226: Topic 32 (Auto: Immunity; Descriptive: Immunity), Prob: 1.00000000
+Doc 227: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 1.00000000
+Doc 228: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 1.00000000
+Doc 229: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 1.00000000
+Doc 230: Topic 17 (Auto: Vaccine; Descriptive: Vaccine – Immunogenic), Prob: 0.24206268
+Doc 231: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T18), Prob: 0.71883022
+Doc 232: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T18), Prob: 1.00000000
+Doc 233: Topic 17 (Auto: Vaccine; Descriptive: Vaccine – Immunogenic), Prob: 1.00000000
+Doc 234: Topic 20 (Auto: Vaccination; Descriptive: Vaccination), Prob: 0.87369083
+Doc 235: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T18), Prob: 1.00000000
+Doc 236: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T18), Prob: 1.00000000
+Doc 237: Topic 24 (Auto: Vaccines; Descriptive: Vaccines – Fever), Prob: 0.51742943
+Doc 238: Topic 18 (Auto: Vaccine; Descriptive: Vaccine – Vaccination – T18), Prob: 0.79570539
+Doc 239: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 240: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 241: Topic 32 (Auto: Immunity; Descriptive: Immunity), Prob: 1.00000000
+Doc 242: Topic 10 (Auto: Immunization; Descriptive: Immunization), Prob: 0.60607355
+Doc 243: Topic 17 (Auto: Vaccine; Descriptive: Vaccine – Immunogenic), Prob: 0.49380711
+Doc 244: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – T13), Prob: 0.37216632
+Doc 245: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 0.58561080
+Doc 246: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 247: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 1.00000000
+Doc 248: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 249: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 1.00000000
+Doc 250: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – T13), Prob: 0.79077712
+Doc 251: Topic 15 (Auto: Influenza; Descriptive: Influenza – Vaccines), Prob: 0.59710022
+Doc 252: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 253: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 254: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 255: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 256: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 257: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 258: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 259: Topic 16 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.82955456
+Doc 260: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 1.00000000
+Doc 261: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 0.78855574
+Doc 262: Topic 14 (Auto: Vaccines; Descriptive: Vaccines – Antigens – T14), Prob: 0.47164228
+Doc 263: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – T13), Prob: 1.00000000
+Doc 264: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 265: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 0.72828331
+Doc 266: Topic 20 (Auto: Vaccination; Descriptive: Vaccination), Prob: 0.84510277
+Doc 267: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 1.00000000
+Doc 268: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 1.00000000
+Doc 269: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 1.00000000
+Doc 270: Topic 6 (Auto: Vaccine; Descriptive: Vaccine – Influenzae), Prob: 0.47236029
+Doc 271: Topic 16 (Auto: Vaccine; Descriptive: Vaccine – Vaccination), Prob: 0.56261476
+Doc 272: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 0.60856843
+Doc 273: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 1.00000000
+Doc 274: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 275: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 0.51870108
+Doc 276: Topic 0 (Auto: Pertussis; Descriptive: Pertussis), Prob: 0.97558636
+Doc 277: Topic 2 (Auto: Vaccines; Descriptive: Vaccines – Immunization), Prob: 0.79380805
+Doc 278: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Immunology), Prob: 1.00000000
+Doc 279: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – T13), Prob: 1.00000000
+Doc 280: Topic 32 (Auto: Immunity; Descriptive: Immunity), Prob: 1.00000000
+Doc 281: Topic 10 (Auto: Immunization; Descriptive: Immunization), Prob: 1.00000000
+Doc 282: Topic 10 (Auto: Immunization; Descriptive: Immunization), Prob: 0.54545276
+Doc 283: Topic 10 (Auto: Immunization; Descriptive: Immunization), Prob: 1.00000000
+Doc 284: Topic 7 (Auto: Vaccine; Descriptive: Vaccine – Pneumococcal), Prob: 1.00000000
+Doc 285: Topic 21 (Auto: Influenza; Descriptive: Influenza – Vaccines – T21), Prob: 0.36452608
+Doc 286: Topic 13 (Auto: Vaccine; Descriptive: Vaccine – T13), Prob: 0.95834499
+Doc 287: Topic 10 (Auto: Immunization; Descriptive: Immunization), Prob: 1.00000000
+Doc 288: Topic 29 (Auto: Influenza; Descriptive: Influenza – Vaccination), Prob: 1.00000000
+Doc 289: Topic 29 (Auto: Influenza; Descriptive: Influenza – Vaccination), Prob: 1.00000000
+Doc 290: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000

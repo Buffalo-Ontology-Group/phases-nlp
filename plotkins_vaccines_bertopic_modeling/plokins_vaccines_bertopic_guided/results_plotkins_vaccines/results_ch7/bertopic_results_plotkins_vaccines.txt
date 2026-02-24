@@ -1,0 +1,197 @@
+BERTopic results plotkins vaccines
+
+Topic 0
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Organomercurial
+  Keywords:          thimerosal, autism, manufacturers, vaccine manufacturers, contain thimerosal, thimerosal containing, use thimerosal, removal, committee, use vaccines
+  Summary:           In recent years, considerable controversy has surrounded the use of thimerosal, an organomercurial, in vaccines. Although there were no clear or definitive data to support a link, the U.S.
+
+Topic 1
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Adjuvants
+  Keywords:          aluminum, aluminum content, licensed, adjuvant, adjuvants, aluminum salts, salts, content, aluminum vaccines, vaccines aluminum
+  Summary:           Aluminum salts (aluminum hydroxide, aluminum phosphate, alum [potassium aluminum sulfate], or mixed aluminum salts) are the most commonly used adjuvants in U.S.-licensed vaccines. Concerns have been raised in recent years about the use of aluminum in vaccines.
+
+Topic 2
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Immunogens
+  Keywords:          manufacturing, manufacturing process, residuals, process, vaccines licensed, licensed, additives, chapter, derived, manufacturing residuals
+  Summary:           In addition to one or more immunogens,* a vaccine may contain any of several added substances such as an adjuvant or a preservative. Residual components from the manufactur- ing process, in varying amounts, are also present in the vaccine.
+
+Topic 3
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Preservatives
+  Keywords:          preservative, preservatives, phenol, contamination, vials, v, contamination vaccines, following, definition, deleterious effect
+  Summary:           The Code of Federal Regu- lations (CFR) requires that, with certain defined exceptions, or with the approval of the Center Director, preservatives must be added to multidose vials of vaccines. Preservatives cannot completely eliminate the risk of bacte- rial or fungal contamination of vaccines; moreover, they do not address any potential viral contamination.
+
+Topic 4
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Influenza
+  Keywords:          age, age older, older, pertussis, years age, children, quadrivalent, children years, years, glaxosmithkline
+  Summary:           Of the U.S.-licensed trivalent injectable influenza vaccines, six are approved for pediatric use. The quadrivalent (Groups A, C, Y, and W135) meningococcal conjugate vaccines, Menactra (Sanofi Pasteur Inc.) and Menveo do not contain any preservative.
+
+Topic 5
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Recombinant
+  Keywords:          cell, insect, produced, line, continuous, vaccines produced, cell lines, manufactured insect, insect cell, substrates
+  Summary:           Several recombinant DNA- derived viral vaccines are manufactured in insect cell lines. Residual protein from these differing cell lines is present to varying degrees in the vaccines produced from them.
+
+Topic 6
+  Auto Label:        Formaldehyde
+  Descriptive Label: Formaldehyde
+  Keywords:          formaldehyde, residual formaldehyde, residual, requirements, allowed, infant vaccines, minimum, formaldehyde vaccines, daily, chloride
+  Summary:           Benzethonium chloride with formaldehyde is cur- rently used in only one U.S.-licensed vaccine, anthrax vaccine adsorbed. Formaldehyde has a long and extensive history of use in the preparation of bacterial and viral vaccines.
+
+Topic 7
+  Auto Label:        Immunol
+  Descriptive Label: Immunol
+  Keywords:          gelatin, allergic, measles mumps, measles, mumps, gelatin containing, incidence, rubella vaccine, anaphylaxis measles, anaphylaxis
+  Summary:           Allergic responses to gelatin, although rare, have been described in the medical literature. A severe allergic reaction to gelatin is a contraindication to receiving gelatin-containing vaccines.
+
+Topic 8
+  Auto Label:        Penicillin
+  Descriptive Label: Penicillin
+  Keywords:          tests, specifications, test, quantity additives, antibiotics, lysate test, lysate, cfr, tested, endotoxin
+  Summary:           FDA biologics regulations address whether the use of, and quantity of, additives and residuals must be disclosed in vaccine labeling. The amount of endotoxin remaining in a final vaccine formulation depends on a number of factors, including the purification steps that are used in.
+
+Topic 9
+  Auto Label:        Pertussis
+  Descriptive Label: Pertussis
+  Keywords:          tetanus toxoids, toxoids, tetanus, toxoids vaccine, diphtheria tetanus, diphtheria, vaccines rational, reactions man, reduce adverse, approaches reduce
+  Summary:           Diphtheria and tetanus toxoid vaccine (DT) for use in children younger than 7 years of age is available from Sanofi Pasteur Inc.
+
+Topic 10
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – General Aspects
+  Keywords:          general aspects, section general, vaccine section, aspects, aspects vaccination, general, section, vaccination, vaccine, 
+  Summary:           Vaccine.
+
+Topic 11
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Immunogen
+  Keywords:          freeze, freeze dried, dried, vaccines freeze, approximately, freeze drying, provide, drying, matrix, order
+  Summary:           The amount of an immunogen that is contained in a vaccine can be extremely small, on the order of tens of micrograms or less. Various stabilizers are added to vaccines to help protect them from adverse conditions such as the freeze-drying process.
+
+Topic 12
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Allergy
+  Keywords:          milk, milk allergy, allergy, anaphylactic, cow milk, anaphylactic reactions, cow, children, pertussis vaccines, tetanus pertussis
+  Summary:           Anaphylactic reactions to DTaP and Tdap vaccines may be caused by the presence of residual amounts of casein, a milk protein that is used in the culture media for these vaccines. The reactions occurred in children who already had high levels of milk allergy.
+
+Topic 13
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines – Bacterial
+  Keywords:          bacterial, cell, bacterial vaccines, bacterial vaccine, diploid, live, oral, present final, present, vaccine formulation
+  Summary:           Manufacturing residuals may include various bacterial cell constituents. At present, no parenteral whole-cell bacterial vaccine is in use in the United States.
+
+Topic 14
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine – Latex
+  Keywords:          latex, contain latex, sensitive, latex-, active, insert effect, persons sensitive, reactions latex-, latex- sensitive, sensitive individuals
+  Summary:           Vial stoppers or syringe components (plunger or tip caps) may contain latex, a component of natural rubber. Certain persons are sensitive to latex.
+
+Topic 15
+  Auto Label:        Preservative
+  Descriptive Label: Preservative
+  Keywords:          yeast, persons history, hypersensitivity yeast, gardasil, vaccines gardasil, history, hypersensitivity, tured, history hypersensitivity, yeast acip
+  Summary:           The two meningococcal serogroup B vaccines BEXSERO and TRUMENBA do not contain any preservative. The HPV vaccines Gardasil 9 (Merck Sharp & Dohme Corp.) and Cervarix (GlaxoSmith- Kline Biologicals) are also manufac- tured in yeast.
+
+
+Document-Level Assignments:
+Doc 1: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Immunogens), Prob: 1.00000000
+Doc 2: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Immunogens), Prob: 0.96501317
+Doc 3: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Immunogens), Prob: 0.84638513
+Doc 4: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 5: Topic 8 (Auto: Penicillin; Descriptive: Penicillin), Prob: 1.00000000
+Doc 6: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 7: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Preservatives), Prob: 0.77568320
+Doc 8: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Preservatives), Prob: 0.71602013
+Doc 9: Topic 8 (Auto: Penicillin; Descriptive: Penicillin), Prob: 0.72051382
+Doc 10: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Preservatives), Prob: 1.00000000
+Doc 11: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Preservatives), Prob: 1.00000000
+Doc 12: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Preservatives), Prob: 1.00000000
+Doc 13: Topic 6 (Auto: Formaldehyde; Descriptive: Formaldehyde), Prob: 0.31871841
+Doc 14: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Organomercurial), Prob: 1.00000000
+Doc 15: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Organomercurial), Prob: 0.65691236
+Doc 16: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 17: Topic 9 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 18: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Influenza), Prob: 0.50203988
+Doc 19: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Organomercurial), Prob: 0.73565760
+Doc 20: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Influenza), Prob: 0.61326898
+Doc 21: Topic 15 (Auto: Preservative; Descriptive: Preservative), Prob: 1.00000000
+Doc 22: Topic 9 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 23: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 0.77249038
+Doc 24: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 25: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 26: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 27: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 28: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 0.98913222
+Doc 29: Topic 11 (Auto: Vaccines; Descriptive: Vaccines – Immunogen), Prob: 1.00000000
+Doc 30: Topic 11 (Auto: Vaccines; Descriptive: Vaccines – Immunogen), Prob: 1.00000000
+Doc 31: Topic 11 (Auto: Vaccines; Descriptive: Vaccines – Immunogen), Prob: 0.69176850
+Doc 32: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Immunogens), Prob: 1.00000000
+Doc 33: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Immunogens), Prob: 1.00000000
+Doc 34: Topic 7 (Auto: Immunol; Descriptive: Immunol), Prob: 0.97464834
+Doc 35: Topic 11 (Auto: Vaccines; Descriptive: Vaccines – Immunogen), Prob: 0.81165170
+Doc 36: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Immunogens), Prob: 0.67944485
+Doc 37: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Recombinant), Prob: 1.00000000
+Doc 38: Topic 6 (Auto: Formaldehyde; Descriptive: Formaldehyde), Prob: 1.00000000
+Doc 39: Topic 6 (Auto: Formaldehyde; Descriptive: Formaldehyde), Prob: 0.89840213
+Doc 40: Topic 6 (Auto: Formaldehyde; Descriptive: Formaldehyde), Prob: 0.70294623
+Doc 41: Topic 6 (Auto: Formaldehyde; Descriptive: Formaldehyde), Prob: 1.00000000
+Doc 42: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Influenza), Prob: 0.98288388
+Doc 43: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Influenza), Prob: 0.70805997
+Doc 44: Topic 8 (Auto: Penicillin; Descriptive: Penicillin), Prob: 0.76513565
+Doc 45: Topic 8 (Auto: Penicillin; Descriptive: Penicillin), Prob: 1.00000000
+Doc 46: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 47: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 48: Topic 15 (Auto: Preservative; Descriptive: Preservative), Prob: 1.00000000
+Doc 49: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Recombinant), Prob: 0.92694799
+Doc 50: Topic 12 (Auto: Vaccines; Descriptive: Vaccines – Allergy), Prob: 1.00000000
+Doc 51: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Latex), Prob: 1.00000000
+Doc 52: Topic 13 (Auto: Vaccines; Descriptive: Vaccines – Bacterial), Prob: 1.00000000
+Doc 53: Topic 8 (Auto: Penicillin; Descriptive: Penicillin), Prob: 0.72051382
+Doc 54: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Influenza), Prob: 0.98288388
+Doc 55: Topic 13 (Auto: Vaccines; Descriptive: Vaccines – Bacterial), Prob: 1.00000000
+Doc 56: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Influenza), Prob: 1.00000000
+Doc 57: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Recombinant), Prob: 0.96694451
+Doc 58: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Recombinant), Prob: 1.00000000
+Doc 59: Topic 13 (Auto: Vaccines; Descriptive: Vaccines – Bacterial), Prob: 1.00000000
+Doc 60: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Recombinant), Prob: 0.88288440
+Doc 61: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Immunogens), Prob: 0.86443066
+Doc 62: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Preservatives), Prob: 0.68512270
+Doc 63: Topic 14 (Auto: Vaccine; Descriptive: Vaccine – Latex), Prob: 1.00000000
+Doc 64: Topic 2 (Auto: Vaccine; Descriptive: Vaccine – Immunogens), Prob: 1.00000000
+Doc 65: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 66: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 67: Topic 9 (Auto: Pertussis; Descriptive: Pertussis), Prob: 0.87743782
+Doc 68: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Preservatives), Prob: 0.61233888
+Doc 69: Topic 3 (Auto: Vaccine; Descriptive: Vaccine – Preservatives), Prob: 0.66782159
+Doc 70: Topic 9 (Auto: Pertussis; Descriptive: Pertussis), Prob: 0.64525901
+Doc 71: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Organomercurial), Prob: 0.89517072
+Doc 72: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Organomercurial), Prob: 0.96135917
+Doc 73: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Organomercurial), Prob: 0.96135917
+Doc 74: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Organomercurial), Prob: 1.00000000
+Doc 75: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Organomercurial), Prob: 1.00000000
+Doc 76: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Organomercurial), Prob: 0.52074478
+Doc 77: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Organomercurial), Prob: 0.78770179
+Doc 78: Topic 0 (Auto: Vaccine; Descriptive: Vaccine – Organomercurial), Prob: 0.65691236
+Doc 79: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – General Aspects), Prob: 1.00000000
+Doc 80: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – General Aspects), Prob: 1.00000000
+Doc 81: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 82: Topic 1 (Auto: Vaccines; Descriptive: Vaccines – Adjuvants), Prob: 1.00000000
+Doc 83: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – General Aspects), Prob: 1.00000000
+Doc 84: Topic 7 (Auto: Immunol; Descriptive: Immunol), Prob: 1.00000000
+Doc 85: Topic 7 (Auto: Immunol; Descriptive: Immunol), Prob: 0.77118988
+Doc 86: Topic -1 (Auto: Noise / Outlier; Descriptive: Noise / Outlier), Prob: 0.00000000
+Doc 87: Topic 7 (Auto: Immunol; Descriptive: Immunol), Prob: 0.83060711
+Doc 88: Topic 7 (Auto: Immunol; Descriptive: Immunol), Prob: 1.00000000
+Doc 89: Topic 6 (Auto: Formaldehyde; Descriptive: Formaldehyde), Prob: 0.91994957
+Doc 90: Topic 12 (Auto: Vaccines; Descriptive: Vaccines – Allergy), Prob: 1.00000000
+Doc 91: Topic 12 (Auto: Vaccines; Descriptive: Vaccines – Allergy), Prob: 1.00000000
+Doc 92: Topic 10 (Auto: Vaccine; Descriptive: Vaccine – General Aspects), Prob: 0.52726411
+Doc 93: Topic 9 (Auto: Pertussis; Descriptive: Pertussis), Prob: 1.00000000
+Doc 94: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Influenza), Prob: 0.86500357
+Doc 95: Topic 4 (Auto: Vaccines; Descriptive: Vaccines – Influenza), Prob: 1.00000000
+Doc 96: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Recombinant), Prob: 0.78977441
+Doc 97: Topic 5 (Auto: Vaccines; Descriptive: Vaccines – Recombinant), Prob: 0.92694799

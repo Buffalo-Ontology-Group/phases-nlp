@@ -1,0 +1,45 @@
+.
+├─vaccines_pertussis_vaccine_antibody_immunity
+│    ├─chlamydia_t_levels_trachomatis_chlamydia trachomatis
+│    │    ├─chlamydia_trachomatis_chlamydia trachomatis_protective immunity_t cells
+│    │    │    ├─■──cholera_year_obstacles clemens_clemens trial_protective vaccination ── Topic: 10
+│    │    │    └─■──chlamydia_chlamydia trachomatis_trachomatis_tularemia_tularemia cd8 ── Topic: 19
+│    │    └─levels_rts_malaria_antibodies_t cell
+│    │         ├─■──rts_malaria_malaria vaccine_t cell_cell responses ── Topic: 0
+│    │         └─■──levels_higher_high levels_antibodies_times ── Topic: 7
+│    └─pertussis_vaccines_inactivated_antibody_dose
+│         ├─pertussis_inactivated_dose_respiratory_acellular
+│         │    ├─pertussis_acellular_pertussis vaccine_dose_pertussis vaccines
+│         │    │    ├─■──pertussis_pertussis vaccine_acellular_pertussis vaccines_bordetella ── Topic: 2
+│         │    │    └─■──dose_live vaccine_%_recipients infected_killed vaccine ── Topic: 6
+│         │    └─rotavirus_influenza_attenuated_rate_inactivated influenza
+│         │         ├─influenza_rate_inactivated influenza_nasal_respiratory
+│         │         │    ├─■──respiratory_syncytial_respiratory syncytial_nasal_mucosal ── Topic: 11
+│         │         │    └─■──inactivated influenza_rate_influenza_attenuated inactivated_influenza vaccine ── Topic: 13
+│         │         └─■──rotavirus_rit attenuated_rit_attenuated bovine_monovalent inactivated ── Topic: 16
+│         └─rubella_rubella vaccines_diseases_rev vaccines_diseases vaccine
+│              ├─■──systems_biology_fever vaccine_systems biology_yellow fever ── Topic: 22
+│              └─rubella vaccines_rubella_diseases vaccine_infectious diseases_infectious
+│                   ├─■──rubella_rubella vaccines_neutralization_definitely_immunologic properties ── Topic: 20
+│                   └─■──vaccine rev_diseases vaccine_infectious diseases_major infectious_vaccination major ── Topic: 3
+└─vaccine_immune_efficacy_hiv-1_trial
+     ├─immune_hiv-1_correlates_trials_vaccine
+     │    ├─trials_zoster_herpes zoster_herpes_vaccine trials
+     │    │    ├─trials_vaccine trials_surrogate_development_vaccine development
+     │    │    │    ├─■──permits_measurement_cop_assessing_vaccine critical ── Topic: 17
+     │    │    │    └─surrogate_trials_vaccine trials_vaccine development_development
+     │    │    │         ├─■──development_efficacy trials_vaccine development_trials_biomarkers ── Topic: 21
+     │    │    │         └─■──surrogate_application_gilbert_endpoint_application vaccine ── Topic: 5
+     │    │    └─zoster_herpes zoster_herpes_zoster vaccine_ve
+     │    │         ├─■──ve_pathogen_biomarker_vaccinees_defined ── Topic: 18
+     │    │         └─■──zoster_herpes_herpes zoster_zoster vaccine_excellent ── Topic: 12
+     │    └─hiv-1_immune correlates_correlates_correlates protection_induced
+     │         ├─correlates protection_protection vaccination_protection_protection induced_correlates
+     │         │    ├─■──protection vaccination_correlates protection_mechanism_induced vaccination_protection ── Topic: 1
+     │         │    └─■──influenza_immune correlates_attenuated cold_intranasal immunological_assessment influenza ── Topic: 8
+     │         └─hiv-1_vaccine efficacy_efficacy trial_hiv-1 infection_trial
+     │              ├─■──efficacy trial_trial_hiv-1_vaccine efficacy_vaccine trial ── Topic: 4
+     │              └─■──hiv-1_hiv-1 infection_risk_vaccine induced_declines ── Topic: 9
+     └─cytomegalovirus_conjugate_conjugate vaccine_controlled_randomised
+          ├─■──conjugate vaccine_conjugate_pneumococcal_pneumococcal conjugate_controlled trial ── Topic: 15
+          └─■──cytomegalovirus_challenge_study involved_vaccine low_maternal cytomegalovirus ── Topic: 14

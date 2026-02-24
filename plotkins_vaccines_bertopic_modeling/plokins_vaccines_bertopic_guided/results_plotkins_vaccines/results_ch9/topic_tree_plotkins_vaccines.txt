@@ -1,0 +1,119 @@
+.
+├─vaccine_vaccines_measles_response_pertussis
+│    ├─measles_infants_response_rubella_varicella
+│    │    ├─infants_response_routine vaccination_vaccination routine_routine
+│    │    │    ├─infants_response_antibody_live_preterm
+│    │    │    │    ├─response_antibody_live_measles vaccine_response live
+│    │    │    │    │    ├─■──breast feeding_breast_feeding_responses parenteral_conventional ── Topic: 54
+│    │    │    │    │    └─response_live_measles vaccine_response live_rotavirus
+│    │    │    │    │         ├─rotavirus_yellow fever_fever_yellow_fever vaccine
+│    │    │    │    │         │    ├─■──inactivated poliovirus_poliovirus vaccine_poliovirus_inactivated_polio ── Topic: 3
+│    │    │    │    │         │    └─rotavirus_yellow fever_fever_yellow_fever vaccine
+│    │    │    │    │         │         ├─■──yellow fever_fever_yellow_egg_fever vaccine ── Topic: 12
+│    │    │    │    │         │         └─rotavirus_rotavirus vaccine_live_response live_live oral
+│    │    │    │    │         │              ├─■──live_response live_virus vaccines_inhibit_live virus ── Topic: 14
+│    │    │    │    │         │              └─■──rotavirus_rotavirus vaccine_live oral_infant_oral ── Topic: 2
+│    │    │    │    │         └─measles vaccine_measles_human milk_breastfed_milk
+│    │    │    │    │              ├─■──breastfed_human milk_milk_breastfed infants_human ── Topic: 48
+│    │    │    │    │              └─measles vaccine_measles_infants months_immu-_maternal
+│    │    │    │    │                   ├─■──immu-_immunosorbent_schneider_acquired measles_t persisting ── Topic: 52
+│    │    │    │    │                   └─■──measles_infants months_measles vaccine_maternal_maternal antibody ── Topic: 36
+│    │    │    │    └─birth_preterm_preterm infants_weight_birth weight
+│    │    │    │         ├─■──birth_hours birth_preterm_hours_preterm infants ── Topic: 1
+│    │    │    │         └─■──preterm infants_vaccination preterm_term infants_preterm_birth weight ── Topic: 40
+│    │    │    └─vaccination routine_routine vaccination_varicella_routine_varicella vaccine
+│    │    │         ├─vaccination routine_routine vaccination_routine_departure international_departure
+│    │    │         │    ├─■──vaccination routine_routine vaccination_routine_vaccination_ ── Topic: 34
+│    │    │         │    └─■──departure international_departure_testing indicates_indicates_international travel ── Topic: 22
+│    │    │         └─pregnant_varicella_varicella vaccine_mother_transmission varicella
+│    │    │              ├─■──transmission varicella_varicella vaccine_transmission_varicella_mother ── Topic: 24
+│    │    │              └─■──pregnant_theoretical_fetus_women_theoretical risk ── Topic: 18
+│    │    └─mumps_measles mumps_measles_rubella_mumps rubella
+│    │         ├─measles mumps_mumps_mumps rubella_measles_rubella
+│    │         │    ├─■──measles mumps_measles_vaccine measles_com- bination_use com- ── Topic: 27
+│    │         │    └─■──rubella_rubella vaccination_mumps rubella_mumps_measles mumps ── Topic: 16
+│    │         └─■──tract infection_seroconversion measles_upper respiratory_respiratory tract_respiratory ── Topic: 57
+│    └─vaccine_pertussis_thimerosal_vaccines_tetanus
+│         ├─pertussis_acellular_acellular pertussis_pertussis vaccine_family
+│         │    ├─family_family history_seizure_conditions family_illnesses conditions
+│         │    │    ├─■──seizure_seizures_neurologic_personal_disorders ── Topic: 38
+│         │    │    └─■──convulsions use_history convulsions_conditions family_illnesses conditions_vaccines illnesses ── Topic: 59
+│         │    └─pertussis_acellular_acellular pertussis_pertussis vaccine_toxoid
+│         │         ├─■──acellular pertussis_acellular_pertussis_pertussis vaccines_interchangeability ── Topic: 26
+│         │         └─pertussis_toxoid_acellular_tetanus_acellular pertussis
+│         │              ├─■──tetanus_acellular pertussis_acellular_pertussis_toxoid ── Topic: 7
+│         │              └─■──pertussis_early_protection pertussis_subsequent doses_toxoid ── Topic: 46
+│         └─thimerosal_vaccine_vaccines_meningococcal_influenza
+│              ├─vaccine_vaccines_meningococcal_different_influenza
+│              │    ├─different_spacing_doses_storage_vaccines
+│              │    │    ├─spacing_different_doses_intervals_multiple
+│              │    │    │    ├─spacing_different_syringes_multiple doses_multiple
+│              │    │    │    │    ├─■──syringes_filling_drawn_syringe_errors ── Topic: 49
+│              │    │    │    │    └─spacing_different_multiple doses_multiple_interchangeable
+│              │    │    │    │         ├─spacing_multiple doses_multiple_different_types
+│              │    │    │    │         │    ├─■──spacing_vaccines.5 inactivated_spacing multiple_spacing vaccine_includes ── Topic: 44
+│              │    │    │    │         │    └─■──types_infants receive_induce_examples_multiple doses ── Topic: 50
+│              │    │    │    │         └─■──interchangeable_produced_manufacturers_immunization series_different manufacturers ── Topic: 45
+│              │    │    │    └─intervals_minimum_schedules_recommended_minimum intervals
+│              │    │    │         ├─■──contraindications_precautions_contraindications precautions_use vaccines_schedules ── Topic: 0
+│              │    │    │         └─■──intervals_minimum_minimum intervals_interval_recommended ── Topic: 8
+│              │    │    └─storage_influenzae_subcutaneous_japanese_injection
+│              │    │         ├─storage_handling_storage handling_temperature_vaccine storage
+│              │    │         │    ├─■──handling_storage_storage handling_vaccine storage_toolkit ── Topic: 47
+│              │    │         │    └─■──temperature_frozen_temperatures_refrigerator_freezer ── Topic: 37
+│              │    │         └─subcutaneous_influenzae_japanese_injection_influenzae type
+│              │    │              ├─influenzae_influenzae type_pain_prilocaine_haemophilus
+│              │    │              │    ├─influenzae_influenzae type_haemophilus influenzae_haemophilus_type
+│              │    │              │    │    ├─■──influenzae type_influenzae_haemophilus_haemophilus influenzae_type ── Topic: 21
+│              │    │              │    │    └─■──children hemophilia_hemophilia_old children_safety immunoge-_immunoge- nicity ── Topic: 58
+│              │    │              │    └─■──pain_prilocaine_associated_nerve injury_nerve ── Topic: 11
+│              │    │              └─japanese_encephalitis_encephalitis vaccine_japanese encephalitis_intramuscular
+│              │    │                   ├─intramuscular_subcutaneous_muscle_needle_injection
+│              │    │                   │    ├─■──muscle_needle_intramuscular_subcutaneous_injected ── Topic: 17
+│              │    │                   │    └─■──intramuscular_intramuscular injection_subcutaneous intradermal_routes_route ── Topic: 41
+│              │    │                   └─japanese_encephalitis_encephalitis vaccine_japanese encephalitis_diploid
+│              │    │                        ├─japanese_encephalitis vaccine_japanese encephalitis_encephalitis_diploid
+│              │    │                        │    ├─■──japanese_encephalitis vaccine_japanese encephalitis_encephalitis_derived japanese ── Topic: 20
+│              │    │                        │    └─■──diploid_rabies_diploid cell_human diploid_rabies vaccine ── Topic: 28
+│              │    │                        └─public_policy safe_title healthcare_vaccines important_administration address
+│              │    │                             ├─■──%_record_opportunities_missed_measles vaccine ── Topic: 23
+│              │    │                             └─■──vaccine committee_administration address_c site_efficacious_policy ── Topic: 39
+│              │    └─meningococcal_influenza_mmwr_reaction_influenza vaccine
+│              │         ├─influenza_reaction_influenza vaccine_anaphylactic_allergic
+│              │         │    ├─reaction_anaphylactic_latex_anaphylactic reaction_natural
+│              │         │    │    ├─reaction_anaphylactic_anaphylaxis_reaction tetanus_hypersensitivity
+│              │         │    │    │    ├─■──reaction tetanus_reaction_tetanus_complexes_subsequent vaccination ── Topic: 25
+│              │         │    │    │    └─■──anaphylaxis_hypersensitivity_vaccine components_hypersensitivity reactions_providing ── Topic: 13
+│              │         │    │    └─■──rubber_natural rubber_natural_latex_contain ── Topic: 30
+│              │         │    └─influenza_influenza vaccine_influenza vaccines_recomm_mmwr recomm
+│              │         │         ├─■──skin testing_influenza vaccine_influenza_egg_eggs ── Topic: 55
+│              │         │         └─influenza_influenza vaccine_influenza vaccines_recomm_mmwr recomm
+│              │         │              ├─■──influenza vaccine_influenza_attenuated_vaccine viruses_viruses environment ── Topic: 42
+│              │         │              └─■──mmwr recomm_recomm_prevention control_vaccines recommendations_influenza vaccines ── Topic: 31
+│              │         └─meningococcal_pneumococcal_meningococcal vaccines_conjugate_vaccines meningococcal
+│              │              ├─pneumococcal_meningococcal_conjugate_vaccines meningococcal_meningococcal conjugate
+│              │              │    ├─■──pneumococcal_valent_valent pneumococcal_conjugate vaccine_polysaccharide vaccine ── Topic: 29
+│              │              │    └─■──meningococcal_vaccines meningococcal_meningococcal vaccines_meningococcal conjugate_acwy vaccines ── Topic: 10
+│              │              └─■──mmwr available_mmwr_menhibrix_vaccine footnotes_footnotes mmwr ── Topic: 51
+│              └─thimerosal_thimerosal vaccines_hypersensitivity thimerosal_sensitivity_hypersensitivity
+│                   ├─thimerosal_hypersensitivity thimerosal_sensitivity_hypersensitivity_sensitivity thimerosal
+│                   │    ├─■──thimerosal_tests_delayed type_type hypersensitivity_delayed ── Topic: 56
+│                   │    └─■──thimerosal_thimerosal vaccine_ocular_problem vaccine_vaccines hypersensitivity ── Topic: 53
+│                   └─■──thimerosal_preservative_thimerosal preservative_formulations influenza_goal ── Topic: 43
+└─catch vaccination_catch_vaccination catch_dose_months
+     ├─dose_months_years_series_administer
+     │    ├─months_dose_hepa vaccine_hepa_initiate
+     │    │    ├─dose_months_received_birth dose_months age
+     │    │    │    ├─■──birth dose_age weeks_children received_birth_discharge vaccine ── Topic: 19
+     │    │    │    └─■──primary series_vaccine primary_dose dose_unimmunized_dose ── Topic: 6
+     │    │    └─hepa vaccine_hepa_initiate_children initiate_initiate vaccination
+     │    │         ├─■──hepa vaccine_hepa_doses hepa_dose hepa_months ── Topic: 35
+     │    │         └─■──children initiate_initiate vaccination_initiate_weeks administer_vaccination weeks ── Topic: 5
+     │    └─years_syncope_age years_adolescents_dose series
+     │         ├─■──dose series_administer vaccine_series vaccine_age years_administer ── Topic: 32
+     │         └─■──syncope_tdap vaccine_adolescents_tdap_years ── Topic: 4
+     └─catch vaccination_vaccination catch_catch_ppsv23_ppsv23 vaccination
+          ├─catch vaccination_vaccination catch_catch_illness_severe illness
+          │    ├─■──illness_severe illness_catch vaccination_catch_moderate severe ── Topic: 9
+          │    └─■──catch vaccination_vaccination catch_catch_vaccination_ ── Topic: 15
+          └─■──ppsv23_ppsv23 vaccination_recent dose_weeks recent_administer ppsv23 ── Topic: 33

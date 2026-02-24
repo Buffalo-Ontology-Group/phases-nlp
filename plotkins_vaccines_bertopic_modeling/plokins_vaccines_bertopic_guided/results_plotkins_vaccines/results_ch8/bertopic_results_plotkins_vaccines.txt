@@ -1,0 +1,83 @@
+BERTopic results plotkins vaccines
+
+Topic 0
+  Auto Label:        Vaccination
+  Descriptive Label: Vaccination
+  Keywords:          vaccine, smallpox, %, antibodies, vaccination, maternal, protective, immunization, antibody, protection
+  Summary:           Maternal antibodies represent an immunological “double- edged sword” in the sense that they are known to interfere with live attenuated virus vaccines such as the MMR. Direct immunization of mothers in the third trimester of pregnancy can significantly increase protection of infants against common respiratory viruses such as influenza.
+
+Topic 1
+  Auto Label:        Vaccine
+  Descriptive Label: Vaccine
+  Keywords:          recherches vaccination, babès recherches, antirabique, recherches, babès, vaccination antirabique, vaccination, , , 
+  Summary:           Babès V, Lepp M
+
+Topic 2
+  Auto Label:        Rotavirus
+  Descriptive Label: Rotavirus
+  Keywords:          rotavirus, vaccine, derived, passive, oral rotavirus, rotavirus vaccine, syndrome, oral, passive immunity, antibodies
+  Summary:           Analysis of rotavirus vaccine failures also indicates that maternally derived antibodies play a role in passive immunity. This is an important demonstration not only of passive immunity to an enteric pathogen, but also has broader implications.
+
+Topic 3
+  Auto Label:        Vaccines
+  Descriptive Label: Vaccines
+  Keywords:          influenza, cause morbid-, morbid- ity, pregnant women, women reduces, early development, given pregnant, protection recognized, associated protection, reduces hospitaliza-
+  Summary:           Influenza is a significant cause of morbid- ity and mortality throughout the world. The clinical correlation between homotypic influenza immunity and vaccine-associated protection was recognized early in the development
+
+
+Document-Level Assignments:
+Doc 1: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 2: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 3: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 4: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 5: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 6: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 7: Topic 3 (Auto: Vaccines; Descriptive: Vaccines), Prob: 1.00000000
+Doc 8: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 0.90162445
+Doc 9: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 10: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 11: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 12: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 13: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 14: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 15: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 0.83377891
+Doc 16: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 1.00000000
+Doc 17: Topic 3 (Auto: Vaccines; Descriptive: Vaccines), Prob: 1.00000000
+Doc 18: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 19: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 20: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 21: Topic 3 (Auto: Vaccines; Descriptive: Vaccines), Prob: 1.00000000
+Doc 22: Topic 1 (Auto: Vaccine; Descriptive: Vaccine), Prob: 0.99726274
+Doc 23: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 0.98188775
+Doc 24: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 25: Topic 1 (Auto: Vaccine; Descriptive: Vaccine), Prob: 1.00000000
+Doc 26: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 27: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 28: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 29: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 30: Topic 1 (Auto: Vaccine; Descriptive: Vaccine), Prob: 0.99726274
+Doc 31: Topic 1 (Auto: Vaccine; Descriptive: Vaccine), Prob: 1.00000000
+Doc 32: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 33: Topic 1 (Auto: Vaccine; Descriptive: Vaccine), Prob: 0.87417288
+Doc 34: Topic 1 (Auto: Vaccine; Descriptive: Vaccine), Prob: 1.00000000
+Doc 35: Topic 1 (Auto: Vaccine; Descriptive: Vaccine), Prob: 0.89859779
+Doc 36: Topic 1 (Auto: Vaccine; Descriptive: Vaccine), Prob: 1.00000000
+Doc 37: Topic 1 (Auto: Vaccine; Descriptive: Vaccine), Prob: 1.00000000
+Doc 38: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 39: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 40: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 41: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 42: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 43: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 44: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 45: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 0.32131403
+Doc 46: Topic 2 (Auto: Rotavirus; Descriptive: Rotavirus), Prob: 0.46331140
+Doc 47: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 48: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 49: Topic 1 (Auto: Vaccine; Descriptive: Vaccine), Prob: 0.46327442
+Doc 50: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 51: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 52: Topic 1 (Auto: Vaccine; Descriptive: Vaccine), Prob: 0.96193547
+Doc 53: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 1.00000000
+Doc 54: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 0.85288646
+Doc 55: Topic 0 (Auto: Vaccination; Descriptive: Vaccination), Prob: 0.93605290

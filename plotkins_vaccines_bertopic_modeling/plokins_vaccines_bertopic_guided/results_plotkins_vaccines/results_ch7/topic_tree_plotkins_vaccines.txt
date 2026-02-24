@@ -1,0 +1,31 @@
+.
+├─cell_residuals_bacterial_manufacturing_vaccine
+│    ├─residuals_manufacturing_additives_manufacturing process_process
+│    │    ├─■──tests_specifications_test_quantity additives_antibiotics ── Topic: 8
+│    │    └─■──manufacturing_manufacturing process_residuals_process_vaccines licensed ── Topic: 2
+│    └─cell_bacterial_cells_diploid_insect
+│         ├─■──bacterial_cell_bacterial vaccines_bacterial vaccine_diploid ── Topic: 13
+│         └─■──cell_insect_produced_line_continuous ── Topic: 5
+└─vaccines_vaccine_aluminum_thimerosal_formaldehyde
+     ├─pertussis_tetanus_children_gelatin_milk
+     │    ├─■──gelatin_allergic_measles mumps_measles_mumps ── Topic: 7
+     │    └─pertussis_children_milk_tetanus_milk allergy
+     │         ├─pertussis_age_toxoids_tetanus toxoids_tetanus
+     │         │    ├─■──age_age older_older_pertussis_years age ── Topic: 4
+     │         │    └─■──tetanus toxoids_toxoids_tetanus_toxoids vaccine_diphtheria tetanus ── Topic: 9
+     │         └─■──milk_milk allergy_allergy_anaphylactic_cow milk ── Topic: 12
+     └─aluminum_vaccines_vaccine_formaldehyde_thimerosal
+          ├─aluminum_formaldehyde_thimerosal_vaccines_vaccine
+          │    ├─aluminum_freeze_freeze dried_salts_added
+          │    │    ├─■──freeze_freeze dried_dried_vaccines freeze_approximately ── Topic: 11
+          │    │    └─■──aluminum_aluminum content_licensed_adjuvant_adjuvants ── Topic: 1
+          │    └─formaldehyde_thimerosal_preservative_vaccines_residual formaldehyde
+          │         ├─thimerosal_preservative_preservatives_vaccines_phenol
+          │         │    ├─■──thimerosal_autism_manufacturers_vaccine manufacturers_contain thimerosal ── Topic: 0
+          │         │    └─■──preservative_preservatives_phenol_contamination_vials ── Topic: 3
+          │         └─■──formaldehyde_residual formaldehyde_residual_requirements_allowed ── Topic: 6
+          └─yeast_section_aspects vaccination_section general_vaccine section
+               ├─■──yeast_persons history_hypersensitivity yeast_gardasil_vaccines gardasil ── Topic: 15
+               └─section_vaccine section_aspects_aspects vaccination_section general
+                    ├─■──latex_contain latex_sensitive_latex-_active ── Topic: 14
+                    └─■──general aspects_section general_vaccine section_aspects_aspects vaccination ── Topic: 10

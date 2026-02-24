@@ -1,0 +1,23 @@
+.
+├─vaccine_market_growth_vaccine market_sold
+│    ├─sold_market_vaccine market_growth_private market
+│    │    ├─■──sold_private market_private_market_reduced ── Topic: 11
+│    │    └─■──growth_projected_market growth_vaccine market_global vaccine ── Topic: 6
+│    └─vaccine_years vaccine_vaccine manufacturers_business vaccine_industry past
+│         ├─vaccine manufacturers_business vaccine_manufacturers vaccines_industry past_vaccine
+│         │    ├─■──conjugate_vaccine_vaccines_conjugate vaccine_new vaccines ── Topic: 1
+│         │    └─■──manufacturers vaccines_business vaccine_industry past_past years_vaccine manufacturers ── Topic: 5
+│         └─■──shortages_sup-_future_industrial_critical ── Topic: 10
+└─vaccine_development_pharmaceutical_companies_role
+     ├─development_vaccine_pharmaceutical_role_product
+     │    ├─pharmaceutical_company_role_companies_industry
+     │    │    ├─■──company vaccine_company_competition_resources comparisons_large company ── Topic: 9
+     │    │    └─role_pharmaceutical_companies_sales_development
+     │    │         ├─■──role_understand_predominant_role major_examine ── Topic: 8
+     │    │         └─■──sales_product_spent_products_companies ── Topic: 3
+     │    └─development_funding_phase_studies_efficacy
+     │         ├─■──phase_efficacy_safety_clinical_studies ── Topic: 0
+     │         └─■──funding_purchase_government_development_vaccines ── Topic: 2
+     └─vaccine policy_testimony vaccine_policy_testimony_major vaccine
+          ├─■──major vaccine_venture_investment_capital_compliance increasing ── Topic: 7
+          └─■──commerce_committee testimony_generic_policy commerce_political ── Topic: 4
