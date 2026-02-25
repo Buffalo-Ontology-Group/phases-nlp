@@ -6,7 +6,8 @@ This project is a Python application that builds a BERTopic-based pipeline for a
 
 ## Features
 - Topic modeling with **BERTopic**, **UMAP**, and **HDBSCAN**  
-- POS-filtered tokenization with **spaCy**  
+- POS-filtered tokenization with **spaCy**
+- Sentence level vaccine term filtering **Vaccine terms as seed words**
 - Keyword labeling with **KeyBERT**  
 - Summarization using **BART (transformers pipeline)**  
 - Exports results to TXT, CSV, and Excel  
