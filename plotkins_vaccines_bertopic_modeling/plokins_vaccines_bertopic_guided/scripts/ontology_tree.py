@@ -142,7 +142,7 @@ def draw_tree(edges, labels, output_png="ontology_tree.png", output_svg="ontolog
         node_size=2200, node_color=node_colors,
         edgecolors="black", linewidths=0.8
     )
-    nx.draw_networkx_labels(G, pos, labels=safe_labels, font_size=8, font_weight="bold")
+    nx.draw_networkx_labels(G, pos, labels=safe_labels, font_size=12, font_weight="bold")
 
     plt.title(
         "Ontology Tree (Parent → Child) with Dummy ROOT\n"
@@ -151,7 +151,7 @@ def draw_tree(edges, labels, output_png="ontology_tree.png", output_svg="ontolog
     )
     plt.axis("off")
     plt.tight_layout()
-    plt.savefig(output_png, dpi=300)
+    plt.savefig(output_png, dpi=600)
     plt.savefig(output_svg)
     print(f"Saved:\n  - {output_png}\n  - {output_svg}")
 
