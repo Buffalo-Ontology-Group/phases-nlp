@@ -1,0 +1,7 @@
+biopython
+pandas
+numpy
+sentence-transformers
+scikit-learn
+python-dotenv
+tqdm
