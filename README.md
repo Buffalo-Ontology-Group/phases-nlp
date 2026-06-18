@@ -81,6 +81,10 @@ Before running the application, ensure that the following dependencies are insta
     - `transformers`
     - `plotly`
     - `pyyaml`
+    - `beautifulsoup4`
+    - `lxml`
+    - `torch`
+    - `numpy`
     - `Local Stanford CoreNLP server running with the OpenIE annotator`. The server is accessible at `http://localhost:9000`.
  
 ### Stanford CoreNLP Setup
