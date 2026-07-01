@@ -1,7 +1,11 @@
 biopython
-pandas
+beautifulsoup4
+lxml
 numpy
-sentence-transformers
-scikit-learn
+pandas
 python-dotenv
+requests
+scikit-learn
+sentence-transformers
+torch
 tqdm

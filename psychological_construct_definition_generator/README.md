@@ -44,7 +44,7 @@ python -m src.main loneliness --max-results 20 --top-k 5
 ## Generated outputs are written to:
 
 ```text
-data/outputs/
+outputs/
 ```
 
 

@@ -1,6 +1,8 @@
 import argparse
 import os
 
+from src.apa_dictionary import get_apa_dictionary_definition
+from src.select_definition_sentence import select_best_definition_sentence
 from src.pubmed_search import search_pubmed
 from src.get_pmc_articles import get_pmc_ids
 from src.parse_fulltext import get_full_text_from_pmcid
@@ -13,7 +15,7 @@ from src.chunk_text import chunk_article
 from src.retrieve_abstracts import fetch_pubmed_abstracts
 
 
-def save_output(term, definition, evidence_summary, evidence, output_dir="data/outputs"):
+def save_output(term, apa_entry, literature_derived_concept_summary, evidence_summary, evidence, output_dir="outputs"):
     os.makedirs(output_dir, exist_ok=True)
 
     filename = f"{term.replace(' ', '_')}_definition.md"
@@ -22,8 +24,16 @@ def save_output(term, definition, evidence_summary, evidence, output_dir="data/o
     with open(filepath, "w", encoding="utf-8") as file:
         file.write(f"# {term}\n\n")
 
-        file.write("## Generated Ontology Definition\n\n")
-        file.write(definition + "\n\n")
+        file.write("## APA Dictionary Definition\n\n")
+        if apa_entry:
+            file.write(apa_entry["definition"] + "\n\n")
+            file.write(f"Source: {apa_entry['source']}\n\n")
+            file.write(f"Reference: [APA Dictionary Entry]({apa_entry['url']})\n\n")
+        else:
+            file.write("No APA Dictionary definition was retrieved.\n\n")
+
+        file.write("## Literature-derived Concept Summary\n\n")
+        file.write(literature_derived_concept_summary + "\n\n")
 
         file.write("## Evidence Summary\n\n")
         file.write(evidence_summary + "\n\n")
@@ -41,7 +51,7 @@ def save_output(term, definition, evidence_summary, evidence, output_dir="data/o
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate ontology-style definitions for psychological constructs using PubMed/PMC RAG."
+        description="Generate definitions for psychological constructs using APA Dictionary and PubMed/PMC RAG."
     )
 
     parser.add_argument(
@@ -50,11 +60,19 @@ def main():
         help="Psychological construct term, e.g. loneliness, social vulnerability"
     )
 
-    parser.add_argument("--max-results", type=int, default=10)
-    parser.add_argument("--top-k", type=int, default=5)
+    parser.add_argument("--max-results", type=int, default=100)
+    parser.add_argument("--top-k", type=int, default=10)
 
     args = parser.parse_args()
     term = " ".join(args.term)
+
+    print(f"Searching APA Dictionary for: {term}")
+    apa_entry = get_apa_dictionary_definition(term)
+
+    if apa_entry:
+        print("APA Dictionary definition found.")
+    else:
+        print("No APA Dictionary definition found.")
 
     print(f"Searching PubMed for: {term}")
 
@@ -73,7 +91,10 @@ def main():
         title, text = get_full_text_from_pmcid(pmcid)
 
         if pmid not in text and term.lower() not in text.lower():
-            print(f"Skipping PMC article because it does not match PMID {pmid} or term '{term}'.")
+            print(
+                f"Skipping PMC article because it does not match PMID {pmid} "
+                f"or term '{term}'."
+            )
             continue
 
         print(f"Article title: {title}")
@@ -117,26 +138,31 @@ def main():
 
     print(f"Total retrieval texts: {len(retrieval_texts)}")
 
-    if not retrieval_texts:
-        print("No evidence retrieved from PMC full text or PubMed abstracts.")
-        return
-
-    retrieved = retrieve_relevant_texts(
-        term,
-        retrieval_texts,
-        top_k=args.top_k
-    )
+    retrieved = []
+    if retrieval_texts:
+        retrieved = retrieve_relevant_texts(
+            term,
+            retrieval_texts,
+            top_k=args.top_k
+        )
 
     print(f"Retrieved evidence passages: {len(retrieved)}")
 
-    evidence_summary = synthesize_construct(term, retrieved)
-    definition = generate_definition(term, evidence_summary)
+    best_definition_sentence = select_best_definition_sentence(term, retrieved)
+
+    if best_definition_sentence:
+        evidence_summary = best_definition_sentence
+    else:
+        evidence_summary = synthesize_construct(term, retrieved)
+
+    concept_summary = generate_definition(term, evidence_summary)
 
     output_path = save_output(
-        term,
-        definition,
-        evidence_summary,
-        retrieved
+        term=term,
+        apa_entry=apa_entry,
+        literature_derived_concept_summary=concept_summary,
+        evidence_summary=evidence_summary,
+        evidence=retrieved
     )
 
     print(f"Saved output to: {output_path}")
