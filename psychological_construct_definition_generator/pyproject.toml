@@ -1,0 +1,24 @@
+[project]
+name = "psych-defgen-dummy"
+version = "0.0.1a1"
+description = "A dummy package for testing a psychological construct definition generator on TestPyPI."
+readme = "README.md"
+authors = [
+    { name = "Damayanthi", email = "6574003+jesudas@users.noreply.github.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "click>=8.0",
+]
+
+[project.scripts]
+psych-defgen-dummy = "psych_defgen_dummy.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.11.24,<0.12.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
