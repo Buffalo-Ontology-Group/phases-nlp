@@ -1,4 +1,4 @@
-import argparse
+import click
 import os
 
 from src.apa_dictionary import get_apa_dictionary_definition
@@ -49,22 +49,12 @@ def save_output(term, apa_entry, literature_derived_concept_summary, evidence_su
     return filepath
 
 
-def main():
-    parser = argparse.ArgumentParser(
-        description="Generate definitions for psychological constructs using APA Dictionary and PubMed/PMC RAG."
-    )
-
-    parser.add_argument(
-        "term",
-        nargs="+",
-        help="Psychological construct term, e.g. loneliness, social vulnerability"
-    )
-
-    parser.add_argument("--max-results", type=int, default=100)
-    parser.add_argument("--top-k", type=int, default=10)
-
-    args = parser.parse_args()
-    term = " ".join(args.term)
+@click.command()
+@click.argument("term", nargs=-1, required=True)
+@click.option("--max-results", default=100, show_default=True, type=int)
+@click.option("--top-k", default=10, show_default=True, type=int)
+def main(term, max_results, top_k):
+    term = " ".join(term)
 
     print(f"Searching APA Dictionary for: {term}")
     apa_entry = get_apa_dictionary_definition(term)
@@ -76,7 +66,7 @@ def main():
 
     print(f"Searching PubMed for: {term}")
 
-    pmids = search_pubmed(term, max_results=args.max_results)
+    pmids = search_pubmed(term, max_results=max_results)
     print(f"PubMed articles found: {len(pmids)}")
 
     pmid_to_pmcid = get_pmc_ids(pmids)
@@ -91,10 +81,7 @@ def main():
         title, text = get_full_text_from_pmcid(pmcid)
 
         if pmid not in text and term.lower() not in text.lower():
-            print(
-                f"Skipping PMC article because it does not match PMID {pmid} "
-                f"or term '{term}'."
-            )
+            print(f"Skipping PMC article because it does not match PMID {pmid} or term '{term}'.")
             continue
 
         print(f"Article title: {title}")
@@ -143,7 +130,7 @@ def main():
         retrieved = retrieve_relevant_texts(
             term,
             retrieval_texts,
-            top_k=args.top_k
+            top_k=top_k
         )
 
     print(f"Retrieved evidence passages: {len(retrieved)}")
@@ -166,7 +153,7 @@ def main():
     )
 
     print(f"Saved output to: {output_path}")
-
+    
 
 if __name__ == "__main__":
     main()
