@@ -1,4 +1,4 @@
-from src.models import TextChunk
+from psych_defgen_dummy.models import TextChunk
 
 
 def chunk_article(article, chunk_size=180, overlap=40):

@@ -1,18 +1,18 @@
 import click
 import os
 
-from src.apa_dictionary import get_apa_dictionary_definition
-from src.select_definition_sentence import select_best_definition_sentence
-from src.pubmed_search import search_pubmed
-from src.get_pmc_articles import get_pmc_ids
-from src.parse_fulltext import get_full_text_from_pmcid
-from src.extract_definition_candidates import extract_definition_candidates
-from src.rag_retrieval import retrieve_relevant_texts
-from src.generate_definition import generate_definition
-from src.synthesize_construct import synthesize_construct
-from src.models import Article
-from src.chunk_text import chunk_article
-from src.retrieve_abstracts import fetch_pubmed_abstracts
+from psych_defgen_dummy.apa_dictionary import get_apa_dictionary_definition
+from psych_defgen_dummy.select_definition_sentence import select_best_definition_sentence
+from psych_defgen_dummy.pubmed_search import search_pubmed
+from psych_defgen_dummy.get_pmc_articles import get_pmc_ids
+from psych_defgen_dummy.parse_fulltext import get_full_text_from_pmcid
+from psych_defgen_dummy.extract_definition_candidates import extract_definition_candidates
+from psych_defgen_dummy.rag_retrieval import retrieve_relevant_texts
+from psych_defgen_dummy.generate_definition import generate_definition
+from psych_defgen_dummy.synthesize_construct import synthesize_construct
+from psych_defgen_dummy.models import Article
+from psych_defgen_dummy.chunk_text import chunk_article
+from psych_defgen_dummy.retrieve_abstracts import fetch_pubmed_abstracts
 
 
 def save_output(term, apa_entry, literature_derived_concept_summary, evidence_summary, evidence, output_dir="outputs"):

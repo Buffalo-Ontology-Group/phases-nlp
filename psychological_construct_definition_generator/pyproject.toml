@@ -24,7 +24,7 @@ dependencies = [
 ]
 
 [project.scripts]
-psych-defgen-dummy = "src.main:main"
+psych-defgen-dummy = "psych_defgen_dummy.main:main"
 
 [build-system]
 requires = ["uv_build>=0.11.24,<0.12.0"]
