@@ -1,6 +1,6 @@
 # Psychological Construct Definition Generator
 
-This project is a Python application that retrieves scientific literature related to psychological constructs and generates ontology-style definitions using a Retrieval-Augmented Generation (RAG) workflow.
+This project is a Python application that retrieves scientific literature related to psychological constructs and generates evidence-based ontology-style definitions using a Retrieval-Augmented Generation (RAG) workflow over PubMed and PubMed Central literature.
 
 ## Overview
 
@@ -27,16 +27,19 @@ The Psychological Construct Definition Generator is a retrieval-augmented genera
 Install the package from TestPyPI:
 
 ```bash
-pip install -i https://test.pypi.org/simple/ psych-defgen-dummy
-```
-
-or, if dependencies are hosted on PyPI:
-
-```bash
 pip install \
     --index-url https://test.pypi.org/simple/ \
     --extra-index-url https://pypi.org/simple \
     psych-defgen-dummy
+```
+
+
+## Verify Installation
+
+Verify that the package is installed correctly:
+
+```bash
+python -c "import psych_defgen_dummy; print('Package installed successfully')"
 ```
 
 ---
@@ -58,6 +61,14 @@ $env:NCBI_EMAIL="your_email@example.com"
 ```
 
 Replace `your_email@example.com` with your own email address.
+
+For higher request limits, you may optionally configure an NCBI API key:
+
+```bash
+export NCBI_API_KEY="your_api_key"
+```
+
+If no API key is provided, the package uses the standard NCBI request limits.
 
 > **Note**
 >
@@ -87,21 +98,22 @@ python -m psych_defgen_dummy.main loneliness --max-results 20 --top-k 5
 
 ---
 
+
 # Output
 
-Generated definitions and supporting evidence are written to:
+Generated definitions are saved as Markdown files containing:
+
+- the generated ontology-style definition
+- supporting evidence passages
+- article metadata (title, authors, journal, PMID/PMCID)
+- retrieval scores
+
+Files are written to:
 
 ```text
-outputs/
+outputs/loneliness_definition.md
 ```
-
-For example:
-
-```text
-outputs/
-└── loneliness_definition.md
-```
-
+The output filename is automatically generated from the requested psychological construct.
 ---
 
 # Requirements
@@ -114,3 +126,7 @@ outputs/
 # License
 
 - This project is licensed under the MIT License. 
+
+# Citation
+
+Citation information will be updated once the accompanying manuscript is published.
