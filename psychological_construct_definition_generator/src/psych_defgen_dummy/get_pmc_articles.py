@@ -1,6 +1,6 @@
 from Bio import Entrez
 
-Entrez.email = "your_email@example.com"
+from .entrez_config import configure_entrez
 
 
 def get_pmc_ids(pmids):
@@ -18,6 +18,7 @@ def get_pmc_ids(pmids):
         Mapping of PMID to PMCID.
         Example: {"20652462": "PMC1234567"}
     """
+    configure_entrez()
 
     if not pmids:
         return {}
@@ -26,7 +27,7 @@ def get_pmc_ids(pmids):
         dbfrom="pubmed",
         db="pmc",
         id=",".join(pmids),
-        linkname="pubmed_pmc"
+        linkname="pubmed_pmc",
     )
 
     records = Entrez.read(handle)

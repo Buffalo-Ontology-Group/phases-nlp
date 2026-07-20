@@ -20,32 +20,97 @@ The Psychological Construct Definition Generator is a retrieval-augmented genera
 - Export the definition and supporting evidence to a Markdown file.
 
 
+---
 
-## Usage
+# Installation
+
+Install the package from TestPyPI:
+
+```bash
+pip install -i https://test.pypi.org/simple/ psych-defgen-dummy
+```
+
+or, if dependencies are hosted on PyPI:
+
+```bash
+pip install \
+    --index-url https://test.pypi.org/simple/ \
+    --extra-index-url https://pypi.org/simple \
+    psych-defgen-dummy
+```
+
+---
+
+# Configure NCBI Email
+
+This package uses the NCBI Entrez API to retrieve PubMed and PubMed Central articles. Before running the package, configure your email address as an environment variable.
+
+### macOS / Linux
+
+```bash
+export NCBI_EMAIL="your_email@example.com"
+```
+
+### Windows PowerShell
+
+```powershell
+$env:NCBI_EMAIL="your_email@example.com"
+```
+
+Replace `your_email@example.com` with your own email address.
+
+> **Note**
+>
+> The package does **not** store or transmit your email except when making requests to the official NCBI Entrez API. The environment variable is used only to identify your requests to NCBI, in accordance with their API guidelines.
+
+---
+
+# Usage
 
 Generate a definition for a psychological construct:
 
 ```bash
-python -m src.main loneliness
+python -m psych_defgen_dummy.main loneliness
 ```
 
 Multi-word constructs are supported:
 
 ```bash
-python -m src.main social vulnerability
+python -m psych_defgen_dummy.main "social vulnerability"
 ```
 
-Optional parameters:
+Specify the number of retrieved articles and evidence passages:
 
 ```bash
-python -m src.main loneliness --max-results 20 --top-k 5
+python -m psych_defgen_dummy.main loneliness --max-results 20 --top-k 5
 ```
 
-## Generated outputs are written to:
+---
+
+# Output
+
+Generated definitions and supporting evidence are written to:
 
 ```text
 outputs/
 ```
 
+For example:
 
+```text
+outputs/
+└── loneliness_definition.md
+```
 
+---
+
+# Requirements
+
+- Python 3.11+
+- Valid email address for NCBI Entrez access
+
+---
+
+# License
+
+- This project is licensed under the MIT License. 

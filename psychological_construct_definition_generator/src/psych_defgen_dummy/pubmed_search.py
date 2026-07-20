@@ -1,6 +1,6 @@
 from Bio import Entrez
 
-Entrez.email = "your_email@example.com"
+from .entrez_config import configure_entrez
 
 
 def search_pubmed(term, max_results=20):
@@ -20,6 +20,7 @@ def search_pubmed(term, max_results=20):
     list
         PubMed IDs.
     """
+    configure_entrez()
 
     query = f'"{term}"[Title/Abstract]'
 
@@ -27,7 +28,7 @@ def search_pubmed(term, max_results=20):
         db="pubmed",
         term=query,
         retmax=max_results,
-        sort="relevance"
+        sort="relevance",
     )
 
     record = Entrez.read(handle)
