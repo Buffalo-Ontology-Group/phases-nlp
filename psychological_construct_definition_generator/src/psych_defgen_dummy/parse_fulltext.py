@@ -4,9 +4,9 @@ from bs4 import BeautifulSoup
 from .entrez_config import configure_entrez
 
 
-def fetch_pmc_full_text(pmcid):
+def fetch_pmc_full_text(pmcid, email=None, api_key=None):
     """Retrieve a PMC article as XML."""
-    configure_entrez()
+    configure_entrez(email=email, api_key=api_key,)
 
     handle = Entrez.efetch(
         db="pmc",
@@ -66,7 +66,7 @@ def parse_pmc_xml(xml_data):
     return title, article_text
 
 
-def get_full_text_from_pmcid(pmcid):
+def get_full_text_from_pmcid(pmcid, email=None, api_key=None):
     """
     Retrieve and parse the full text of a PMC article.
 
@@ -80,7 +80,7 @@ def get_full_text_from_pmcid(pmcid):
     tuple
         Article title and extracted article text.
     """
-    xml_data = fetch_pmc_full_text(pmcid)
+    xml_data = fetch_pmc_full_text(pmcid, email=email, api_key=api_key)
     title, text = parse_pmc_xml(xml_data)
 
     return title, text

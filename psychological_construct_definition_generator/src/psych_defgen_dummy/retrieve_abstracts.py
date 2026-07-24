@@ -82,7 +82,7 @@ def _extract_publication_year(article_record):
     return None
 
 
-def fetch_pubmed_abstracts(pmids):
+def fetch_pubmed_abstracts(pmids, email=None, api_key=None):
     """
     Fetch PubMed abstracts and article metadata.
 
@@ -99,7 +99,10 @@ def fetch_pubmed_abstracts(pmids):
         and abstract text.
     """
 
-    configure_entrez()
+    configure_entrez(
+        email=email, 
+        api_key=api_key,
+    )
 
     if not pmids:
         return []

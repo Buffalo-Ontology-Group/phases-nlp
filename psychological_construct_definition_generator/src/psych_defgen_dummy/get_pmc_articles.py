@@ -3,7 +3,11 @@ from Bio import Entrez
 from .entrez_config import configure_entrez
 
 
-def get_pmc_ids(pmids):
+def get_pmc_ids(
+    pmids,
+    email=None,
+    api_key=None,
+):
     """
     Convert PubMed IDs to PMC IDs when full text is available.
 
@@ -12,13 +16,23 @@ def get_pmc_ids(pmids):
     pmids : list
         List of PubMed IDs.
 
+    email : str, optional
+        NCBI email address.
+
+    api_key : str, optional
+        NCBI API key.
+
     Returns
     -------
     dict
         Mapping of PMID to PMCID.
         Example: {"20652462": "PMC1234567"}
     """
-    configure_entrez()
+
+    configure_entrez(
+        email=email, 
+        api_key=api_key,
+    )
 
     if not pmids:
         return {}

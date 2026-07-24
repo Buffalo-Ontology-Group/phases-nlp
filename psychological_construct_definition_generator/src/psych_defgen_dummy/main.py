@@ -30,12 +30,7 @@ from psych_defgen_dummy.synthesize_construct import (
 )
 
 
-def create_pmc_evidence_record(
-    text,
-    title,
-    pmid,
-    pmcid,
-):
+def create_pmc_evidence_record(text, title, pmid, pmcid):
     """
     Create a PMC evidence record while preserving
     article metadata.
@@ -65,8 +60,7 @@ def create_pmc_evidence_record(
 
 def create_abstract_evidence_record(record):
     """
-    Convert a structured PubMed abstract record
-    into the evidence format used by retrieval.
+    Convert a structured PubMed abstract record into the evidence format used by retrieval.
     """
 
     return {
@@ -86,33 +80,26 @@ def create_abstract_evidence_record(record):
     }
 
 
-def save_output(
-    term,
-    apa_entry,
-    literature_derived_concept_summary,
-    evidence_summary,
-    evidence,
-    output_dir="outputs",
-):
+def save_output(term, apa_entry, literature_derived_concept_summary, evidence_summary, evidence, output_path=None, output_dir="outputs"):
     """
-    Save the generated definition and retrieved
-    evidence as a Markdown file.
+    Save the generated definition and retrieved evidence as a Markdown file.
     """
 
-    os.makedirs(
-        output_dir,
-        exist_ok=True,
-    )
+    os.makedirs(output_dir, exist_ok=True,)
 
-    filename = (
-        f"{term.replace(' ', '_')}_definition.md"
-    )
+    if output_path:
+        filepath = output_path
+        os.makedirs(
+            os.path.dirname(filepath) or ".",
+            exist_ok=True,
+        )
+    else:
+        os.makedirs(output_dir, exist_ok=True)
 
-    filepath = os.path.join(
-        output_dir,
-        filename,
-    )
+        filename = f"{term.replace(' ', '_')}_definition.md"
+        filepath = os.path.join(output_dir, filename)
 
+ 
     with open(
         filepath,
         "w",
@@ -284,11 +271,7 @@ def save_output(
 
 
 @click.command()
-@click.argument(
-    "term",
-    nargs=-1,
-    required=True,
-)
+
 @click.option(
     "--max-results",
     default=100,
@@ -301,17 +284,56 @@ def save_output(
     show_default=True,
     type=int,
 )
-def main(
-    term,
-    max_results,
-    top_k,
-):
+@click.option(
+    "--email",
+    default=None,
+    help=(
+        "NCBI email address. Overrides the "
+        "NCBI_EMAIL environment variable."
+    ),
+)
+@click.option(
+    "--api-key",
+    default=None,
+    help=(
+        "NCBI API key. Overrides the "
+        "NCBI_API_KEY environment variable."
+    ),
+)
+
+@click.option(
+    "--output",
+    default=None,
+    help=(
+        "Output Markdown file. "
+        "If omitted, a file is created in the "
+        "outputs directory."
+    ),
+)
+
+@click.argument(
+    "term",
+    nargs=-1,
+    required=True,
+)
+
+def main(max_results, top_k, email, api_key, output, term):
+    
     """
-    Generate a literature-informed definition
-    for a psychological construct.
+    Generate a literature-informed definition for a psychological construct.
     """
 
     term = " ".join(term)
+
+    email = email or os.getenv("NCBI_EMAIL")
+    api_key = api_key or os.getenv("NCBI_API_KEY")
+
+    if not email:
+        raise click.ClickException(
+            "An NCBI email address is required. "
+            "Provide it using --email or set the "
+            "NCBI_EMAIL environment variable."
+        )
 
     print(
         f"Searching APA Dictionary for: {term}"
@@ -337,13 +359,15 @@ def main(
     pmids = search_pubmed(
         term,
         max_results=max_results,
+        email=email,
+        api_key=api_key,
     )
 
     print(
         f"PubMed articles found: {len(pmids)}"
     )
 
-    pmid_to_pmcid = get_pmc_ids(pmids)
+    pmid_to_pmcid = get_pmc_ids(pmids, email=email, api_key=api_key)
 
     print(
         "PMC full-text articles found: "
@@ -363,7 +387,9 @@ def main(
 
         title, text = (
             get_full_text_from_pmcid(
-                pmcid
+                pmcid,
+                email=email,
+                api_key=api_key,
             )
         )
 
@@ -445,7 +471,7 @@ def main(
     )
 
     abstract_records = (
-        fetch_pubmed_abstracts(pmids)
+        fetch_pubmed_abstracts(pmids, email=email, api_key=api_key)
     )
 
     abstract_chunks = []
@@ -544,11 +570,10 @@ def main(
     output_path = save_output(
         term=term,
         apa_entry=apa_entry,
-        literature_derived_concept_summary=(
-            concept_summary
-        ),
+        literature_derived_concept_summary=concept_summary,
         evidence_summary=evidence_summary,
         evidence=retrieved,
+        output_path=output,
     )
 
     print(

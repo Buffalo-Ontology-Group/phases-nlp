@@ -22,7 +22,7 @@ The Psychological Construct Definition Generator is a retrieval-augmented genera
 
 ---
 
-# Installation
+## Installation
 
 Install the package from TestPyPI:
 
@@ -42,37 +42,82 @@ Verify that the package is installed correctly:
 python -c "import psych_defgen_dummy; print('Package installed successfully')"
 ```
 
+## Development Installation
+
+To install the project from GitHub:
+
+
+```bash
+git clone https://github.com/Buffalo-Ontology-Group/psychological_construct_definition_generator.git
+cd psychological_construct_definition_generator
+
+pip install -e .
+```
+
+Editable installation allows you to make changes to the source code and use them immediately without reinstalling the package.
+
+
+
 ---
 
-# Configure NCBI Email
+# Configure NCBI Credentials
 
-This package uses the NCBI Entrez API to retrieve PubMed and PubMed Central articles. Before running the package, configure your email address as an environment variable.
+This package uses the NCBI Entrez API to retrieve PubMed and PubMed Central articles. An NCBI email address is required to access the NCBI Entrez API. You can provide your credentials either through environment variables or as command-line arguments.
+
+## Option 1: Environment variables (recommended)
 
 ### macOS / Linux
 
 ```bash
-export NCBI_EMAIL="your_email@example.com"
+export NCBI_EMAIL="YOUR_NCBI_EMAIL"
 ```
 
 ### Windows PowerShell
 
 ```powershell
-$env:NCBI_EMAIL="your_email@example.com"
+$env:NCBI_EMAIL="YOUR_NCBI_EMAIL"
 ```
 
-Replace `your_email@example.com` with your own email address.
+Replace `YOUR_NCBI_EMAIL` with your own email address.
 
-For higher request limits, you may optionally configure an NCBI API key:
+For higher request limits, you may optionally configure an NCBI API key.
+
+### macOS / Linux
 
 ```bash
-export NCBI_API_KEY="your_api_key"
+export NCBI_API_KEY="YOUR_API_KEY"
+```
+
+### Windows PowerShell
+
+```powershell
+$env:NCBI_API_KEY="YOUR_API_KEY"
 ```
 
 If no API key is provided, the package uses the standard NCBI request limits.
 
+## Option 2: Command-line arguments
+
+Instead of environment variables, you can provide your NCBI email directly when running the program:
+
+```bash
+python -m psych_defgen_dummy.main loneliness \
+    --email YOUR_NCBI_EMAIL
+```
+
+To also use an NCBI API key:
+
+```bash
+python -m psych_defgen_dummy.main loneliness \
+    --email YOUR_NCBI_EMAIL \
+    --api-key YOUR_API_KEY
+```
+
+If both environment variables and command-line arguments are provided, the command-line arguments take precedence.
+
 > **Note**
 >
-> The package does **not** store or transmit your email except when making requests to the official NCBI Entrez API. The environment variable is used only to identify your requests to NCBI, in accordance with their API guidelines.
+> The package does **not** store or transmit your email address or API key except when making requests to the official NCBI Entrez API. These credentials are used only to identify your requests in accordance with NCBI API guidelines.
 
 ---
 
@@ -84,6 +129,13 @@ Generate a definition for a psychological construct:
 python -m psych_defgen_dummy.main loneliness
 ```
 
+Alternatively, specify your NCBI email directly:
+
+```bash
+python -m psych_defgen_dummy.main loneliness \
+    --email YOUR_NCBI_EMAIL
+```
+
 Multi-word constructs are supported:
 
 ```bash
@@ -93,39 +145,62 @@ python -m psych_defgen_dummy.main "social vulnerability"
 Specify the number of retrieved articles and evidence passages:
 
 ```bash
-python -m psych_defgen_dummy.main loneliness --max-results 20 --top-k 5
+python -m psych_defgen_dummy.main loneliness \
+    --max-results 20 \
+    --top-k 5
+```
+
+Specify a custom output file:
+
+```bash
+python -m psych_defgen_dummy.main loneliness \
+    --output results/loneliness_definition.md
+```
+
+The NCBI email can be combined with other options:
+
+```bash
+python -m psych_defgen_dummy.main loneliness \
+    --email YOUR_NCBI_EMAIL \
+    --max-results 20 \
+    --top-k 5 \
+    --output results/loneliness_definition.md
+```
+
+Display all available command-line options:
+
+```bash
+python -m psych_defgen_dummy.main --help
 ```
 
 ---
 
-
 # Output
 
-Generated definitions are saved as Markdown files containing:
 
-- the generated ontology-style definition
-- supporting evidence passages
-- article metadata (title, authors, journal, PMID/PMCID)
-- retrieval scores
+By default, generated definitions are saved as Markdown files in the `outputs` directory. A custom output file can be specified using the `--output` option.
 
-Files are written to:
 
 ```text
 outputs/loneliness_definition.md
 ```
+
 The output filename is automatically generated from the requested psychological construct.
+
 ---
 
 # Requirements
 
 - Python 3.11+
-- Valid email address for NCBI Entrez access
+- Valid NCBI email address
+
+An NCBI API key is optional but recommended for higher request rate limits.
 
 ---
 
 # License
 
-- This project is licensed under the MIT License. 
+This project is licensed under the MIT License. 
 
 # Citation
 
