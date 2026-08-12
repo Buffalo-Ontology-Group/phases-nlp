@@ -1,9 +1,5 @@
-from sentence_transformers import (
-    SentenceTransformer,
-)
-from sklearn.metrics.pairwise import (
-    cosine_similarity,
-)
+from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
 
 
 DEFINITION_PATTERNS = [
@@ -104,7 +100,6 @@ def normalize_evidence_item(item):
             "pubmed_url": None,
             "url": None,
         }
-        
 
     if not isinstance(item, dict):
         return None
@@ -134,15 +129,19 @@ def retrieve_relevant_texts(
     top_k=5,
 ):
     """
-    Retrieve top-k relevant evidence passages
-    while preserving source-article metadata.
+    Retrieve the top-k semantically relevant
+    evidence passages while preserving article
+    metadata.
+
+    Ranking is based only on cosine similarity.
+    No heuristic score boosts are added.
     """
 
     normalized_items = []
 
     for item in items:
-        normalized_item = (
-            normalize_evidence_item(item)
+        normalized_item = normalize_evidence_item(
+            item
         )
 
         if normalized_item is None:
@@ -195,28 +194,11 @@ def retrieve_relevant_texts(
     for index, item in enumerate(
         normalized_items
     ):
-        text = item["text"]
-        score = float(
+        scored_item = item.copy()
+
+        scored_item["score"] = float(
             similarities[index]
         )
-        text_lower = text.lower()
-
-        # Strong boost for definitional text.
-        if any(
-            pattern in text_lower
-            for pattern in DEFINITION_PATTERNS
-        ):
-            score += 0.20
-
-        # Small boost for conceptual content.
-        if any(
-            hint in text_lower
-            for hint in CONCEPT_HINTS
-        ):
-            score += 0.05
-
-        scored_item = item.copy()
-        scored_item["score"] = score
 
         scored_items.append(
             scored_item

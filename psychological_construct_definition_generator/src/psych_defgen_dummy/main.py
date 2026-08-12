@@ -118,19 +118,20 @@ def save_output(term, apa_entry, literature_derived_concept_summary, evidence_su
                 apa_entry["definition"] + "\n\n"
             )
 
-            file.write(
-                f"Source: {apa_entry['source']}\n\n"
-            )
+            # Only show the source and reference if an APA Dictionary entry was actually found.
+            if apa_entry.get("status") == "found":
+                file.write(
+                    f"Source: {apa_entry['source']}\n\n"
+                )
 
-            file.write(
-                "Reference: "
-                f"[APA Dictionary Entry]"
-                f"({apa_entry['url']})\n\n"
-            )
+                file.write(
+                    "Reference: "
+                    f"[APA Dictionary Entry]"
+                    f"({apa_entry['url']})\n\n"
+                )
         else:
             file.write(
-                "No APA Dictionary definition was "
-                "retrieved.\n\n"
+                "No APA Dictionary definition was retrieved.\n\n"
             )
 
         file.write(
