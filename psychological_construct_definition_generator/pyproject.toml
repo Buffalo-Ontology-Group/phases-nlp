@@ -1,10 +1,12 @@
 [project]
 name = "psych-defgen-dummy"
-version = "0.0.1a1"
+version = "0.0.1a3"
 description = "A dummy package for testing a psychological construct definition generator on TestPyPI."
 readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
 authors = [
-    { name = "Damayanthi", email = "6574003+jesudas@users.noreply.github.com" }
+    { name = "Damayanthi Jesudas", email = "6574003+jesudas@users.noreply.github.com" }
 ]
 requires-python = ">=3.11"
 
@@ -24,7 +26,7 @@ dependencies = [
 ]
 
 [project.scripts]
-psych-defgen-dummy = "src.main:main"
+psych-defgen-dummy = "psych_defgen_dummy.main:main"
 
 [build-system]
 requires = ["uv_build>=0.11.24,<0.12.0"]
