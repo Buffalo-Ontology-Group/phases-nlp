@@ -26,38 +26,56 @@ def get_pmc_ids(
     -------
     dict
         Mapping of PMID to PMCID.
-        Example: {"20652462": "PMC1234567"}
+        Example: {"20652462": "PMC3874845"}
     """
 
     configure_entrez(
-        email=email, 
+        email=email,
         api_key=api_key,
     )
 
     if not pmids:
         return {}
 
-    handle = Entrez.elink(
-        dbfrom="pubmed",
-        db="pmc",
-        id=",".join(pmids),
-        linkname="pubmed_pmc",
-    )
-
-    records = Entrez.read(handle)
-    handle.close()
-
     pmid_to_pmcid = {}
 
-    for record in records:
-        pmid = record["IdList"][0]
+    for pmid in pmids:
 
-        if "LinkSetDb" in record and record["LinkSetDb"]:
-            links = record["LinkSetDb"][0]["Link"]
+        handle = Entrez.elink(
+            dbfrom="pubmed",
+            db="pmc",
+            id=str(pmid),
+            linkname="pubmed_pmc",
+        )
 
-            if links:
-                pmc_id_number = links[0]["Id"]
-                pmcid = f"PMC{pmc_id_number}"
-                pmid_to_pmcid[pmid] = pmcid
+        records = Entrez.read(handle)
+        handle.close()
+
+        if not records:
+            continue
+
+        record = records[0]
+
+        link_sets = record.get(
+            "LinkSetDb",
+            [],
+        )
+
+        if not link_sets:
+            continue
+
+        links = link_sets[0].get(
+            "Link",
+            [],
+        )
+
+        if not links:
+            continue
+
+        pmc_id_number = links[0]["Id"]
+
+        pmcid = f"PMC{pmc_id_number}"
+
+        pmid_to_pmcid[str(pmid)] = pmcid
 
     return pmid_to_pmcid

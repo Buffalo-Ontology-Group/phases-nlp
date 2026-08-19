@@ -29,10 +29,64 @@ CONCEPT_HINTS = [
 ]
 
 
-def is_useful_text(text):
+def has_definition_pattern(text, term=None):
+    """
+    Check whether a passage contains general
+    or term-specific definitional language.
+
+    Term-specific patterns help identify sentences
+    such as:
+
+    "Gerotranscendence is a psychosocial theory..."
+    """
+
+    if not text:
+        return False
+
+    text_lower = text.lower()
+
+    # General definition patterns.
+    if any(
+        pattern in text_lower
+        for pattern in DEFINITION_PATTERNS
+    ):
+        return True
+
+    # Term-specific definition patterns.
+    if term:
+        term_lower = term.lower().strip()
+
+        term_patterns = [
+            f"{term_lower} is a ",
+            f"{term_lower} is an ",
+            f"{term_lower} refers to ",
+            f"{term_lower} describes ",
+            f"{term_lower} represents ",
+            f"{term_lower} involves ",
+            f"{term_lower} can be defined as ",
+            f"{term_lower} can be conceptualized as ",
+            f"{term_lower} is defined as ",
+            f"{term_lower} is conceptualized as ",
+            f"{term_lower} is characterized by ",
+            f"{term_lower} is understood as ",
+        ]
+
+        if any(
+            pattern in text_lower
+            for pattern in term_patterns
+        ):
+            return True
+
+    return False
+
+
+def is_useful_text(text, term=None):
     """
     Remove article titles, very short snippets,
     and non-informative evidence.
+
+    Definition-like passages are retained even
+    when they are relatively short.
     """
 
     if not text:
@@ -46,22 +100,21 @@ def is_useful_text(text):
     if len(words) < 12:
         return False
 
+    definition_like = has_definition_pattern(
+        text,
+        term=term,
+    )
+
     # Remove likely title-only text unless it
     # contains definitional language.
     if (
         len(words) < 30
-        and not any(
-            pattern in text_lower
-            for pattern in DEFINITION_PATTERNS
-        )
+        and not definition_like
     ):
         return False
 
     # Always keep definition-like passages.
-    if any(
-        pattern in text_lower
-        for pattern in DEFINITION_PATTERNS
-    ):
+    if definition_like:
         return True
 
     # Keep longer conceptual passages.
@@ -133,7 +186,10 @@ def retrieve_relevant_texts(
     evidence passages while preserving article
     metadata.
 
-    Ranking is based only on cosine similarity.
+    Definition-like passages are retained during
+    filtering, but final ranking remains based
+    only on cosine similarity.
+
     No heuristic score boosts are added.
     """
 
@@ -148,7 +204,8 @@ def retrieve_relevant_texts(
             continue
 
         if not is_useful_text(
-            normalized_item["text"]
+            normalized_item["text"],
+            term=term,
         ):
             continue
 
@@ -163,10 +220,12 @@ def retrieve_relevant_texts(
         "all-MiniLM-L6-v2"
     )
 
+    # Focus retrieval on definitional and
+    # conceptual information rather than
+    # causes, consequences, or interventions.
     query = (
-        f"Meaning, definition, characteristics, "
-        f"conceptual explanation, causes, and "
-        f"consequences of {term}"
+        f"Definition, meaning, characteristics, "
+        f"and conceptual explanation of {term}"
     )
 
     query_embedding = model.encode(

@@ -2,35 +2,37 @@ import os
 
 import click
 
-from psych_defgen_dummy.apa_dictionary import (
-    get_apa_dictionary_definition,
+from psych_defgen.apa_dictionary import (
+    get_apa_dictionary_entry,
 )
-from psych_defgen_dummy.chunk_text import chunk_article
-from psych_defgen_dummy.extract_definition_candidates import (
+from psych_defgen.chunk_text import chunk_article
+from psych_defgen.extract_definition_candidates import (
     extract_definition_candidates,
 )
-from psych_defgen_dummy.generate_definition import generate_definition
-from psych_defgen_dummy.get_pmc_articles import get_pmc_ids
-from psych_defgen_dummy.models import Article
-from psych_defgen_dummy.parse_fulltext import (
+from psych_defgen.get_pmc_articles import get_pmc_ids
+from psych_defgen.models import Article
+from psych_defgen.parse_fulltext import (
     get_full_text_from_pmcid,
 )
-from psych_defgen_dummy.pubmed_search import search_pubmed
-from psych_defgen_dummy.rag_retrieval import (
+from psych_defgen.pubmed_search import search_pubmed
+from psych_defgen.rag_retrieval import (
     retrieve_relevant_texts,
 )
-from psych_defgen_dummy.retrieve_abstracts import (
+from psych_defgen.retrieve_abstracts import (
     fetch_pubmed_abstracts,
 )
-from psych_defgen_dummy.select_definition_sentence import (
+from psych_defgen.select_definition_sentence import (
     select_best_definition_sentence,
 )
-from psych_defgen_dummy.synthesize_construct import (
-    synthesize_construct,
-)
 
 
-def create_pmc_evidence_record(text, title, pmid, pmcid):
+
+def create_pmc_evidence_record(
+    text,
+    title,
+    pmid,
+    pmcid,
+):
     """
     Create a PMC evidence record while preserving
     article metadata.
@@ -60,7 +62,8 @@ def create_pmc_evidence_record(text, title, pmid, pmcid):
 
 def create_abstract_evidence_record(record):
     """
-    Convert a structured PubMed abstract record into the evidence format used by retrieval.
+    Convert a structured PubMed abstract record into
+    the evidence format used by retrieval.
     """
 
     return {
@@ -80,76 +83,134 @@ def create_abstract_evidence_record(record):
     }
 
 
-def save_output(term, apa_entry, literature_derived_concept_summary, evidence_summary, evidence, output_path=None, output_dir="outputs"):
+def save_output(
+    term,
+    apa_entry,
+    definition_from_literature,
+    evidence,
+    output_path=None,
+    output_dir="outputs",
+):
     """
-    Save the generated definition and retrieved evidence as a Markdown file.
+    Save the definition found in the literature and the retrieved
+    evidence as a Markdown file.
     """
 
-    os.makedirs(output_dir, exist_ok=True,)
+    os.makedirs(
+        output_dir,
+        exist_ok=True,
+    )
 
     if output_path:
         filepath = output_path
+
         os.makedirs(
             os.path.dirname(filepath) or ".",
             exist_ok=True,
         )
+
     else:
-        os.makedirs(output_dir, exist_ok=True)
+        filename = (
+            f"{term.replace(' ', '_')}_definition.md"
+        )
 
-        filename = f"{term.replace(' ', '_')}_definition.md"
-        filepath = os.path.join(output_dir, filename)
+        filepath = os.path.join(
+            output_dir,
+            filename,
+        )
 
- 
     with open(
         filepath,
         "w",
         encoding="utf-8",
     ) as file:
+
         file.write(
             f"# {term}\n\n"
         )
 
+        # -------------------------------------------------
+        # APA Dictionary
+        # -------------------------------------------------
+
         file.write(
-            "## APA Dictionary Definition\n\n"
+            "## APA Dictionary\n\n"
         )
 
-        if apa_entry:
+        apa_status = apa_entry.get("status")
+        apa_url = apa_entry.get("url")
+
+        if apa_status == "found":
+
             file.write(
-                apa_entry["definition"] + "\n\n"
+                "An entry for this term was found in "
+                "the APA Dictionary of Psychology.\n\n"
             )
 
-            # Only show the source and reference if an APA Dictionary entry was actually found.
-            if apa_entry.get("status") == "found":
-                file.write(
-                    f"Source: {apa_entry['source']}\n\n"
-                )
+            file.write(
+                "The APA Dictionary is provided as an "
+                "external reference only and is not used "
+                "to identify definitions in the literature. \n\n"
+            )
 
-                file.write(
-                    "Reference: "
-                    f"[APA Dictionary Entry]"
-                    f"({apa_entry['url']})\n\n"
-                )
+            file.write(
+                f"Reference: "
+                f"[APA Dictionary Entry]({apa_url})\n\n"
+            )
+
+        elif apa_status == "not_found":
+
+            file.write(
+                "No entry for this term was found in "
+                "the APA Dictionary of Psychology.\n\n"
+            )
+
+            file.write(
+                "This does not affect the search for "
+                "a definition in the retrieved literature.\n\n"
+            )
+
+        elif apa_status == "unavailable":
+
+            file.write(
+                "The presence of an APA Dictionary entry "
+                "could not be verified automatically.\n\n"
+            )
+
+            file.write(
+                f"Reference: "
+                f"[Search the APA Dictionary]({apa_url})"
+                "\n\n"
+            )
+
         else:
+
             file.write(
-                "No APA Dictionary definition was retrieved.\n\n"
+                "The APA Dictionary of Psychology could "
+                "not be accessed automatically.\n\n"
             )
 
+            file.write(
+                f"Reference: "
+                f"[APA Dictionary]({apa_url})\n\n"
+            )
+
+        # -------------------------------------------------
+        # Definition found in literature
+        # -------------------------------------------------
+
         file.write(
-            "## Literature-derived Concept Summary\n\n"
+            "## Definition from Literature\n\n"
         )
 
         file.write(
-            literature_derived_concept_summary
+            definition_from_literature.strip()
             + "\n\n"
         )
 
-        file.write(
-            "## Evidence Summary\n\n"
-        )
-
-        file.write(
-            evidence_summary + "\n\n"
-        )
+        # -------------------------------------------------
+        # Retrieved Evidence
+        # -------------------------------------------------
 
         file.write(
             "## Retrieved Evidence\n\n"
@@ -157,8 +218,7 @@ def save_output(term, apa_entry, literature_derived_concept_summary, evidence_su
 
         if not evidence:
             file.write(
-                "No relevant evidence was "
-                "retrieved.\n\n"
+                "No relevant evidence was retrieved.\n\n"
             )
 
         for index, item in enumerate(
@@ -186,7 +246,11 @@ def save_output(term, apa_entry, literature_derived_concept_summary, evidence_su
             authors = item.get("authors")
 
             if authors:
-                if isinstance(authors, list):
+
+                if isinstance(
+                    authors,
+                    list,
+                ):
                     authors = ", ".join(authors)
 
                 file.write(
@@ -197,15 +261,20 @@ def save_output(term, apa_entry, literature_derived_concept_summary, evidence_su
             year = item.get("year")
 
             if journal and year:
+
                 file.write(
                     f"**Journal:** "
                     f"{journal} ({year})\n\n"
                 )
+
             elif journal:
+
                 file.write(
                     f"**Journal:** {journal}\n\n"
                 )
+
             elif year:
+
                 file.write(
                     f"**Year:** {year}\n\n"
                 )
@@ -260,6 +329,10 @@ def save_output(term, apa_entry, literature_derived_concept_summary, evidence_su
                 + "\n\n"
             )
 
+        # -------------------------------------------------
+        # Curation status
+        # -------------------------------------------------
+
         file.write(
             "## Curation Status\n\n"
         )
@@ -272,7 +345,6 @@ def save_output(term, apa_entry, literature_derived_concept_summary, evidence_su
 
 
 @click.command()
-
 @click.option(
     "--max-results",
     default=100,
@@ -301,7 +373,6 @@ def save_output(term, apa_entry, literature_derived_concept_summary, evidence_su
         "NCBI_API_KEY environment variable."
     ),
 )
-
 @click.option(
     "--output",
     default=None,
@@ -311,23 +382,41 @@ def save_output(term, apa_entry, literature_derived_concept_summary, evidence_su
         "outputs directory."
     ),
 )
-
 @click.argument(
     "term",
     nargs=-1,
     required=True,
 )
-
-def main(max_results, top_k, email, api_key, output, term):
-    
+def main(
+    max_results,
+    top_k,
+    email,
+    api_key,
+    output,
+    term,
+):
     """
-    Generate a literature-informed definition for a psychological construct.
+    Find an explicit definition of a psychological
+    construct in retrieved PubMed abstracts and PMC
+    full-text literature.
+
+    The APA Dictionary is used only to verify and
+    reference official entries and is not used as
+    evidence when identifying definitions from the
+    literature.
     """
 
     term = " ".join(term)
 
-    email = email or os.getenv("NCBI_EMAIL")
-    api_key = api_key or os.getenv("NCBI_API_KEY")
+    email = (
+        email
+        or os.getenv("NCBI_EMAIL")
+    )
+
+    api_key = (
+        api_key
+        or os.getenv("NCBI_API_KEY")
+    )
 
     if not email:
         raise click.ClickException(
@@ -336,22 +425,29 @@ def main(max_results, top_k, email, api_key, output, term):
             "NCBI_EMAIL environment variable."
         )
 
+    # =====================================================
+    # APA Dictionary
+    # =====================================================
+
     print(
-        f"Searching APA Dictionary for: {term}"
+        f"Creating APA Dictionary reference for: "
+        f"{term}"
     )
 
     apa_entry = (
-        get_apa_dictionary_definition(term)
+        get_apa_dictionary_entry(
+            term
+        )
     )
 
-    if apa_entry:
-        print(
-            "APA Dictionary definition found."
-        )
-    else:
-        print(
-            "No APA Dictionary definition found."
-        )
+    print(
+        f"APA Dictionary URL: "
+        f"{apa_entry['url']}"
+    )
+
+    # =====================================================
+    # PubMed search
+    # =====================================================
 
     print(
         f"Searching PubMed for: {term}"
@@ -368,49 +464,81 @@ def main(max_results, top_k, email, api_key, output, term):
         f"PubMed articles found: {len(pmids)}"
     )
 
-    pmid_to_pmcid = get_pmc_ids(pmids, email=email, api_key=api_key)
+    # =====================================================
+    # Find PMC full-text versions
+    # =====================================================
+
+    pmid_to_pmcid = get_pmc_ids(
+        pmids,
+        email=email,
+        api_key=api_key,
+    )
 
     print(
         "PMC full-text articles found: "
         f"{len(pmid_to_pmcid)}"
     )
 
+    # Definition candidates specifically extracted
+    # from PMC full text.
     definition_candidates = []
+
+    # General chunks from PMC full text.
     full_text_chunks = []
+
+    # =====================================================
+    # Process PMC full text
+    # =====================================================
 
     for pmid, pmcid in (
         pmid_to_pmcid.items()
     ):
+
         print(
             "Using full text: "
             f"PMID {pmid}, {pmcid}"
         )
 
-        title, text = (
-            get_full_text_from_pmcid(
-                pmcid,
-                email=email,
-                api_key=api_key,
+        try:
+            title, text = (
+                get_full_text_from_pmcid(
+                    pmcid,
+                    email=email,
+                    api_key=api_key,
+                )
             )
-        )
+
+        except Exception as error:
+            print(
+                f"Could not retrieve full text for "
+                f"PMID {pmid}, {pmcid}: {error}"
+            )
+
+            print(
+                "Skipping full text and continuing."
+            )
+
+            continue
+
 
         if not text:
+
             print(
                 f"No text retrieved for {pmcid}. "
                 "Skipping article."
             )
+
             continue
 
-        if (
-            str(pmid) not in text
-            and term.lower()
-            not in text.lower()
-        ):
+        # Basic relevance safeguard.
+        if term.lower() not in text.lower():
+
             print(
-                "Skipping PMC article because it "
-                f"does not match PMID {pmid} or "
-                f"term '{term}'."
+                "Skipping PMC article because "
+                f"term '{term}' was not found "
+                "in the article text."
             )
+
             continue
 
         print(
@@ -422,6 +550,11 @@ def main(max_results, top_k, email, api_key, output, term):
             f"{len(text)}"
         )
 
+        # -------------------------------------------------
+        # Extract explicit definition candidates
+        # from the full article.
+        # -------------------------------------------------
+
         candidates = (
             extract_definition_candidates(
                 text,
@@ -429,7 +562,13 @@ def main(max_results, top_k, email, api_key, output, term):
             )
         )
 
+        print(
+            "Definition candidates from "
+            f"{pmcid}: {len(candidates)}"
+        )
+
         for candidate in candidates:
+
             definition_candidates.append(
                 create_pmc_evidence_record(
                     text=candidate,
@@ -438,6 +577,10 @@ def main(max_results, top_k, email, api_key, output, term):
                     pmcid=pmcid,
                 )
             )
+
+        # -------------------------------------------------
+        # Chunk complete article for broader RAG evidence.
+        # -------------------------------------------------
 
         article = Article(
             pmid=pmid,
@@ -457,6 +600,7 @@ def main(max_results, top_k, email, api_key, output, term):
         )
 
         for chunk in chunks:
+
             full_text_chunks.append(
                 create_pmc_evidence_record(
                     text=chunk.text,
@@ -466,56 +610,137 @@ def main(max_results, top_k, email, api_key, output, term):
                 )
             )
 
+    # =====================================================
+    # PubMed abstracts
+    #
+    # IMPORTANT:
+    # Abstracts are always processed, even when
+    # PMC full text is available.
+    # =====================================================
+
     print(
-        "Fetching PubMed abstracts as "
-        "fallback evidence."
+        "Fetching PubMed abstracts."
     )
 
     abstract_records = (
-        fetch_pubmed_abstracts(pmids, email=email, api_key=api_key)
+        fetch_pubmed_abstracts(
+            pmids,
+            email=email,
+            api_key=api_key,
+        )
     )
 
     abstract_chunks = []
 
+    # Definition candidates specifically extracted
+    # from abstracts.
+    abstract_definition_candidates = []
+
     for record in abstract_records:
+
         abstract_text = record.get(
             "abstract",
             "",
         ).strip()
 
+        if not abstract_text:
+            continue
+
+        # Only retain abstracts that mention
+        # the requested construct.
         if (
-            abstract_text
-            and term.lower()
-            in abstract_text.lower()
+            term.lower()
+            not in abstract_text.lower()
         ):
-            abstract_chunks.append(
+            continue
+
+        abstract_record = (
+            create_abstract_evidence_record(
+                record
+            )
+        )
+
+        # Keep complete abstract for retrieval.
+        abstract_chunks.append(
+            abstract_record
+        )
+
+        # -------------------------------------------------
+        # Search the abstract itself for explicit
+        # definition statements.
+        # -------------------------------------------------
+
+        candidates = (
+            extract_definition_candidates(
+                abstract_text,
+                term,
+            )
+        )
+
+        for candidate in candidates:
+
+            candidate_record = (
                 create_abstract_evidence_record(
                     record
                 )
             )
 
+            candidate_record["text"] = (
+                candidate
+            )
+
+            abstract_definition_candidates.append(
+                candidate_record
+            )
+
     print(
-        "Abstract chunks found: "
+        "Abstracts retained: "
         f"{len(abstract_chunks)}"
     )
 
-    if definition_candidates:
+    print(
+        "Definition candidates from abstracts: "
+        f"{len(abstract_definition_candidates)}"
+    )
+
+    # =====================================================
+    # Combine explicit definitions from BOTH sources
+    # =====================================================
+
+    all_definition_candidates = (
+        definition_candidates
+        + abstract_definition_candidates
+    )
+
+    print(
+        "Total explicit definition candidates: "
+        f"{len(all_definition_candidates)}"
+    )
+
+    # =====================================================
+    # Create retrieval pool
+    # =====================================================
+
+    if all_definition_candidates:
+
         print(
-            "Found "
-            f"{len(definition_candidates)} "
-            "definition-like candidate(s)."
+            "Explicit definition candidates found. "
+            "They will be considered together with "
+            "full-text and abstract evidence."
         )
 
         retrieval_items = (
-            definition_candidates
+            all_definition_candidates
             + full_text_chunks
             + abstract_chunks
         )
+
     else:
+
         print(
-            "No explicit definition candidates "
-            "found. Using full-text chunks and "
-            "PubMed abstracts."
+            "No explicit definition candidates found. "
+            "Using full-text chunks and PubMed "
+            "abstracts for retrieval."
         )
 
         retrieval_items = (
@@ -528,9 +753,14 @@ def main(max_results, top_k, email, api_key, output, term):
         f"{len(retrieval_items)}"
     )
 
+    # =====================================================
+    # Semantic retrieval
+    # =====================================================
+
     retrieved = []
 
     if retrieval_items:
+
         retrieved = (
             retrieve_relevant_texts(
                 term,
@@ -544,35 +774,65 @@ def main(max_results, top_k, email, api_key, output, term):
         f"{len(retrieved)}"
     )
 
+    # =====================================================
+    # Select Definition from Literature
+    # =====================================================
+
+    best_definition_sentence = None
+
+    candidate_sources = (
+        all_definition_candidates
+        + retrieved
+    )
+
     best_definition_sentence = (
         select_best_definition_sentence(
             term,
-            retrieved,
+            candidate_sources,
         )
     )
+
+    # =====================================================
+    # Produce definition
+    # =====================================================
 
     if best_definition_sentence:
-        evidence_summary = (
-            best_definition_sentence
-        )
-    else:
-        evidence_summary = (
-            synthesize_construct(
-                term,
-                retrieved,
-            )
+
+        print(
+            "Using an explicit definition found "
+            "in the literature."
         )
 
-    concept_summary = generate_definition(
-        term,
-        evidence_summary,
-    )
+        definition_from_literature = (
+            best_definition_sentence.strip()
+        )
+
+        evidence_summary = (
+            best_definition_sentence.strip()
+        )
+
+    else:
+
+        print(
+            "No explicit literature definition found. "
+            "in the retrieved literature."
+        )
+
+        definition_from_literature = (
+            "No explicit definition was found "
+            "in the retrieved literature."
+        )
+     
+    # =====================================================
+    # Save output
+    # =====================================================
 
     output_path = save_output(
         term=term,
         apa_entry=apa_entry,
-        literature_derived_concept_summary=concept_summary,
-        evidence_summary=evidence_summary,
+        definition_from_literature=(
+            definition_from_literature
+        ),
         evidence=retrieved,
         output_path=output,
     )

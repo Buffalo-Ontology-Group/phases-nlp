@@ -1,23 +1,29 @@
 # Psychological Construct Definition Generator
 
-This project is a Python application that retrieves scientific literature related to psychological constructs and generates evidence-based ontology-style definitions using a Retrieval-Augmented Generation (RAG) workflow over PubMed and PubMed Central literature.
+Psychological Construct Definition Generator is a Python package for generating evidence-based ontology-style definitions of psychological constructs from PubMed and PubMed Central (PMC) literature.
+
 
 ## Overview
 
-The Psychological Construct Definition Generator is a retrieval-augmented generation (RAG) pipeline that automatically generates ontology-style definitions for psychological constructs using evidence retrieved from PubMed and PubMed Central (PMC). The system searches the biomedical literature for a target construct, retrieves relevant articles and abstracts, extracts candidate definition statements, ranks evidence using semantic similarity, and generates a concise evidence-based definition suitable for ontology development and expert curation.
+The package implements a retrieval-augmented generation (RAG) workflow that searches the biomedical literature for a target psychological construct, retrieves relevant PubMed abstracts and PubMed Central (PMC) full-text articles, extracts candidate definition statements, ranks evidence using semantic similarity, and generates a concise evidence-based definition suitable for ontology development and expert curation. The APA Dictionary of Psychology is used only to verify and reference existing dictionary entries. APA content is not used to generate the literature-derived definition.
+
+## Workflow
+
+![Workflow diagram: Psychological Construct Definition Generator](images/workflow.png)
 
 ## Features
 
 
 - Search PubMed for articles related to a psychological construct.
-- Retrieve available full-text articles from PubMed Central (PMC).
-- Retrieve PubMed abstracts as fallback evidence.
-- Extract candidate definition statements from the literature.
-- Chunk and index retrieved text passages.
+- Retrieve full-text articles from PubMed Central (PMC), when available.
+- Retrieve PubMed abstracts and examine them alongside available full-text articles.
+- Extract explicit candidate definition statements from PMC full text and PubMed abstracts
+- Chunk and prepare retrieved evidence for semantic retrieval.
 - Perform semantic retrieval using sentence-transformer embeddings.
-- Rank evidence passages based on relevance to the construct.
-- Generate an ontology-style definition from the highest-ranked evidence.
-- Export the definition and supporting evidence to a Markdown file.
+- Rank evidence passages by semantic relevance.
+- Select the strongest explicit definition found in the retrieved literature.
+- Verify APA Dictionary entries and provide the official reference URL when available.
+- Export the definition from literature and supporting evidence as Markdown.
 
 
 ---
