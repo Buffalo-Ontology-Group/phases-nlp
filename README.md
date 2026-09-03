@@ -10,31 +10,8 @@ PHASES project aims at bridging the gap between Solitude and Gerotranscendence l
 
 This repository is a Python application that supports PHASES project by retrieving and processing scientific articles.
 
-### PHASES Articles Retrieval
 
-Retrieves articles related to specific topics,"gerotranscendence" and "solitude" and downloads their PDFs.
-
-### Topic Modeling on Abstracts Related to PHASES Articles 
-
-Searches for scientific articles related to specific topics such as gerotranscendence, solitude and healthy aging, retrieve their abstracts and titles, and performs topic modeling using Latent Dirichlet Allocation (LDA).
-
-### Term Frequency-Inverse Document Frequency (TF_IDF) computation on research abstracts of related to the PHASES project
-
-Computes TF-IDF scores for a collection of research abstracts, related to specific topics such as gerotranscendence and solitude. 
-
-### Guided Latent Dirichlet Allocation (LDA) on Abstracts Related to PHASES: Standard LDA, Subject Matter Guided (SME) LDA, and TF-IDF guided LDA
-
-Performs guided topic modeling using LDA on research abstracts related to gerotranscendence and solitude. This project explores topic modeling across different phases of research using three distinct approaches to Latent Dirichlet Allocation (LDA). The first approach applies standard LDA without any seed words. The second approach uses SME-guided LDA, where domain-specific seed words are provided by SMEs to guide topic generation toward thematically relevant concepts. The third approach implements TF-IDF-guided LDA, using automatically extracted keywords based on TF-IDF scores from the corpus to serve as seed words. By applying and comparing these methods across research phases, the project aims to understand how guidance affects topic quality, coherence, and interpretability in a domain-specific context.
-
-### BERTopic Modeling on Solitude and Gerotranscendence books
-
-Identifies and analyzes latent themes related to solitude and gerotranscendence from two key books, The Handbook of Solitude: Psychological Perspectives on Social Isolation, Social Withdrawal, and Being Alone and Gerotranscendence: A Developmental Theory of Positive Aging. Topics are extracted using BERTopic (both default and custom preprocessing pipelines), and after validation by subject matter experts (SMEs), the refined topics are to be incorporated as concepts within the PHASES ontology. Also, the bertopic modelig output text files from solitude and gerotranscendence are processed to compute cross domain similairity.
-
-### BERTopic Modeling on Plotkins Vaccines book
-
-This project is a Python application that builds a BERTopic-based pipeline for analyzing chapters from Plotkin’s Vaccines. It extracts and explores latent themes related to vaccines using BERTopic with a custom preprocessing workflow. The pipeline generates hierarchical topic trees that organize concepts found in the text, and these trees are then merged into a unified directed ontology graph. In addition, the project provides visual outputs such as keyword bar charts, hierarchical clustering dendrograms, and BART-based summaries to support deeper interpretation of the topics.
-
-### Installation
+## Installation
 
 To get started with the **phases-nlp**, follow these steps:
 
@@ -87,7 +64,7 @@ Before running the application, ensure that the following dependencies are insta
     - `numpy`
     - `Local Stanford CoreNLP server running with the OpenIE annotator`. The server is accessible at `http://localhost:9000`.
  
-### Stanford CoreNLP Setup
+## Stanford CoreNLP Setup
 
 - Download Stanford CoreNLP from `http://stanfordnlp.github.io/CoreNLP/`
 - Unzip and navigate to the CoreNLP directory.
@@ -96,7 +73,7 @@ Before running the application, ensure that the following dependencies are insta
    java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer \
         -port 9000 -timeout 15000 -annotators tokenize,ssplit,pos,lemma,depparse,natlog,openie
       
-### Usage
+## Usage
 
 Once the installation is complete, the project can be used by following the instructions. Below are the steps to run the application:
 
@@ -123,7 +100,7 @@ Once the installation is complete, the project can be used by following the inst
    `python overlap_topic_sol_gero.py`
    
 
-### Contributing
+## Contributing
 
 To track changes made to this project, it is best maintained by following these steps:
 

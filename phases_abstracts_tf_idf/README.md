@@ -1,4 +1,5 @@
-# Term Frequency-Inverse Document Frequency (TF_IDF) computation on research abstracts of related to the PHASES project
+# Term Frequency-Inverse Document Frequency (TF_IDF) computation on research abstracts related to the PHASES project
+
 
 This project computes TF-IDF (Term Frequency-Inverse Document Frequency) scores for a collection of research abstracts, related to specific topics such as gerotranscendence and solitude. It processes abstracts stored in an Excel file, computes the TF-IDF scores across all terms, and outputs the most significant terms based on their average TF-IDF scores. 
 

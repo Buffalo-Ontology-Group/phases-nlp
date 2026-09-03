@@ -9,6 +9,19 @@ This project is a Python application that retrieves articles related to specific
 - Searches for available PDF links (via PubMed Central, Google, and Google Scholar).
 - Downloads and saves PDFs to a user-defined directory.
 
+## Requirements
+
+Before running the application, ensure that the following dependencies are installed:
+
+- Python 3.x
+  
+    - `requests`
+    - `python-dotenv`
+    - `biopython`
+    - `googlesearch-python`
+    - `scholarly`
+    - `click`
+   
 ## Configuration
 
 The number of articles to be downloaded for each keyword is prompted at the command line. When running the script, the user will be asked to enter the desired number of articles which can be customized interactively.
