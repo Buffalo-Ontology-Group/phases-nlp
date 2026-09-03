@@ -1,12 +1,13 @@
 [project]
-name = "psych-defgen-dummy"
-version = "0.0.1a3"
-description = "A dummy package for testing a psychological construct definition generator on TestPyPI."
+name = "psych-defgen"
+version = "0.0.1a2"
+description = "A Python package for retrieving evidence-based definitions of psychological constructs from scientific literature."
 readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
 authors = [
-    { name = "Damayanthi Jesudas", email = "6574003+jesudas@users.noreply.github.com" }
+    { name = "Damayanthi Jesudas", email = "6574003+jesudas@users.noreply.github.com" },
+    { name = "William Duncan", email = "wdduncan@users.noreply.github.com" }
 ]
 requires-python = ">=3.11"
 
@@ -23,13 +24,14 @@ dependencies = [
     "sentence-transformers",
     "torch",
     "tqdm",
+    "playwright>=1.61.0",
 ]
 
 [project.scripts]
-psych-defgen-dummy = "psych_defgen_dummy.main:main"
+psych-defgen = "psych_defgen.main:main"
 
 [build-system]
-requires = ["uv_build>=0.11.24,<0.12.0"]
+requires = ["uv_build>=0.11.26,<0.12.0"]
 build-backend = "uv_build"
 
 [dependency-groups]
